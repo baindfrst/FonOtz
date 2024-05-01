@@ -1,0 +1,501 @@
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.08743208927028519, max is 0.5333333333333333
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.003221718795642099, max is 0.9333333333333333 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, YAKE MAP@50 metric is: 0.059519431362483166 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.001980961015412509 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.04007531187823972, max is 0.4285714285714285 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.04982339193104261, max is 0.923076923076923 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, YAKE MAP@50 metric is: 0.04732165758066264 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.003905014207852121 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.036148664992577684, max is 0.4210526315789474 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.04196103971326929, max is 0.5714285714285715 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, YAKE MAP@50 metric is: 0.04118921487316696 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.004410430839002261 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.11889006347129964, max is 0.5 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.006246743541825509, max is 0.41666666666666663 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, YAKE MAP@50 metric is: 0.030966827696295024 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.006328808446455504 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, YAKE MAP@50 metric is: 0.002992396375554271 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.01676923076923077 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, YAKE MAP@50 metric is: 0.0033252268955262943 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.015839416058394163 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.0845239632366332, max is 0.23076923076923075 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, YAKE MAP@50 metric is: 0.0072589252008806275 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.02288288288288288 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.08882300380872593, max is 0.6153846153846153 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.08882300380872593, max is 0.6153846153846153 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.045284262632626866, max is 0.4285714285714285 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.00021462912087912093, max is 0.14285714285714288 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.08882300380872593, max is 0.6153846153846153 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.08882300380872593, max is 0.6153846153846153 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.08882300380872593, max is 0.6153846153846153 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.08882300380872593, max is 0.6153846153846153 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.2121216945040626 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.08458539879957337 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.045284262632626866, max is 0.4285714285714285 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.00021462912087912093, max is 0.14285714285714288 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.20250347164409652 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.2854876671583398 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.044048572478882206, max is 0.4210526315789474 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.22742999188311702 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.3196282016594516 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.10613069415081174, max is 0.6 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.138080096168269 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.052498438339276685 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.06474089635854342, max is 0.26666666666666666 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.02994497246819228, max is 0.33333333333333326 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.06633263020319492, max is 0.25 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.048095238095238094 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.08882300380872593, max is 0.6153846153846153 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.2121216945040626 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.08458539879957337 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.045284262632626866, max is 0.4285714285714285 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.00021462912087912093, max is 0.14285714285714288 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.20250347164409652 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.2854876671583398 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.044048572478882206, max is 0.4210526315789474 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.22742999188311702 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.3196282016594516 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.10613069415081174, max is 0.6 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.138080096168269 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.052498438339276685 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.06474089635854342, max is 0.26666666666666666 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.02994497246819228, max is 0.33333333333333326 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.06633263020319492, max is 0.25 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.048095238095238094 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.08882300380872593, max is 0.6153846153846153 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.20957539820776636 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.045284262632626866, max is 0.4285714285714285 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.00021462912087912093, max is 0.14285714285714288 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.19346554776242258 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.044048572478882206, max is 0.4210526315789474 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2206219561688313 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.10613069415081174, max is 0.6 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13700622721228817 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.06474089635854342, max is 0.26666666666666666 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.02994497246819228, max is 0.33333333333333326 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.06633263020319492, max is 0.25 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.0, max is 0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.034761904761904765 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.05212814127235679
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.05212814127235679
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.20957539820776636 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.02841032314031663
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.02841032314031663
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.19346554776242258 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.026484751203852328
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.026484751203852328
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2206219561688313 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.06185897435897436
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.06185897435897436
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13700622721228817 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.008398320335932815
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.008398320335932815
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.04405286343612334
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.04405286343612334
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.034761904761904765 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.05212814127235679
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.05212814127235679
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.20957539820776636 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.02842573505479006
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.02842573505479006
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.19346554776242258 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.02652733118971061
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.02652733118971061
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2206219561688313 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.06207783853329045
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.06207783853329045
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13700622721228817 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.008398320335932815
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.008398320335932815
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.04405286343612334
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.04405286343612334
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.034761904761904765
+
+n=3
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.05290367051525073
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.05290367051525073
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.20957539820776636 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.028534088433892397
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.028534088433892397
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.19346554776242258 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.026532663316582918
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.026532663316582918
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2206219561688313 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.07916324856439705
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.07916324856439705
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13700622721228817 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.008500303582270797
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.008500303582270797
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.05067567567567567
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.05067567567567567
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.034761904761904765
+
+n = 1
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.02222988109598483
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.02222988109598483
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.07761954886965965 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.03822696580265737
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.03822696580265737
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.09643459616416357 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.041021516187412024
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.041021516187412024
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.10251848845598856 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.0406070549630845
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.0406070549630845
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.0692263687406277 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.03380952380952381 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.0230722525804493
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.0230722525804493
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.05136951936951937 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.0472972972972973
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.0472972972972973
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.09266770796569562 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.034761904761904765
+
+n = 2
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.05255902119593313
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.05255902119593313
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.2013890283135812 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.0651274232193422
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.0651274232193422
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.22574167174527737 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.07217531162042622
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.07217531162042622
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2636673656204903 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.07629204265791632
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.07629204265791632
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13664565300380457 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.01941747572815534
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.01941747572815534
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.015786278081360048
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.015786278081360048
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.040913170163170164 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.06081081081081081
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.06081081081081081
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.12891263606820882 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.034761904761904765 
+
+
+n = 3
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.05290367051525073
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.05290367051525073
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.20957539820776636 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.028534088433892397
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.028534088433892397
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.19346554776242258 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.026532663316582918
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.026532663316582918
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2206219561688313 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.07916324856439705
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.07916324856439705
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13700622721228817 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.008500303582270797
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.008500303582270797
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.05067567567567567
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.05067567567567567
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.034761904761904765 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.05290367051525073
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.05290367051525073
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.20957539820776636 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.028534088433892397
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.028534088433892397
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.19346554776242258 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.026532663316582918
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.026532663316582918
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2206219561688313 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.07916324856439705
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.07916324856439705
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13700622721228817 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.012944983818770227
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.008500303582270797
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.008500303582270797
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.05067567567567567
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.05067567567567567
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.034761904761904765 
+
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.14055948072835892
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.14055948072835892
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.20957539820776636 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Rake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.07140913296685354
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.07140913296685354
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.19346554776242258 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Rake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.07686132851695766
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.07686132851695766
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2206219561688313 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Rake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.22550225502255022
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.22550225502255022
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13700622721228817 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Rake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.0970873786407767
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.0970873786407767
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.08257437765634489
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.08257437765634489
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Rake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.13513513513513514
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.13513513513513514
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Rake MAP@50 metric is: 0.034761904761904765 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.14055948072835892
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.14055948072835892
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.20957539820776636 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.07140913296685354
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.07140913296685354
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.19346554776242258 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.07686132851695766
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.07686132851695766
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2206219561688313 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.22550225502255022
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.22550225502255022
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13700622721228817 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.0970873786407767
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.0970873786407767
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.08257437765634489
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.08257437765634489
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.13513513513513514
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.13513513513513514
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.034761904761904765 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.14055948072835892
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.14055948072835892
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.20957539820776636 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.07140913296685354
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.07140913296685354
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.19346554776242258 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.07686132851695766
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.07686132851695766
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2206219561688313 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.22550225502255022
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.22550225502255022
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13700622721228817 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.0970873786407767
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.0970873786407767
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.08257437765634489
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.08257437765634489
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.13513513513513514
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.13513513513513514
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.034761904761904765 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.14055948072835892
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.14055948072835892
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.40660789569231526 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.09836541688548628 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.07140913296685354
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.07140913296685354
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.314301390383121 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.30630067715404274 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.07686132851695766
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.07686132851695766
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.35894942730880186 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.32470745400432915 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.22550225502255022
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.22550225502255022
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.28267311119122074 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.09352594250680969 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.0970873786407767
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.0970873786407767
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.2918253968253968 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.016666666666666666 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.08257437765634489
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.08257437765634489
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.1392636709695533 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.13513513513513514
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.13513513513513514
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.18926645765655054 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.0368452380952381 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.14055948072835892
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.14055948072835892
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.40660789569231526 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.09836541688548628 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.07140913296685354
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.07140913296685354
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.314301390383121 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.30630067715404274 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.07686132851695766
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.07686132851695766
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.35894942730880186 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.32470745400432915 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.22550225502255022
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.22550225502255022
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.28267311119122074 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.09352594250680969 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.0970873786407767
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.0970873786407767
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.2918253968253968 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.016666666666666666 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.08257437765634489
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.08257437765634489
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.1392636709695533 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.13513513513513514
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.13513513513513514
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.18926645765655054 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.0368452380952381 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg YAKE F1 metric is: 0.09696134183468322
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, avg RAKE F1 metric is: 0.09696134183468322
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.20957539820776636 
+file dir: Keyword-Extraction-Datasets-master\Krapivin2009\Krapivin2009\Data, Yake MAP@50 metric is: 0.0446514383252483 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg YAKE F1 metric is: 0.040058781908234906
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, avg RAKE F1 metric is: 0.040058781908234906
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.19346554776242258 
+file dir: Keyword-Extraction-Datasets-master\WWW\WWW, Yake MAP@50 metric is: 0.243391771156194 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg YAKE F1 metric is: 0.03672486453943408
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, avg RAKE F1 metric is: 0.03672486453943408
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2206219561688313 
+file dir: Keyword-Extraction-Datasets-master\KDD\KDD, Yake MAP@50 metric is: 0.2523392406204907 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg YAKE F1 metric is: 0.15006150061500617
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, avg RAKE F1 metric is: 0.15006150061500617
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.13700622721228817 
+file dir: Keyword-Extraction-Datasets-master\SemEval2010\SemEval2010\SemEval-all, Yake MAP@50 metric is: 0.041988384765666804 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg YAKE F1 metric is: 0.05825242718446602
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, avg RAKE F1 metric is: 0.05825242718446602
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.056428571428571425 
+file dir: Keyword-Extraction-Datasets-master\wiki20\documents, Yake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg YAKE F1 metric is: 0.04857316332726169
+file dir: Keyword-Extraction-Datasets-master\theses100\text, avg RAKE F1 metric is: 0.04857316332726169
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.02994888444888445 
+file dir: Keyword-Extraction-Datasets-master\theses100\text, Yake MAP@50 metric is: 0.0 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg YAKE F1 metric is: 0.10135135135135134
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, avg RAKE F1 metric is: 0.10135135135135134
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.10219065434622711 
+file dir: Keyword-Extraction-Datasets-master\fao30\documents, Yake MAP@50 metric is: 0.034761904761904765 
