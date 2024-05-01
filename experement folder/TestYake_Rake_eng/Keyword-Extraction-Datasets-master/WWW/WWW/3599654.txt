@@ -1,0 +1,1 @@
+Answering order-based queries over XML data Order-based queries over XML data include XPath navigation axes such as following-sibling and following . In this paper , we present holistic algorithms that evaluate such order-based queries . An experimental comparison with previous approaches shows the performance benefits of our algorithms .

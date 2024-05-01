@@ -1,0 +1,1 @@
+Relationship between web links and trade We report on observations on Web characterization studies that suggest that the amount of Web links among sites under different country-code top-level domains is related to the amount of trade between the corresponding countries .

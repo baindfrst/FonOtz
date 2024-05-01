@@ -1,0 +1,1259 @@
+Characterizing the Catalytic Action of -Calpain on Myofibrillar Protein Structure
+
+A thesis submitted in partial fulfilment of the requirements for the Degree of Masters of Science in Materials and Process Engineering at The University of Waikato by
+
+EMMA LOUISE FRASER-SMITH
+
+Hamilton, New Zealand 2006
+
+©Emma Fraser-Smith, 2006
+
+Wisdom is supreme; therefore make a full effort to get wisdom. Esteem her and she will exalt you; embrace her and she will honour you. Proverbs 4: 7-8
+
+ii
+
+ABSTRACT
+Solving the problem of inconsistent meat tenderness is a top priority of the meat industry. This requires a greater understanding of the processes that affect meat tenderness and the adoption of such information by the meat industry. It is essential that we understand the mechanism of meat tenderisation of which, the calpain protease system is believed to play a central role. This thesis focuses on three aspects; characterisation of calpain activity, the effect of porcine -calpain on myofibril degradation and the effect of -calpain on specific proteins desmin and troponin-T. To study the effect of calpain activity, fluorogenic assays were used to determine: -calpain concentration for optimal peptide cleavage; calcium requirements and the effect of chelating substances on the activity of -calpain. In addition, the affinity of -calpain for substrates CalS-I and CalS-III were assessed. The effect of -calpain on myofibril degradation was evaluated through the use of myofibrillar fragmentation index and density marker beads. Myofibrils were digested at three different temperatures for varying time periods. Conflicting results were displayed and it was concluded that these methods are not accurate, thus further research should be conducted to ensure inconsistencies are eliminated. Specific proteins desmin and troponin-T have previously been shown to exhibit degradation in the presence of calcium and -calpain. SDS-polyacrylamide electrophoresis, western blotting and densitometry measurements were utilized to investigate this effect. It was concluded that -calpain plays a significant role in the post mortem proteolysis of myofibrillar protein. This thesis provides information and strives to give a better understanding of the proteolytic changes that occur within muscle. Understanding how these mechanisms affect meat on a cellular level, can help to control the influence they inflict on meat quality.
+
+iii
+
+ACKNOWLEDGEMENTS
+Thank you to both my supervisors, Dr Suzanne Hurst and Professor Janis Swan. Sue, I thank you for your perseverance, the never-ending encouragement when you no doubt wondered if I would get anything done or ever understand the basic concepts in biochemistry. To Janis, thank you for the opportunities you have presented me with over the years, the ones I took up as well as the ones I missed. You have never stopped believing in me. To you both, you have my respect and gratitude. A special thanks goes to Peter Dobbie for your continued support and guidance. I am incredibly fortunate to have a overseer, mentor and friend all in one package. I would like to express my appreciation to MIRINZ AgResearch for providing me with a topic and an enjoyable workplace. Thank you for the laughs, the conversation and the helping hands as I've worked alongside a brilliant kaleidoscope of people. You are all special and I appreciate your friendship and hope the fun will continue. To my South African, my Bangli's and my German in Auckland, your friendship and assistance when I felt the need for a laugh or a "verbal punching bag" has been my lifeline over the past few months. Thank you for being boys, and for teaching me that even if I'm mad, you can make me madder!!! To my engineers, my friends and my incredibly understanding flatmates, we've finally made it!!!! Thank you for your endless source of encouragement and your confidence in me that I would accomplish this even though at times I've thought otherwise. Finally, to my family: To Clayton and Hadleigh, thank you for the brotherly love, the ups and downs and the fun. To my parents thank you for always being there, if only to just answer the phone to talk about nothing. You are both my role model, my best friend and my never ending source of love and encouragement. Thanks to you all for helping me become the person I am.
+
+iv
+
+TABLE OF CONTENTS
+ABSTRACT ACKNOWLEDGEMENTS TABLE OF CONTENTS List of Figures List of Tables List of Abbreviations iii iv v vii ix x
+
+Chapter 1
+
+PREFACE
+
+12
+
+Chapter 2
+
+LITERATURE REVIEW
+
+15 15 17 21 22 24 25 28 30 36 37 39 40 43 44 45 45 46 47 52
+
+2.1
+
+Muscle Structure 2.1.1 2.1.2 Muscle Proteins Connective Tissue
+
+2.2 2.4
+
+From Muscle to Meat Mechanisms of Tenderisation 2.3.1 2.3.2 2.3.3 Muscle Degradation Mechanical Degradation Proteolytic Degradation
+
+2.4
+
+Calpains
+
+2.4.2
+2.4.2 2.4.3 2.4.4 2.4.5
+
+Calpain Structure Calpain Promoters Calpain Inhibition The Calpain System Degradation Products due to Calpain Activity
+
+2.5
+
+Assays 2.5.1 2.5.2 2.5.3 Fluorogenic Activity assays Myofibril Preparation Protein Measurement and Detection Methods
+
+2.6
+
+Research Objectives
+
+Chapter 3
+
+MATERIALS AND METHODS
+
+55 55 55 55
+
+3.1 3.2 3.3
+
+Introduction Muscle Materials
+
+v
+
+3.4 3.5 3.6
+3.7
+
+Myofibril Preparation BioRad Protein Assay -Calpain Activity -Calpain Incubation Degradation Markers 3.8.1 3.8.2 Myofibrillar Fragmentation Index Density Beads
+
+55 56 57 57 58 58 58 59 59 59 61 62
+
+3.8
+
+3.9
+
+SDS-PAGE and Western Blotting 3.9.1 3.9.2 3.9.3 Preparing Protein Samples Preparing Polyacrylamide Gels for SDS-PAGE Western blotting
+
+3.10
+
+Experimental Design
+
+Chapter 4 4.1 4.2
+
+RESULTS AND DISCUSSION
+
+65 65 65 65 65 67 71 72 75 75 78 81 85 85 89 93
+
+Introduction Characterisation of Calpain Activity 4.2.1 4.2.2 4.2.3 4.2.4 4.2.5 Native -Calpain Denaturing -Calpain
+
+-Calpain Activity
+Calpain Digestion of myofibril Proteins Discussion
+
+4.3
+
+The effect of -calpain on Myofibril Degradation
+
+4.3.1
+4.3.2 4.3.3 4.4
+
+Myofibrillar Density Myofibrillar Fragmentation Index Discussion
+
+Calpain Digestion of specific proteins: Desmin and Troponin-T 4.4.1 4.4.2 4.4.3 Desmin Degradation Troponin-T Degradation Discussion
+
+Chapter 5 5.1 5.2
+
+CONCLUSIONS AND RECOMMENDATIONS
+
+97 97 98
+
+Conclusions Recommendations for Further Research
+
+REFERENCES
+
+100
+
+vi
+
+LIST OF FIGURES
+
+Figure 2.1 Figure 2.2
+
+Diagrammatic representation of macroscopic and microscopic muscle structure. (adapted from Aberle et al., 2001) 16 A diagram of a contractile unit, showing banding patterns, thin and thick filaments, and the areas of overlap that form cross-bridges adapted from (Cairney, 2001). 17 The effect of extension or shortening before rigor completion on the toughness of meat cooked in rigor. Length change is shown as a percentage of the initial excised length. Vertical bars: mean shearing force +/- s.e. (Carse & Marsh, 1974) 30 Model of activation of calpains and tenderisation (Dransfield, 1994) 35 Calpain molecule structure 38
+
+Figure 2.3
+
+Figure 2.4 Figure 2.5 Figure 2.6
+
+Inhibition of calpain I by calpastatin, expressed as the calpain I activity with calpastatin as a percentage when there is no inhibitor at pH 7.0 (Dransfield, 1993). 41 Diagrammatic representation of Density beads within a Myofibril Sample. Effect of increasing porcine -calpain from 1.5 g to 15 g.. Samples run on 10% native-PAGE and Silver stained. MW: kaleidoscope pre-stained protein standard molecular weight marker. 58
+
+Figure 3.1
+
+Figure 4.1
+
+66
+
+Figure 4.2
+
+Effect of increasing concentration porcine -calpain from 1.5 g to 15 g on Western blot. Samples run on 10% SDS-PAGE and transferred to PVDF membrane. Bands indicate the large (~80 kDa) and the small (~30 kDa) -calpain subunits 66 Kinetic assay monitoring catalysis of 1 mM CalS-I by varying amounts 0 to 5 L of porcine -calpain in Tris-MES buffer, pH 7.4. 68 Kinetic assay monitoring catalysis of 1 mM CalS-I by varying amounts 0 to 5 L of porcine -calpain in the presence of calcium. Kinetic assay monitoring catalysis of 1 mM CalS-I by varying amounts 0 to 10 L of 5 mM CaCl2 in the presence of -calpain. Kinetic assay monitoring catalysis of 1 mM CalS-I by varying amounts 0 to 20 L of EGTA in the presence of -calpain. Kinetic assay monitoring catalysis of 1 mM CalS-III by varying amounts 0 to 10 L of CaCl2 in the presence of -calpain.
+
+Figure 4.3
+
+Figure 4.4
+
+69 69 70 70
+
+Figure 4.5
+
+Figure 4.6
+
+Figure 4.7
+
+viii
+
+Figure 4.8
+
+Kinetic assay, monitoring catalysis of 1 mM CalS-III by varying amounts 0 to 20 L of EGTA in the presence of -calpain.
+
+71
+
+Figure 4.9
+
+Silver stain of bovine myofibrils incubated with -calpain and calcium at (A) 0°C for 0-72 hours and (B) 40°C for 0-24 hours. There is no 30-minute sample as too little supernatant produced. 72 76 77 78
+
+Figure 4.10 Effect of storage time at 0°C on relative myofibril density. Figure 4.11 Effect of storage time at 15°C on relative myofibril density. Figure 4.12 Effect of storage time at 40°C on relative myofibril density.
+
+Figure 4.13 Effect of storage time at 0°C on myofibril length (m). Points are means plus or minus standard errors (vertical lines) of measurements, each sampling time point measured in triplicate 80 Figure 4.14 Effect of storage time at 40°C on myofibril length (m). Points are means plus or minus standard errors (vertical lines) of measurements, each sampling time point measured in triplicate 80 Figure 4.15 Effect of storage time at 15°C on myofibril length (m). Points are means plus or minus standard errors (vertical lines) of measurements, each sampling time point measured in triplicate. 81 Figure 4.16 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal desmin antibody at 40°C. 86 Figure 4.17 Degradation of desmin by -calpain at 40 °C, as indicated by densitometry of the band on the Western blots. 86 Figure 4.18 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal desmin antibody at 15°C. 87 Figure 4.19 Degradation of desmin by -calpain at 15 °C, as indicated by densitometry of the band on the Western blots. 88 Figure 4.20 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal desmin antibody at 0°C. 89 Figure 4.21 Degradation of desmin by -calpain at 0 °C, as indicated by densitometry of the band on the Western blots. 89 Figure 4.22 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal troponin-T antibody at 40°C. 90 Figure 4.23 Degradation of troponin-T by -calpain at 40 °C, as indicated by densitometry of the band on the Western blots. 90
+
+ix
+
+Figure 4.24 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal troponin-T antibody at 15°C. 91 Figure 4.25 Degradation of troponin-T by -calpain at 15 °C, as indicated by densitometry of the band on the Western blots. 91
+
+Figure 4.26 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal troponin-T antibody at 0°C. 92 Figure 4.27 Degradation of troponin-T by -calpain at 0 °C, as indicated by densitometry of the band on the Western blots. 93
+
+LIST OF TABLES
+Table 2.1 Summary of key changes that occur in skeletal muscle during post mortem storage at 2-4°C (adapted from (Koohmaraie, 1992) 27 Separation techniques in chromatographic purification (adapted from Amersham Biosciences Handbook, United Kingdom) 49 Volumes and Reagents within Preparation of Polyacrylamide Separating Gels 59 Volumes and Reagents within Preparation of Polyacrylamide Stacking Gels 60
+
+Table 2.2
+
+Table 3.1
+
+Table 3.2
+
+x
+
+LIST OF ABBREVIATIONS
+AC ADP AP ATP BASS BCA BSA CalS-I CalS-II CalS-III CP EDTA EGTA FRET HRP IEX MCP MFI MHC PBS PMSF SDS SDS-PAGE Affinity Chromotography Adenosine diphosphate Alkaline Phosphatase Adenosine Triphosphate Boric Acid Salt Solution Bicinchonic Acid Bovine Serum Albumin Calpain substrate-1 Calpain substrate-2 Calpain substrate-3 Creatine Phosphate Ethylene Diamine Tetraacetic acid Ethylene Glycol Tetraacetic Acid Fluorescence resonance energy transfer Horseradish Peroxidase Ion Exchange Chromotography Multi-catalytic Protease Complex Myofibrillar Fragmentation Index Myosin Heavy Chain Phosphate Buffered Saline Solution Phenyl-methylsulfonyl Fluoride Sodium Dodecyl Sulphate Sodium Dodecyl Sulphate-polyacrylamide Gel Electrophoresis TBS TBST TEMED Transfer buffer solution Transfer buffer solution with 20 % w/v Tween Tetra Methyl Ethylene diamin
+
+x
+
+Chapter 1 Preface
+
+11
+
+Chapter 1 Preface
+
+Chapter 1
+
+PREFACE
+Tenderness is an important factor affecting consumer acceptance of beef. The National Beef Quality Audit indicated inconsistencies and inadequate tenderness, and reported that this costs the New Zealand beef industry over $217 million annually (Kalchayanand et al., 2000). In New Zealand, there is an increasing consumer demand (and expectation) for a lean tender beef product. The key element is to ensure New Zealand has a financially successful meat industry and that the eating quality of meat products have the higher possible appeal to the consumer.
+
+Producing tender meat and the degree to which tenderness can be controlled will largely depend on the extend to which we (a) know about the different post-mortem events and causative agents when muscle is converted into meat and (b) can improve our knowledge of the role of muscle structure (Ouali, 1989)
+
+Although the process by which meat becomes tender appears to involve the post mortem proteolytic degradation of structural proteins in muscle, the details of this process are not well understood. Several protease enzymes have been implicated in this process, particularly the calpain enzyme system (Koohmaraie, 1990), and the lysosomal cathepsin proteases (Ouali, 1989). A significant effort has been devoted to describing the behaviour of these enzymes in meat. However, equally important to understanding the process of proteolytic tenderisation are the interactions between the protease systems and the structural proteins they degrade. It is unclear which structures within meat/muscle need to be degraded and, moreover, what role these proteins may play in the problem of variability in tenderness in meat.
+
+Muscle is the primary component of meat and an understanding of muscle biology is essential for meat science and meat industry practice. Chapter 2 of this thesis describes muscle structure, the mechanics of tenderisation, and these mechanisms influence the quality of muscle. Further emphasis is placed on the processes within 12
+
+Chapter 1 Preface the conversion of muscle to meat and the important of the calpain system in proteolytic tenderisation.
+
+The Methodology used is described in Chapter 3. This section provides details and explanation of the materials and the methods used to determine and evaluate myofibril degradation.
+
+The data collected using several experimental procedures in trials was done to determine the effect of calpain on myofibrillar proteins are presented and discussed in Chapter 4. Firstly -calpain is characterised using fluorogenic substrates; secondly myofibril degradation is assessed using density marker beads and myofibrillar fragmentation index and thirdly, poly-acrylamide gels and Western blotting are used to determine the degradation of the specific proteins desmin and troponin-T and the relevance of the degradation to meat tenderness is explored.
+
+Conclusions and recommendations are presented in Chapter 5. Further work and opportunities for research are discussed within the area of -calpain degradation on myofibrillar proteins.
+
+This study considers the role of key structural proteins and their response to factors that affect proteolytic degradation with time and temperature. This thesis does not make a direct comparison of whole meat tenderness and protein degradation; rather, it searches to provide evidence that there is a connection that exists through the literature reviewed and analysis of the data obtained
+
+13
+
+Chapter 2: Literature Review
+
+14
+
+Chapter 2: Literature Review
+
+Chapter 2
+
+LITERATURE REVIEW
+2.1 Muscle Structure
+
+The carcass is the product of the animal slaughtering process, and involves removing blood, viscera, head, hair, skin and other tissues from a recently slaughtered animal (Aberle et al., 2001). Carcass meat consists of lean meat, fat, bone and connective tissue. The most important component of the carcass is the muscle. Because people's concept of meat is usually associated with muscle; hence the terms meat and muscle are often used interchangeably. Except in excessively fat animals, skeletal muscle constitutes the bulk (35 to 65%) of the carcass weight (Aberle et al., 2001). Meat also contains some smooth muscle, primarily as a component of blood vessels. Another specialized form of muscle tissue, cardiac muscle, is confined solely to the heart. Skeletal and cardiac muscle also are referred to as striated muscle because of the transverse banding pattern observed microscopically. et al., 2001). The animal body has more than 600 muscles of various shapes, size and action. Specific characteristics of each muscle are dictated by the specialized function that particular muscle performs. Each muscle is covered with a connective tissue sheath, which is continuous with connective tissue that extends into the interior of the muscle (Figure 2.1). Nerve fibres and blood vessels enter and exit the muscle along these connective tissue networks (Aberle et al., 2001). Mammalian skeletal muscle fibres are long, unbranched, threadlike cells that taper slightly at both ends. Although fibres can be up to many centimetres long, they generally do not extend the length of the entire muscle. Fibre diameter can vary considerably, ranging from 1 µm to 100 µm within the same species and even within the same muscle (Warriss, 2000). Fibres contain all organelles normally Skeletal muscle is also termed voluntary muscle, while smooth and cardiac muscles are called involuntary muscles (Aberle
+
+15
+
+Chapter 2: Literature Review found in cells such as nuclei, mitochondria and an extensive sarcoplasmic reticulum all within the sarcoplasm. The mitochondria contain the enzymes involved in aerobic metabolism, the sarcoplasmic reticulum acts as a store for calcium ions, which are released to initiate muscle contraction and reabsorbed to stop it. The sarcoplasm also contains lysosomes, which act as a reservoir of various proteolytic enzymes.
+
+Figure 2.1
+
+Diagrammatic representation of macroscopic and microscopic muscle structure.
+
+(adapted from Aberle et al., 2001)
+
+A unique feature of muscle fibres is the regularly arranged fibrils embedded within the sarcoplasm. These fibrils may occupy about 80% of the volume of each fibre. Each fibril is itself made up of smaller elements called filaments. These are two types - thick filaments consisting mainly of the protein myosin, and thin filaments consisting mainly of the protein actin. Under specific conditions these filaments will react together to produce contraction of the system and therefore the whole muscle (Warriss, 2000). This arrangement of myofibrils, together with the fact that thick and thin filaments overlap in certain regions along their longitudinal axes produces the banding or striated appearance of the myofibril. The dark bands in muscle seen under the polarizing microscope are called A-bands and the intervening bands as called Ibands. The A-band is formed by the thick filaments, together with the
+
+16
+
+Chapter 2: Literature Review overlapping thin filaments. The I-band is mainly thin filaments. Early
+
+microscopists also identified various other lines and zones, including the H-zone, and the M and Z-lines (Warriss, 2000). The Z-line (Figure 2.2) is of particular Desmin Nebulin
+I band A band
+
+Titin (inextensible)
+
+Thick (myosin) filaments 1.65µm Titin (extensible)
+Z line
+
+M line H zone
+
+Z line
+
+Thin (actin) filaments 1.05µm
+
+Sarcomere
+
+Figure 2.2
+
+A diagram of a contractile unit, showing banding patterns, thin and thick filaments,
+
+and the areas of overlap that form cross-bridges adapted from (Cairney, 2001).
+
+functional significance. It is really a disc through which the thin filaments pass and hence is often known as the Z-disc. Adjacent Z-lines delineate the functional unit of the myofibril referred to as a sarcomere. A myofibril consists of thousands of sarcomeres. Sarcomere length, defined by the distance between two Z-lines, varies with the state of contraction of the muscle but averages between about 1.5 to 2 m (Warriss, 2000). 2.1.1 Muscle Proteins
+
+There are more than 20 different proteins associated with the myofibril (Aberle et al., 2001). Proteins constitute 16-22 percent of skeletal muscle tissue and are generally classified by their function as myofibrillar (contractile); sarcoplasmic (regulatory); or stromal (structural) proteins. Contractile Proteins The sliding filament model for contraction proposed in 1954 (Huxley, 2004) has the thick and thin filaments sliding past one another to produce a change in
+
+17
+
+Chapter 2: Literature Review sarcomere length. Contraction of skeletal muscle direction involves four of the myofibrillar proteins: Myosin, actin, tropomyosin and troponin. Actin and myosin are the contractile proteins and form the actin and myosin filaments of the myofibril. Cross-bridges are formed between the actin and myosin filaments and conformational changes in myosin generate the contractile force during contraction. In the relaxed state, a muscle generates very little tension, and can easily be stretched by a force pulling on it. This means that there are no cross-bridges between actin and myosin filaments and the filaments of each sarcomere slide passively over one another. There is still another state called rigor mortis, which occurs after death where permanent cross-bridges form and prevent the sliding of these filaments, so that the muscle becomes inextensible. In contrast to actin and myosin, tropomyosin and troponin play the role of regulatory proteins and assist in turning the contractile process `on' and `off'. The proteins in the thick filament are myosin, C-protein and M-line proteins. The function of these proteins has not been determined although several theories have been proposed. A C-protein binds to myosin at low ionic strength. The two types of M-line proteins are creatine kinase and M-line protein. Creatine kinase is an enzyme involved in a reaction that forms adenosine triphosphate (ATP) and creatine from creatine phosphate (CP) and ADP. M-Line protein binds to both myosin and creatine kinase; however, its function is not fully understood (Betchel,, 1998). Myosin is the major contractile protein and comprises approximately 45% of myofibrillar protein (Aberle et al., 2001). This molecule is an elongated rod shape. The thickened portion at one end is called the head region, and the long thin portion is called the rod or tail portion. The region between the head and the rod regions is called the neck. Myosin molecules assemble into bipolar thick filaments with heads protruding at either end of the filament in a helical arrangement and rods comprising the backbone of the filament (Aberle et al., 2001). The protruding heads are the functionally active sites of the thick filament. They contain enzymic ATPase and are able to bind actin, the main component of the thin filament.
+
+18
+
+Chapter 2: Literature Review
+
+The length of the thin filament varies from one species to another. The distance from the Z-disk to the tip of the filament is 1.05 m in rabbit and 1.20 m in beef (Knight & Offer, 1988). The main component, actin, is a roughly globular protein that forms a helical polymer with the appearance of two strings of beads twisted together. Rod-like tropomyosin molecules, 40 nm long, lay end-to-end alongside each of the two strings of actin subunits. The monomer form, called G­actin, polymerises to form F-actin. The F-actin forms the backbone of the thin filament and provides a binding site for tropomyosin and troponin. Each tropomyosin molecule has a tadpole-shaped troponin molecule bound towards one end of it. The thin filament is a polar structure and all thin filaments on one side of the adisk have the opposite polarity to those on the other side. Regulatory Proteins Tropomyosin and troponin are involved in regulating skeletal muscle contraction (Bechtel, 1986). Tropomyosin prevents contraction by steric inhibition of actin and myosin binding. When free calcium ion (Ca2+) concentration increases, tropomyosin moves so that myosin can bind to G-actin binding sites on the Factin filament. The effects of Ca2+ on tropomyosin are mediated by the troponin complex, which binds Ca2+ and regulates the action of actin and myosin. There are three forms of troponin - troponin-C, troponin-I and troponin-T. Troponin-C binds calcium and troponin-I bind to the N-terminal of troponin-C and inhibit magnesium-activated ATPase of actomyosin. Troponin-T interacts with tropomyosin and fixes the position of the entire troponin complex within the thin filament.
+
+Structural Proteins The relative positions of myofilaments in the myofibril are maintained by a cytoskeleton made up of several other proteins including titin (sometimes called connectin), nebulin and desmin. Titin (approximately 3000-3700 kDa) is the most abundant cytoskeletal protein in muscle, making up about 10% of myofibrillar proteins (Aberle et al., 2001). It is a long, slender elastic protein that spans from the M-Line to the Z-line. Titin 19
+
+Chapter 2: Literature Review binds to and is rendered inextensible by myosin thick filaments along most of its central length. The remaining segments act as an elastic spring to connect the ends of thick filaments to the Z-Line. Degradation or extraction of titin reduces stiffness of relaxed myofibrils (Bulinski et al., 1988). As well as maintaining the resting tension of striated muscle cells, the size and position of titin within the myofibril may help maintain the overall structural integrity of the myofibril by keeping the thick filament in a central position within each sarcomere. Nebulin (600kDa) makes up about 4% of myofibrillar proteins. It is located close and parallel to the thin filament. Nebulin extends longitudinally along the entire length of the thin filament from the Z disk (Aberle et al., 2001). This protein appears to provide the template to define the length of the thin filament in the muscle. Nebulin has been hypothesised to form a regulatory complex with troponin and may help in cross-bridge cycling while maintaining the myosin heads close to actin that prevents random actin-myosin interaction in resting muscle (Huff-Lonergan & Lonergan, 1999). Desmin, which has an estimated molecular weight of 55 kDa by SDS-gel electrophoresis, is a major component of the 10-nm diameter intermediate filaments. These cytoskeletal structures are found in nearly all vertebrate cells, including skeletal muscle, cardiac muscle and smooth muscle. Within skeletal muscle, desmin is proposed to not only sit in the Z-lines but also in the connection between the Z-lines of adjacent myofibrils. The role of intermediate filaments in maintaining the continuity of a sarcomere has been emphasized. It is suggested that several intermediate filaments run longitudinally from the periphery of a Z-line to that of the adjacent one. Since myofibrils may be stretched to twice their resting length by tension generation they must have be able to return to their initial stage on release (Maruyama, 1985). Any intermediate filaments linking neighbouring Z-lines must be elastic and be slack in the resting stage of myofibrils. Although the content in skeletal muscle is very small, the desmin intermediate filaments must play an important role in the structural organisation of the myofibrils.
+
+20
+
+Chapter 2: Literature Review 2.1.2 Connective Tissue
+
+The connective tissue of muscle is a minor component comprising approximately 1-4 percent of dry weight in most muscle types, but with the critical functions of fibre adhesion, force transmission, tissue organization and providing an outer protective cover of epimysium (Hopkins & Taylor, 2004). Connective tissue connects and holds various parts of the body together. Connective tissues are distributed throughout the body as components of the skeleton, in the framework of organs and blood and lymph vessels and in sheaths that surround structures such as tendons, nerve trunks and muscles (Aberle et al., 2001). The two types of protein fibres identifiable in the connective tissue of muscle are collagen and elastin. Collagen fibres contain a regularly oriented array of In polypeptide chains, resulting in a highly fibrillar structure. Elastic fibres consist of the protein elastin in which polypeptide chains are arranged randomly. and have high tensile strength (Bailey & Sims, 1981). tendons external and internal to the muscle, collagen fibres are packed densely The epimysium, the connective tissue on the outside of a single muscle, is very thick and strong when it forms part of the tendinous apparatus of the muscle. It is continuous with the internal muscle connective tissue, the perimysium, which branches within the muscle to enclose bundles of muscle fibres. network of collagen fibrils. The relevance of muscle collagen to meat production is due to the peculiar properties of the collagen molecule (Hopkins & Taylor, 2004). To construct a tendon from polypeptide chains, these chains must first be woven together to form collagen molecules, then linked to form collagen fibrils, which in turn form collagen fibres. The binding of collagen molecules to form a collagen fibril is due to cross-linking (Bailey & Sims, 1981). These cross-linkages are fewer in number, and more easily broken in young animals. As the animal grows older, the number of cross-linkages increase and the linkages are convertible to stable linkages. The layer of connective tissue surrounding individual muscle fibres is endomysium. This contains only a light
+
+21
+
+Chapter 2: Literature Review
+
+2.2
+
+From Muscle to Meat
+
+An understanding of the living function of muscle tissue is basic to understanding changes that take place during its conversion to meat. In the living state, all organs and systems within the body work together to maintain an internal environment, so each can perform its function efficiently. Most parts within the body, including muscle, function effectively within a narrow range of physiological conditions. biochemical changes. There is normally a time interval between slaughtering an animal and consuming the meat. In practical terms, the carcass cools down and becomes stiffer, the meat surface dries and the fat becomes firmer. With time, texture and flavour of the lean meat improve. These effects are accompanied by significant biochemical changes in the muscles: acidification, development of rigor mortis, and then gradual resolution of rigor and tenderization by a process called conditioning. The process of converting muscle to meat begins with exsanguination, which stops the delivery of nutrients and oxygen to muscle and the clearance of accumulating metabolites (Huff-Lonergan & Lonergan, 1999). This event has a dramatic impact on skeletal muscle, including: · · · · · A shift in aerobic to anaerobic metabolism, which favours lactic acid production A gradual depletion of energy Accumulation of lactic acid and a resultant decrease in pH Loss of homeostatic regulation mechanisms Development of rigor bonds Disturbances can produce major structural or
+
+The muscle does not become meat immediately the animal is killed. One of the most serious consequences of circulatory collapse is that the oxygen supply to the muscles is disrupted (Aberle et al., 2001). In living animals, oxygen is picked up in the lungs and carried to muscle fibres by blood haemoglobin. A myoglobin store for oxygen until it is used for cell metabolism. As the oxygen supply becomes depleted, the mitochondrial electron transport chain, which depends on oxygen as the final electron acceptor, stops functioning. Energy metabolism then 22
+
+Chapter 2: Literature Review shifts to the anaerobic glycolytic pathway, in much the same way that oxygen debt occurs in living muscle during intense exercise. Even though less energy in the form of ATP is produced through the anaerobic pathway, the tissue still has an energy source that will maintain the structural and functional integrity of the cell for some time. During the early stages of post-mortem, when muscle is being converted to meat, a distinctly different cellular environment to that existing in living muscle is produced. These changes constitute a distinctly different environment for the muscle's structural proteins and the proteases. The change in the intracellular environment (low pH, low temperature, higher ionic strength) has a profound effect on muscle proteins, which must be taken into consideration when evaluating the processes occurring. A major consequence of anaerobic metabolism is the increase in lactic acid from using glycogen stores. Since the circulatory system is no longer available to remove metabolites, lactic acid accumulates in the muscle tissue as cell metabolism continues resulting in a lowering of pH. In response to the falling pH and accumulating metabolites, ATP re-synthesis becomes increasingly inhibited and ATP eventually becomes depleted. The eventual depletion of ATP in muscle post-mortem produces a state termed rigor mortis (stiffening of muscles after death). This stiffening is due to formation of permanent cross-bridges between the actin and myosin filaments in the muscle. The rigor mortis process can be divided into three phases: delay, rapid and postrigor (Aberle et al., 2001). During the period immediately following slaughter, muscle is quite extensible. The muscle has minimal resistance to extension and the natural elasticity of the muscle subsequently returns it to its original length. The post-mortem period represents the delay period. In the rapid phase, muscles elasticity declines. Stores of creatine phosphate (CP) are used for phosphorylation of ADP to ATP. state. As CP stores deplete, phosphorylation of ADP becomes insufficient to maintain the tissue in a relaxed Then, glycogen stores are used to provide energy for further phosphorylation of ADP. Upon the depletion of glycogen stores the repletion of
+
+23
+
+Chapter 2: Literature Review ATP levels ceases and due to this disappearance of ATP, myosin filaments adhere to the actin forming an actomyosin complex. This actomyosin complex results in a permanent bridge between the muscle filaments causing the muscle to gradually become less extensible. When all CP is gone, and ATP can no longer be formed from ADP, the muscle becomes inextensible. Since ATP is required to dissociate myosin from actin, loss of extensibility probably reflects prolonged and eventually irreversible cross-bridge binding within the sarcomeres. As these cross-bridges form, the muscle contracts slightly producing shortened sarcomeres and increased muscle tension. Without any ATP, the actomyosin bonds do not dissociate and, consequently, muscle stiffness is at its maximum. When ATP is completely depleted from the muscle, cross-bridges become permanently bound to actin indication the completion of the rapid phase (Aberle et al., 2001). The term conditioning is used to describe the natural process of tenderization when meat is stored or aged post-rigor. Tenderization could be attributable to two types of process: changes in the connective tissue components of the meat or weakening of the myofibrils. Nishimura et al. (1998) suggested that conditioning takes place in two phases; a rapid phase caused by changes in the myofibrillar component occurs first and is followed by a slower second phase that involves structural weakening of intramuscular connective tissue. degradation of myofibrillar proteins (Aberle et al., 2001). However, increased tenderness during post-mortem storage is due almost entirely too proteolytic
+
+2.3
+
+Mechanisms of Tenderisation
+
+Solving the problem of inconsistent meat tenderness is a top priority of the meat industry. It requires a greater understanding of the processes that affect meat tenderness and, perhaps more importantly, having the meat industry adopt this information. Post-mortem storage (also known as `aging') has long been regarded as essential for producing tender meat. With increasing consumer emphasis on quality rather than quantity, the importance of this process in meat production is greater than ever. However, tenderness mechanisms are far from understood and extremely
+
+24
+
+Chapter 2: Literature Review variable between animals and muscle types. This is a major concern for the meat industry. For any given piece of meat, the mechanical properties of connective tissue change little during aging. Therefore, the increase in meat tenderness may be ascribed to weakening of the myofibrillar structure. Proteolysis of myofibrillar proteins results in a loss of structural integrity, and is mainly responsible for tenderisation during aging. Research within this field has mainly focused on two groups of endogenous proteolytic enzymes that degrade myofibrillar proteins. One group is the lysosomal cathepsins, which are optimally active at a pH below 6; the other group is the calcium-activated neutral proteases with an optimum activity at pH 7-7.5, also called calpains. The multi-catalytic protease complex (MCP) may also be involved. However, there is little information on this system in post-mortem conditions. The degree to which tenderness can be controlled largely depends on: · · knowing how different post-mortem events contribute to the conversion of muscle into meat and the causative agents increasing the basic knowledge of the roles of both muscle biology and muscle structure.
+
+2.3.1
+
+Muscle Degradation
+
+Some of the major myofibrillar and cytoskeletal proteins known to degrade during post-mortem aging include titin, nebulin, desmin and troponin-T (Huff-Lonergan & Lonergan, 1999). These proteins are located in different regions of the skeletal muscle cell and have different roles in muscle structure and function. Understanding the structure and function of these proteins will give a better understanding of post mortem degradation of muscle. The structural proteins responsible for generating force and maintaining the structural integrity during contraction are responsible for producing meat that is very tough. Tenderness depends on breaking down these structures to produce meat the will yield easily during chewing. Tenderisation is very rapid in the early stages of aging but slows down as the enzymes are depleted (Pearson, 1986). Even after two days aging can result in the 25
+
+Chapter 2: Literature Review disappearance of some of the cross striations in some muscles and transverse breaks will appear. Aging for long periods increases the frequency and extent the cross striations have disintegrated and also the disappearance of kinks and waviness in the fibres. The increase in transverse breaks in the fibres is believed to be associated with a simultaneous increase in tenderness. Physical and biochemical changes begin in muscle almost immediately following slaughter and continue at varying rates until tissue is completely degraded (Aberle et al., 2001). The extent and speed of these reactions depend on several factors, including temperature, level and activity of proteolytic enzymes, and pH. All muscles and parts of a muscle do not change in a uniform manner; muscle fibre type has an effect (Greaser, 1986). During post mortem storage of carcasses, structural integrity of skeletal muscle is lost. This loss of structure is responsible for meat tenderization (Table 2.1). Clearly, the majority of the changes that occur in skeletal muscle which leads to the disruption of the muscle cell and meat tenderization are the results of proteolysis. The first alteration observed in the ultra-structural integrity of post-mortem muscle is degradation of Z-disks, which becomes progressively more extensive with aging (Aberle et al., 2001). Complete loss of Z-disks may occur due to proteolytic degradation of proteins associated with the disk, notably desmin, titin and ­actinin. Degradation of desmin leads to disruption of transverse cross-links between myofibrils. Degradation of titin and nebulin occurs and troponin-T degrades and disappears. There is also an appearance of new polypeptides, which are the degradation products of the parent molecules. However, myosin and actin are not affected in the aging process. Studies (Huff-Lonergan et al., 1996) have shown that the intensity of the myosin heavy chain (MHC) in SDS-Page did not appear to change when aging bovine muscle at 0-4°C.
+
+26
+
+Chapter 2: Literature Review Table 2.1 Summary of key changes that occur in skeletal muscle during post mortem storage at
+2-4°C (adapted from (Koohmaraie, 1992)
+
+1. 2.
+
+Z-disk weakening and/or degradation, which leads to fragmentation of myofibrils. Disappearance of troponin-T and simultaneous appearance of polypeptide with molecular weight of 28-32 kDa. This is perhaps the most publicized post mortem change in skeletal muscle. However, because of its location in the myofibrils, the exact relationship between meat tenderness and troponin-T is not yet understood.
+
+3. 4. 5. 6.
+
+Degradation of desmin, which leads to fragmentation of myofibrils, probably by disrupting transverse cross-linking between myofibrils. Degradation of titin. Effects of titin degradation on meat tenderness are not yet understood. Degradation of nebulin. Effects of nebulin degradation on meat tenderness are not yet understood. Appearance of a 95,000 kDa polypeptide, probably from degradation of myofibrillar proteins with molecular weight of great than 95,000 kDa. Neither its origin nor significance to meat tenderness is known.
+
+7.
+
+Perhaps the most significant observation is that the major contractile proteins, myosin and actin, are not affected even after 56 days of post mortem storage.
+
+Troponin-T is frequently used as an index of proteolytic degradation in meat. There is a correlation between tenderness and degradation of troponin-T (HuffLonergan & Lonergan, 1999) but the direct link between post-mortem degradation of troponin-T on tenderness of beef has yet to be proven. Troponin-T degradation may simply be an indicator of overall post-mortem proteolysis. Degradation of troponin-T could alter interactions between thin filaments proteins and might aid in the disruption of these thin filaments. Several proteases, including calpain, can degrade desmin (Huff-Lonergan et al., 1996). Since desmin may serve to connect adjacent myofibrils to the sarcolemma, degradation of this protein may compromise structure of the muscle fibre.
+
+27
+
+Chapter 2: Literature Review It is generally accepted that the collagen and elastin in the connective tissue does not degrade extensively during aging. Lysosomal enzymes can attack the crosslinks in the non-helical teleopeptide region of collagen but this does not affect tenderness (Xiong & Shahidi, 1999).
+
+2.3.2
+
+Mechanical Degradation
+
+Methods to reduced meat toughness by mechanical means can be employed during either pre-rigor or post-rigor phases as the muscle is converted to meat. These methods dependent on one or more mechanisms; decreased actin and myosin overlap, physical damage to sarcomere structure and altered rates of proteolysis. Influence of Electrical Stimulation Electrical stimulation involves passing an electric current through the body or carcass of a freshly slaughtered animal. The electrical current causes the muscles to contract, increasing the glycolysis rate and giving an immediate reduction in muscle pH ranging from 0.6 pH units at 35 °C to 0.018 units at 15 °C (Devine et al., 2003). This suggests that stimulating a warm carcass should take place soon after slaughter to maximise process efficiency. Following the fall in pH, there is a temperature-dependent acceleration of glycolysis rate, resulting in early rigor mortis development in meat at higher temperature. When muscle is maintained at a constant temperature, the increased rate of pH fall after stimulation seems to occur with a wide range of stimulation parameters and even occurs as a consequence of electrical stunning and electrical immobilisation post slaughter. For larger animals, the risk of cold shortening is decreased because carcass cooling rates are slower. If an unrestrained muscle is exposed to low temperatures before it is in rigor then it will shorten and the resulting meat will be tough. This is called cold shortening induced toughness. Cold shortening is likely to occur if the muscle temperature falls below 12 °C while the muscle pH is still above 6.0. Electrical stimulation reduces the pH rapidly, hastens the onset of rigor and hence minimises the incidence of cold shortening as the pH is more likely to be below 6.0 by the time carcass temperature falls under 12 °C.
+
+28
+
+Chapter 2: Literature Review The significant improvement in meat tenderness following electrical stimulation, suggests that, other than avoiding cold shortening, small sarcomere length differences could be important. The linkage between improved meat tenderness and physical disruption is possible. However, it is not clear whether the physical disruption has caused the effect or whether the physical disruption facilitates aging in other ways such as enhancing proteolytic processes within the muscles. Muscle proteolysis commences after animal death but tenderization through proteolysis can only be measured after rigor mortis. Proteolysis can continue even in shortened muscle without the meat becoming tender. If the muscle is being cooled, the falling rigor temperature means that those fibres at elevated temperatures will enter rigor early and will thus initially experience faster tenderization. Hence, tenderness at the completion of rigor mortis for electrically stimulated muscles will be quite different to non-stimulated muscles as result of differences in temperature. The historical reason for developing and commercializing electrical stimulation was to accelerate post-mortem glycolysis so muscle reached rigor earlier and therefore at a higher carcass temperature thus preventing excessive shortening due to the "cold shortening" effect. If the physical disruption is great enough to cause early release of calcium ions from the sarcoplasmic reticulum and mitochondria into the sarcoplasm, there is a direct effect on activating the calpain system and muscle shortening. However, previous research indicates that low-voltage stimulation does not increase the release of "free" calcium ions into the sarcoplasm. Although calcium concentration in the intracellular space increases during stimulation, the released calcium ions are taken back to the resting stage into the sarcoplasmic reticulum if the energy reserves of the muscles are not completely depleted during the electrical stimulation. This indicates that, at the same temperature, stimulated muscles are exposed to higher levels of free calcium ions and thus have a higher level of proteolysis. Under normal conditions, the extra calcium will be drawn back into the sarcoplasmic reticulum. Stimulation also accelerates pH decline, which is mirrored by an increase in "free" calcium ions and therefore activation of the tenderization process.
+
+29
+
+Chapter 2: Literature Review Influence of Muscle Stretching The tenderness of meat, cooked after rigor onset, is determined largely by the extent of cold shortening undergone by the muscle during the first few hours post mortem. Meat is relatively tender if shortening during this period was either relatively small or very considerable; at intermediate values, however, a marked toughening is observed (Figure 2.3) (Carse & Marsh, 1974) .
+
+Figure 2.3
+
+The effect of extension or shortening before rigor completion on the toughness
+
+of meat cooked in rigor. Length change is shown as a percentage of the initial excised length. Vertical bars: mean shearing force +/- s.e. (Carse & Marsh, 1974)
+
+Suspension of carcasses by the obturator foramen or aitchbone so that the back leg falls into the walking positing was given the name `Tenderstretch' (Hopkins & Taylor, 2004) . This techniques places tension on the hind leg and loin muscles and physically prevents them shortening by reducing the overlap of actin and myosin. By weighting the hind legs, a further reduction in shear force can be achieved, particularly in the loin muscle; it has recently been shown that this technique causes significant disruption of the sarcomere, with distortion of the Zdisk and actual tearing of the filaments. It is this disruption and a decreased overlap of actin and myosin that result in the dramatic reduction in shear force compared to data gained if the muscle is left to shorten. The improvement in tenderness is so dramatic that the need for prolonged ageing is virtually eliminated; in addition, variation in tenderness along the muscles is reduced. 30
+
+Chapter 2: Literature Review 2.3.3 Proteolytic Degradation
+
+Meat tenderness is the major quality trait of meat, and the ability to optimize the production of tender meat depends on the detailed understanding of the mechanism behind the tenderization process. Skeletal muscle is composed of three classes of proteins: sarcoplasmic, connective tissue and myofibrillar. Although some proteolytic degradation of sarcoplasmic proteins may occur during post mortem storage, their degradation probably doesn't contribute directly to increased tenderness. Also, proteolytic changes in collagen during post mortem storage comparable to those of myofibrillar proteins have not been observed. Therefore, it would appear that the principal mechanism of post mortem tenderization is limited to the proteolysis of myofibrillar proteins. It is well established that storage of meat improves meat tenderness and that proteolysis of the myofibrillar structure is an important factor in this process (Hopkins & Taylor, 2004). Generally accepted that tenderization is due to activity of proteolytic enzymes in the muscles, their roles are to breakdown and recycle proteins continuously in living tissue. The major problem in identifying the specific enzymes involved with tenderization is that enzyme activity in meat cannot be measured easily because the enzymes they depend on local in situ concentrations of cofactors, activators and inhibitors. While the proteolysis theory is currently accepted by most meat scientists, the question of which proteases are involved remains controversial. A protease must meet certain criteria to be considered a possible candidate for being involved in post-mortem tenderization (Koohmaraie, 1992). Firstly, the protease must be endogenous to skeletal muscle cells; secondly, the protease must be able to reproduce post-mortem changes in myofibrils in an in-vitro setting; and finally, the protease must have access to myofibrils in tissue. If a protease does not possess these characteristics, it cannot be considered a contender in post-mortem tenderization. The proteolytic systems that have the potential to be involved in post mortem proteolysis include: the lysosomal cathepsins; the multi-catalytic protease complex (MCP); and the calpains. The role of endogenous muscle cathepsins in post mortem meat tenderisation has been a controversial question during the last 31
+
+Chapter 2: Literature Review decades. Lysosomal cathepsins and calpains are the two most widely studied endogenous enzymatic systems in relations to meat texture development (Jiang, 1998). The lack of consensus among meat scientists during this time comes from the complexity of the muscle structure and of the tenderising mechanisms. Lysosomal proteases, amongst which cathepsins reside, have been found in all mammalian tissues with exception of enucleated red blood cells. These enzymes are normally enclosed in membrane structures, the lysosomes. Eight cathepsins have been shown to exist in skeletal muscle cells. These include cathepsins A, B, C, D, H, I, J and lysosomal carboxypeptidase B (Barnier et al., 1995). Research (Crouse et al., 1991; Koohmaraie, 1994; Koohmaraie & Wheeler, 1999) suggests that lysosomal cathepsins do not play a significant role in post mortem proteolysis. The main reasons are: · · lysosomal cathepsins are normally located within lysosomes and must therefore be released to have access to myofibrils. post mortem storage has no effect on actin and myosin, although these myofibrillar proteins are the primary substrates for lysosomal cathepsins On the other hand, several arguments could support a partial involvement of cathepsins in meat ageing. Cathepsins must be first released from the lysosomes; experiments preformed (Lawrie, 1998), in which released and bound lysosomal enzyme activities were measured, indicate that cathepsins are effectively released from the lysosomes in post-mortem muscle. Degradation of various myofibrillar proteins have been observed in isolated myofibrils treated with cathepsins and all have been reported to degrade myosin and actin. However, during the ageing of meat at 2-4°C myosin and actin are not degraded and this is the strongest argument against the role of cathepsins in meat tenderisation at refrigeration temperatures. The second candidate is MCP. Until recently, no data were been available to determine the role of MCP in tenderisation. Research carried out indicates that even after activation, myofibrils were not a good substrate for MCP (Koohmaraie, 1992). Morphologically, Rivett (1989) found MCP only degraded troponin-C and
+
+32
+
+Chapter 2: Literature Review myosin light chains. These results indicated that MCP does not play a major role in post mortem proteolysis that would result in meat tenderization. The calcium theory of meat tenderisation is based on evidence that all structural weakening of myofibrils and disassembly of desmin intermediate filaments which occur during post-mortem ageing of meat are fully induced by Ca2+. Ca2+ are far more effective (Ji & Takahashi, 2006). There is considerable experimental evidence that Ca2+ causes weakening of myofibrillar structures that result in tenderisation. Davey and Gilbert (1969) first documented the role of calcium in Z-disk weakening (Davey & Gilbert, 1969). Finding that the calcium chelator, EDTA (ethylene diamine tetraacetic acid), inhibited weakening and disappearance of Z-Disks (Hopkins & Taylor, 2004). This report was supported by others, Koohmaraie demonstrated that the disappearance of the Z-disk and myofibril fragmentation were inhibited by EDTA (a general chelator of divalent cations) and EGTA (ethylene glycol tetraacetic acid) (specific for calcium in the present of magnesium) and were accelerated in the presence of calcium chloride (Koohmaraie, 1992). post mortem tenderisation processes. In contrast, there is substantial experimental evidence to suggest that calpains are the primary proteolytic system responsible for post mortem proteolysis and thus meat tenderization (Koohmaraie, 1992). The combination of complex changes within tissue as it goes through the process of muscle to meat involves metabolic, physical and structural changes, ranging from temperature, pH and the elevation in the free calcium concentration due to its release from mitochondria and sarcoplasmic reticulum. These changes may have a dramatic effect on the endogenous proteolytic systems; however, conditions are favourable for systems such as the calpain and lysosomal cathepsins systems (Koohmaraie, 1992). Calpains are know to rapidly degrade Z-lines and when calpain-induced degradation proteins are compared to degradation of myofibrillar proteins of meat stored at refrigeration temperature a striking similarity can be noted (Barnier et The results from this experiment and of others convince us that elevation of Ca2+ is the cause of the Although these structural weakening of myofibrils is also induced by Mg2+, the action of
+
+33
+
+Chapter 2: Literature Review al., 1995). There is debate on how calpains could possibly function in muscle tissue due to low Ca2+ concentrations (Christiansen et al., 1992). However, these arguments may not be valid in post mortem muscle, because free calcium concentration is sufficient to activate -calpain. A component of the calpain proteolytic system is the specific endogenous inhibitor, calpastatin. This molecule is a powerful regulator of the calpains and efforts should be made to elucidate how to inactivate it. Results of several experiments reported, seem to indicate that calpastatin is one of the principal regulators of the calpains in post mortem muscle (Koohmaraie, 1992). A last argument supporting the involvement of calpains is development of mathematical models that give good predictions of meat tenderisation. Dransfield (1993) developed a model quantifying the mechanism by which the activity of what he call `free activated-calpains' are responsible for post-mortem tenderisation. According to the model, these activities are controlled by Ca2+, calpastatin, enzyme inactivation and calpastatin proteolysis (Barnier et al., 1995). This model identifies the five main steps that take place (Figure 2.4). Experimental evidence indicates that the calpain proteolytic system is probably responsible for most post mortem proteolysis. However, factors other than proteolysis will affect meat tenderization (Koohmaraie, 1994). Not all proteins within a muscle cell are sensitive to proteolytic attack during the early stages of storage so there is little contribution to the increase in tenderness during aging.
+
+Those most likely to have the greatest effect on overall tenderness have been identified using comparative protein gel electrophoresis. Many variations of the basic electrophoretic technique exist, but in this case the most popular is sodium dodecyl sulphate-polyacrylamide gel electrophoresis (SDS-PAGE), combined with identifying the specific proteins and their breakdown products using immunoblotting techniques.
+
+34
+
+Chapter 2: Literature Review
+
+Step A: Step B:
+
+Initiation, when the inert calpains are activated by the increase in calcium ions and enter into the tenderisation system. Binding, where the equilibrium of calpain binding to calpastatin determines the level of free activated-calpains which increases as the pH declines. Inactivation of free activated­calpains due to decay by autolysis. Inactivation of calpastatin (The model makes no distinction between proteolysis by calpains of the complexed and free calpastatin but, for clarity, inactivation is shown only to free calpastatin). Tenderisation, components. calpains cause proteolysis of structural
+
+Step C: Step D:
+
+Step E:
+
+Figure 2.4
+
+Model of activation of calpains and tenderisation (Dransfield, 1994)
+
+35
+
+Chapter 2: Literature Review
+
+2.4
+
+Calpains
+
+A lot of information has been obtained about the properties of the calpain system since the purification in 1978 of the protein later named m-calpain. Two primary questions are asked of the calpain system. 1. 2. How is calpain activity regulated in living cells? What is the physiological function of the calpain system in normal cells?
+
+The structural information obtained in the past 10-15 years has altered and produced new views on how calpain activity may be regulated in living cells. This information makes it possible to propose specific structural changes that must occur to convert a catalytically inactive calpain molecule into an active proteolytic enzyme. al., 2003). One of the features of calpain that attracts investigation is its structure, which involves a cysteine-protease domain is combined with a calmodulin-like Ca2+ binding domain. The activities of the representative mammalian calpain, - and m-calpains are regulated by Ca2+ concentration, so calpain is considered to participate in various intracellular signalling pathways mediated by Ca2+ (Saido et al., 1994). The existence of a Ca2+ dependent neutral protease in rat brain was first reported in 1964 and identified as a protease identical to `calpain' in 1968. It was then reidentified as a Z-line hydrolysing enzyme by Goll's groups (Ishiura et al., 1997). Calpain was first purified to homogeneity in 1978 (Ishiura et al., 1997). Then a large subunit of chicken calpain was cloning (Ishiura et al., 1993) before the whole structure of the large subunit (Saido et al., 1994) was determined. Since then, various types of calpain subunits and their homologues have been identified and their primary structures determined by cDNA cloning (Saido et al., 1994). Some homologues of calpain in mammals have been found to be predominantly expressed in a limited number of organs. In contrast with the ubiquitous expression of the `conventional' - and m-calpain, these `tissue-specific' calpains such as skeletal muscle-specific `p94' and stomach-specific `nCL-2 and nCl-2' 36 However, although information is accumulating, the physiological functions of the calpain system still remain poorly defined (Cong et
+
+Chapter 2: Literature Review are probably closely related to the specific functions of the organs in which they are expressed (Ishiura et al., 1997).
+
+2.4.1
+
+Calpain Structure
+
+The calpains isolated in a protein form are Ca2+ Dependent, cysteine proteases. Olson et al. (1977) first reported that calpain activity was related to meat tenderness. Calpains have two ubiquitous - and m- isoforms (Bardsley et al.), which were given the names Calpain I and Calpain II. the names indicate that the calpain is activated by micro- (-) and milli-molar (m-) in vitro Ca2+ concentrations (Ishiura et al., 1997). These calpains consist of two subunits: a distinct larger (approximately 80 kDa), and a common smaller (approximately 30 kDa) subunit. The large subunit can be divided into four domains. The second and fourth domains are the cysteine protease and Ca2+-binding domains respectively. Domain III has the function of linking the Ca2+ binding domains of the calpain molecule to the catalytic domain (domain II). Domain III may be involved in binding phospholipids and in regulation calpain activity by it's participation in critical electrostatic interactions (Cong et al., 2003). The large subunit of calpain has the protease activity but the function of the first domain is not clear (Ishiura et al., 1997). The smaller subunit has two domains - an N-terminal glycineclustering hydrophobic region and a C-terminal Ca2+ -binding domain, similar to the fourth domain on the larger subunit. This domain is thought to determine calpain activity (Ishiura et al., 1997). The 80-kDa subunits of - and m-calpain are different gene products but have 5565% sequence homology within a given species (Suzuki, 1990). Although the 80kDa subunit was originally though to be divided into four domains on the basis of their amino acid sequence, recent crystallographic studies of m-calpain show that this calpain has six `domains' (Figure 2.5). Attempts to obtain the crystallographic structure of -calpain have not yet been successful, although the similarities in amino acid sequence suggest that the two structures will be similar so the structure of -calpain has been modelled on the basis of these similarities (Bode et al., 2001).
+
+37
+
+Chapter 2: Literature Review In 1989 Saido (1994) discovered a novel calpains species, p94, which has the same fundamental domain structure but differs from -and m-calpain by being
+
+Figure 2.5
+
+Calpain molecule structure (http://ag.arizona.edu/calpains/index.html)
+
+only expressed in skeletal muscle. This made it the first discovery of tissuespecific calpain. The mRNA shows skeletal-muscle-specific expression, and the amount of mRNA is about 10 times that of conventional calpain subunits. However, the protein undergoes extremely rapid autolysis, so it disappears from skeletal muscle under normal conditions (Ishiura et al., 1997). Experiments showed that inhibitors of m- and m-calpains such as calpastatin, E-64 and leupeptin have no effect on p94 activity. In addition, p64 does not require Ca2+ and adding EGTA or Ca2+ does not appear to alter its activity (Saido et al., 1994). Another calpain-large-subunit homologue is nCl-2. Its structure closely resembles that of CL and mCL (Ishiura et al., 1993). Unlike p94, nCL-2 contains so significant specific sequences. However, an alternatively spliced molecule, nCL2', which co-exists in the stomach, lacks the Ca2+ binding domain, suggesting that the function of nCL-2' is independent of Ca2+. Both nCL-2 and nCL-2' are predominantly expressed in the stomach, although weak expression is observed in 38
+
+Chapter 2: Literature Review other organs. Thus, these two calpain homologues may play a specific role in the stomach, just as p94 has a specific role in skeletal muscles. 2.4.2 Calpain Promoters
+
+Calcium ions have long been known to be involved in conditioning muscle. These ions are released into the sarcoplasm from mitochondria and the sarcoplasmic reticulum when the intracellular ATP level drops below 0.1 mM (Etherington & Taylor, 1991). Under these conditions, Ca2+ ions can activate calpains so early post-rigor weakening is though to be due specifically to proteolysis by these enzymes. A calculation shows that all Z-disks in a skeletal muscle cell/fibre would be destroyed in <5 minutes if all the calpain in that fibre was active (Cong et al., 2003). Thus, most of the calpain within a fibre must be proteolytically inactive most of the time. Based on the current knowledge of the properties of calpain, it appears that calpain activity is regulated by altering the Ca2+ concentration required for its activity, by calpastatin, and probably also by access to the substrate and the site specificity of the calpains. Calpain activity also requires specific temperature, pH and ionic strength conditions. The Ca2+concentration required for proteolytic and other activities of the calpains are much higher that the 50-300 nM Ca2+ that exist in living cells (Mainen et al., 2000). The Ca2+ concentrations required by autolyzed -calpain are in the physiological range but Ca2+ concentrations of 800-15,000 nM are required to initiate autolysis of -calpain. Efforts at identifying a mechanism for reducing the Ca2+ requirements of - and m-calpain (an `activation' mechanism) focus on two areas: (1) finding a mechanism(s) for reducing the Ca2+ concentration needed to induce autolysis, with the assumption that the autolyzed enzymes could be active at physiological Ca2+ concentrations, and (2) attempting to find molecules in the cells that would interact with or alter the calpains and reduce their Ca2+ requirements. It 1984 it was found that certain phospholipids, with phosphatidylinositol (PI) being the most effective, would lower the Ca2+ concentration for calpain autolysis
+
+39
+
+Chapter 2: Literature Review nearly eightfold (Cong et al., 2003). It was also shown that several phospholipids lower the Ca2+ concentration required for autolysis of both - or m-calpain. More recent studies report that calpains bind to proteins and not phospholipids in the plasma membrane (Cong et al., 2003). Thus, there are several uncertainties on whether phospholipids could be the "activation" mechanism sought for the calpains. Studies have also described molecules that seemed to reduce the Ca2+ requirements of the calpains in in-vitro assays. For example, isovalerylcarnitine reduced the Ca2+ concentration required for maximal proteolytic activity of mcalpain to <10 M and increased its specific activity by 1.5 fold but didn't affect either the Ca2+ requirement or the specific activity of -calpain (Melloni et al., 1998). More recently, a protein with a monomeric mass of 15 kDa but functioning as a dimmer of 30 kDa reduced the Ca2+ requirement of -calpain from a variety of sources to 0.4-0.5 M but had no effect of m-calpain. The significance of these `activator' proteins is still unclear. Several other calpain activator proteins have been described that increase catalytic activity of the calpains without affecting the Ca2+ concentration required for proteolytic activity (Cong et al., 2003) but there have been no subsequent studies describing these activators so their nature is unknown. 2.4.3 Calpain Inhibition
+
+During the initial studies on purifying m-calpain it was discovered that muscle extracts having calpain activity also contained a calpain inhibitor (Cong et al., 2003). This inhibitor has been identified as a heat-stable protein that it is resistant to a wide variety of denaturing agents such as urea, SDS, or trichloroacetic acid (Goll & Otsuka, 1987). The name, calpastatin was proposed for this inhibitor by Takashi Murachi in 1979. Early attempts to purify this inhibitor produced Several factors contributed to the Calpastatin can undergo proteolytic inconsistent and variable results. It was described as a protein with molecular mass varying from 34 to 300 kDa. inconsistencies (Cong et al., 2003).
+
+degradation so the harsh conditions used in many of the early attempts to purify it may have contained endogenous proteolytic enzymes that gave varying degrees of
+
+40
+
+Chapter 2: Literature Review proteolytic degradation even though protease inhibitors were used. The equilibrium binding of calpains to calpastatin is extremely pH sensitive Cottin et al. (1981) and decreases as pH decreases (Figure 2.6).
+
+Figure 2.6
+
+Inhibition of calpain I by calpastatin, expressed as the calpain I activity with
+
+calpastatin as a percentage when there is no inhibitor at pH 7.0 (Dransfield, 1993).
+
+The precise inhibition mechanism for calpastatin is not yet known although Ca2+ is required to bind to and inhibit the calpains (Imajoh & Suzuki, 1985). Calpastatinaffinity columns (calpastatin coupled to agarose) were used to indicate that the Ca2+ concentration required for calpains to bind to calpastatin depended on the calpain molecule, that calpastatin inhibition was reversible, and that bound calpain could be released in an undegraded form by chelating Ca2+ with EDTA (Goll & Kapprell, 1989). In all instances except for unautolyzed -calpain, the Ca2+ concentration required for calpains to bind to calpastatin is significantly lower than required to initiate their proteolytic activity. Imuno-localization results suggest that the calpains and calpastatin are frequently co-localized in cells, so cells must possess some mechanism to allow calpain activity in the presence of
+
+41
+
+Chapter 2: Literature Review calpastatin. Otherwise, increased Ca2+ concentrations would cause calpastatin binding before the calpains could initiate any proteolytic activity (Cong et al., 2003). There is no evidence that calpastatin binds Ca2+, so the Ca2+ requirement for the calpastatin/calpain interaction must originate from the calpain molecule (Cong et al., 2003). Experiments of the binding of autolytic fragments of calpains to calpastatin indicated that calpastatin bound to both domains IV and VI of the calpain molecule. Subsequent studies using expressed segments (subdomains) of the calpastatin molecule showed that a 14-amino acid subdomain was conserved around the four domains of the calpastatin molecule and bound specifically to domain IV of calpain in a Ca2+ dependent manner (Cong et al., 2003). The importance of calcium ions was first suggested by Davey and Gilbert (1969). They showed that adding EDTA bound the calcium ions and prevented breakdown of muscle fibres. Both the weakening of lateral attachments and the disappearance of Z-lines during aging was inhibited by EDTA (Davey & Gilbert, 1969). The effect of EDTA in preserving the structural integrity of both fibres and myofibrils is related to the power of the compound to complex with divalent metal ions such as Ca2+ and remove these ions from the myofibrillar environment. The Ca2+ released through ageing of the sarcoplasmic reticulum induces calpain activity and thus degradation of the Z-lines within the myofibril. inhibited or minimal due to competition for Ca2+. The history for synthetic calpain inhibitors goes back to 1980 when Sugita and colleagues (Ishiura et al., 1997) used derivatives of E-64 {N-[N-(L-3-transcarboxyoxirane-2-carbonyl)-L-leucyl]agmatin} to prevent muscle degradation in patients with muscular dystrophy. Although E-64 and leupeptin efficiently inhibit both - and m-calpain, they are not very specific because they also inhibit other cysteine proteases. proteases. Calpain inhibitors I and II are frequently used and commercially available but, like E-64, also inhibit proteasome and other cysteine If EDTA chelates all the Ca2+ within the myofibrillar solution, then calpain activity will be
+
+42
+
+Chapter 2: Literature Review 2.4.4 The Calpain System
+
+It is generally accepted that tenderisation results from proteolysis by endogenous enzymes. The major problem in identifying the specific enzymes has been that enzyme activities cannot be measured in meat since they depend on local in situ concentrations of cofactors and inhibitors. Dransfield (1992) overcame this by modelling the relationship between the enzyme levels and tenderness, and their fundamental properties determined in vitro. The model develops the involvement of calpains. This has been suspected for over 20 years by research findings throughout the world. As rigor develops, the gradual release of calcium ions from the sarcoplasmic reticulum and mitochondria activate the calpain system. The -calpain is activated first, at low Ca2+ concentrations, and then m-calpain is activated as Ca2+ concentration rises further. There is enough free Ca2+ to activate all the -calpain but only approximately 30% of m-calpain, so the latter remains largely inactive in meat. Thus, tenderisation begins when -calpain starts to be activated, normally at about pH 6.3 or about 6 hours after slaughter in beef, and increases rapidly as more calpain is activated. At approximately 16 hours in beef, m-calpain becomes activated and causes further tenderisation. storage. cooking. In terms of post-mortem tenderization, the calcium requirement of the calpains gives important constraints. Jeacocke (1993) reported that the intra-cellular concentration of free calcium ions must be more than 100 M at rigor, although he did not specify the maximum level. Protein degradation reported in some initial studies occurred at very high calcium ion concentrations, beyond levels expected under intracellular conditions, even after rigor. Ducastaing et al. (1985) showed that calpain I activity decreased significantly during onset of rigor mortis. In comparison, calpain II activity was largely unaltered for up to three days post mortem. This sometimes has been extended to 56 days post mortem (Geesink & Koohmaraie, 1999), probably due to having insufficient free calcium to activate the enzyme (Cong et al., 2003). Both these enzymes are unstable when activated, and become progressively less active with The combined rate of their inactivation determines the rate of tenderisation, which continues until the calpains are exhausted or are destroyed by
+
+43
+
+Chapter 2: Literature Review
+
+Research showed that optimal conditions for in vitro calpain activity were pH 7.5 at 25°C (Hopkins & Taylor, 2004). However, this condition does not naturally occur in a slaughtered animal. Minimal activity is seen at 5°C / pH 5.5. Factors such as the reduced solubility of calcium at low pH and temperatures or extraction buffer pH could affect calpain activity. Unless the homogenate is kept above pH 6.5, calpain activity reduces significantly because the enzyme is precipitated. This emphasises how specific calpain is, and how the different techniques used in the investigations can produce different results. The calpain/calpastatin system is thought to play a role in muscle growth and protein turnover as well as meat tenderness. The inhibitor calpastatin can reduce calpain-mediated degradation of skeletal muscle protein and thus alter the balance between protein degradation and synthesis to ultimately favour enhanced muscle protein accretion (Geesink et al., 1995). The calpain enzyme systems have been implicated in the process of myofibrillar protein turnover in several models of muscle hypertrophy, including models using exogenous -adrenergic agonists (Koohmaraie, 1992) and in sheep with the callipyge muscle hypertrophy phenotype (Geesink et al., 1995). Several factors or events within the cell, such as autolysis, may regulate calpain activity (Huff-Lonergan & Lonergan, 1999). Intracellular factors such as pH and ionic strength may influence the interaction between calpain and its substrate. Calpain enzyme activity is reduced at lower pH values and higher ionic strengths. Changes in ionic/pH may alter conformation of substrate proteins and thus render them less susceptible to -calpain cleavage.
+
+2.4.5
+
+Degradation Products due to Calpain Activity
+
+Early studies found that calpain activity released -actinin from the Z-disk and degraded troponins T and I and C-protein (Etherington & Taylor, 1991). Although several structural and cytoskeletal proteins are degraded by the calpains, actin and myosin are not, showing the resilience of these proteins to post-mortem degradation. After incubating myofibrils with m-calpain for up to 30 minutes at temperatures ranging from 5°C to 25°C and at pH 6.5-7.5, Zeece et al. (1986) found that titin and troponin-T were degraded. 44 The amount of degradation
+
+Chapter 2: Literature Review reduced as temperature and pH decreased (Hopkins & Taylor, 2004). The
+
+degradation of Troponin-T to the 30-kDa fragment by calpain extracts mimic the pattern observed for meat during post-mortem aging. Degradation of specific proteins was monitored using Western Blotting techniques. Myofibrils were incubated with -calpain and 100 M Ca2+ for different times at 5°C and pH 5.6. Titin and nebulin degraded rapidly but the intermediate filaments of filamin, desmin and troponin-T degraded more slowly (Hopkins & Taylor, 2004).
+
+2.5
+
+Assays
+
+Three main factors can influence inherent meat texture: sarcomere length, the amount of connective tissue and its degree of cross-linking; and the extent of proteolytic changes during condition post mortem. The first step within the investigation was to characterize the enzyme of question porcine -calpain. This was completed through the use of fluorogenic activity assays. Two different techniques can be used to prepare myofibrils for investigating the changes that are occurring during ageing. These included the Wang method (Bulinski et al., 1988) and the collagnase method (Kohn, 1967). The amount and types of proteins and protein fragments produced during the proteolytic activity can be measured in various ways including: polyacrylamide gel electrophoresis, Western blotting, Myofibrillar fragmentation index (MFI) and Bead density testing.
+
+2.5.1
+
+Fluorogenic Activity assays
+
+Despite the increasing number of publications on calpain for the past several years, the true biological role or roles of the calpains has not been thoroughly explained. Previous studies were conducted without knowing the substrate specificity of the enzyme involved and the majority of these were only with calpain substrate-2. Many calpain substrates are known yet few are specific to calpain. -Spectrin is a major structural proteins in the hippocampus and has been reported to be susceptible to -calpain degradation, more importantly, it is claimed to be resistant to enzymatic cleavage by other proteases (Bradley et al., 2003). CalS-I, CalS-II and CalS-III are the three main calpain specific substrates that can be used to monitor calpain activity through florescent monitoring, each substrate 45
+
+Chapter 2: Literature Review having a specific affinity for different calpain isoforms. The two substates used in characterizing -calpain were: · Calpain-1 Substrate, Fluorogenic (CalS-I): An internally quenched
+
+fluorogenic substrate peptide derived form the calpain-1 cleavage site of spectrin. Serves as a sensitive and specific substrate for calpain-1; Cleavage occurs between Tyr-Gly residues and results in enhanced fluorescence, hence the greater the amount of cleavage the more fluorescence there is. · Calpain-2 Substrate, Fluorogenic (CalS-II): Cyclic Fluorogenic substrate for the quantitative determination of calpain -1 and -2. Also suitable for measuring the peptidase activity of the 20S proteasome. · Calpain Substrate III, Fluorogenic (CalS-III): based on 106 known cleavage sites. Intra-molecularly quenched (FRET) substrates constitute a set of fluorogenic substrates which have been used to monitor proteolytic activity (Bradley et al., 2003). They consist of a donor fluorescent group and an acceptor moiety that is capable of quenching the donor's fluorescence. The two fragments are separated by the peptide sequence of interest, and cleavage of this peptide results in separation of the two dyes, causing an increase in fluorescence intensity and thus an indication of enzymatic activity (Bradley et al., 2003). The FRET substrate is a much stronger competitor of the endogenous substrates than some commercial peptide substrates hence it is capable to detect the actual calpain activity more precisely and to give information about weak calpain inhibition or activation. A fluorogenic FRET
+
+peptide with a substrate sequence that is optimized for calpain-1 and -2
+
+2.5.2
+
+Myofibril Preparation
+
+`Wang' Method Seu-Mei Wang (1998) developed a method for preparing myofibrils for Western blotting that involves soaking muscle fibres in a buffer containing 75 mM KCl, 10 mM Tris-base, 10 mM EGTA, 2 mM MgCl2, 0.1 mM PMSF and 0.1% Triton X100. Fibres are then homogenised with buffer using a Teflon/glass homogeniser, 46
+
+Chapter 2: Literature Review centrifuged and stored in standard salt solution containing 50% glycerol. Although this method for preparing myofibrils has been used many for years, the mechanical blending produces many fragments of bundles, presumably with trapped non-fibrillar muscle components (Kohn, 1967). This reduced the myofibril significantly. Hence researchers have looked for a less abrasive method that will degrade and remove connective tissue, yet produce undamaged myofibrils. Collagenase Method Meat toughness is often attributed to two factors: myofibrillar toughness and connective tissue type and content. Proteolysis of myofibrillar proteins occurs through either endogenous Ca2+- dependent proteases or cathepsins. Neither ageing nor enzyme treatment, however, reduces toughness caused by connective tissue because collagen remain largely unchanged, especially in animals where collagen cross-linking is extensive (Kalchayanand et al., 2000). Specific mammalian proteases can improve tenderness of certain cuts by selectively hydrolyzing collagen. Bovine placental collagenase is of significance because of the large-scale degradation of placental connective tissue during parturition (Kalchayanand et al., 2000). The collagenase method is rapid and yields isolated fibrils in a high stage of purity. Collagenase prevented mechanical damage and doesn't require a homogeniser. Clumping is greatly reduced for reasons not fully understood, but which may be due to degradation and possible subsequent removal of collagen (Kohn, 1967).
+
+2.5.3
+
+Protein Measurement and Detection Methods
+
+Density Marker Beads This technique uses commercial density marker beads which are dyed derivatives of SephadexTM. There are ten colour-coded beat types, each with a specific density, which have been specifically formulated for use in Percoll gradients. They do not work with other media. The particles are separated solely on the basis of differences in density, irrespective of size. The density range of the gradient medium encompasses all densities of the sample particles. Each particle
+
+47
+
+Chapter 2: Literature Review sediments to an equilibrium position in the gradient, which represents where the gradient density is the same as the particle's density. The position of cells or organelles within the gradient may be accurately located before fractionation using performed gradients. The densities of the Density Marker Beads cover the buoyant densities of the vast majority of cells and organelles to be separated in Percoll. As well as providing a rapid and simple method for density measurement. Density Marker Beads provide more accurate data than other methods because distortion of gradients by fractionation before analysis is completely avoided. Sarcomere Length Muscles that are relaxed or stretched when they enter rigor have longer sarcomeres and are more tender after cooking than contracted ones (Locker, 1987). The sarcomere length determines how many myosin heads of the thick filaments can be attached to the actin on the thin filaments - the greater the number (and therefore the greater the number of cross-bridges formed), the tougher the meat (Warriss, 2000). Sarcomere length can be measured directly by examining prepared myofibres under the microscope or by using optical diffraction. Myofibrillar Fragmentation Index Myofibrillar Fragmentation Index (MFI) calculates the average length of myofibrils on a slide or percentage of myofibrils within a group. This methodology can be used if a large number of samples need to be prepared for MFI analysis. It involves homogenising the sample to separate the myofibrils. Although the mechanical disruption can damage and shorten the myofibrils, this damage is presumed to be constant for all samples so the data produced are relative to each other. However, the relationship between MFI values and meat tenderness is not always clear (Warriss, 2000). Chromatography Chromatography technique can be used to separate on the specific properties of the biomolecules (Table 2.2).
+
+48
+
+Chapter 2: Literature Review
+
+Table 2.2
+
+Separation techniques in chromatographic purification (adapted from Amersham
+
+Biosciences Handbook, United Kingdom)
+
+Property Charge Size Hydrophobicity Biorecognition (ligand specificity)
+
+Technique Ion exchange chromatography (IEX, chromatofocusing (CF) Gel filtration (GF), also called size exclusion Hydrophobic interaction chromatography (HIC) Reversed phase chromatography (RPC) Affinity chromatography (AC)
+
+Ion exchange chromatography (IEX) for separating biomolecules was introduced in the 1960s and continues to play a major role in separating and purifying biomolecules (Goll & Otsuka, 1985; Kent et al., 2005; Koohmaraie, 1990). This technique is one of the most frequently used techniques for purifying proteins, peptides, nucleic acids and other charged biomolecules. IEX offers high resolution and group separations with high loading capacity and can separate molecular species that have only minor different in their charge properties, such as two proteins differing by one charge amino acid. These features make IEX well suited for capture, intermediate purification or polishing steps in a purification protocol and the techniques is used for micro-scale purification and analysis through to purification of kilograms of product (Amersham Biosciences Handbook, United Kingdom). IEX chromatography media are made from porous or non-porous matrices, chosen for their physical stability, chemical resistance and low level of non-specific interaction. The matrices are substituted with functional groups that determine the charge of the medium. Most proteins have isoelectric points within the range 5.5 to 7.5 and can be separated on either strong or weak ion exchangers. An advantage of a weak ion exchanger, such as DEAE (anionic), ANX (anionic) and CM (cationic) is that they can offer a different selectivity compared to strong ion exchangers (Amersham biosciences, United Kingdom). A disadvantage is that, because weak ion exchangers can take up or lose protons with changing pH, their ion exchange capacity varies with pH. 49
+
+Chapter 2: Literature Review Polyacrylamide Gel Electrophoresis (PAGE) Protein separation allows a complex sample to be fractionated so it can be subjected to further analysis or experimentation. With pure fractions, researchers are able to better understand the function of a particular protein and its place within the biological system. Electrophoresis can be used to separate proteins. Electrophoresis involves migration of charged molecules in solution in response to an electric field. Their migration rate depends on the strength of the field, the net charge, size and shape of the molecules and the ionic strength, viscosity and temperature of the medium the molecules are moving in. Electrophoresis is simple, rapid and highly sensitive analytical tool. It can be used to study the properties of a single charged species or as a separation technique (Barany et al., 1995). Generally the sample is run in a support matrix such as paper, cellulose acetate, starch gel, agarose or polyacrylamide gel. The matrix inhibits convective mixing caused by heating and provides a record of the electrophoretic run. At the end of the run, the matrix can be stained and used for scanning, autoradiography or storage. Because the most commonly used support matrices - agarose and polyacrylamide ­ are porous gels, they provide a way to separate molecules by size. A porous gel may act as a sieve by impeding, or in some cases completely obstructing, movement of large macromolecules while allowing smaller molecules to migrate freely. Because dilute agarose gels are generally more rigid and easy to handle than polyacrylamide gels of the same concentration, agarose is used to separate larger macromolecules such as nucleic acids, large proteins and protein complexes. Polyacrylamide, which is easy to handle and to make at higher concentrations, is used to separate most proteins and small oligonucleotides that require a small gel pore size. A particularly important procedure is PAGE in the presence of the anionic detergent, sodium dodecyl sulphate (SDS), which is a very effective solubilizing agent for a wide range of proteins. The SDS-PAGE method is currently the most commonly used electrophoretic separation technique for most protein samples. It
+
+50
+
+Chapter 2: Literature Review is a relatively simple and reproducible technique, yet can have very high resolution and can separate proteins by as little as 1% (equivalent to a difference in molecular weight of ~1 kD). Electrophoresis under native conditions is often used to analyse soluble proteins and has the advantage of being able to retain their biological and enzymatic properties. In contrast, more vigorous and often denaturing conditions are used for analysing less soluble proteins. Western blot Analysis Western blotting is a routine yet powerful tool for detecting and characterizing proteins. The method takes advantage of antibody specificity to identify proteins that have been separated by polyacrylamide gel electrophoresis and transferred to a membrane. Western blotting involves sequential recognition between three different components: the target protein, a primary antibody that recognizes the target protein, and a secondary antibody that both recognizes the primary antibody and generates a detectable signal. After proteins have been bound do a membrane, the membrane is blocked, incubated with primary antibody, then secondary antibody and washed. The primary antibody binds to the protein of interest, and the secondary antibody enables its detection. The secondary antibody can be labelled with a radioisotope, a fluorophore, or an enzyme, typically horseradish peroxidase (HRP) or alkaline phosphatase (AP). fluorescent) detection. After considering the various methods that could be used to identify individual proteins, it was decided to use Chemiluminescent Detection, which involves producing detectable light from a chemical reaction. These reactions can be catalyzed by an enzyme such as alkaline phosphatase (AP) or Horseradish Peroxidase (HRP) conjugated to an antibody. The light signal can be captured on x-ray film or by highly-specialised charged coupled device (CCD) instruments. Chemiluminescent technology is easily adapted to existing Western blotting procedures because it uses antibody-conjugated enzymes to generate the light signal. This method has several advantages including speed and sensitivity. Current Western Blotting techniques involve light-based (chemiluminescent, bioluminescent, chemifluorescent and
+
+51
+
+Chapter 2: Literature Review Average exposure times are 30 seconds to 15 minutes, which is much shorter that older methods, which can require up to 48 hours of film exposure. Detecting very low amounts of protein is typical of chemiluminescent systems, which are more sensitive than most colorimetric systems and approximately equal to that of radioisotopic detection. Even so, sensitivity of a system is related to the affinity of the antigen and antibodies used. Thus high variability can occur.
+
+2.6
+
+Research Objectives
+
+Published research shows that in recent years there has been a shift in emphasis in livestock production away from increased muscle growth towards improved meat quality (Bardsley et al.). Although there is increasing understanding of different protease enzymes and their implication within the meat tenderization process, it is unclear which structures these enzymes degrade within muscle and what role this may play in the problem of variability in tenderness.
+
+Although calpains are the only influence on meat tenderness, techniques for measuring calpains and protein degradation can help increase the understanding of how changes in muscle components after death affect meat tenderness and quality. Temperature, time and specific protein degradation with calpain are three factors that have a fundamental impact on tenderness and therefore eating quality of meat. If we can better understand how calpains react with change in temperature, over a length of time, we will begin to understand how these factors affect the whole meat system and ultimately the quality of meat within the market place. The major aim of this work is to identify calpain-dependent proteolysis in myofibril preparation by examining the effect of -calpain on myofibril breakdown. These properties are primarily dependent on the structural integrity of the protein lattice comprising muscle cells. The integrity and structure of these proteins will change during thermal denaturation and post-mortem proteolysis and thus I can compare the effect of degradation on two known substrates - desmin and troponin-T. The first goal was to learn specific biochemical techniques and use these
+
+52
+
+Chapter 2: Literature Review techniques to obtain data. The presumed effect of calpain was explored with a temperature tenderization model using bovine muscle, different pre-rigor temperature followed by aging at a constant temperature. This should give a clear indication of the contribution calpain has on these specific proteins within the muscle. In this study all variables were used as treatments applied to single skeletal muscle cells. I hypothesise that each of these factors will have an effect on denaturation of the myofibrils within bovine muscle.
+
+53
+
+Chapter 3: Materials and Methods
+
+54
+
+Chapter 3: Materials and Methods
+
+Chapter 3
+
+MATERIALS AND METHODS
+3.1 Introduction
+
+This chapter provides general details and explanations of the materials and methods used in this research.
+
+3.2
+
+Muscle
+
+The animals underwent humane slaughter with captive bolt stunning at a commercial abattoir and were exsanguinated immediately post stunning. The carcasses were dressed according to normal commercial dressing practices and samples were recovered from the m. longissimus dorsi in the region of the twelfth rib. The samples were immediately transported to the laboratory in a chilled container for further processing.
+
+3.3
+
+Materials
+
+All chemicals unless otherwise stated Analar grade and supplied by Sigma Aldrich (Australia) or BioLab (New Zealand).
+
+3.4
+
+Myofibril Preparation
+
+A 5-g sample of bovine m. longissimus dorsi (LD) muscle was teased apart using forceps and finely minced in 30 mL of rigor solution, pH 7.0 containing 10 mM imidazole, 75 mM KCl, 2mM MgCl2, 2 mM EGTA, 2 mM NaN3, and 0.5% (v/v) Triton X-100. The fibres were further cut using surgical scissors, 300l phenylmethylsulfonyl fluoride (PMSF) was added and the slurry was agitated at room temperature (RT) for 1 hour. The muscle fibre suspension was centrifuged at 2000g, 4oC for 5 minutes. The supernatant was discarded and the pellet was washed four times with 15 mL of pH 7.1 Boric acid salt solution (BASS) containing 25 mM KCl, 39mM boric acid, 0.1 mM PMSF, 0.1 mg/mL soyabean trypsin inhibitor. The muscle fibre pellet was then resuspended in BASS buffer containing 0.5 mg/mL collagenase type 1
+
+55
+
+Chapter 3: Materials and Methods (Sigma), protease cocktail inhibitors (Roche Diagnostics, a division of F. Hoffmann-La Roche Ltd, Basel, Switzerland.) 0.1mM CaCl2 and digested for 30 minutes at 25oC. Approximately 15 minutes into the digestion the slurry was then mixed and disruption aided by repeatedly drawing the solution through a pipette tip until the mixture flowed in and out freely. The first pipette used in this procedure had an internal tip diameter of 4mm. Once the solution flowed freely through this it was allowed to incubate for a further 5 minutes then the process was repeated through a 2mm internal diameter pipette tip. This mechanical disruption aided in the production of a high yield of good quality myofibrils. This myofibril suspension was centrifuged at 2000g for 5 minutes and then resuspended in 15 mL of ice-cold standard salt solution containing 100 mM KCl, 2 mM MgCl2, 2 mM EGTA, 1 mM NaN3, 0.1 mM PMSF and 0.1 mg/mL trypsin inhibitor. This step was repeated three to four times until the supernatant became clear. The muscle suspension was then transferred to a Teflon centrifuge tube and the centrifuge allowed to run briefly up to 300g then stopped. The myofibrils suspended in the supernatant were then collected, centrifuged at 3000g for 10 minutes, the resulting pellet was resuspended in 25 mL of pH 7.0 phosphate buffer containing 0.1 mM PMSF, 50% glycerol and stored at -20oC until used (maximum of 6-8 weeks).
+
+3.5
+
+BioRad Protein Assay
+
+Protein concentrations were determined by the bicinchonic acid (BCA) method (Fujimoto et al., 1985) using bovine serum albumin (BSA) as a standard. Make 1 mL of 50 g/l bovine serum albumin (BSA) in phosphate buffered saline solution (PBS), pH 7.4 and prepare five to seven serial dilutions of a protein standard, representative of the protein solution to be tested. The dilutions prepared contained 50, 25, 12.5, 6.25, 3.13, 1.56 and 0.78 mg BSA/mL. Add 1 L of each of the BSA dilutions to 800 L of PBS, remembering to include a control with PBS only. Make two dilutions of each myofibril sample in 800L of PBS and mix thoroughly. Add 200 mL of Bio-Rad Protein Assay Dye Reagent Concentrate, vortex and incubate at room temperature for at least 5 minutes and a maximum of 1 hour. Wait for colour change and measure absorbance at 595 nm (Jenway 6405 UV/VIs spectrophotometer, Essex, England).
+
+56
+
+Chapter 3: Materials and Methods
+
+3.6
+
+-Calpain Activity
+
+Catalytic activity of porcine -calpain was determined using a fluorogenic FRET peptide substrate for -calpain with a cleavage site for -spectrin (CalBiochem, affiliate of Merck Biosciences, Darmstadt, Germany). Porcine -calpain (2 µg ~2.5 units/mL) activity was determined using the method described by Mittoo et al. (2003). This involved diluting -calpain in 100 µL 50mM Tris-HCl buffer, pH 7.4 containing 50 mM NaCl, 1 mM EDTA, 1 mM EGTA, 0.05% (v/v) 2mercatoethanol and placing the sample in a fluorescent, black-walled, 96-well plate (Grienier BioOne, Australia) together with 10 µL 100µM fluorogenic calpain-1 substrate (final concentration 1µM). The reaction was started by adding 5 mM CaCl2. The change in fluorescence at 25oC over 30 minutes was measured at an excitation wavelength of ~490 nm and emission wavelength of ~518 nm. Subsequent experiments were conducted with varying enzyme and substrate volumes and with different additives such as 1,2bis(o-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid) (BAPTA, a calciumspecific chelator), EDTA and EGTA. Data expressed as increased fluorescence after allowing for the basal fluorescence.
+
+3.7
+
+-Calpain Incubation
+
+Bovine LD myofibril preparation (10 µg) was re-suspended in 100 µL Tris-Mes buffer, pH 7.4 containing 10 mM EDTA, 0.1 mM PMSF and incubated at various temperatures in the presence or absence of 2 µg (2.5 units) of porcine -calpain. After the required incubation time, the myofibril preparation was immediately placed on ice and centrifuged at 3,000g, 4oC for 5 min. The myofibril pellet was washed three times with 30 L pH 6.8 Tris-HCL buffer. The final myofibril pellet was denatured in Laemeli buffer. Samples were separated by SDS-PAGE and tested for actin, troponin T and desmin using immunoblotting.
+
+57
+
+Chapter 3: Materials and Methods
+
+3.8
+
+Degradation Markers
+
+3.8.1
+
+Myofibrillar Fragmentation Index
+
+A 15-l sample of myofibrils was mixed with 2 mL of Standard Salt Solution containing 100 mM KCl, 2 mM MgCl2 , 2 mM EGTA, 1 mM NaN3, 0.1 mM PMSF and 0.1 mg/mL trypsin inhibitor. The solution was mixed by pipeting up and down several times. A 40-l aliquot was then placed on a slide and covered with a cover slip. Excess sample was removed by pressing gently on the edge of the cover slip with a tissue. The slide was placed under a phase contrast microscope (Leitz Wetzlar, Orthoplan, Germany) 25x objective lens and images were taken and saved as JPEG files.
+
+3.8.2
+
+Density Beads
+
+A 30-L myofibril sample was mixed with 1.5 mL of Percoll solution (450 L percoll, 360 L 2.5 M sucrose, 740 L of 200 mM, pH 8.5 KCl buffer, 15.5 L Triton X-100) and 10 L density marker solution (1.042 g/mL blue and 1.063 g/mL green density marker beads - Amersham Pharmacia Biotech, Sweden) and then centrifuged at ~38 000g for 30 min at 20°C. The distance from the base of the meniscus to each marker bead line and myofibril line was measured (mm) (Figure 3.1). The relative myofibril density was calculated as:
+
+Meniscus Blue beads Myofibril
+
+Green beads
+
+Figure 3.1
+
+Diagrammatic representation of Density beads within a Myofibril Sample.
+
+58
+
+Chapter 3: Materials and Methods
+(myofibril line - blue bead line) = % travelle d (green bead line - blue bead line)
+
+(a)
+
+(stated density of green beads - stated density of blue beads ) % travelled
+= density of myofibrils
+
+(b)
+
+3.9
+
+SDS-PAGE and Western Blotting
+
+3.9.1
+
+Preparing Protein Samples
+
+Approximately 20 g of prepared myofibril samples in 5 L of Laemmli buffer were boiled for 5 min, chilled on ice and separated on one-dimensional SDSPAGE under reducing conditions. Sample concentration is usually between 150g total protein for Western blotting and Coomassie staining, 0.5 to 10g for silver staining. The maximum volume for loading onto a 15 well comb gel is 20L.
+
+3.9.2
+
+Preparing Polyacrylamide Gels for SDS-PAGE
+
+Separating gel: (see TABLE 3.1 for reagents and volumes) Combine all reagents in a beaker except APS and TEMED. Mix gently. Add APS and TEMED to begin polymerisation, mix gently and pipette into gel bed slowly, leaving room for a stacking gel. Pipette H2O-saturated butanol, or water over the top carefully. Allow the gel to set, approx 10 to 60 minutes at room temperature. Gel may be stored overnight at 4°C covered with water and wrapped in glad-wrap.
+
+Table 3.1. Volumes and Reagents within Preparation of Polyacrylamide Separating Gels
+Separating Gels H20 (mL) 1.5 M Tris HCl pH 8.8 (mL) Acrylamide/Bis 30% (mL) 10% SDS (L) 10% APS (L) TEMED (L) 4% 3 1.25 0.67 50 75 15 8% 2.34 1.25 1.33 50 25 5 10% 2 1.25 1.68 50 25 5 12% 1.67 1.25 2 50 25 5 15% 1.17 1.25 2.5 50 25 5
+
+59
+
+Chapter 3: Materials and Methods Stacking Gel: (see TABLE 3.2 for reagents and volumes) All reagents except APS and TEMED were combined (Table 3. X) and mixed gently. The excess water or butanol layer was poured off the separating gel and the gels were rinsed with 2 to 3 washes of distilled water. The APS and TEMED were then added to the stacking gel mixture, mixed, and then pipetted onto the separating gel. The comb was inserted at an angle to avoid air bubbles. The gels were allowed to polymerise for 10 to 60 minutes. For native polyacrylamide gel electrophoresis: Ingredients for both the separating and stacking gel are the same as that of the denaturing SDS-PAGE, but the SDS must be omitted. Sample buffers and running buffers must also omit SDS
+
+Table 3.2 Volumes and Reagents within Preparation of Polyacrylamide Stacking Gels
+Stacking Gels H20 (mL) 0.5 M Tris HCl pH 6.8 (mL) Acrylamide/Bis 30% (mL) 10% SDS (L) 10% APS (L) TEMED (L) 4% 1.5 0.625 0.335 25 12.5 2.5
+
+Place gels within electrophoresis tank, filling the tank with tris-SDS running buffer to an appropriate volume, making sure the buffer is above the electrode wire. Remove gel combs and slowly load samples into the wells using gel loading tips. Load protein standards. Gels were run with protein size markers ranging from 29kDa to 205kDa Kaleidoscope pre-stained protein standards (Bio-Rad Laboratories Pty Ltd). Place lid on the tank and insert electrical leads. Apply power, approx 30-40mA for two gels or 20mA for one gel. Gel electrophoresis is complete when the sample loading dye has run to the bottom. Disassemble the unit and remove the gel. At this time the gel can be stained for protein using the following methods, or used for western blotting.
+
+60
+
+Chapter 3: Materials and Methods Silver stain: Shake for 20 minutes in 200 mL for 30 minutes. Wash the gel 4 x 10 minutes in MQ water. Add 2.5 mL of each Bio-Rad Silver Stain reagent to 17.5 mL MQ water and 25 mL (warmed to room temperature) Development Accelerator Solution and mix. Pour this solution over the gel and incubate until bands are visible. Stop reaction with 5 % acetic acid, and incubate for at least 15 minutes. Rinse the gel with MQ water. Coomassie Stain: Place gel into coomassie stain (20 % Methanol, 7 % acetic acid, coomassie blue R-250) for 30 minutes or until bands can be seen. Then place the gel into destain (20 % Methanol, 7 % Acetic acid) until gel becomes colourless.
+
+3.9.3
+
+Western blotting Proteins were then
+
+Immobilon P membranes (Bio-Rad Laboratories Pty Ltd) were washed firstly with methanol and then in transfer buffer for 10 minutes. transferred directly to the membrane using a semi-dry blotting system (Schleider & Schuell Ltd, Dassel, Germany) for western blot analysis. The western blot is run at 35mA for 1 hr when transferring one gel, 70mA for 2 gels. Transfer time is adjusted for each experiment, for proteins that are very small (30 min for a 20kDa Protein) or large (1.5 hours for titin, over 2000kDa). Once the blotting has finished transfer the membranes and wash with TBS (10mM Tris-HCl buffer, pH 7.4 containing 150mM NaCl) and incubate for 1 hour at room temperature (or overnight at 4oC) in 5% non-fat skimmed milk powder in TBS pH 7.3. The blots were compared with the following primary antibodies diluted in TBS: · · · 1:1000 dilution anti-actin monoclonal antibody (Sigma-Aldrich) 1:2000 dilution anti-desmin monoclonal antibody (Sigma-Aldrich) 1:500 dilution anti-troponin t monoclonal antibody (Sigma-Aldrich)
+
+Dilute primary antibody in TBS and incubate as required. After incubation the membranes were washed three times for 10 min with TBS containing 01% (v/v) Tween-20 (TBST). Dilute secondary antibody in TBST and incubate for 60 min with 10 mL 1:3000 dilution of horseradish peroxidase (HRP)­conjugated goat 61
+
+Chapter 3: Materials and Methods anti-mouse (Bio-Rad Laboratories Pty Ltd), and then wash four times for 10 min in TBST. Antibody binding was visualized using an ECL detection kit (Pierce, America) on Kodak BioMax XAR film (Radiographic Supplies Ltd, Christchurch, NZ). Images of the gels and western blots were captured using an imaging densitometer (GS700, BioRad Life Science Products, Hercules, USA) with Multi-Analyst software (Version 1.1, BioRad Life Science Products, Hercules, USA, 1996).
+
+3.10 Experimental Design
+An experimental design was used to investigate the effect of the following factors on calpain-dependent proteolysis of bovine myofibrils: · · Source of myofibrils Treatments 1.
+2. 3. 10 mM EDTA, 10 mM EGTA -calpain, 5 mM CaCl2 -calpain, 10 mM EDTA, 10 mM EGTA
+
+bovine m. longissimus dorsi muscle
+
+In ideal circumstances, with unlimited time and resources, bovine myofibrils, calpain, chelating agents and calcium would have been tested in every possible combination (complete factorial design) to remove the effect of every variable within the experimental data. Selected treatments were used to evaluate the calcium requirement of -calpain (treatment II) and the inhibitory nature of free calcium ion chelators EDTA and EGTA (treatment III). Treatment I was included as a control to determine whether there was any non calcium-dependent proteolysis occurring or whether myofibrillar breakdown was due to incubation temperature. Without additional calpain within the treatment any native enzyme activity can be seen and taken into consideration. It is speculated that any additional treatments would not show a significant difference to the treatments already selected. Section 4.3, evaluates the effect of -calpain on specific proteins desmin and troponin-T. From previous experimental work in sections, 4.1 and 4.2, we can 62
+
+Chapter 3: Materials and Methods conclude that treatment I exhibits an inhibitory effect and thus displays results similar to that of treatment III. Due to this observation, treatment I is not shown as it will not add any significant effects to the conclusion deduced from these experiments. · Incubation temperature/time: 40oC 15 C 4C
+o o
+
+0, 5, 15, 30, 60, 180 minutes 0, 1, 6, 24, 48 hours 0, 24, 48, 72 hours
+
+The trials were done as an incomplete factorial design and replicated three times. For each trial the following were measured: · · · Calpain activity Myofibril degradation Specific Calpain digestion of myofibril proteins: desmin, troponin-T
+
+Calpain activity was measured at an excitation wavelength of ~490 nm and emission wavelength of ~518 nm. The data expressed as increased fluorescence with time. Myofibril digestion experiments were measured with the use of Mean and standard deviation of the triplicates was density marker bead and myofibrillar fragmentation index. Experiments were completed in triplicate. calculated. Data collected from densitometry was expressed as decrease in protein with time. Actin was used as a visual control.
+
+63
+
+Chapter 4: Results and Discussion
+
+64
+
+Chapter 4: Results and Discussion
+
+Chapter 4
+
+RESULTS AND DISCUSSION
+4.2 Introduction
+
+The research followed three main steps: firstly, characterization of -calpain in terms of the affinity it has with calpain-specific fluorogenic substrates; secondly, the effect of -calpain on purified myofibrillar proteins; and thirdly determining the effect (if any) that porcine -calpain has on the specific myofibrillar proteins, desmin and troponin T.
+
+4.2
+4.2.1
+
+Characterisation of Calpain Activity
+Native -Calpain
+
+In polyacrylamide gel electrophoresis (PAGE) gels that have no SDS (native gels) allow polypeptides to retain their higher-order structure. They also often retain enzymatic activity and the ability to interact with other polypeptides. Samples containing 1.5 g to 15 g of porcine -calpain were made to 15 L with native loading buffer and loaded onto a 10 % native PAGE gel (Figure 4.1). Due to the nature of native gels, there is no detectable band of -calpain but a signal at the predicted molecular mass of ~110 kDa. This indicates that the protein, which consists of a large (80 kDa) and small (30 kDa) subunit, has not separated into separate subunits and is still in the native form (which is more likely to be functional). Denaturing -Calpain
+
+4.2.2
+
+Polypeptide structures that are denatured by heating under reducing conditions and bound with the detergent SDS will show a banded signal on polyacrylamide gels. During denaturation, disulfide bonds within the protein are reduced and the protein subunits are uniformly bound with SDS. The detergent gives the
+
+65
+
+Chapter 4: Results and Discussion
+
+MW
+
+1.5
+
+5
+
+7.5
+
+10
+
+15
+
+-calpain ~ 110 kDa
+
+Figure 4.1 weight marker.
+
+Effect of increasing porcine -calpain from 1.5 g to 15 g.. Samples run on
+
+10% native-PAGE and Silver stained. MW: kaleidoscope pre-stained protein standard molecular
+
+polypeptide a uniform negative charge and binds in proportion to the size of the subunit. In the SDS-PAGE system, the gel pore size produces a sieving effect and subunits will move in proportion to their molecular mass.
+
+1.5
+
+5
+
+7.5
+
+10
+
+15
+
+~ 80 kDa
+
+~ 30 kDa
+
+Figure 4.2 Effect of increasing concentration porcine -calpain from 1.5 g to 15 g on Western blot. Samples run on 10% SDS-PAGE and transferred to PVDF membrane. Bands indicate the large (~80 kDa) and the small (~30 kDa) -calpain subunits
+
+66
+
+Chapter 4: Results and Discussion Porcine -calpain was loaded onto a 10% SDS-PAGE gel, with increasing concentration of 1.5 g to 15 g. Laemmli-denaturing loading buffer was added to gain a final volume of 15 L. Detectable subunits (80k Da and 30 kDa) of -calpain are shown (Figure 4.2). The density of the bands become more intense as -calpain concentration increases indicating overloading in the last three lanes (7.5, 10, 15 g). Thus, for good separation, protein concentration in the samples should be within 2-5 g.
+
+4.2.3
+
+-Calpain Activity
+
+Fluorogenic calpain specific assays were also used to measure the effect of additives and their action on the calpain fluorogenic substrate­I (CalS-I), the calpain-specific substrate capable of detecting enzymatic calpain activity yet resistant to other endogenous enzymes present in the sample. Varying amounts of calcium chloride and EGTA, were added to 3 L of porcine -calpain, 90 L Tris-mes buffer, pH 7.4 and 10 L of 1mM fluorogenic -calpain specific substrate. To investigate the activity of -calpain and determine the effect of well-known calpain activating chemicals such as calcium and the removal of free calcium by chelation with EGTA, -calpain was monitored in a fluorogenic calpain-specific assay. Previous fluorescence studies (Bradley et al., 2003), showed that calpain digestion of fluorogenic substrates gives an appreciable increase in fluorescence intensity. The -Calpain did not show high activity with CalS-I if there was no added calcium. As -calpain volume is increased from 0 to 5 l, activity increases slightly (Figure 4.3). Adding 2.5 L of calcium chloride increased fluorescence (emission at ~518 nm, excitation of ~490 nm) (Figure 4.4). Fluorescence intensity increased with time if calcium chloride, to give a final Ca2+ concentration of 5 mM, was added, (Figure 4.4), signifying calpain activity and enzymatic digestion of the peptide substrate. This indicated that Ca2+ was required for calpain activation. Activity for samples with 3 and 5 L of porcine 67
+
+Chapter 4: Results and Discussion -calpain continue to increase steadily until approximately 19 minutes. After this, florescent intensity began to plateau, signalling that -calpain is becoming exhausted. In the presence of 1mM CalS-I and without any calcium, -calpain shows a high activity. If 2.5 to 10 L of calcium chloride is added, activity increases significantly (Figure 4.5). As with data in Figure 4.4, fluorescence emission increased as more CaCl2 was added. To determine the effect of calcium on the affinity of -calpain for CalS-I, the effect of various amounts of EGTA was done (Figure 4.6). Inhibitory affects occur as the volume of EGTA increases, which is shown by a decrease in the fluorescent intensity. calpain. Calcium chelating EGTA will remove any additional calcium ions within the sample, hence eliminating the "activation key" of Although emission fluorescence is increased, the change was not significant. This indicates there is activity within the sample but very small increase may indicate that the activity is related to buffer contamination or to dirty wells in the assay plates.
+
+8000 7000 Fluorescence Intensity 6000 5000 4000 3000 2000 1000 0 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 Time (minutes) 0 0.5 1 2 3 5
+
+Figure 4.3 Kinetic assay monitoring catalysis of 1 mM CalS-I by varying amounts 0 to 5 L of porcine -calpain in Tris-MES buffer, pH 7.4.
+
+68
+
+Chapter 4: Results and Discussion
+
+8000 Fluorescence Intensity 7000 6000 5000 4000 3000 2000 1000 0 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 Time (minute s) 0 0.5 1 2 3 5
+
+Figure 4.4 Kinetic assay monitoring catalysis of 1 mM CalS-I by varying amounts 0 to 5 L of porcine -calpain in the presence of calcium.
+
+70000 Fluorescence Intensity 60000 50000 40000 30000 20000 10000 0 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 Time (minutes) 0 2.5 5 10
+
+Figure 4.5 Kinetic assay monitoring catalysis of 1 mM CalS-I by varying amounts 0 to 10 L of 5 mM CaCl2 in the presence of -calpain.
+
+69
+
+Chapter 4: Results and Discussion
+
+70000 Fluorescence Intensity 60000 50000 40000 30000 20000 10000 0 1 3 5 7 9 11 13 15 17 19 21 23 25 27 29 Time (minutes) 0 5 10 20
+
+Figure 4.6 Kinetic assay monitoring catalysis of 1 mM CalS-I by varying amounts 0 to 20 L of EGTA in the presence of -calpain.
+
+16000 Fluorescent Intensity 14000 12000 10000 8000 6000 4000 2000 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 Time (minutes) 0 ul 2.5 ul 5 ul 10 ul
+
+Figure 4.7 Kinetic assay monitoring catalysis of 1 mM CalS-III by varying amounts 0 to 10 L of CaCl2 in the presence of -calpain.
+
+The effect of porcine -calpain was further investigated by exchanging CalS-I with CalS-III and repeating the experiment. The CalS-III has higher specificity for m-calpain than CalS-I, which has a higher affinity for -calpain. The effect of varying amounts of CaCl2 on the activity of porcine -calpain on CalS III is
+
+70
+
+Chapter 4: Results and Discussion presented in Figure 4.7 and 4.8. Compared with previous experiments (Figure 4.5), the activity is much lower and does not increase with time. In the presence of varying concentrations of EGTA, -calpain does not have any significant activity on CalS-III.
+
+16000 Fluoresent Intensity 14000 12000 10000 8000 6000 4000 2000 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 T ime (minutes)
+0 5 10 20
+
+Figure 4.8 Kinetic assay, monitoring catalysis of 1 mM CalS-III by varying amounts 0 to 20 L of EGTA in the presence of -calpain.
+
+4.2.4
+
+Calpain Digestion of myofibril Proteins
+
+The calpain protease system is believed to play a central role in post-mortem proteolysis by degrading key myofibrillar as well as myofibril-associated proteins. Purified bovine myofibrils were incubated with or without porcine -calpain in the presence of both 10 mM EDTA and 10 mM EGTA or 5 mM CaCl2. The proteolytic patterns were monitored by 12% SDS-PAGE (Figures 4.9). Data is presented for samples containing Ca2+ and incubated at the two temperature extremes investigated - 40°C and 0°C. This indicates the general change occurring at different temperatures for the same sample. At 0°C, there is no or little degradation occurring whereas when -calpain is incubated at 40°C, extreme degradation occurs (Figure 4.9). Although the data is not presented, samples incubated at 15°C also exhibited some degradation. Well-separated protein bands of interest in the SDS-PAGE were compared using
+
+71
+
+Chapter 4: Results and Discussion kaleidoscope pre-stained protein standards. chains can be estimated but not very accurately. Two main proteins that can be
+
+identified are myosin and actin. Proteins, desmin, troponin T and various light
+
+Supernatant 0 12 24 48 72
+
+Pellet 0 12 24 48 72
+
+Pellet 0 30 1 12 24
+
+Supernatant 0 1 12 24
+
+Myosin
+
+Actin
+
+Figure 4.9 Silver stain of bovine myofibrils incubated with -calpain and calcium at (A) 0°C for 0-72 hours and (B) 40°C for 0-24 hours. There is no 30-minute sample as too little supernatant produced.
+
+4.2.5
+
+Discussion
+
+The properties of calpains in response to substrates, temperatures and time, have previously been studied by different scientists for many years (Baron et al., 2004; Bode et al., 2001; Dobbie et al., 1996) . These studies have concluded that an increase in intracellular calcium ion concentration is can trigger the activation of the calpains and that specific substrates can be used to monitor proteolytic activity. Native and denaturing polyacrylamide gels were used to evaluate and illustrate the conformation of the enzyme in question, porcine -calpain. The method of native gel electrophoresis allows the proteins to retain their higher-order structure yet be separated according to differences in their charge density. This is not a method for accurately determining molecular mass as the enzyme does not separate into defined subunits. As the concentration of -calpain increases (Figure 4.1 and 4.2), the bands become more distinguishable. In native gels, the enzyme is not denatured and hence will not show up in a banded pattern. All that is seen is a signal around the predicted area of ~110 kDa. However, when the enzyme is 72
+
+Chapter 4: Results and Discussion denatured, definite subunits of the larger 80 kDa and the smaller 30 kDa subunits are detected (Figure 4.2). The mechanism by which calcium ions weaken myofibrillar structures during the ageing of meat has been suggested to be an indirect action through activation of calpain (Ji & Takahashi, 2006). Incubating fluorogenic calpain-specific substrate and enzyme in buffer in the absence of calcium showed no or very little proteolytic activity (Figure 4.3). Previous studies have found that adding CaCl2 led to a steady increase in fluorescence intensity with time, indicating calpain activity and enzymatic digestion of the peptide substrate, as well as the requirement of Ca2+ for calpain activity (Bradley et al., 2003). observing that fluorescent intensity increased significantly. The data indicate that about 3 L of porcine -calpain is needed a 100-L sample of myofibrils. Samples that contain 5 L of enzyme degrade very quickly (Figure 4.5). Fluorescent intensity increases rapidly within the first 10 minutes of the reaction. Adding 2 L or less only produces a steady plateau that never really increases. The effect of increasing -calpain is a steady increase in fluorescent intensity with time. It has (Banoczi et al., 2004) also reported that the amount of peptide cleavage within the sample progresses with incubation time. As a result, the generation of light and increased fluorescent intensity occurs. CalS-I and CalS-III have an specificity for -calpain and - and m-calpain respectively and thus were chosen to show how the enzyme in question porcine calpain will cleave peptides and subsequently generate a fluorescent intensity enzymatic activity. As discussed in preceding chapters, Ca2+ is required to activate the -calpain enzyme (Cong et al., 2003). Each substrate used was subjected to varying calcium and EGTA levels with a constant amount of 3 L of -calpain to determine whether it is advantageous to add calcium to the sample and also whether an inhibitory effect will occur. When reacting CalS-I with porcine -calpain, increasing the calcium concentration resulted in a steady This was demonstrated by introducing 2.5 L of CaCl2 to the sample (Figure 4.4), and
+
+73
+
+Chapter 4: Results and Discussion increase in fluorescent intensity. Increasing the calcium concentration did not have s significant effect on CalS-III. The CalS-III has an affinity for both - and m-calpain yet the florescent intensity is not as high so a lower signal is shown when the enzymes are activated (Figure 4.7). Electronic gain compensation of the fluorimeter used to measure the level of fluorescence needs to be taken into consideration and can be manipulated to improved the response. EGTA, a calcium chelator was used to exhibit any inhibitory aspects on -calpain by binding any free calcium ions. As EGTA concentration was increased, the florescent intensity from CalS-I decreases (Figure 4.6) because any free calcium within the sample have been chelated so calpain activity is inhibited. However, samples that contain the fluorogenic substrate CalS-III were not significantly affected by changes in calcium concentration. . This may be evaluated differently if the `gain' on the instrument was manipulated to suit this specific substrate. The protease -calpain has been implicated as the major causative agent for many of the proteolytic changes that occur as meat is aged (Beekman et al., 1996). The first aim of this study was to evaluate degradation of myofibrillar and myofibrilassociated proteins after the samples had been incubated in the presence of porcine -calpain. The second aim was to identify if incubation temperature influenced the reaction. Analysis with SDS-PAGE showed that incubating myofibrils with -calpain degraded the two proteins, myosin and actin. Silver staining indicated evidence of other myofibrillar breakdown, although it is difficult to evaluate what these proteins are without peptide-mass mapping. Characterisation of actin fragments clearly shows that actin is indeed a postmortem substrate of -calpain. However, it is also clear that only a minor fraction, if any, of the myofibrillar actin is degraded so no significant decrease was observed and the main variations were due to uneven protein loading. Several reports have previously found that actin is resistant to -calpain-mediated degradation (Geesink et al., 1995; Huff-Lonergan et al., 1996). An later proteome study found that actin is degraded during post-mortem storage (Bendixen et al., 2004). As with actin, it has been claimed that myosin heavy chain is not degraded
+
+74
+
+Chapter 4: Results and Discussion by -calpain (Koohmaraie, 1992), however, the data obtained show there is a small amount of degradation. Although it can not be evaluated, it is speculated that the bands at approximately 53 kDa and 30 kDa are desmin and troponin T respectively. Previous studies have shown that desmin and troponin T are substrates of -calpain under postmortem conditions (Geesink & Koohmaraie, 1999; Huff-Lonergan et al., 1996). It is likely that the loss of troponin T is caused by action of proteolytic enzymes (Dransfield & Penny, 1979). Because troponin T is an integral part of skeletal muscle thin filaments, its role in tenderisation may be more important that has been suggested in literature. Due to its role in maintaining the integrity of the muscle cell, desmin degradation is believed to have a significant impact on meat quality. It is assumed that the enzymatic system responsible for this degradation during post-mortem storage of muscle is the calpains as desmin has been shown to be susceptible to proteolysis.
+
+4.3
+
+The effect of -calpain on Myofibril Degradation
+
+To test the effect of -calpain on myofibril proteolysis, a series of experiments investigated the effect of porcine -calpain proteolysis on myofibril density and myofibrillar fragmentation index (MFI). 4.3.1 Myofibrillar Density
+
+To determine whether changes in density are an important factor during -calpain myofibril degradation, density measurements (using a Percoll/Sucrose gradient) were taken with time at specific temperatures. Data were then calculated as relative myofibril density versus time over a constant temperature. The myofibril density of prepared bovine myofibs stored at 0°C decreased over 72 hours (Figure 4.10). Density of samples stored at 15°C increased with storage time except for the sudden density decrease at 48 hours for treatment III (Figure 4.11). A decrease in density is related to a increase in volume. There is no reason why a sudden decrease should occur within Treatment III unless it had undergone sudden proteolytic degradation or due to a physical property such as the dissociation of clumped myofibrils. 75
+
+Chapter 4: Results and Discussion Increased density can be related to altered conformation of proteins (Dobbie et al., 2004). A protein may unravel from the quaternary to a tertiary or even secondary state under the pressure of temperature or enzymatic influences. An increase in the mass of a protein will result in an increase of density. Further work needs to be done to see if the density changes observed were due to -calpain enzyme activity or to changes in other protein properties. The relative density of myofibrillar samples stored at 40°C increased between 0 to 6 hours storage then decreased between 6 to 24 hours. It was reported (Dobbie et al., 2004) that storing at high temperature increases myofibrillar protein denaturation. loss. At 24 hours (Figure 4.12), complete degradation of structural proteins may occur, increasing the volume and subsequently resulting in a density
+
+0.00700 0.00600 0.00500 Relative Density 0.00400 0.00300 0.00200 0.00100 0.00000 0 24 48 72 0 24 48 72 0 24 48 72
+
+Treatment I
+
+Treatment II Time (hours)
+
+Treatment III
+
+Figure 4.10
+
+Effect of storage time at 0°C on relative myofibril density.
+
+76
+
+Chapter 4: Results and Discussion
+
+0.00700 0.00600 0.00500 Relative Density 0.00400 0.00300 0.00200 0.00100 0.00000 0 1 6 24 48 0 1 6 24 48 0 1 6 24 48
+
+Treatment I
+
+Treatment II Time (hours)
+
+Treatment III
+
+Figure 4.11
+
+Effect of storage time at 15°C on relative myofibril density.
+
+There was a large variation in the starting value of myofibrillar density (0 hour) for each incubation. The starting values for each temperature were expected to be similar, regardless of treatment conditions as aliquots for testing were taken from the same sample of bovine myofibrils. The relative myofibril density at 0 hours for treatments I, II and III (Figure 4.10) was approximately 0.0045-0.0055 compared to 0.002 at 0 hours for treatments I and II (Figure 4.11 and Figure 4.12). The purified myofibrils had been stored, frozen and thawed when required. The length of frozen storage may have affected them. For instance, myofibrils used for incubations at 0°C had been frozen for several weeks but those for the incubation of 15 °C and 40°C had been frozen for a week or less. This may have had an effect on the myofibril lattice properties.
+
+77
+
+Chapter 4: Results and Discussion
+
+0.00700 0.00600 Relative Density 0.00500 0.00400 0.00300 0.00200 0.00100 0.00000 0 1 3 6 24 0 1 3 6 24 0 1 3 6 24
+
+Treatment I
+
+Treatment II Time (hours)
+
+Treatment III
+
+Figure 4.12
+
+Effect of storage time at 40°C on relative myofibril density.
+
+4.3.2
+
+Myofibrillar Fragmentation Index
+
+Although the myofibril fragmentation index (MFI) procedures described by Olson & Parrish (1977) and Davis et al. (1980 differ, they both measure myofibril fragmentation. Olson & Parrish (1977) attributed the increase in fragmentation to proteolytic activity of the calcium-dependent protease. The MFI's are used to determine degradation of myofibrillar proteins. should be a subsequent decrease in density. The effect of adding -calpain, calcium or inhibitory agents, on myofibrillar degradation at a given temperature is presented in (Figure 4.13 ­ 4.15) Calcium is required for -calpain activity so adding calcium chelating chemicals such as EDTA and EGTA should inhibit -calpain activity. The myofibril length in treatments containing inhibitors decreased slightly (Figure 4.13), implying that there could be a small amount of proteolysis occurring. The length of myofibrils If degradation occurs, there
+
+78
+
+Chapter 4: Results and Discussion in samples containing calcium (Treatment II) also decreased, especially at 0 to 24 hours. The MFI index increased with time for treatments containing EDTA/EGTA (Figure 4.15) except for one sample at 6 hours. The MFI's in samples with EDTA/EGTA should be constant, unless enzymes or species beside -calpain are affecting myofibrillar degradation. There is no inhibition shown within treatments that contain EDTA/EGTA, it is speculated that the myofibril lattice is absorbing water, consequently swelling and giving the impression of increasing myofibril length. Treatment II shows evidence of proteolytic breakdown as there is a gradual decrease in myofibril length. As with Figure 4.13, there is an increase in myofibril length between 0 and the following sample. It is assumed that myofibrils are undergoing a mechanism in which "relax" takes place and the illusion of a longer myofibril length is displayed. Myofibril length then exhibits a decrease which is resultant of myofibrillar proteolysis. EGTA/EDTA sequesters all free calcium within a treatment and therefore inhibits all -calpain proteolytic activity. Treatment I shows a constant myofibril length. This is expected, whereas treatment III also containing EDTA/EGTA shows a dominating trend of decreasing myofibril length. A decrease in myofibril length says that proteolytic activity or temperature is having and effect on the breakdown of myofibril proteins. Treatment I does not contain -calpain. From the fluctuation results it is speculated that -calpain is not inhibited by EGTA or EDTA with treatment III. At 3 hours, myofibril length increases. This is difficult to predict. Similar results are exhibited for treatment II (Figure 4.14) as seen with previous temperatures (Figures 4.13 ­ 4.15). This indicates that -calpain does have an effect on myofibril length. As time progresses, calcium ions will activate -calpain, weakening Z-disks and leading to fragmentation of myofibrils. Standard error bars do not show a large variation yet the overriding factor is that results do not show what is expected. This gives an indication that the
+
+79
+
+Chapter 4: Results and Discussion methodology or the techniques used within this experiment need to be further developed or refined to ensure that results are accurate and consistent. Several replications of both experiments need to be completed.
+60
+
+50 Myofibril Length (um)
+
+40
+
+30
+
+20
+
+10
+
+0 0 24 48 Treatment I 72 0 24 48 72 0 24 48 72
+
+Treatment II Time (hours)
+
+Treatment III
+
+Figure 4.13 triplicate
+
+Effect of storage time at 0°C on myofibril length (m). Points are means plus or
+
+minus standard errors (vertical lines) of measurements, each sampling time point measured in
+
+70 60 50 40 30 20 10 0 0 1 3 Treatm ent I 6 0 1 3 Treatm ent II Time (hours) 6 0 1 3 6
+
+Myofibril Length (um)
+
+Treatm ent III
+
+Figure 4.14 triplicate
+
+Effect of storage time at 40°C on myofibril length (m). Points are means plus
+
+or minus standard errors (vertical lines) of measurements, each sampling time point measured in
+
+80
+
+Chapter 4: Results and Discussion This will cut out inconsistencies and give data which shows the correct trends between temperatures and within samples
+
+70 60 Myofibril Length (um) 50 40 30 20 10 0 0 1 6 24 48 0 1 6 24 48 0 1 6 24 48
+
+Treatm ent I
+
+Treatm ent II Time (hours)
+
+Treatm ent III
+
+Figure 4.15 in triplicate.
+
+Effect of storage time at 15°C on myofibril length (m). Points are means
+
+plus or minus standard errors (vertical lines) of measurements, each sampling time point measured
+
+4.3.4
+
+Discussion Expected figures that show normalised
+
+The results indicate that myofibrillar degradation is not the only mechanism occurring within these treatments. exhibited in the previous data. myofibril breakdown will display completely different results than what is Thus it can be concluded that even though myofibrils may be degrading over time at the specific temperature, there are definitely mechanisms such as conformational changes occurring, which could be due to water holding properties of the myofibril, poor experimental techniques or the breakdown of prepared bovine myofibrils during storage. The data for myofibrillar density represents the mass per unit volume and can be expressed as the generalised equation:
+
+=
+
+
+
+
+
+Eqn 1
+
+81
+
+Chapter 4: Results and Discussion Where:  is the object's density M is the object's total mass  is the object's total volume Density exhibited a general increase with time, regardless of the treatment conditions (Figure 4.11, 4.12). Equation 1 indicates that increased density is due to either an increase in mass or a decrease in volume. As the mass cannot change substantially, we can deduce that the protein is becoming more compact, which is accompanied by a reduction in volume. The assumption is that each treatment is undergoing a process whereas myofibrils are compacted; the protein lattice is shrinking and myofibril density increases (Figure 4.11). The simplest explanation of the data is the change in myofibril water-holding properties. Lateral expansion of the filament lattice results in more water being incorporated into the spaces between myofibril filaments. Since this water is firmly held, the meat is able to retain more water. Lateral shrinkage of the filament lattice expels water from the myofibrils; since this expelled water is lessfirmly held, it is lost more readily. Thus, myofibrillar swelling (or shrinking) is achieved by increasing (or decreasing) the separation of adjacent filaments (Knight & Offer, 1988). This is expressed in structural terms as change in area of the unit cell. However in some circumstances, the swelling or shrinkage may not be uniform across the width of the myofibril. Swelling could occur by gaps developing within the myofibril, even though the local filament spacing remains unchanged. gained. Although this is not the only reason for the unexpected results Technique within the sampling process and the properties of the
+
+myofibrils used can also be related to the unpredicted data. The relative myofibril density is expected to change as proteins are degraded. It was expected that the effect of the chemical environment (presence or absence of -calpain, calcium and chelating inhibitors EGTA, EDTA) would affect myofibrillar breakdown. However, only temperature had a significant effect. This implies that the reactions that occurred are temperature-dependent and not due to proteolytic degradation. The second reason may be that the levels of each additive used were not sufficient to affect the degradation rate. 82
+
+Chapter 4: Results and Discussion Two main factors are common within the MFI experimentation. techniques used to gain the results. In living muscles, intracellular protein degradation is mediated, at least partly by a number of different endogenous proteolytic enzymes. Lysosomal cathepsins were the principal candidate until the discovery in the 1970s of a new proteolytic system. Because of its requirement for calcium; this system was referred to as a calcium-dependent proteinase or the calpain system (Ouali, 1990). Ca2+ has a substantial effect on the conformation of the calpain molecules, making these molecules considerable more susceptible to proteolytic digestion than they are in the absence of Ca2+ (Goll et al., 2003). Within MFI data we find that treatment II, containing bovine myofibrils, 3 L porcine -calpain and 5 mM CaCl2 shows a general decreasing trend in myofibril length. This is the only time in experimental data for this chapter that -calpain exhibits a proteolytic effect. EGTA and EDTA will exhibit an inhibitory nature when placed within a myofibril incubation containing -calpain. Davey & Gilbert (1969) reported that EDTA inhibited the weakening and disappearance of Z-lines and speculated that EDTA probably acts by chelating calcium. Busch et al. (1972) further demonstrated that myofibril fragmentation was inhibited by EDTA and was induced by calcium. Treatment III does not exhibit any inhibitory trends. We speculate this is due to other proteolytic mechanisms occurring within the sample that are not inhibited by EGTA or EDTA; A number of other neutral or alkaline proteolytic activities have previously been detected in skeletal muscle extracts (Ouali, 1989). The enzyme used within each myofibril digestion was -calpain. The data presented in all graphs show no significant difference between each sample. MFI's and Densities are not well known for accurate readings as both methods are subject to human error. The main theory for no difference between treatments is that the aliquot of purified -calpain added to each sample was not a high enough concentration to react with the myofibrils or to provide a large enough reaction to Proteolytic
+
+mechanisms either of -calpain or other native proteases within treatments and the
+
+83
+
+Chapter 4: Results and Discussion show a difference within measurement systems employed. Continuously throughout each experiment we find inconsistencies between what is expected and what is attained. Results gained have proved to be unpredictable. Reasons for this can be directed at several different positions within and along the methodology chain, from the preparation of samples for MFI testing to techniques used to gain images and assess levels of myofibril degradation. Myofibrils are notorious for being difficult to work with. It is imperative strict guidelines are followed to ensure variability within experiments is kept low and bias does not occur within sampling periods. Several steps should be taken when working with substances that are known to exhibit a `sticky' nature. Due to the nature of myofibrils, techniques which produced inconsistencies were used in these experiments. Techniques need to be employed that ensure consistent myofibril concentrations within aliquots. Storage if bovine myofibrils are in solution containing 50% glycerol and Standard Salt Solution (SSS). Glycerol is a hygroscopic molecule, which will readily absorb moisture with three hydrophilic alcoholic hydroxyl groups. It is used as a cryoprotective agent for the myofibrils to reduce any freeze/thaw mechanisms that may apply to the purified myofibrils. Protein crystals are mechanically very fragile (Berejnov & Thorne, 2006). Because they contain (and can be surrounded by) large amounts of water, formation and growth of water ice crystals during cooling can degrade proteins crystal order. Cryoprotective agents (CPAs) like glycerol, dissolve in or fully mix with water, which in turn can modify molecular diffusion relevant to nucleation (Berejnov & Thorne, 2006). Not all myofibrils within the sample will have the same protection from the glycerol. Due to variation of size, clumping, or the presence of contaminants within the purified sample, myofibrils may not be open for glycerol protection. Hence any thaw/freeze mechanisms that may occur will result in degradation or lattice damage producing poor quality myofibrils for subsequent experiments.
+
+84
+
+Chapter 4: Results and Discussion Within a method it is highly important to eliminate any bias that may occur. In this case, bias was incurred due to poor sampling and imaging techniques. Digital images were taken of myofibrils in different time points. These images captured and analysed were not a true representation of the sample, hence results were acquired that did not show a true depiction of myofibril fragmentation. Images were based on what could be found within the slide (for details on methodology consult chapter 3), hence the results obtained were subjective not objective. To combat this inconsistency, random numbers interrelated with a grid system should be used to remove operator subjectivity. In this way images can be taken which represent the entire myofibril sample.
+
+4.4
+
+Calpain Digestion of specific proteins: Desmin and Troponin-T
+
+Densitometry and Western blotting techniques can be used to measure the degree of protein degradation, both quantitatively and qualitatively. Accurate data can not always be produced from densitometry due to background `noise' in the blots or from having poor quality scans to analyze. Hence, data from both methods are described in the following results to give a complete picture. Actin was been used as a control and to display even protein loading.
+
+4.4.1
+
+Desmin Degradation
+
+Western blots of Treatment II (bovine myofibrils with calcium and enzyme), probed with a monoclonal antibody for desmin, indicated that desmin degraded in the presence of -calpain after five minutes at 40°C (Figure 4.16). After 15 minutes, degradation is complete. Treatment III, where chelators were present, shows an inhibitory nature. To quantify the proteolytic activity of -calpain on desmin, the intensity of the bands were measured by densitometry. There was a rapid decline of desmin in the Ca-rich treatment II (Figure 4.17), and nearly all the desmin was degraded by 30 minutes. There was only a small degree of degradation in Treatment III (no added calcium). The chelators, EGTA and EDTA will sequester all free calcium ions so -calpain will not be activated. 85
+
+Chapter 4: Results and Discussion
+
+Treatment II Time (mins)
+Actin Desmin 0 5 15 30 60 180 0 5
+
+Treatment III
+15 30 60 180
+
+Figure 4.16 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal desmin antibody at 40°C.
+
+100 90 Densitometer Band Intensity 80 70 60 50 40 30 20 10 0 0 10 20 30 40 50 60 70 Time (minutes) Treatment II Treatment III
+
+Figure 4.17 Degradation of desmin by -calpain at 40 °C, as indicated by densitometry of the band on the Western blots.
+
+The small degree of degradation may be due to temperature degradation or to the activity of other native proteases in the myofibrils. image analysis programme. At 15°C, there was rapid degradation of desmin (Figure 4.18). A small desmin band was exhibited in the time 0 hour sample, However, desmin bands occurred 86 Small variations in densitometry data are due to poor quality films and the high sensitivity of the
+
+Chapter 4: Results and Discussion in every sample for treatment III (no added calcium). However, the intensity for both blots is low. It is speculated that antibody binding to the protein was minimal. Densitometry data clearly shows that desmin will degrade at 15°C if -calpain is present (Figure 4.19), but at a much slower rate than at 40°C. This is a slight increase between 25 and 50 minutes, which may be due to background noise from film over exposure or to a poor developing technique. When chelating agents EDTA and EGTA are present (Treatment III) there is a decrease in desmin over the 60 minutes of incubation (Figure 4.19). Whether some of the degradation observed is due to the proteolysis by other native proteins or to the reaction temperature needs to be investigated.
+
+Treatment II Time (mins)
+Actin Desmin 0 5 30 60 180 360 0
+
+Treatment III
+5 30 60 180 360
+
+Figure 4.18 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal desmin antibody at 15°C.
+
+As the reaction rate was expected to be very low at 0oC, samples were only taken every 12 to 24 hours. Data from Western blots of treatment II (bovine myofibrils with calcium and enzyme) show that -calpain does degrade desmin (Figure 4.20) at 0°C but much more slowly than at other temperatures (Figures 4.16, 4.18). The desmin was completed degraded within 12 hours but because insufficient samples were taken, it is not known when this degradation occurred. The Densitometry data showed the same trend (Figure 4.21). There was an inhibitory effect of Treatment III (bovine myofibrils with enzyme and chelators) at 0oC, (as for other temperatures). There was no desmin
+
+87
+
+Chapter 4: Results and Discussion degradation demonstrated in the Western blots. Although there were slight
+
+fluctuations in densitometry data of intensity, these tended to follow data obtained by Western blots (Figure 4.21). For each blot, there are undesirable errors. An example is time 0 hours for treatment III (Figure 4.20), which could be due to uneven mixing of the gel before loading the samples or due to uneven transfer between the gel and the membrane.
+35 30 Densitometer Band Intensity 25 20 15 10 5 0 0 50 100 150 200 Time (minutes) Treatment II Treatment III 250 300 350 400
+
+Figure 4.19 Degradation of desmin by -calpain at 15 °C, as indicated by densitometry of the band on the Western blots.
+
+Treatment II Time (mins)
+0 12 24 48 72 0
+
+Treatment III
+12 24 48 72
+
+Actin
+
+Desmin
+
+Figure 4.20 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal desmin antibody at 0°C.
+
+88
+
+Chapter 4: Results and Discussion
+
+160 140 Densitometer Band Intensity 120 100 80 60 40 20 0 0 10 20 30 40 Time (hours) Treatment II Treatment III 50 60 70 80
+
+Figure 4.21 Degradation of desmin by -calpain at 0 °C, as indicated by densitometry of the band on the Western blots.
+
+4.4.2
+
+Troponin-T Degradation
+
+Western blots (Figure 4.22), labelled with troponin-T antibodies show that degradation of troponin-T begins instantaneously. There was no signal in the 30.5 kDa range in Treatment II, showing that troponin-T is very susceptible to calpain proteolysis at 40°C in the presence of calcium. In comparison, the intensity of the bands in treatment III were high for every sample, showing that calpain had been completely inhibited by chelating agents so no protein degradation could occur. Densitometry measurements show complete breakdown of troponin-T (Figure 4. 21). Within five minutes, most troponin-T in treatment II (bovine myofibrils, enzyme and calcium) has been degraded. Treatment III (with calcium chelators), shows -calpain inhibition, yet also exhibits a rise of increased band intensity before degradation begins.
+
+89
+
+Chapter 4: Results and Discussion Treatment II Time (mins) 0
+Actin Troponin-T 5 15 30 60 180 0 5
+
+Treatment III
+15 30 60 180
+
+Figure 4.22 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal troponin-T antibody at 40°C.
+
+This was not expected but is also displayed in other data (Figures 4.17 and 4.21). It is concluded that another mechanism within the samples is causing the degradation and thus increasing the band intensity. However, this increase in intensity cannot be seen visually. At 15°C troponin-T degrades much more slowly than at 40oC. After 180 minutes, treatment II still contained intact troponin-T (Figure 4.25).
+
+200 Densitometer Band Intensity 180 160 140 120 100 80 60 40 20 0 0 10 20 30 40 50 60 70 Time (minutes) Treatment II Treatment III
+
+Figure 4.23 Degradation of troponin-T by -calpain at 40 °C, as indicated by densitometry of the band on the Western blots.
+
+90
+
+Chapter 4: Results and Discussion
+
+Treatment II Time (mins)
+Actin 0 5 30 60 180 360 0
+
+Treatment III
+5 30 60 180 360
+
+Troponin-T
+
+Figure 4.24 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal troponin-T antibody at 15°C.
+
+180 160 Densitometer Band Intensity 140 120 100 80 60 40 20 0 0 50 100 150 200 Time (minutes) Treatment II Treatment III 250 300 350 400
+
+Figure 4.25 Degradation of troponin-T by -calpain at 15 °C, as indicated by densitometry of the band on the Western blots.
+
+Degradation appeared to start at 60 minutes. between samples only occurs after 360 minutes.
+
+By 180 minutes, there is a There was no change in the
+
+significant difference to the Western blots. However, a significant difference samples with time for Treatment III which contained inhibitory agents EDTA and 91
+
+Chapter 4: Results and Discussion EGTA). This was expected and was also validated by the densitometry data (Figure 4.23), which were constant for all the samples. There was a gradual breakdown of troponin-T over 360 minutes when calcium was present (Treatment II). Inhibition of -calpain and thus on troponin-T is clearly shown in both the Western blot (Figure 4.24) and densitometry data (Figure 4.25) when EDTA and EGTA are present within treatment III), the intensity of the bands is due to the film being over-exposed but this does not influence the overall trend of the data because as samples were subjected to the same conditions. Treatment II (bovine myofibrils, enzyme and calcium) displays troponin-T degradation over time (Figure 4.24). Increase in troponin-T at the 24 hour time point is not expected yet is possible this is due to uneven protein loading, of which can be seen in the slightly darker band of actin at 24 hours.
+
+Treatment II Time (mins)
+Actin 0 12 24 48 72 0
+
+Treatment III
+12 24 48 72
+
+Troponin-T
+
+Figure 4.26 Western blots of myofibril samples run on 12 % SDS-PAGE gels and transferred to PVDF membranes. Blots were incubated with monoclonal troponin-T antibody at 0°C.
+
+92
+
+Chapter 4: Results and Discussion
+
+180 160 Densitometer Band Intensity 140 120 100 80 60 40 20 0 0 10 20 30 40 Time (hours) Treatment II Treatment III 50 60 70 80
+
+Figure 4.27 Degradation of troponin-T by -calpain at 0 °C, as indicated by densitometry of the band on the Western blots.
+
+The densitometry data shows that desmin is degraded when calcium is included in the sample (Treatment II), (Figure 4.25) although there are fluctuations in the data.
+
+4.4.3
+
+Discussion
+
+Two methods, SDS-PAGE and Western blotting, along with sensitive densitometry measurements of the blots, were used to demonstrate that -calpain degrades the specific myofibril proteins desmin and troponin-T. The advent of new imaging technology and software for image analysis supports the use of SDSPAGE for quantitative analysis. Repeatability and consistency within protein loading and blots affect the data and need to be considered when analysing data. Desmin, a member of the intermediate filament proteins, has been suggested to have an important role in maintaining the structural integrity of muscle cells. It is believed to have a significant impact on meat quality. Degradation of structural elements that connect the myofibrils, which are major components, of a muscle cell, together with degradation of the peripheral layer of myofibrils to the cell
+
+93
+
+Chapter 4: Results and Discussion membrane could affect development of tenderness (Beekman et al., 1996). Data from the investigations carried out agreed with reports (Barnier et al., 1995; Cataldo et al., 2004; Geesink et al., 1995; Hopkins & Taylor, 2004) that desmin is degraded during post-mortem ageing. The studies showed that within desmin will degrade within 0°C to 40°C, and that degradation increases with temperature. Desmin molecules disappear during post mortem ageing of beef at 15°C (Takahashi, 1996). The enzymatic system responsible for desmin degradation during post-mortem storage of muscle is assumed to be the calpains, but this has not been clearly identified (Baron et al., 2004). The first step in calpain proteolysis of desmin results in depolymerisation of the intermediate filament structure and loss of cell integrity. Other enzymatic systems such as cathepsins may then be responsible for further degradation (Baron et al., 2004). Jiang (1998) suggests that many of the changes in muscle ultra-structure and biochemistry post-mortem can be explained by calpains but that other enzymes may also be involved even if they play only a minor role. This could explain the small amount of degradation exhibited as time progressed (Treatment III, Figure 4.17). Degradation of troponin-T has been strongly related to, or correlated with beef tenderness (Dransfield & Penny, 1979). In the current study, increasing post mortem time at specific temperatures gave increased breakdown of troponin-T in the presence of -calpain. Troponin-T degradation may simply be an indicator of overall proteolysis. However, as troponin-T is an integral part of skeletal muscle thin filaments, its role in tenderization may warrant more careful examination (Beekman et al., 1996). Actin was used as the control in this study because several reports reported that this muscle protein is resistant to -calpain degradation (Geesink & Koohmaraie, 1999; Koohmaraie, 1992) (Goll et al., 1983 This enables actin to be used as a visual baseline for desmin and troponin-T degradation. Actin as a control is more effective when used visually for western blotting diagrams as an alternative to plotting on a graph. Flutuations would be seen and thus the effect is not as prominent.
+
+94
+
+Chapter 4: Results and Discussion There were variations in densitometry data for samples from Treatment III and it is speculated that this may be due to the nature of the protein lattice (see Section 4.2) Further research or repetitions of this experiment is needed to provide accurate results. Data from this study showed that -calpain can, under in vitro conditions of neutral pH and excess calcium, catalyze the degradation of desmin and troponinT. Additional research is needed to determine the factors that govern the calpain activity and the interactions occurring within skeletal muscle cells to determine whether tenderness can be altered or predicted.
+
+95
+
+Chapter 5: Conclusions and Recommendations
+
+96
+
+Chapter 5: Conclusions and Recommendations
+
+Chapter 5
+
+CONCLUSIONS AND RECOMMENDATIONS
+
+5.1
+This
+
+Conclusions
+research investigated calpain-dependent proteolysis of myofibrils
+
+quantitatively using the myofibril fragmentation index (MFI) and density marker bead and qualitatively using SDS-PAGE and Western blotting with densitometry measurements. Fluorogenic calpain-assays could successfully be used to identify calpain. The data indicates how to continue evaluating myofibrillar breakdown. Amount of enzyme and the effect of chelating agents (inhibititors) and calcium (promotor) were important to ensure that optimum conditions were reached. Proteolytic activity was high in the presence of calcium but adding chelating chemicals decreased the activity substantially. Data from MFI and density marker bead studies showed that bovine myofibrils in the presence of calcium, absence of chelators and -calpain did not show a significant difference in the breakdown of myofibrillar proteins. Similarly, bovine myofibrils in the presence of chelators, -calpain and the absence of calcium gave the same results. This probably was due to these methods not being accurate enough to determine the effects that were being investigated. Further research is required to investigate the reasons for the inconsistencies that occurred and to identify (or develop) techniques that could be used to analyse myofibrillar images. Experiment should be done in triplicate to ensure accurate results are obtained. In the presence of calcium, -calpain has a significant effect on the myofibrillar proteins desmin and troponin-T. The rate of degradation within 0 to 72 hours depended on the temperatures (0°C, 15°C,40°C). Adding EDTA and EGTA which chelates free calcium, inhibited -calpain activity. Although the effect of temperature each treatment was not quantified, it directly affected myofibrillar degradation. At the higher temperature (40°C), protein degradation was
+
+97
+
+Chapter 5: Conclusions and Recommendations approximately faster than the degradation at 0°C and 15°C. degraded by -calpain. Data from the study showed that the key myofibrillar proteins desmin and troponin-T were degraded by porcine -calpain and that additives such as calcium and chelating agents EDTA, EGTA, affected the degradation rate. Actin was not
+
+3.10 Recommendations for Further Research
+It is recommended that the methods for measuring myofibrillar degradation be reevaluated and that all protocols used for measuring MFI and density testing be reevaluated to eliminate variability. Having good methodology will help to understand the effect of other proteolytic mechanisms within the cell, such as the action cathepsins and native enzymes, and what their influence and role is for degradation of myofibrillar proteins. The effect of calpastatin should also be investigated. Further studies should also be done on other key myofibrillar proteins such as the large molecular mass proteins titin and nebulin. Myosin and actin are degraded by -calpain. Experiments could be designed to examine whether this is true and to determine the conditions that allow degradation of these proteins to occur. The effect of the other calpain homologues, m-calpain and tissue specific calpain, p94 on myofibrillar proteolysis should be investigated, including the effect of different environmental conditions. Another factor than needs to be investigated is when these different calpains begin to be activated in the proteolytic degradation system. The data would help establish the role of each calpain within the muscle cells.
+
+98
+
+References
+
+99
+
+References
+
+REFERENCES
+Aberle, E. D., Forrest, J. C., Gerrard, D. E., & Mills, E. W. (2001). Principles of Meat Science (Fourth ed.). Dubuque, Iowa: Kendall/Hunt Publishing Company. Bailey, A. J., & Sims, T. J. (1981). Connective Tissue. In R. Lawrie (Ed.), Developments in Meat Science - 2 (Vol. 2, pp. 29-54). London: Applied Science Publishers. Banoczi, Z., Buzder-Lantos, P., Farkas, A., Friedrich, P., Hudecz, F., Tantos, A., et al. (2004). On the Sequential Determinants of Calpain Cleavage. The Journal of Biological chemistry, 279(20), 20775 - 20785. Barany, K., Barany, M., & Giometti, C. S. (1995). Polyacrylamide Gel electrophoretic methods in the separation of structural muscle proteins. Journal of Chromatography A(698), 301-332. Bardsley, R. G., Buttery, P. J., Sensky, P. L., & Parr, T. Meat Tenderisation - The role of Calpains, Division of Nutritional Biochemistry, school of Biosciences, University of Nottingham, Laughborough (pp. 239-242). Barnier, V. M. H., Beltran, J. A., Geesink, G. H., Jaime, I., Roncales, P., Smulders, F. J. M., et al. (1995). Meat Tenderisation: Enzymatic Mechanisms. In D. I. Demeyer, A. Ouali & F. J. M. Smulders (Eds.), Expression of Tissue Proteinases and Regulation of Protein Degradation as related to Meat Quality. Ecceamst 1995. Baron, C. P., Jacobsen, S., & Purslow, P. P. (2004). Cleavage of Desmin by cysteine proteases: Calpains and Cathepsin B. Meat Science(68), 447-456. Beekman, D. D., Huff-Lonergan, E., Mitsuhashi, R., Olson, D. G., Parrish, F. C., & Robson, R. M. (1996). Proteolysis of specific muscle structural proteins by mu-calpain at Low pH and Temperature is similar to degradation in Postmortem Bovine Muscle. Journal of Animal Science(74), 993-1008. Bendixen, E., Lametsch, R., Moller, H. S., & Roepstorff, P. (2004). Identification of Myofibrillar substrates for mu-calpain. Meat Science(68), 515-521. Berejnov, V., & Thorne, R. E. (2006). Effects of cryoprotectant concentration and cooling rate on vitrification of aqueous solutions. Journal of Applied Crystallography, 39, 244-250. Bode, W., Fernandez-Catalan, C., Reverter, D., Sorimachi, H., Strobl, S., & Suzuki, K. (2001). Basis for possible calcium-induced activation mechanisms of calpains. Journal of Biochemistry(382), 753-766.
+
+100
+
+References Bradley, M., Mittoo, S., & Sundstrom, L. E. (2003). Synthesis and evaluation of fluorescent probes for the detection of calpain activity. Analytical Biochemistry(319), 234-238. Bulinski, J. C., Greaser, M. L., Lessard, J. L., Lin, J.-C., Schultz, E., & Wang, S. (1988). Studies on Cardiac Myofibrillogenesis with Antibodies to Titin, Actin, Tropomyosin, and Myosin. The journal of Cell Biology, 107, 10751083. Cairney, J. M. (2001). A study of the contribution of sarcomere length and proteolysis to the stiffness of ovine single psoas major muscle fibres. University of Waikato, Hamilton. Carse, W. A., & Marsh, B. B. (1974). Meat tenderness and the sliding-filament hypothesis. Journal of Food Technology(9), 129-139. Cataldo, A., Costa, M. L., Escaleira, R., Mermelstein, C. S., & Oliveira, F. (2004). Desmin: molecular interactions and putative functions of the muscle intermediate filament protein. Brazilian journal of medical and biological research(37), 1819-1830. Christiansen, J. A., Goll, D. E., Taylor, R. G., & Thompson, V. F. (1992). Properties and regulation of the calpain system and it's role in muscle growth. Biochimie(74), 225-237. Cong, J., Goll, D. E., Thompson, V. F., & Wei Wei, H. L. (2003). The Calpain System. (S3), 731-801. Crouse, J. D., Koohmaraie, M., Kretchmar, D. H., Mersmann, H. J., & Whipple, G. (1991). Postmortem proteolysis in Longissimus Muscle from Beef, Lamb and Pork carcasses. Journal of Animal Science(69), 617-624. Davey, C. L., & Gilbert, K. V. (1969). Studies in Meat Tenderness. Changes in the Fine Structure of Meat during Ageing. Journal of Food Science, 34(1), 69-74. Devine, C. E., Hopkins, D. L., & Hwang, I. H. (2003). The biochemical and physical effects of electrical stimulation on beef and sheep meat tenderness. Meat Science(65), 677-691. Dobbie, P. M., Falconer, S. J., & Simmons, N. J. (2004). Using Density to measure Myofibrillar Denaturation. Paper presented at the ICoMST - 50th International Congress of Meat Science and Technology, Helsinki, Finland. Dobbie, P. M., Singh, K., Speck, P. A., & Thomson, B. C. (1996). Post-mortem Kinetics of Meat Tenderness and the components of the Calpain system in Bull Skeletal Muscle. Meat Science, 44(3), 151-157.
+
+101
+
+References Dransfield, E. (1993). Modelling Post-mortem Tenderisation -IV: Role of Calpains and Calpastatin in Conditioning. Meat Science(34), 217-234. Dransfield, E. (1994). Optimisation of Tenderisation, Ageing and Tenderness. Meat Science(36), 105-121. Dransfield, E., & Penny, I. F. (1979). Relationship Between Toughness and Troponin T in conditioned Beef. Meat Science(3), 135-141. Etherington, D. J., & Taylor, M. A. J. (1991). The solubilization of Myofibrillar Proteins by Calcium Ions. Meat Science(29), 211-219. Fujimoto, E. K., Gartner, F. H., Goeke, N. M., Hermanson, G. T., Klenk, D. C., Krohn, R. I., et al. (1985). Measurement of Protein using Bicinchonicinic Acid. Journal of Analytical Biochemistry(150), 76-85. Geesink, G. H., Goll, D. E., Koohmaraie, M., Taylor, R. G., & Thompson, V. F. (1995). Is Z-Disk Degradation responsible for Postmortem Tenderization? Journal of Animal Science(73), 1351-1367. Geesink, G. H., & Koohmaraie, M. (1999). Effect of Calpastatin on Degradation on Myofibrillar Proteins by mu-calpain Under Postmortem Conditions. American society of animal Science(77), 2685-2692. Goll, D. E., & Kapprell, H. (1989). Effect of Ca2+ on binding of the calpains to calpastatin. . Journal of Biochemistry(264), 17888-17896. Goll, D. E., Lin, H., & Thompson, V. F. (2003). Effects of autolysis on properties of mu- and m-calpain. Biochemica Et Biophysica Acta, 1691, 91-103. Goll, D. E., & Otsuka, Y. (1985). Purification of the Ca2+ dependent Proteinase Inhibitor from Bovine Cardiac Muscle and it's interaction with e the millimolar Ca2+ dependent Proteinase. The Journal of Biological chemistry, 262(12), 5839-5851. Goll, D. E., & Otsuka, Y. (1987). Purification of the Ca2+ dependent proteinase inhibitor from bovine cardiac muscle and it's interaction with the millimolar Ca2+ dependent proteinase. Journal of Biological Chemistry(262), 5839-5851. Greaser, M. L. (1986). Conversion of muscle to meat. Orlando: Academic Press Inc. Hopkins, D. L., & Taylor, R. G. (2004). Post-mortem Muscle Proteolysis and Meat Tenderness. In M. E. Everts, H. P. Haagsman & M. F. W. Te Pas (Eds.), Muscle Development of Livestock Animals: CAB international. Huff-Lonergan, E., & Lonergan, S. M. (1999). Postmortem mechanisms of meat tenderization: The roles of structural proteins and the calpain system. New York: Kluwer Academic/Plenum Publishers.
+
+102
+
+References
+
+Huff-Lonergan, E., Mitsuhashi, R., Parrish, F. C., & Robson, R. M. (1996). Sodium Dodecyl Sulfate-Polyacrylamide Gel Electrophoresis and Western Blotting Comparisons of Purified Myofibrils and Whole Muscle Preparations for Evaluating Titin and Nebulin in Postmortem Bovine Muscle. Journal of Animal Science(74), 779-785. Huxley, H. E. (2004). Fifty years of muscle and the sliding filament hypothesis Review article. European journal of biochemistry, 271, 1403-1415. Imajoh, S., & Suzuki, K. (1985). Reversible interaction between Ca2+ activated neutral protease and it's endogenous inhibitor. FEBS Letters(187), 47-50. Ishiura, S., Sorimachi, H., & Suzuki, K. (1993). A novel Tissue-specific Calpain Species Expressed Predominantly in the Stomach Comprises Two alternative Splicing Products with and without Ca2+ binding Domain*. Journal of Biological Chemistry, 268(26), 19476-19482. Ishiura, S., Sorimachi, H., & Suzuki, K. (1997). Structure and physiological function of calpains. Journal of Biochemistry(328), 721-732. Ji, J.-R., & Takahashi, K. (2006). Changes in concentration of Sarcoplasmic free calcium during post-mortem ageing of meat. Meat Science(73), 395-403. Jiang, S. (1998). Contribution of Muscle Proteinases to Meat Tenderisation. Proceedings of the National Science council, ROC, 22(3), 97-107. Kalchayanand, N., McCormick, R. J., Means, W. J., Miller, K. W., & Phillips, A. L. (2000). Bovine Placental protease specificity toward muscle connective tissue proteins. Journal of Animal Science(78), 1861-1866. Kent, M. P., Koohmaraie, M., Therkildsen, M., & Veiseth, E. (2005). An assessment of extraction and assay techniques for quantification of calpain and calpastatin from small tissue samples. Journal of Animal Science(83), 2182-2188. Knight, P., & Offer, G. (1988). The structural basis of Water-holding in meat Part 1: General principals and water uptake in meat processing. In R. Lawrie (Ed.), Developments in Meat Science - 4 (Vol. 4, pp. 63-174). New York, USA: Elsevier Science publishers co., INC. Kohn, R. R. (1967). A simple method for the isolation of Myofibrils. Experimental Cell Research(49), 206-207. Koohmaraie, M. (1990). Quantification of Ca2+ dependent protease activities by hydrophobic and Ion-exchange Chromatography. Journal of Animal Science(68), 659-665. Koohmaraie, M. (1992). The role of Ca2+ dependent proteases (calpains) in post mortem proteolysis and meat tenderness Biochimie(74), 239-245.
+
+103
+
+References Koohmaraie, M. (1994). Muscle Proteinases and Meat ageing. Meat Science(36), 93-104. Koohmaraie, M., & Wheeler, T. L. (1999). The Extent of Proteolysis is Independent of Sarcomere Length in Lamb Longissimus and Psoas Major. Journal of Animal Science, 77(9), 2444-2451. Lawrie, R. (1998). Lawrie's Meat Science. Cambridge, U.K: Woodhead Publishing Limited. Locker, R. H. (1987). The non-sliding filaments of the sarcomere. Meat Science(20), 217-236. Mainen, M., Maravall, M., Sabatini, B. L., & Svoboda, K. (2000). Estimating intracellular calcium concentrations and buffering without wave-length ratioing. Journal of Biophysiology(78), 2655-2667. Maruyama, K. (1985). Myofibrillar cyytoskeletal proteins of vertebrates striated muscle. In R. Lawrie (Ed.), Developments in Meat Science - 3 (Vol. 3, pp. 25-50). New York, USA: Elsevier Science Publishing co., INC. Melloni, E., Michetti, M., Pontremoli, S., & Salamino, M. (1998). Molecular and functional proteries of a calpain activator protein specific for mu-isoforms. Journal of Biological Chemistry(273), 12827-12831. Ouali, A. (1989). Meat Tenderization: Possible causes and Mechanisms. Review. Journal of Muscle Foods, 1, 129-165. A
+
+Ouali, A. (1990). Meat Tenderisation: Possible Causes and Mechanisms. A review. Journal of Muscle Foods (1), 129-165. Pearson, A. M. (1986). Physical and biochemical changes occurring in muscle during storage and preservation. . U.S.A: Academic Press. Saido, T. C., Sorimachi, H., & Suzuki, K. (1994). New era of Calpain research: Discovery of Tissue-specific calpains. FEBS Letters(343), 1-5. Suzuki, K. (1990). The structure of the Calpains and the calpain gene. . In R. L. Mellgren & T. Murachi (Eds.), Intracellular Calcium-Dependent Proteolysis (pp. 25-35). Florida: CRC. Takahashi, K. (1996). Structural Weakening of Skeletal Muscle Tissue during Post-Mortem ageing of Meat: the Non-Enzymatic mechanism of meat Tenderization. Meat Science, 43(s), s67-s80. Warriss, P. D. (2000). Meat Science - An Introductory Text. Oxon, United Kingdom: CABI Publishing. Xiong, Y. L. C.-T., & Shahidi, F. (1999). Quality characteristics of muscle foods. New York: Kluwer Academic/Plenum Publishers.
+
+104
+
+

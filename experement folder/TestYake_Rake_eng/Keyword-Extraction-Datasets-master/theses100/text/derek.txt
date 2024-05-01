@@ -1,0 +1,932 @@
+TURNOVER INTENTIONS: THE MEDIATION EFFECTS OF JOB SATISFACTION, AFFECTIVE COMMITMENT, AND CONTINUANCE COMMITMENT
+
+A thesis submitted in partial fulfilment of the requirements for the degree of Master of Applied Psychology at The University of Waikato by DEREK RILEY
+
+______________________
+
+The University of Waikato 2006
+
+ABSTRACT
+Retention and productivity levels of a workforce are one of the essential ingredients for organisations to prosper in today's competitive business environment. Turnover intentions of the workforce are an important consideration for managers of organisations, employees, families, and communities alike. This study investigated a comprehensive model of turnover intentions that included two proximal variables, (job satisfaction, and organisational commitment), the distal variables of organisational justice, work strain, work overload, and work-tofamily conflict and family-to-work conflict with the turnover intentions. A questionnaire was completed by 114 participants of the Allied Health workforce at the Waikato District Health Board, from allied health occupational groups, psychologists, physiotherapists, social workers, dieticians, and speech language therapists. Job satisfaction, affective commitment, distributive, interactional, and procedural justice, strain and family-to-work conflict were correlated with turnover intentions. Results of the mediated regression analyses found that job satisfaction and affective commitment are significant mediators between distributive, interactional, and procedural justice, work strain, and family work conflict with turnover intentions. The major implications from this research are that managers of organisation need to foster job satisfaction and affective commitment within their organisation to reduce turnover intentions. In the final chapter, the conclusions are discussed in terms of its practical implications to organisations, employees and the need for future research.
+
+ii
+
+ACKNOWLEDGEMENTS
+
+Each of the people below has contributed to my academic journey in their unique way and without their valuable contribution, this thesis would not have been possible. I would like to thank Mike O'Driscoll as my supervisor for all his patience and guidance during the writing of my thesis. In my academic journey, I have met some inspirational lecturers in particular Tom Kalliath, who I admired for his faith and always had time to listen and support me through my first year of graduate study, I thank you. I am also indebted to the Waikato District Health Board and the allied health employees who volunteered to take part in this study. Also to the professional advisors who distributed the questionnaires to the participants without you this research would not have been possible. To the psychology department staff in particular, Rob Bakker, who has always been able and willing to help me with any computer problems. Your valuable guidance in computer technology has enabled me to realise my goals and finish my thesis. Thank you Rob for your expertise, and guidance. My special thanks to Maria do Carmo for your love, understanding, patience, and belief in my academic ability. Also to Sarah and Julie thank you for your continued love, support, and encouragement during my academic journey. I dedicate this thesis to you both.
+
+iii
+
+TABLE OF CONTENTS
+Abstract Acknowledgements Contents List of Tables List of Figures ii iii iv vi vii
+
+Chapter One Introduction
+Background Employee Turnover Consequences of Employee Turnover Purpose of This Research Minimizing Voluntary Turnover Theoretical Model with Turnover Intentions Proximal Variables Job Satisfaction Organisational Commitment Distal Variables Correlates of Job Satisfaction Correlates of Affective Commitment Correlates of Continuance Commitment Mediated relationships Job Satisfaction Affective Commitment Continuance Commitment Summary of Hypothesis 1 1 2 5 6 8 9 10 14 19 23 28 30 31 33
+
+Chapter Two Method
+Organisational Context Participants Instrument Measures Procedure 38 40 41 42 45
+
+iv
+
+Chapter Three Results
+Descriptive Statistics Job satisfaction Correlations and Regression Affective Commitment Correlations and Regression Continuance Commitment Correlations and Regression Turnover Intention Correlation and Regression Mediated Regression Job Satisfaction Affective Commitment 47 49 52 52 54 57 63
+
+Chapter Four Discussion
+Proximal Variables Job Satisfaction Affective Commitment Continuance Commitment Mediated Relationships Practical Implications Job Satisfaction Affective Commitment Distal Variables Future Research Strengths of the Research Limitations of the Research Conclusions 70 71 72
+
+82 83 85 87 88 89 92 93 113 115 117
+
+References
+Appendix A Appendix B Appendix C
+
+v
+
+LIST OF TABLES
+Table
+1. Number of Respondents for Each Allied Health Occupational Group 2. Descriptive Statistics 3. Correlations between Major Variables 4. Regression Equation: All Predictors with Job Satisfaction. 5. Regression Equation: All Predictors with Affective Commitment 6. Regression Equation: All Predictors with Continuance Commitment 7. Regression Equation: Proximal Variables with Turnover Intentions. 8. Mediating Regression Equation Testing Hypothesis H 5a. 9. Mediating Regression Equation Testing Hypothesis H5b. 10. Mediating Regression Equation Testing Hypothesis H 5c. 11. Mediating Regression Equation Testing Hypothesis H 5d. 12. Mediating Regression Equation Testing Hypothesis H 5g. 13. Mediating Regression Equation Testing Hypothesis H 5e. 14. Mediating Regression Equation Testing Hypothesis H 5f. 15. Mediating Regression Equation Testing Hypothesis H 6a. 16. Mediating Regression Equation Testing Hypothesis H 6b. 17. Mediating Regression Equation Testing Hypothesis H 6c. 18. Mediating Regression Equation Testing Hypothesis H 6d. 19. Mediating Regression Equation Testing Hypothesis H 6g. 20. Mediating Regression Equation Testing Hypothesis H 6e. 21. Mediating Regression Equation Testing Hypothesis H 6f. 40 48 50 51 53 54 55 57 58 59 60 61 62 62 63 64 65 66 67 68 68
+
+vi
+
+LIST OF FIGURES
+Figure
+1. Turnover Intentions Model 2. The Geographical Boundaries of the WDHB. 8 39
+
+vii
+
+CHAPTER 1:
+
+INTRODUCTION
+
+A characteristic of organisations in the 21st century is the continuous and rapid pace of change. Volatile free market economic environments, rapidly changing technologies, global competition, workforce diversity, and new organisational structures are some of the challenges an organisation faces. Organisations may differ in the priority they attach to the human resource component, in their efforts toward achieving high productivity and competitive advantage, yet they all recognise the value of a qualified, motivated, stable, and responsive team of employees (Huselid, 1995). Retention and productivity levels of the existing workforce are an essential concern in human resource management. Employee turnover is one of the most studied topics in organisational psychology (Mitra, Jenkins, & Gupta, 1992) and is of interest to other professionals, including personnel researchers, and managers of organisations (Mobley, Griffeth, Hand, and Meglino, 1979).
+
+Employee Turnover Employees may exit an organisation either voluntarily or involuntarily. For the purpose of this research, `turnover intention' is defined as an employees decision to leave an organisation voluntarily (Dougherty, Bluedorn & Keon, 1985; Mobley, 1
+
+1977). Employees leave for a number of reasons, some to escape negative work environments, some are more in alignment with their career goals, and some to pursue opportunities that are more financially attractive. Involuntary turnover is usually employer initiated, where the organisation wishes to terminate the relationship due to incompatibilities in matching its requirements. Involuntary turnover can also include death, mandatory retirements, and ill health (Mobley, 1977). In literature, turnover intention has been identified as the immediate precursor for turnover behaviour (Mobley, Horner & Hollingsworth, 1978; Tett & Meyer, 1993). It has been recognised that the identification of variables associated with turnover intentions is considered an effective strategy in reducing actual turnover levels (Maertz & Campion, 1998).
+
+Consequences of Employee Turnover An employee's exit from an organisation is a direct cost, in the form of having to select, recruit, and train a new employee (Dalton, Todor, & Krackhardt 1982; Staw, 1980). The exiting of employees also has indirect cost implications that include reduced morale, pressure on the remaining staff, costs of learning, and the loss of social capital (Des & Shaw, 2001). One of the main consequences for organisations that have a high turnover is the financial cost. The total costs of employee turnover are hard to measure, in particular the effects on the organisation's culture, employee morale, and social capital or loss of organisational memory (Des & Shaw 2001). The focus has been mainly on the tangible costs associated with turnover in the areas of selection, recruitment, induction and training of new staff, 2
+
+and the cost of being short-staffed (Cascio, 1987). The cost of losing a high performer who has a high degree of knowledge, skills and abilities, or an employee, who is employed in an area where there is a labour market shortage, can be substantial to the organisations performance, productivity, and service delivery. Dalton and Rador (1986) have estimated the cost of turnover to an organisation has been on average one to one and a half times the employee's salary. Indeed, ClarkRayner and Harcourt (2001) estimate the costs of external recruitment of personnel at a New Zealand bank to be NZ$4,500 for non-management employees and NZ$12,500 for management employees. In addition, turnover can have a negative impact on other employees by disrupting group socialization processes and increasing internal conflict, which can lead to triggering additional turnover (North, Rasmussen, Hughes, and Finlayson 2005). Turnover of employees may in itself trigger additional turnover by causing a decline in confidence and by highlighting that alternative jobs are available. In addition, the interpersonal bond that is developed between employees is central to the communication patterns that are characteristic and unique to any organisation. Indeed Price (1977) argues that social dynamics and effective communication systems are central to the effective performance levels of work teams. Turnover can have a negative effect on the functioning of an organisation through loss of team integration, cohesion, and morale. It may also lead to increased in-group conflicts and breakdown of interaction with customers. It is widely believed that a significant amount of turnover adversely influences organisational effectiveness and disrupts performance and productivity (Horn and Kinichi, 2001). In terms of effectiveness, the cognitive withdrawal of the employee 3
+
+prior to separation, and in terms of productivity by reducing the organisations skill level as high turnover disrupts the process of production, leading to inefficiencies (Alexander, Bloom, and Nuchols, 1994). High turnover requires organisations to spend considerable time in inducting the new employees to the social, performance norms and culture of an organisation. This requires a greater degree of control to ensure the organisation's products and services are delivered to the customer (Katz and Kahn, 1978, Staw 1980; Price 1977). According to Shaw, Gupta, and Delery (2005) a negative relationship between workforce performance and turnover has been well established in literature. Indeed, they found significant inverse relationship between quit rates and productivity and Alexander et al. (1994) found that voluntary turnover related negatively to cost effectiveness in a sample of hospitals. Overall, the empirical research indicates that voluntary turnover reduces an organisation's human capital component and therefore associates negatively with organisational performance. In sum, an overwhelming amount of research indicates that turnover is expensive (Mobley and Hall, 1973). Turnover can be positive and negative to individual employees, organisations and communities. On a personal level, the employee may decide to leave a stressful form of employment and move into a different job that may be more in line with their career objectives. On the other hand, the employee could lose also by disrupting the family's social support system and walking into a job that does not live up to expectations as promised by the organisation. Turnover is associated with an individual's ability to move into new organisations, which is vital for the future development of organisations. However, if turnover is excessive, organisational productivity may be decreased (Mobley 1982). 4
+
+It also needs to be recognised that not all turnover is detrimental to an organisation. If employees who are poor performers are encouraged to leave, employees that are more productive can be employed in their place; therefore, the importance of effective recruitment and selection procedures as highlighted by Barrick and Zimmerman, (2005) are essential. This would then increase the human capital of the organisation (Tziner, & Birati 1996). Turnover may lead to movement of employees into new positions and promotion. According to Dalton and Todor (1979), moderate levels of turnover are acceptable and encouraged as the new employee may contribute fresh ideas, their knowledge, skills and abilities, creative approaches to problem solving, and different working styles that can enhance the social capital of the organisation.
+
+Purpose of this Research Building a knowledge base on what causes an employee to choose to leave an organisation gives organisations the opportunity to curtail voluntary turnover and /or to manage the turnover process more effectively. Aspects of the work environment and employee retention strategies can then be created. The primary aim of this thesis was to undertake research at the Waikato District Health Board (WDHB), within the allied health work force, to identify the variables that influence turnover intentions. In particular, this research explored the concept of turnover intentions and extended previous theoretical research by investigating the mediating effects of job satisfaction, affective and continuance commitment.
+
+5
+
+Despite vast empirical research in the literature to date, the importance of understanding the factors contributing to an employee's decision to leave an organisation has not been given due importance. According to Dalton, Krackhardt and Porter (1981), further empirical research is required to gain greater understanding of the process of turnover. Morrell, Loan-Clarke and Wilkinson (2001 p. 5) argue, "there is yet no universally accepted account or framework for why people choose to leave". Indeed the amount of literature from a New Zealand allied workforce perspective is sparse. Therefore, this research into the most influential variables is of considerable benefit to the empirical body of knowledge and of practical value to large employing organisations, specifically the WDHB.
+
+Minimizing Voluntary Turnover As mentioned, the coming of the 21st century brings with it challenges for businesses that want to enjoy a competitive edge over their rivals. This would need to include having a work force that is stable and reliable. An increasing amount of research suggests implementation of high performance work practices to reduce voluntary turnover. These high performance work systems are an approach to an organisation's drive to improve its production, service delivery, and quality to its customers (Huselid, 1995). They may include employee recruitment and selection procedures, remuneration incentives, performance appraisal systems such as 360degree feedback, and training, education and development that improve the knowledge, skills, and abilities of the employee. These are aimed at increasing the employee's motivation and effectively enhancing the retention of high performers within the organisation (Barrick & Zimmerman, 2005; Huselid, 1995). Huselid 6
+
+(1995) has found direct evidence that these human resource management practices have a direct impact by lowering employee turnover, raising productivity, and improving financial performance. Worldwide, HR health managers are facing a crisis in how to retain their most productive workers during times of high staff turnover. Studies have shown that the health industry has one of the highest industry turnover rates (Numerof, Abrams, & Schank, 2002). The turnover of staff means a direct cost to the organisation and, further, the global demand for qualified health workers is on the increase, with most countries facing similar trends of an ageing workforce. In a New Zealand context, the implications for the health workforce are apparent, as outlined by the Ministry of Health (n.d.) which noted that the labour workforce pool to recruit from is getting older and smaller in number.
+
+A theoretical model for turnover intentions Some variables are regarded as proximal that have a direct relationship with turnover intentions whereas the distal variables have more an indirect relationship. Figure 1 (see page 8) represents the theoretical model for turnover intentions utilized in the present research. Starting from the right side of the model the criterion variable turnover intentions. The proximal variables are: (1) organisational commitment, including affective and continuance commitment, and (2) job satisfaction
+
+7
+
+The rest are distal variables, which are grouped into five variables: (1) organisational justice including distributive, interactional and procedural justice (2) work strain (3) work overload (4) work-to-family conflict, and (5) family-to-work conflict Distal Variables Organisational Justice Work Strain Job Satisfaction and Organisational Commitment Turnover Intentions Proximal Variables Criterion Variable
+
+Work Overload
+
+Work-to-Family Conflict Family-to-Work Conflict Figure 1: Turnover intentions model
+
+Background The selection of variables is based upon a literature review of the topic. A meeting was held with the Manager of the Human Resource Department and the Manager for Business Re-engineering of the WDHB to define the scope of the 8
+
+research and the appropriateness of specific variables that would be applicable to WDHB. The theoretical reasoning for the selection of each of the variables is outlined below.
+
+Proximal variables At the centre of some turnover models have been the proximal variables of job satisfaction and organisational commitment (Steel, 2002) and were mainly developed from the vast amount of research on job satisfaction and turnover (Porters & Steers, 1973). The models were extended to include the effects of organisational commitment (Porters, Steers, Mowday, & Bouliam 1974) and other forms of commitment (Allen, & Meyer 1990; Blau 1989; Chang 1999; Gaertner & Nollen 1989; Lee, Ashford, Walsh, & Mowday 1992). In this research both job satisfaction and organisational commitment (affective and continuance) are considered as proximal antecedents as they are strong direct predictors of turnover intentions.
+
+Job Satisfaction is a subjective emotional evaluation made consciously or unconsciously by the employee and is defined as "a pleasurable or positive emotional state resulting from the appraisal of one's job or job experiences" (Locke, 1976, p. 1304). Job satisfaction is multidimensional in nature with specific facets; satisfaction with work, pay, promotion, co-workers, plus a global item for measuring overall job satisfaction (Rice, Gentile & McFarlin, 1991).
+
+Work is such a large part of an employee's life and is represented by a belief that employees who are more satisfied with their work experiences and environment 9
+
+will stay longer (Spector, 2000), will attend work regularly, and perform at an optimum level (Porters & Steers, 1973). Job satisfaction is included in this research because of its predictor strength of turnover intentions. Many researchers have shown that high levels of job satisfaction are negatively related to turnover intentions (Koslowsky, 1991), and turnover (Hom and Griffeth 1991;). More importantly, three meta-analyses have concluded that there is a distinct link (Carsten and Spector, 1987; Hom and Griffeth, 1991; Steel and Ovalle, 1984). Thus, employees who are satisfied with their job are less likely to want to leave their organisation. The present study tested the hypothesis that: H 1a: Job satisfaction will be negatively associated with turnover intentions.
+
+Organisational commitment has become one of the most popular work attitudes studied by practitioners and researchers (Meyer, Allen& Smith, 1993; Mowday, Porter, & Steers, 1982). One of the main reasons for its popularity is that organisations have continued to find and sustain competitive advantage through teams of committed employees. Mowday, Porter and Steers, (1982) and Meyer, Paunonen, Gellatley, & Goffin, and Jackson, (1989) have found that committed employees are more likely to remain with the organisation and strive towards the organisation's mission, goals and objectives. Organisational commitment is defined as the degree to which the employee feels devoted to their organisation (Spector, 2000). Further research into this variable has concluded that commitment is a diverse construct. There is general acceptance that organisational commitment has three main facets: affective, continuance, and normative, each with its own underlying `psychological states' (Meyer & Allen, 1995). Affective commitment refers to the 10
+
+emotional bond and the identification the employee has with the organisation. For the employees the positives include enhanced feelings of devotion, belongingness, and stability (Meyer, & Allen 1993). Continuance (economic/calculative) commitment refers to what the employee will have to give up if they have to leave the organisation or in other terms, the material benefits to be gained from remaining. Employees whose primary link to the organisation is based on continuance commitment remain with the organisation because they feel they need to do so for material benefits (Meyer, & Allen, 1993). Therefore, if the employees believe that fewer viable alternatives are available their continuance commitment will be stronger to their current employer. Lastly, normative commitment or moral commitment (Jaros, Jermier, Koehler, & Sincich, 1993) reflects a feeling of obligation to continue employment. Employees with a high level of normative commitment feel that they ought to remain with the organisation (Bentein, Vandenberghe & Stinglhamber, 2005). Jaros et al (1993) argue that the commitment is determined by being obligated to work in the organisation, a sense of moral obligation following their parents, who may have been long-term employees of the organisation therefore, a sense of duty to belong. The association between affective commitment and turnover has been well established in previous research (Iverson & Buttigieg, 1999; Mathieu & Zajac 1990; Mowday, Porters & Steers, 1982). The meta-analysis of Griffeth, Hom & Gaertner (2000) draws the inference that affective commitment is one of the best predictors of voluntary turnover. Research of Jaros, Jermier, Koehler, and Sincich, (1993) and Chen, Hui, and Sgo, (1999) has found a negative relationship between continuance commitment and turnover intentions. Normative commitment was omitted from this 11
+
+research because the research of Meyer et al. (1993), and Sommers (1995) had found some overlapping of the constructs, normative commitment, and affective commitment. Furthermore, affective commitment has had consistent empirical evidence to its suitability.
+
+An employee who has a high organisational commitment is willing to bring to bear extra effort on behalf of the organisation. Thus, employees with a strong emotional attachment (affective commitment) tend to work harder and therefore are more productive and have a strong emotional desire to remain with the organisation (Meyer et al. 1993). In contrast, the employee with strong economical/calculative ties to the organisation (continuance commitment) will stay because of the `side bets' they have invested in the organisation. The side bets can be monetary value, a pension plan, specific skills acquired whilst working there or status (Becker, 1960) and would be lost if he/she decides to leave. It is expected that both affective and continuance commitment will be negatively associated to turnover intentions (Meyer, Stanley, Herscovitch, & Topolynytsky, 2002). The present study tests the hypotheses that: H 1b: Affective commitment will be negatively associated with turnover intentions. H 1c: Continuance commitment will be negatively associated with turnover intentions.
+
+12
+
+Distal Variables The basic turnover model Mobley (1977) was mainly developed in the period from 1977 to 1981 and forms the basis for all succeeding models. The later models drew mainly from Mobley's (1977) process model, which dominated the early research on turnover. Further research by Mobley, Griffeth, Hand and Meglino, (1979); Mobley, Horner, and Hollingworth, (1978); Muchinsky and Morrow (1980) Price (1977) Price and Meuller, (1981); and Steers and Mowday (1981) has continued to shape the thinking of the turnover literature today. Mobley (1982) attributed turnover to four classes of determinants. The first class of determinants of turnover include the external antecedents such as the economy, employment-unemployment levels, labour-force composition and mix, and inflation. The second class are organisational determinants such as type of industry, supervisory style, remuneration, job content, reward system, and work environment. Individual aspects make up the last two determinants. The first of these involve individual non-work related factors such as demographics and personal factors e.g. age, tenure, sex, education, personality, ability, and vocational interests. The second class of individual aspects are work related antecedents including job autonomy, or unchallenging/uninteresting work, job satisfaction, career aspirations, and expectations, organisational commitment, stress, and intentions to stay. (Mobley, 1982). The distal variables chosen for the present research were organisational justice, (procedural, interactional, and distributive justices) work strain, work overload, work-to-family conflict and family-to-work conflict. These distal variables are examined based on their correlation with:
+
+13
+
+· Job Satisfaction
+· · Affective Commitment Continuance Commitment
+
+Distal variables - Correlates of Job Satisfaction Organisational Justice: Issues of justice and fairness are key concerns to employees within an organisation. Employees often ascertain whether their contributions to the organisation match the rewards, they receive. They also judge the fairness of the decision-making process, see if the processes are consistently fair, and do not discriminate against any employee (Bias, Shapiro, & Moag, 1987). The main types of organisational justice are distributive, procedural, and interactional justice. Distributive justice refers to the dissemination of resources and the criteria by which they are distributed to the employees. It includes essential elements of equity, equality and need (Muchinsky, 2000). In contrast, procedural justice refers to the fairness of the processes and procedures used to determine results (Aryee & Chay, 2001). Employees trade their knowledge, skills, and abilities and motivation for rewards. The rewards can be tangible, such as income and intangible, such as being treated with respect, dignity, and fairness. This reciprocal exchange is grounded in social exchange theory (Blau, 1964) and the mutual transaction of benefits to each party shapes the social interactions. It is reasonable to assume that employees are more likely to respond favourably to fair treatment than unfair treatment. Indeed psychological theory states that the importance of fairness is a basic need for the well
+
+14
+
+being and satisfaction of employees (Blau, 1964). Therefore, employees who perceive that they are being treated without prejudice are more likely to have a high degree of satisfaction and continue their employment with the organisation. Recently, interactional justice has come to the forefront and refers to the perceived fairness of interpersonal treatment by the employee's manager. Interactional justice perceptions are concerned with ensuring the employees are treated with dignity, sensitivity, and respect and whether manager's decisions are accurarely communicated and explained to the employees (Colquit, Conlon, Wesson, Porter & Ng 2001). In summary, employees who perceive they are not being treated fairly due to unfair interpersonal treatment or unfair procedures develop low job satisfaction and may seek alternative employment with another organisation in pursuit of equity (Adams, 1963; Folger, & Konovsky, 1989). Thus, employees who perceive strong levels of fairness (social exchange theory) will experience higher levels of job satisfaction (see Colquitt et al. 2001). This research tests the hypotheses that:
+
+H 2a: Perceptions of distributive justice will have a positive association with job satisfaction H 2b: Perceptions of interactional justice will have a positive association with job satisfaction H 2c: Perceptions of procedural justice will have a positive association with job satisfaction
+
+15
+
+Work strain: has been the focus of many researchers because of its dysfunctional impact on employees and for the organisation as a whole. A stressor is defined as the particular relationship between the employees and their environment when they perceive it to be beyond their cognitive capabilities and endangering their personal well-being. Between the stressors of the environment and outcomes is the variable of strain. According to Koeske, Kirk, and Koeske (1993), strain is the consequence of stressors. Strain is `an internal state of the individual who perceives threats to physical/or mental well-being' (Krantz, Grunberg & Baum, 1985, p. 354). The indicators of stress manifest themselves around employees' experiences of strain, and are commonly linked to feelings of anxiety and depression and cognitive failure (O Driscoll & Brough, 2003) High levels of anxiety mean that the employees are mentally preoccupied and their cognitive mental processing framework and attention to the environment is diminished. This pre-occupation interferes with the employee's ability to process information adequately and to be able to plan effective strategies in their daily activities. Employees who are under work strain respond to their world differently both cognitively and affectively (O'Driscoll & Cooper, 1994).
+
+One approach into health and well-being in the workplace was the stress or strain relationship that looks at the influence of job demands. A second approach is looking at enhancing employees' health and well-being through positive experiences in the form of variety and autonomy, leading to greater job satisfaction and performance (O'Driscoll & Brough, 2003). Occupational strain needs to be dealt with not only for the benefit of the individual, but also for the organisation as a whole. Increasing strain produces 16
+
+anxiety that ultimately affects personal health, morale, productivity, organisational efficiency leading to absenteeism, job dissatisfaction, decreased organisational commitment, and voluntary turnover. Therefore, it is hypothesised that: H 2d: Work strain will be negatively associated with job satisfaction
+
+Work overload: is defined as a stressor when the employee feels that they have too many responsibilities or tasks in a defined period (Cardenas, Major & Bernas, 2004). Overload results from an interaction between the employee and his/her environment. One employee may feel that the workload is reasonable where another may perceive it as over burdening. Work overload is therefore very subjective in nature. Overload may be of two different types: quantitative or qualitative. When employees perceive that they have too much work to do, too many different things to do, or insufficient time to complete assigned work, a condition of quantitative overload exists. Alternatively, qualitative overload occurs when employees feel they lack the ability to complete their jobs or that performance standards are too high, or they just have too much to do regardless of how much time they have. Therefore, an overburdening workload will require an increase in time and energy to fulfil the job requirements (Beehr, & Glazer, 2005). Research shows that work overload contributes to employee strain, tension, job dissatisfaction, decreasing organisational commitment and turnover (Spector, & Rex 1998). High workloads have been shown to lead to negative outcomes, for example, absenteeism, and low job satisfaction (Fox, Dwyer, & Ganster, 1993). According to Spector and Rex (1998), a high workload may result in feelings of anxiety and frustration. The rationale for this 17
+
+hypothesis is that perceptions of a high workload by the employee are likely to result in some form of uncertainty about the completion of work tasks, resulting in low job satisfaction (Spector & Rex, 1998). H 2e: Work overload will be negatively associated with job satisfaction
+
+Work-to-Family (WFC) and Family-to-Work Conflict (FWC): In recent years, there has been an increase in competitive pressures on organisations to increase productivity and an increase in time demands on the workforce, leaving less time available for the employees to be with their families. Moreover, the workforce composition has changed in recent years, with an increase in women in the workplace and there has been an increase in men being involved in family life (Bellavia, & Frone, 2005). Dual income couples and an increase in single parenting are now becoming the norm of today's society (Cárdenas, Major& Bernas, 2004). Workfamily conflict has been defined as "a form of inter-role conflict in which role pressures from the work and family domains are mutually incompatible in some respect" (Greenhaus & Buetell, 1985, p. 77). The conflict occurs when the employee extends their efforts to satisfy their work demands at the expense of their family demands or vice versa (Wang et al., 2004). Conflict could arise from work interfering with the family life, such as working overtime to meet demands of the job or from family demands when there is illness with a family member. A significant amount of research has concluded that WFC and FWC are related but distinct constructs (Casper, Martin, Buffardi, & Erdwins. 2002). WFC is primarily caused by excessive work demands and predicts negative family outcomes, whereas FWC is
+
+18
+
+primarily determined by family demands and predicts negative work outcomes (Greenhaus & Beutell, 1985).
+
+Research has provided evidence that job satisfaction has been prominent as having a negative relationship in work-family conflict (Netmeyer, Boyes, & McMurrian, 1996). As the employees, experience more conflict between their roles in both spheres, their level of job satisfaction declines. According to Cardenas et al., (2004) employees have limited time and energy to devote to the numerous domains in their lives. The fulfilment in one domain requires some relinquishment in another domain. It is this relinquishment, due to the limited time and energy, which can cause conflict (O'Driscoll, 1996). In sum employees, registering low levels of conflict that originate from the work or home will be more likely to hold high levels of job satisfaction. The present study tests the hypothesis that: H 2f: Work-to-family conflict will be negatively associated with job satisfaction H 2g: Family-to-work conflict will be negatively associated with job satisfaction
+
+Distal Variables - Correlates of Affective Commitment Organisational justice: The research of Adams (1965) and Meyer et al., (1989) has shown that employees who have the perception that they are treated negatively by the organisation are more likely to have a lower level of affective commitment towards the organisation. 19
+
+As mentioned previously, distributive justice is often discussed in terms of the principle of equity among employees and the principle of equal distribution of resources (Spector, 2000). It then forms a basis for interaction and commitment, which fosters a greater degree of emotional attachment to the organisation. Essentially distributive justice suggests a level of internal equity or equality in the distribution of assets and the distribution of compensation and resources. The rationale is that if the employees have perceptions of high distributive justice that is if an employee perceives that their contributions match the outputs they receive from the organisation then they will experience an emotional attachment. This results in the employee tending to be more secure and having a sense of fellowship in the organisation (Meyer, & Allen, 1991). In sum, positive perceptions of distributive justice in the outcomes received from the organisation will create high affective commitment to the organisation. H 3a: Perceptions of distributive justice will have a positive association with affective commitment.
+
+Interactional justice refers to the social aspects of distributive justice and the importance of social aspects when policies and procedures are being implemented (Colquitt et al. 2001). The rationale is that if the employees have perceptions of being treated with politeness, honesty, and respect by their managers, in their interpersonal communication they are more likely to have feelings of affective commitment to the organisation. H 3b: Perceptions of interactional justice will have a positive association with affective commitment. 20
+
+Similarly, if the employees have perceptions of fairness of the process by which outcomes are determined and the moral and ethical values of the employee are taken into consideration (procedural justice), they are more likely to have positive reactions to the organisation, that is, increased affective commitment. Research of Colquit, Greenberg, and Zapata-Phelan (2005) found that the processes by which outcomes are determined are more important than the outcome itself. The important aspect is that the employees are given a "voice", and are included in the planning, and decision-making processes. Therefore, it is posited that: H 3c: Perceptions of procedural justice will have a positive association with affective commitment.
+
+Work strain: According to O'Driscoll & Brough (2003), the consequences of strain are poor workplace attitudes such as reduced organisational commitment and low workplace performance. When individual employees feel the presence of strain, they may become anxious and have difficulty in concentrating on their daily tasks/work (O'Driscoll & Brough, 2003). The feeling of being anxious and the sense of not being in control may lead to feelings of frustration and psychological withdrawal from the organisation (Beehr & Gupta, 1978). Thus, psychological strain can influence the ability of the employee to maintain commitment to the organisation. In sum, employees who are experiencing high levels of strain are more likely to have lower levels of commitment (affective). Therefore, it is posited that: H 3d: Work strain will be negatively associated with affective Commitment.
+
+21
+
+Work overload: Many empirical studies have identified the relationship between workload and emotional exhaustion (Buunk, 1990; Cordes & Dougherty, 1993; Jansen, Schaufeli & Houkes, 1999). Therefore, affective commitment depends on the way in which individual employees perceive their value to the organisation and are their ability to remain steadfast to their employer (Meyer & Allen, 1991). When the employees are overworked and have feelings of emotional exhaustion they feel they cannot work effectively in fulfilling their responsibilities and commitment to their employer. When this is the situation, a high work overload, either quantitatively (having too much to do) or qualitatively (too difficult) may result in feelings of being less committed (affective) to the organisation. Therefore, it is posited that:
+
+H 3e: Work overload will be negatively associated with affective commitment.
+
+Work-to-family and family-to-work conflict: In the work to family literature, affective commitment has received less attention than job satisfaction as a potential outcome of inter-role conflict (Good, Sisler, & Gentry, 1988; Good, Page, & Young, 1996). According to Schaffer, Harrison, Gilley, & Luk (2001), commitment (affective and continuance) relates to the concept of social exchange theory, where the organisation and the employee expect something in return for the benefits that accrue in the social interaction. This provides a situation where conflict can negatively affect commitment. Studies by Bhagat, McQuaid, Lindholm, & Sergovis (1985) and Wiley (1987) concluded that high FWC might lead to lowering organisational commitment. The rationale for this could be the principle of `system 22
+
+conflict theory', that is, employees have only a set amount of time and energy to focus on a particular domain either work or family. Therefore, if an employee is experiencing high levels of FWC their roles and responsibilities in family life are interfering with the work domain. Because the employee is more committed to the welfare of the family, this will take priority, reducing or minimising the resources of time and energy being able to be spend in the work domain. Thus, employees who experience high family conflict should experience less affective attachment to the organisation.
+
+Penley & Gould (1988) state that employees who are more committed to an organisation tend to more dedicated, "feels part of the family" and wants to stay on with an organisation. If an employee is spending more time at work because of the commitment to the job they may experience higher levels of WFC. In sum, employees registering high levels of conflict that originate from the family will be more likely to hold low levels of affective commitment to organisation. H 3f: Work-to-family conflict will be positively associated with affective commitment.
+
+H 3g: Family-to-work conflict will be negatively associated to ffective commitment.
+
+Distal Variables - Correlates of Continuance Commitment Continuance commitment is based on occupational need and the need for resources (e.g. remuneration, specificity of skills, work security, work friends) as 23
+
+underlying reasons for continuing employment (Iverson & Buttigieg, 1998). Employees will exhibit self-interest behaviour and become `side bet' employees as a result of incentives the organisation offers to the employee (Meyer et al. 1990). Therefore, the commitment of these employees will be based on the money, social and psychological returns he or she receives (Greenberg et al., 2005).
+
+Distributive justice is concerned with the allocation and the distribution of the resources. The employee makes judgements on what they receive for their time and effort in comparison to other employees. The continuance commitment (cc) employee is interested in the return on investment, a calculative commitment based on the rewards, inducements (side bets) offered by the organisation (Morrow, 1993). Therefore, the continuance committed employees actions and decisions are based on the premise of a calculative exchange relationship. Therefore, if the employee believes that the distribution of the outcomes, such as pay and promotional opportunities are impartial then the employee will be steadfast to the organisation based on the continuance of the specific personal outcomes (Greenberg et al., 2005). Therefore, it is posited that: H 4a: Perceptions of distributive justice will have a positive association with continuance commitment.
+
+Interactional justice refers to the interpersonal treatment received by the employees supervisors and managers. Colquit et al. (2001) argue that the continuance-committed employee will be committed to the organisation based on the quality of the social interactions in the workplace. Furthermore, Greenberg (1993) in 24
+
+his taxonomy justice classes included in the elements of interactional justice, the manner in which information is given to employees. Therefore, the cc employees may be committed to the organisation because of the relationships developed with their peers, friends, union, and work team or with the organisation's customers which consequently may benefit the continuance committed employee in their personal career goals (Becker, 1992). Therefore, it is posited that:
+
+H 4b: Perceptions of interactional justice will have a positive association with continuance commitment. Procedural justice: As previously mentioned, procedural justice refers to the perceived unbiased nature of the policies and procedures used to achieve organisational decisions (Meyer et al 1989). When the employee is involved, given an opputturnity to participate in developing the policies and procedures, this can create a continuance commitment mentality. When the cc employee develops an active interest in the application of the business procedures such as remuneration plans, job, career, promotional plans etc, and then the continuance commitment employee may have feelings of commitment to the organisation based on the continuance of the accumulated personal benefits that may eventuate. This reassures the continuance committed employee that the policies and procedures may continue so that the money, social and organisational inducements may continue in their selfinterest (Iverson & Buttgieg, 1998). Therefore, it is posited that: H 4c: Perceptions of procedural justice will have a positive association with continuance commitment.
+
+25
+
+Work strain is expected to be positively associated with continuance commitment based on the idea that the individual cc employee often weighs the benefits of continuing with the organisation, comparing the remuneration, and selfsatisfaction against the cost of personal consequences of individual well-being and physical health (Barling et al., 2005). The conflict that may arise can have a negative impact on an employee's feelings of satisfaction, such as job dissatisfaction, depression, burnout, or anxiety. However, an employer who is experiencing high levels of strain may also be committed to the organisation because of the side bets offered by the organisation or if they are aware that other employment opportunities are limited. If the employee has perceptions that fewer alternatives are available, the stronger their commitment will be to their employer. Therefore, it is posited that: H 4d: Work strain will be positively associated with continuance commitment
+
+Work overload: As previously mentioned work overload consequences can be either qualitative or quantitative. This happens when either the employee does not have the knowledge skills and abilities to undertake the allocated job or when there is too much work in a defined timeframe for the employee to fulfil the daily job related tasks. It therefore becomes an incompatibility between time allocation to complete the job, job demand and the time based demand (Barling, et al, 2005). Therefore, the employee will want to stay with the organisation because of the inducements offered by the organisation such as retirement fund, and status within the organisation. An employee that is experiencing high work overload may also have high continuance to the organisation. Therefore, it is posited that: 26
+
+H 4e: Work overload will be positively associated with continuance commitment.
+
+Work-to-family and family-to-work conflict. Work-to-family conflict occurs when the domain of work interferes with the family demands and vice versa for FWC (Greenhaus & Beutell, 1985). The rationale for this hypothesis is that if the employee is experiencing high conflict from either the work or family domain it will be dependant on the employees calculative commitment levels. The higher the levels of conflict and the higher the number of inducements offered by the organisation will result in cc employee producing extra effort to ensure their continued employment. The fewer alternatives that are available to the continuance-committed employee the more dedicated they tend to be (Iverson & Buttgieg, 1998). Therefore, it is posited that: H 4f: Work-to-family conflict is positively associated with continuance commitment.
+
+H 4g: Family ­to-work conflict is positively associated with continuance commitment
+
+27
+
+Mediated Relationships
+Job satisfaction Organisational justice: As previously mentioned organisation justice incorporates three aspects of fairness: fairness in how the employees are treated (interactional justice), fairness of procedures (procedural justice), and fairness in outcomes (distributive justice). According to Cohen, Charash & Spector (2001), perceptions of unfair treatment lead to negative work place attitudes and behaviour such as, lower morale, and higher turnover. Colquitt et al. (2001) argues that perceptions of fair treatment incorporate aspects of higher job satisfaction, and organisational commitment, low intentions to turnover and increased organisation citizenship behaviours. As discussed earlier, perceptions of distributive justice (H2a), interactional justice (H2b) and procedural justice (H2c) are expected to be associated with job satisfaction (see on page 14 and 15). In addition, job satisfaction (H 1a) is expected to be associated with turnover intentions. Hence, strong perceptions of fairness in all the justice classes are likely to lead to higher job satisfaction, which in turn will be linked with turnover intentions. Therefore, it is expected that:
+
+H 5a: Job satisfaction will mediate the relationship between perceptions of distributive justice and turnover intentions. H 5b: Job satisfaction will mediate the relationship between perceptions of interactional justice and turnover intentions.
+
+28
+
+H 5c: Job satisfaction will mediate the relationship between perceptions of procedural justice and turnover intentions.
+
+Work strain: In studies, stressful work and strain is seen as an antecedent of voluntary turnover in organisations (Mcfadden & Demetriou, 1993; Arnold & Mackenzie Davey 1999). As discussed earlier on pages 15 and 16, it is expected that work strain (H2d) will be negatively associated with job satisfaction. Consequently it is expected that employees registering high levels of strain will have lower levels of job satisfaction and more likely to have turnover intentions. H 5d: Job satisfaction will mediate the relationship between work strain and turnover intentions
+
+Work overload: According to Mueller, Boyer, Price, & Iverson (1994), work overload has a significant effect on voluntary turnover. Likewise, Arnold and Mackenzie Davey (1999) found work overload predicted voluntary turnover among a sample of hospital workers. As discussed earlier (see on pages 16 and 17), it is expected that work overload (H 2e) will be negatively associated with job satisfaction hence greater turnover intentions. H 5e: Job satisfaction will mediate the relationship between work overload and turnover intentions.
+
+Work-to-family and family-to-work conflict: Studies have consistently supported the direct relationship between work-family conflict (Andersen, Coffey & Bryerly, 2002; Grandey, & Cropanzano, 1999; Greenhaus, Parasuraman, & Collins, 29
+
+2001), and for family-to-work conflict (Schafer, et al, 2001) with turnover intentions. As discussed on pages 17, 18, and 19 it is expected that work-to-family conflict (H 2f) and family-to-work conflict (H 2g) are negatively associated with job satisfaction. Therefore, it is posited that:
+
+H 5f: Job satisfaction will mediate the relationship with work-to-family conflict and turnover intentions. H 5g: Job satisfaction will mediate the relationship with family-to-work and turnover intentions. Affective Commitment As discussed the distal variables, distributive, interactional, and procedural justice (on pages 19, and 20); work strain (on page 21), work overload (on page 21), work-to-family and family-to-work conflict (on pages 22, and 23), are expected to be associated with affective commitment. Therefore, it is posited that:
+
+H 6a. Affective commitment will mediate the relationship between perceptions of distributive justice and turnover intentions . H 6b. Affective commitment will mediate the relationship between perceptions of interactional justice and turnover intentions H 6c. Affective commitment will mediate the relationship between perceptions of procedural justice and turnover intentions H 6d. Affective commitment will mediate the relationship between work strain and turnover intentions.
+
+30
+
+H. 6e. Affective commitment will mediate the relationship between work overload and turnover intentions. H 6f. Affective commitment will mediate the relationship between workto-family conflict and turnover intentions H 6g. Affective commitment will mediate the relationship between familyto-work conflict with turnover intentions.
+
+Continuance Commitment As discussed the distal variables distributive, interactional, and procedural justice (on pages 24 and 25), work strain (on pages 25 and 26), work overload (on pages 26), work-to-family and family-to-work conflict (on pages 26 and 27), are expected to be associated with continuance commitment. Therefore, it is posited that:
+
+H 7a. Continuance commitment will mediate the relationship between perceptions of distributive justice and turnover intentions H 7b. Continuance commitment will mediate the relationship between perceptions of interactional justice H 7c. Continuance commitment will mediate the relationship between perceptions of procedural justice and turnover intentions H 7d. Continuance commitment will mediate the relationship between work strain and turnover intentions H 7e. Continuance commitment will mediate the relationship between work overload and turnover intentions.
+
+31
+
+H 7f. Continuance commitment will mediate the relationship between workto-family conflict and turnover intentions. H 7g. Continuance commitment will mediate the relationship between family-to-work conflict and turnover intentions.
+
+32
+
+Summary of Hypotheses (Refer to Figure 1.)
+Correlates of Turnover Intentions H 1a: Job satisfaction will be negatively associated with turnover intention. H 1b: Affective commitment will be negatively associated with turnover intentions. H 1c: Continuance commitment will be negatively associated with turnover intentions.
+
+Correlates of Job Satisfaction H 2a: Perceptions of distributive justice will have a positive association with job satisfaction. H 2b: Perceptions of interactional justice will have a positively association with job satisfaction. H 2c: Perceptions of procedural justice will have a positive association with job satisfaction. H 2d: Work strain will be negatively associated with job satisfaction. H 2e: Work overload will be negatively associated with job satisfaction. H 2f: Work-to-family conflict will be negatively associated with job satisfaction. H 2g: Family-to-work conflict will be negatively associated with job satisfaction.
+
+Correlates of Affective Commitment H 3a: Perceptions of distributive justice will have a positive association with affective commitment.
+
+33
+
+H 3b: Perceptions of interactional justice will have a positive association with affective commitment. H 3c: Perceptions of procedural justice will have a positive association with affective commitment. H 3d: Work strain will be negatively associated with affective commitment. H 3e: Work overload will be negatively associated with affective commitment H 3f: Work-to-family conflict will be positively associated with affective commitment. H 3g: Family-to-work conflict will be negatively associated with affective commitment.
+
+Correlates of Continuance Commitment H 4a: Perceptions of distributive justice will have a positive association with continuance commitment to organisation. H 4b: Perceptions of interactional justice will have a positive association with continuance commitment. H 4c: Perceptions of procedural justice will have a positive association with continuance commitment. H 4d: Work strain will be positively associated with continuance commitment. H 4e: Work overload will be positively associated with continuance commitment. H 4f: Work-to-family conflict will be positively associated with continuance commitment.
+
+34
+
+H 4g: Family-to-work conflict will be positively associated with continuance commitment.
+
+Mediated Relationships
+Job Satisfaction H 5a: Job satisfaction will mediate the relationship between perceptions of distributive justice and turnover intentions. H 5b: Job satisfaction will mediate the relationship between perceptions of interactional justice and turnover intentions. H 5c: Job satisfaction will mediate the relationship between perceptions of procedural justice and turnover intentions. H 5d: Job satisfaction will mediate the relationship between work strain and turnover intentions. H 5e: Job satisfaction will mediate the relationship between work overload and turnover intentions. H 5f: Job satisfaction will mediate the relationship between work-to-family conflict and turnover intentions. H 5g: Job satisfaction will mediate the relationship between family-to-work conflict and turnover intentions.
+
+35
+
+Affective Commitment H 6a: Affective commitment will mediate the relationship between perceptions of distributive justice and turnover intentions. H 6b: Affective commitment will mediate the relationship between perceptions of interactional justice and turnover intentions. H 6c: Affective commitment will mediate the relationship between perceptions of procedural justice and turnover intentions. H 6d: Affective commitment will mediate the relationship between work strain and turnover intentions. H 6e: Affective commitment will mediate the relationship between work overload and turnover intentions. H 6f: Affective commitment will mediate the relationship between work-to-family conflict and turnover intentions. H 6g: Affective commitment will mediate the relationship between family-to-work conflict and turnover intentions.
+
+Continuance Commitment H 7a: Continuance commitment will mediate the relationship between perceptions of distributive justice and turnover intentions. H 7b: Continuance commitment will mediate the relationship between perceptions of interactional justice and turnover intentions. H 7c: Continuance commitment will mediate the relationship between perceptions of procedural justice and turnover intentions.
+
+36
+
+H 7d: Continuance commitment will mediate the relationship between work strain and turnover intentions. H 7e: Continuance commitment will mediate the relationship between work overload and turnover intentions. H 7f: Continuance commitment will mediate the relationship between work-tofamily conflict and turnover intentions. H 7g: Continuance commitment will mediate the relationship between family-towork conflict and turnover intentions.
+
+37
+
+CHAPTER TWO
+
+METHOD
+
+Organisational Context
+The Waikato District health Board employs approximately 4,800 staff and serves a population of 317,751. It is the fifth largest District Health Board in New Zealand and its direct area of responsibility stretches from Thames/ Coromandel in the north to Taumarunui in the south (See figure 2). The main hospital is based (Waikato Hospital) in Hamilton, and there are district hospitals at Thames, Tokoroa, Te Kuiti, Taumarunui, Te Awamutu and Morrinsville (WDHB, n.d.). The organisational structure of the WDHB is a matrix structure that runs through client-based services; the services provided are Mental Health & Addictions service, Hospital services, and Community Health services. The term Allied Health was coined some years ago and referred to health professionals who were not doctors, nurses, managers, or clerical staff. Therefore, the term allied health staff was used to refer to "professionals allied to medicine" (Shaw, 2006). The core groups of people that make up Allied Health staff include occupational therapists, physiotherapists, psychologists, speech and language therapists, social workers, and dieticians.
+
+38
+
+Figure 2. The geographical boundaries of the WDHB.
+
+These groups of people are then assigned to each of the three services depending on the client need within each service. A professional advisor is appointed to each of these groups. For example, the professional advisor for occupational therapy provides advice horizontally across the organisation to service managers and team leaders on how they may improve their service to optimise use of the allied health staff (Shaw 2006).
+
+Background A questionnaire was conducted across six occupational allied health groups of the WDHB measuring turnover intentions as the criterion variable, three proximal variables, (job satisfaction, affective and continuance commitment) and seven distal variables, (distributive, interactional, and procedural justice, work overload, 39
+
+strain, work-to-family, and family-to-work conflict). The objective was to identify the key distal variables that are significantly related to turnover intentions and to explore the mediating affects of the proximal variables.
+
+Participants All the employees associated to WDHB allied health occupational groups (see Table 1) were invited to participate in this study. Overall, 251 employee questionnaires were distributed (Appendix C) and 114 completed questionnaires were returned, representing a response rate of 45.4%. Table 1 presents the number and percentage of
+
+Table 1 Number of respondents for each allied health occupational group Allied Health Occupational Group Dieticians Occupational Therapists Physiotherapists Psychologists Social Workers Speech Language Therapists Total Questionnaires Number of distributed Respondents 18 62 63 38 64 6 251 13 40 31 20 9 1 114 Response Rate/ Occupational Group 72.2% 64.5% 49.2% 52.6% 14% 16.6% 45.4% Percentage
+
+11.4% 35.1% 27.2% 17.5% 7.9% 0.9% 100%
+
+40
+
+respondents at each occupational group, along with the percentage each group is of its population. The respondent's average age was 39 years ranging from 22 to 64 years. The average tenure in the organisation was 64 months and males comprised 13.2% (15) of the sample and 86.4% (95) females.
+
+Instrument The data were collected via a questionnaire made up of multiple questions. The questionnaire contained quantitative measures of turnover intentions, job satisfaction, organizational commitment, (affective and continuance commitment) organizational justice (distributive, interactional. and procedural justice), psychological strain, work overload, work-to-family and family-to-work conflict and demographic particulars. Within the background section of the questionnaire, respondents were asked to provide information on their occupation title, gender, age, job tenure, organizational tenure, and number of dependants. A sample of the cover letter and questionnaire is presented in Appendix 2 and Appendix 3. The questionnaire was initially piloted on a small sample of people in order to highlight any ambiguities and errors in the design of the questionnaire's, instructions, and questions. The questionnaire was also submitted to the human resource manager at WDHB for his consideration and approval. As a result, a few minor design features were altered. The Research and Ethics Committee of the Psychology Department at the University of Waikato granted ethical approval for this research.
+
+41
+
+Quantitative Measures
+All scale scores were computed by taking the mean across item responses.
+
+Criterion variable Turnover intentions were measured using O'Driscoll & Beehr's (1994) Turnover Intentions Scale. The participants were asked how they feel about their present job, compared with an alternative that they may be interested in or able to obtain. This measure contains three items: "thoughts about quitting my job cross my mind" measured on a six-point response scale from strongly disagree to all the time. "I plan to look for a new job within the next 12 months" measured on a six point response scale strongly disagree to strongly agree; and "how likely is it that, over the next year, you will actively look for a new job outside of this firm" measured on a six point response scale very unlikely to very likely. The Cronbach's alpha for turnover intentions in the present sample was 0.91.
+
+Proximal variables The Facet Satisfaction scale was developed by O'Driscoll & Randall (1999) and was used to measure job satisfaction. The scale has 16 items and asks respondents, how satisfied they are with various aspects of their job using a seven-point scale, 1 = very dissatisfied to 7 = very satisfied. The Cronbach's alpha for the facet satisfaction scale in this study was 0.82.
+
+42
+
+Organisational commitment. The scale used to measure organisational commitment was developed by Allen & Meyer, (1996). The authors divide the scale into two subdivisions, affective and continuance commitment. Affective commitment has eight items, for example, "I enjoy discussing my organization with people outside it". Continuance commitment has eight items, for example, "right now, staying with the organisation is a matter of necessity as much as desire". The items are measured on a Likert type anchored scale from = strongly disagree (1), to = strongly agree (7). The Cronbach's alpha for organizational commitment in this sample was affective commitment 0.78 and continuance commitment 0.81.
+
+Distal variables Organisational justice was operationalised using Niehoff & Moorman (1993) Organizational Justice Scale. The justice scale consists of three sub-scales: distributive justice, interactional justice and procedural justice. Distributive justice was measured using five items assessing the fairness of different work outcomes, including pay levels, work schedule and job responsibilities. ". Interactional justice has nine items and measured the degree to which the employees felt their needs were considered, and adequate explanations were made for job decisions, e.g. "when decisions are made about my job, the manager is sensitive to my personal needs". Procedural justice was designed to measure formal procedures and had six items that measured the degree to which job decisions insured the gathering of accurate and unbiased information, an item example being "job decisions are made by my manager in an unbiased manner. The respondents were asked to rate the statements on Likert-type scale from 1 = to a very small extent to 5 = to a very large extent. The Cronbach's alpha for distributive justice, 43
+
+procedural justice and interactional justice in this sample was 0.78; 0.97; 0.93 respectively.
+
+Psychological strain was measured using the General Health Questionnaire twelve-item scale developed by Banks, Clegg, Jackson, Kemp, Stafford, & Wall (1980). An example item is "over the past three months, have you been able to concentrate on what you are doing? The participants respond on a 5-point Likert scale ranging from 1 = very occasionally to 5 = all the time. The Cronbach's alpha for the scale in this sample was 0.76.
+
+Work overload: Bolino & Turnley (2005) developed the scale used to measure work overload. The three items used were: "I never seem to have enough time to get everything done at work"; "the amount of work I am expected to do is too great" and "it often seems I have too much work for one person to do". Respondents were asked to rate the statements on a five-point anchored scale; 1 = strongly disagree to 5 = strongly agree. The Cronbach's alpha for this scale in this sample was 0.86.
+
+Work-to -life conflict and life­to-work conflict were gauged by using a scale that was developed by Netemeyer, Boles & McMurrian (1996). This scale comprises five items on each scale. An example on the work-to-family scale was "things I want to do at home do not get done because of the demands my job puts on me". In contrast, the participants will be asked questions related to family-work conflict, e.g. "things I do at
+
+44
+
+work do not get done because of the demands of my family spouse/partner". The Cronbach's alpha for this scale in this sample was 0.89 and 0 89 respectively.
+
+Procedure The WDHB human resource department contacted the University of Waikato's organizational psychology department to see if there was a master's thesis student willing to take on some research for the WDHB. The researcher then initiated a meeting with the human resource manager and the business re engineering manager to define the scope of the research and that the sample would be from the allied health groups, dieticians, occupational therapists, physiotherapists, psychologists, social workers, and speech language therapists. The main reason for using these allied health occupational groups was that very little research has been undertaken on these groups. From this meeting a proposal was written outlining the timeframe for the research, and how the dissemination of the results will take place. The researcher attended a monthly professional advisor meeting where he outlined the rationale for the research its timeframe, and assured the professional advisors of the anonymity of the participants' identity. An information sheet was given to the professional advisors detailing the research details (see Appendix 1). The professional advisors of each occupational group at the suggestion of the human resource manager of WDHB undertook the distribution of the questionnaires.
+
+The employees in each occupational group received a questionnaire with a covering page detailing what was the study was about, who was doing the study, the
+
+45
+
+rationale for the research,, confidentiality, and anonymity, what was required of them and when, and an offer to supply a summary of results from the study. The participants were informed on the cover sheet that their participation was voluntary (see Appendix 2). A prepaid envelope addressed to the researcher at the University of Waikato was attached to each questionnaire.
+
+46
+
+CHAPTER THREE
+
+RESULTS
+
+This chapter presents the outcomes of the statistical analyses, which are separated into three main sections: (a) descriptive statistics, (b) correlations and regressions and (c) mediated regression analyses Descriptive Statistics Descriptive statistics, for all variables, including means, standard deviations, skew and Cronbach's alphas are presented in Table 2. Participants indicated moderate to high levels of job satisfaction, (5.09) and mid point levels of affective commitment (3.30) and continuance commitment (3.91). On average, the participants indicated they had low levels (3.22) of intent to leave the organisation. In relation to the distal variables, most respondents had perceptions of moderate levels of distributive, interactional and procedural justice and. On average, most respondents experienced a higher level of work-to-family conflict (2.57) compared with family-to-work conflict (1.79). However, the levels of both forms of conflict were relatively low. Three variables had statistically significant levels of skew, an indication of asymmetry of distribution. Firstly, most respondents indicated that they experienced moderate to high levels of interactional justice (skew = -.66). Secondly, most respondents indicated that they experienced low levels of family-to-work conflict
+
+47
+
+Table 2. Descriptive statistics Variable Job Satisfaction (a) Affective Commitment (b) Continuance Commitment(b) Distributive Justice (c) Interactional Justice (c) Procedural Justice (c ) Work-to-family conflict (d) Family-to-work conflict (d) Work Overload (d) Strain(e) Turnover Intentions. (f) M 5.09 3.30 3.91 3.01 3.43 SD 0.76 1.01 1.19 0.69 1.03 Skew -0.34 0.29 0.07 -0.37 -0.66* Cronbach's alpha 0.82 0.78 0.81 0.78 0.93
+
+3.05 2.57 1.79 3.24 2.30 3.22
+
+1.01 0.94 0.72 0.89 0.55 1.55
+
+-0.42 0.27 0.80* 0.19 1.30* 0.37
+
+0.97 0.89 0.89 0.86 0.76 0.91
+
+Note: (a) was measured on a 7 point scale (1 = very dissatisfied, 7 = very satisfied). (b) involved ratings made on a 7 point scale (1 = strongly disagree, 7 = strongly agree). (c) was measured on a 5 point scale (1 = to a very small extent, 5 = to a very large extent). (d) was measured on a general health 5 point scale (1 = very occasionally, 5 = all the time). (e) involved ratings made on a 5 point scale (1 = strongly disagree, 5 = strongly agree). (f) involved ratings on a 6 point scale.
+
+48
+
+(skew = .80). Thirdly, psychological strain also displayed relatively high levels of skew (skew = 1.30), with the majority of the respondents indicating that they experienced low levels of psychological strain. Cronbach's alpha was used to measure the internal consistency of responses. All of the variables were over the Nunnally's (1978) recommended minimal internal consistency threshold of .70. This suggests that the scale scores are relatively reliable for respondents in this study.
+
+Correlations and Regressions
+The correlations and regressions will now be presented for the model displayed in Section 1, Figure 1 on page 8. The results of the Pearson's Product Moment correlations between the variables are presented (see Table 3), then the regressions for job satisfaction (see Table 4), affective commitment (see Table 5), continuance commitment (see Table 6), and turnover intentions (see Table 7).
+
+Job Satisfaction
+Correlations As expected, job satisfaction was significantly correlated with turnover intentions (r = .41, p < 0.01), and the predictor variables, distributive justice, (r = .54, p< 0.01), interactional justice (r = .41, p<0.01), procedural justice (r = 0.44, p<0.01), work strain, (r = -.29, p<0.01), work overload (r = -.17 p<0.05), work-to-family conflict (r = 0.21, p<0.05), and family-to-work conflict (r = -.24 p < 0.01). Therefore, hypotheses 1a, 2a, 2b, 2c, 2d, 2e, 2f, and 2g were supported.
+
+49
+
+Table 3. Correlations between major variables Jobsat JobSat AffComm ContCom DistJu IntJu ProcJu WFC FWC WorkOv Strain TInt 1 0.42** -0.05 0.54** 0.41** 0.44** -0.21* -0.24** -0.17* -0.29** -0.41** 1 -0.10 0.29** 0.31** 0.29** -0.09 -0.18* -0.14 -0.24** -0.49** 1 -0.08 -0.19* -0.14 0.06 0.24** -0.03 0.35** -0.02 1 0.18* 0.10 -0.37** 0.14 -0.48** -0.38** -0.18* 1 0.83** -0.01 0.04 0.15 -0.31** -0.27** 1 -0.37** 1 0.14 0.13 0.21* -0.22* 0.28** 0.44** 0.14 0.02 1 0.03 -0.03 0.30** 1 0.21* 0.06 1 0.30** 1 Affcom Concom DistJu IntJu ProcJu WFC FWC Workov Strain TInt
+
+Note. Jobsat = job satisfaction; Affcom = affective commitment; Concom = continuous commitment; DistJu = distributive justice; IntJu = interactional justice; ProcJu = procedural justice; WFC = work-to-family conflict; FWC = family-to-work conflict. Workov = Work Overload; TInt = turnover intentions; N = 114 * p < .05. ** p < .01.
+
+50
+
+Regression A regression was run with job satisfaction as the criterion variable and distributive, interactional, and procedural justice work strain, work overload, work-tofamily conflict, and family-to-work conflict were simultaneously entered as the predictor variables. Table 4 displays that two predictors had a significant result distributive justice ( = .43, p < 0.01), and procedural justice ( = .32, p < 0.05).
+
+Table 4. Regression equation: All predictors with job satisfaction. Predictor Distributive Justice Interactional Justice Procedural Justice Work overload Strain WFC FWC Beta .43 .05 .32 .02 -.07 .07 .16 t 4.67** .39 2.34* .20 -.87 -.81 1.96*
+
+*p < .05; ** p < .01. Adjusted R Square .43; F = 12.58**; df = 7,101.
+
+While the r's in Table 3 for interactional justice, work strain, work overload, and work-to-family conflict were significant, the betas in Table 4 were not.. Overall, the set of predictors explained 43% of the variance in job satisfaction.
+
+51
+
+Affective Commitment
+Correlations Table 3 indicates that affective commitment had a significant association with job satisfaction (r = .42 < p 0.01), continuance commitment (r = .42 < p.01); distributive justice (r = .28 p < .01); interactional justice (r = .31, < p 0.01); procedural justice (r = .29 p < 0.01) and strain (r = -.237, p <.01). Therefore, hypotheses 3a, 3b, 3c, 3d, and 3g were supported. Hypothesis 3e, (workload), and 3f (work-to-family conflict) stated that they would be negatively related to affective commitment. Both r's were not significant, and therefore the hypotheses were not supported. Regression A regression analysis was undertaken to predict affective commitment from the combination of the predictors. The regression for affective commitment is presented in Table 5. The results show that distributive justice, work-to-family conflict, family-to-work conflict, work overload, and strain did not contribute significantly to affective commitment. Inclusively, the set of predictor variables explained 11% of the variance in affective commitment.
+
+Continuance Commitment
+Correlations Continuance commitment was found not to be systematically correlated with the majority of the variables. Table 3 displays that there were no significant results
+
+52
+
+Table 5. Regression equation: All predictors with affective commitment Predictor Distributive Justice Interactional Justice Procedural Justice Work overload Strain WFC FWC Beta .16 .17 .12 - .06 - .07 - .01 .11 t 1.42 .97 .70 -.50 -.70 -.07 1.11
+
+* p < .05; ** p < .01. Adjusted R Square 0.11; F = 2.88; df = 7,102.
+
+with distributive justice (r = -.08, p > 0.05), procedural justice (r = -.19, p > 0.05), work-to-family conflict (r = .06, p >0.05) and work overload (r = -.03, p > 0.05). Therefore, hypotheses 4a, 4b, 4e, 4f were not supported. Hypothesis 4c stated that interactional justice will be positively associated to continuance commitment. A negative association was found, therefore H 4c was not supported. Hypotheses 4d and 4g predicted a positive association of psychological strain, and family-to-work conflict with continuance commitment hence, H 4d and 4g were supported.
+
+Continuance Commitment Regression A regression analysis was undertaken to predict continuance commitment from the combination of the predictors. The regression for continuance commitment is presented in Table 6. Family-to-work conflict and psychological strain produced
+
+53
+
+positive significant results, with beta weights of .29 and .42 respectively. In combination, the set of predictors explained 19% of the variance in continuance commitment
+
+Table 6. Regression equation: All predictors with continuance commitment Predictor Distributive justice Interactional justice Procedural justice Work overload Strain WFC FWC Beta -.03 .03 -.10 -.07 .42 -.08 .29 t -.25 .16 -.63 -.69 4.39** -.76 3.04**
+
+* p < .05; ** p < .01. Adjusted R Square .19. F = 4.76** df = 7,102.
+
+Turnover Intentions
+Correlations Results of the Pearson's Product moment correlations with turnover intentions are presented in Table 2. As expected from previous research, the association with job satisfaction, (r = -.41, p < .01), and affective commitment, (r = -.49, p < 0.01) was significant, therefore hypothesis 1a and 1b were supported. Hypothesis 1c predicted that continuance commitment will be negatively associated to turnover intentions. This hypothesis was not supported. Furthermore, turnover intentions were 54
+
+significantly related to distributive justice (r = -.18, p < 0.05), interactional justice (r = -.27, p < 0.05), procedural justice (r = -.22, p < 0.05), family-to-work conflict (r = .30, p < 0.01), and strain (r = .30, p < 0.01).
+
+Regression The proximal variables were regressed to determine their significance in predicting turnover intentions (see Table 7). As expected job, satisfaction and affective commitment were both significant predictors of turnover intentions, whereas continuance commitment did not contribute significantly to turnover intentions. In combination, these proximal variables accounted for 27% of the variance in turnover intentions. Table 7. Regression equation: Proximal variables with turnover intentions. Predictor Job satisfaction Affective commitment Continuance commitment Beta -.25 -.39 -.07 t -2.79** -4.31** -0.85
+
+** p < 0.01 Adjusted R Square 0.27. F = 14.74** df 3,109.
+
+Mediated Regression
+The mediated regressions approach followed the guidelines as outlined by Baron & Kenney (1986). Their analyses require three separate equations needing to be estimated. The first equation involves regressing the mediator variable on the
+
+55
+
+predictor variable. The second equation entails regressing the criterion variable on the predictor variable. Finally, the third equation involves regressing the criterion variable concurrently onto the predictor variable and the mediator variable. Furthermore, Baron and Kenny (1986) outline four conditions that must be met: Condition 1. The antecedent/predictor variable must be significantly related to the mediator Condition 2. The antecedent/predictor variable must be significantly related to the criterion variable Condition 3. The mediator variable must be significantly related to the criterion variable Condition 4. The effect of the predictor variable must be less in equation three than in equation two.
+
+Full mediation is achieved when the predictor variable influences the criterion through the mediator. In terms of the regression equation, the beta weight for the predictor is significant in equation two but non-significant in equation three when the mediator is controlled for. Partial mediation is achieved when the predictor variable influences the criterion variable through the mediator indirectly and directly. Baron and Kenny (1986) argue that partial mediation warrants a conclusion of a mediation effect as it is unrealistic to eliminate the relationship between the predictor variable and the criterion variable totally (p.1176). In respect of the mediated relationships, (see theoretical model Chapter 1, figure 1 on page 8) two of the mediators, job satisfaction, and affective commitment were viable for testing through mediated regression. Continuance commitment was 56
+
+not significantly related to turnover intentions; therefore, no mediation regressions were performed for this variable (see Table 7).
+
+Job satisfaction Hypothesis 5a stated that job satisfaction will mediate the relationship between distributive justice and turnover intentions. Table 8 presents the findings from the three regression equations testing this hypothesis. In the first equation, job satisfaction, Table 8. Mediating regression equation testing hypothesis H 5a. Eq. 1 2 3 Criterion Job satisfaction Turnover intentions Turnover intentions Predictor Distributive justice Distributive justice Distributive justice Job satisfaction ** p < .01. Note: Eq. = Equation; Adj. = Adjusted. (the mediator), was regressed on distributive justice, (the predictor). In equation two turnover intentions, (the criterion), was regressed on distributive justice and their relationship was found to be significant. In equation three, turnover intentions were regressed simultaneously on distributive justice and job satisfaction. The relationship between turnover intentions and distributive justice was not significant and was less than in equation two. The relationship between turnover 57 Beta .54 -.18 .07 -.45 Adj. R Square 6.70** .28 -1.92* .70 -4.34** .02 .16 t F df
+
+44.87** 1,111 3.67 1,112
+
+11.26** 2,110
+
+intentions and job satisfaction was significant. Hence, all four of Baron and Kenny's (1986) conditions are met, indicating a full mediation was demonstrated. So hypothesis 5a was supported. A Sobel test was performed indicating a non significant mediation effect. Hypothesis 5b stated that job satisfaction will mediate the relationship between interactional justice and turnover intentions. Table 9 presents the findings
+
+Table 9. Mediating regression equation testing hypothesis H 5b. Eq. 1 2 3 Criterion Job satisfaction Turnover intentions Turnover intentions Predictor Interactional justice Interactional justice Interactional justice Job Satisfaction Beta .41 -.27 -.17 -.37 t 4.69** -2.90** -1.21 -3.82** Adj. R Square .16 .63 .17 F df
+
+21.96** 1,108 8.37** 1,109 11.94** 2,107
+
+p < .01; ** p <.01. df = degrees of freedom. Sobel test Z = -2. 465, p = .013* Note. Eq. = Equation; Adj. = Adjusted
+
+from the three regression equations testing this hypothesis. In the first equation, job satisfaction, (the mediator), was regressed on interactional justice, (the predictor). In equation two turnover intentions, (the criterion), was regressed on interactional justice and their relationship was found to be significant. In equation three, turnover intentions were regressed simultaneously on interactional justice and job satisfaction. The relationship between turnover intentions and interactional justice was not
+
+58
+
+significant and was less than in equation two. The relationship between turnover intentions and job satisfaction was significant. Hence, all four of Baron and Kenny's (1986) conditions are met, indicating a full mediation was demonstrated. So hypothesis 5b was supported. A Sobel test was performed indicating a significant mediation effect Hypothesis H5c stated that job satisfaction will mediate the relationship between procedural justice and turnover intentions. Table 10 presents the findings
+
+Table 10. Mediating regression equation testing hypothesis H5c. Eq. 1 2 3 Criterion Job satisfaction Turnover intentions Turnover intentions Predictor Procedural Justice Procedural Justice Procedural Justice Job satisfaction Beta .44 -.22 -.06 t 5.13** -2.36* - 0 .57 Adj. R Square .19 .04 .15 F 26.34** 5.57* df 1,107 1,108
+
+10.83** 2,106
+
+-.38
+
+-3.89**
+
+p < .01. ** p < .05. Sobel test Z = 2.143, p = 0.032* Note: Eq. = Equation; Adj. = Adjusted from the three regression equations testing this hypothesis. In equation one of the mediated regression, job satisfaction (mediator) was found to be significantly related to procedural justice. In the second equation, turnover intentions (criterion) were significantly related to procedural justice. In the third equation, there was no significant relationship between turnover intentions and procedural justice. Hence, all Baron and Kenny's (1986) conditions were met indicating a full mediation 59
+
+relationship so hypothesis 5c was supported. The Sobel test produced a significant mediation effect. Hypothesis 5d stated that job satisfaction will mediate the relationship between psychological strain and turnover intentions. The results of this regression analysis are displayed in Table 11. Equation two yielded a positive significant relationship. In equation three, turnover intentions were regressed simultaneously
+
+Table 11. Mediating regression equation testing hypothesis H 5d.
+
+Eq. 1 2 3
+
+Criterion
+
+Predictor
+
+Beta -.29 .30 .19
+
+t -3.14** 3.35** 2.18* -3.96**
+
+Job Strain satisfaction Turnover intentions Turnover intentions Strain Strain
+
+Adj. R Square .07 .08 .19
+
+F 9.86** 11.20** 13.81**
+
+df 1,111 1,112 2,110
+
+Job -.35 satisfaction
+
+p < .05; ** p. < .01. Sobel test Z = -2.290, p = 0.022* Note Eq. = Equation; Adj. = Adjusted on psychological strain and job satisfaction. The relationship between turnover intentions and psychological strain remained significant, yet it was less than in equation two. Thus, the results indicate a partially mediated relationship supporting hypothesis 5d. A Sobel test indicated that the partial mediation was significant. Hypothesis 5g stated that job satisfaction will mediate the relationship between family-to-work conflict and turnover intentions. Findings in Table 12 show that
+
+60
+
+equation two yielded a significant relationship. In the third equation, family-to-work conflict was significantly reduced, indicating a full mediation effect and supporting hypothesis 5g. A Sobel test was undertaken and yielded a significant mediation effect. Table 12. Mediating regression equation testing hypothesis H 5g Eq. 1 2 3 Criterion Predictor Beta .24 .30 -.17 -.37 t 2.59* 2.81* -1.90 -4.17* Adj. R Square .05 .06 .18 F 6.73* 7.88* 13.12* df 1,111 1,112 2,110
+
+Job FWC satisfaction Turnover intentions Turnover intentions FWC FWC Job satisfaction
+
+p < .05. Sobel test Z = -1.902, p = .047* Note. Eq. = Equation; Adj. = Adjusted In respect to the distal variables, distributive justice, work overload, and work-tofamily conflict, the results of the mediations are presented in Tables 13, and 14 respectively. The results of the mediated regressions failed to meet the Baron and Kenny's (1986) conditions, so hypotheses 5e, 5f were not supported.
+
+61
+
+Table 13. Mediating regression equation testing hypothesis H 5e. Eq. 1 2 3 Criterion Predictor Beta -0.17 .06 -.01 -.41 t -1.85 0.67 -0.11 -4.63** Adj. R Square .02 -.01 .15 F 3.41 0.44 10.98** df 1,111 1,112 2,110
+
+Job Work satisfaction Overload Turnover intentions Turnover intentions Work overload Work overload Job satisfaction
+
+** p < .01. Note: Eq. = Equation; Adj. = Adjusted.
+
+Table 14. Mediating regression equation testing hypothesis H 5f. Eq. 1 2 3 Criterion Predictor Beta -.21 .02 .06 .42 t -2.28* .22 -.68 -4.73** Adj. R Square .04 -.01 .16 F 5.22* .05 11.25** df 1,111 1,112 2,110
+
+Job WFC satisfaction Turnover intentions Turnover intentions WFC WFC Job satisfaction p < .05; ** p < .01.
+
+Note : Eq. = Equation; Adj. = Adjusted
+
+62
+
+Affective Commitment Hypothesis 6a states that affective commitment will mediate the relationship between distributive justice and turnover intentions. Table 15 presents the findings from the three regression equations testing this hypothesis. In the first equation, affective commitment, (the mediator), was regressed on distributive justice, (the predictor). In equation two, turnover intentions, (the criterion), was regressed on distributive justice and their relationship was found to be significant. In equation three, turnover intentions were regressed simultaneously on distributive justice and affective commitment. The relationship between turnover intentions and distributive justice was not significant and was less than in equation two. The relationship between turnover intentions and affective commitment was significant. Hence, all four of Baron and Kenny's (1986) conditions are met, indicating a full mediating relationship, so hypothesis 6a was supported. A Sobel test was performed indicating a non-significant mediation effect. Table 15. Mediating regression equation testing hypothesis H 6a. Eq. 1 2 3 Criterion Predictor Beta 0.29 -0.18 t 3.18** -1.92* -0.48 5.52** Adj. R Square 0.08 0.02 0.23 F 10.13** 3.67 17.57** df 1,112 1,112 2,111
+
+Affective Distributive Commitment justice Turnover intentions Turnover intentions Distributive justice
+
+Distributive 0.04 justice Affective -0.48 commitment
+
+** p < .01. Note: Eq. = Equation; Adj. = Adjusted. 63
+
+Hypothesis 6b states that affective commitment will mediate the relationship between interactional justice and turnover intentions. Table 16 presents the findings from the three regression equations testing this hypothesis. In the first equation, affective commitment, (the mediator), was regressed on interactional justice, (the predictor). In equation two, turnover intentions, (the criterion), was regressed on interactional justice and their relationship was found to be significant. In equation three, turnover intentions were regressed simultaneously on interactional justice and affective commitment. The relationship between turnover intentions and interactional justice was not significant and was less than in equation two. The relationship between turnover intentions and affective commitment was significant. Hence, all four of Baron and Kenny's (1986) conditions are met, indicating a full mediating relationship, so hypothesis 6b was supported. A Sobel test was performed indicating a significant mediation effect. Table 16. Mediating regression equation testing hypothesis H 6b. Eq. 1 2 3 Criterion Predictor Beta 0.31 t 3.42** -2.90** -1.43 Adj. R Square 0.90 0.06 0.25 F df
+
+Affective Interactional Commitment Justice Turnover intentions Turnover intentions
+
+11.72** 1,109 8.37** 1,109 19.09** 2,108
+
+Interactional -0.27 justice Interactional -0.12 justice
+
+Affective -0.46 -5.27** commitment p < 0.05 ** p < 0.01. Sobel test Z = -2.208, p = 0.027* Note: Eq. Equation; Adj. = Adjusted.
+
+64
+
+Hypothesis 6c stated that affective commitment would mediate the relationship between procedural justice and turnover intentions. Results of the three mediated regression equations are presented in Table 17. In the first equation, the mediator (affective commitment) was regressed on the predictor variable (procedural justice) and displayed a significant relationship. In the second equation, the criterion variable (turnover intentions) was regressed on the predictor variable, procedural justice, and yielded significant results. In the third equation, turnover intentions were regressed simultaneously on procedural justice and affective commitment. In this third equation, the association between turnover intentions and procedural justice was not significant, whereas the mediator affective commitment was significant. Therefore, the results indicated a full mediated relationship supporting hypothesis 6c. The results of the Sobel test indicated a significant mediation effect. Table 17. Mediating regression equation testing hypothesis H 6c. Eq. 1 2 3 Criterion Predictor Beta 0.29 -0.22 -0.08 Adj. R Square 3.20** 0.08 -2.36** 0.04 -1.01 -5.32** 0.23 t F df
+
+Affective Procedural Commitment justice Turnover intentions Turnover intentions Procedural Justice Procedural justice
+
+10.22** 1,108 5.57** 1,108 17.65** 2,107
+
+Affective -0.47 commitment ** p < .01. Sobel test Z = -1.898, p. 0.048 Note: Eq. Equation; Adj. = Adjusted
+
+65
+
+Hypothesis 6d stated that affective commitment would mediate the relationship between strain and turnover intentions. Findings presented in Table 18 show that the first two equations yielded significant relationships. In the third equation, strain was significantly reduced but remained significant. Affective commitment was also significantly associated with the criterion, turnover intentions. Thus, the results indicated a partially mediated relationship, supporting hypothesis 6d. The results of the Sobel test indicated a significant mediation effect. Table 18. Mediating regression equation testing hypothesis H 6d. Eq. 1 2 3 Criterion Predictor Beta -0.24 0.30 0.20 -0.44 Adj. R Square -2.59** 0.05 3.35** 0.08 2.40* -5.32** 0.26 t F 6.69* df 1,112
+
+Affective Strain Commitment Turnover intentions Turnover intentions Strain Strain Affective commitment
+
+11.20** 1,112 21.09** 2,111
+
+p < .05; ** p .01. Sobel test Z = -2. 047, p = 0.041* Note: Eq. Equation; Adj = Adjusted
+
+Hypothesis 6g stated that affective commitment would mediate the relationship between family-to-work conflict and turnover intentions. Findings presented in Table 19 show that the first two equations yielded significant relationships. In the third equation, psychological strain was significantly reduced but remained significant. Affective commitment was also significantly associated with the criterion, turnover intentions. Thus, the results indicated a partially mediated 66
+
+relationship, supporting hypothesis 6g. The results of the Sobel test indicated a nonsignificant mediation effect.
+
+Table 19. Mediating regression testing hypothesis H 6g. Eq. 1 2 3 Criterion Affective Commitment Turnover intentions Turnover intentions Predictor FWC FWC FWC Affective Commitment * p < .05; ** p < .01. Note: Eq. = Equation; Adj. = Adjusted In respect of the predictors, work overload, and work-to-family conflict, the results of the mediation with affective commitment are presented in Tables 20, and 21 respectively. The results of these mediated regressions failed to meet the Baron and Kenny's (1986) conditions so hypotheses 6e, and 6f, were not supported. Beta 0.18 0.30 -0.18 -0.46 t 1.90* Adj. R Square 0.02 F 3.60 df 1,112
+
+-2.81** 0.06 -2.13* -5.55** 0.26
+
+7.88** 1,112 20.41** 2,111
+
+67
+
+Table 20. Mediating regression testing hypothesis H 6e. Eq. 1 Criterion Affective Commitmen t Turnover intentions Turnover intentions Predictor Work Overload Work Overload Work overload Affective Commitment Beta -0.14 t -1.48 Adj. R Square 0.01 F 2.19 df 1,112
+
+2 3
+
+0.06 -.01 -0.50
+
+0.67 -0.06 -5.86**
+
+-0.01 0.23
+
+0.44 17.43**
+
+1,112 2,111
+
+** p < .01. Note: Eq. ­ Equation; Adj. = Adjusted
+
+Table 21. Mediating regression testing hypothesis H 6f. Eq. 1 2 3 Criterion Predictor Beta -0.09 0.02 -0.02 t -0.94 0.22 -0.28 -5.91** Adj. R Square -0.00 -0.01 0.23 F 0.90 -0.05 17.48 df 1, 112 1, 112 2, 111
+
+Affective WFC Commitment Turnover intentions Turnover intentions WFC WFC
+
+Affective -0.75 commitment ** p < .01 Note: Eq. = Equation; Adj = Adjusted.
+
+68
+
+CHAPTER 4
+
+DISCUSSION
+
+The aim of this research was to explore a model of turnover intentions on a sample of health professionals in a New Zealand context. In today's rapidly changing organisational environment, where labour is transient in nature, holding on to a skilled and motivated workforce is essential for the continuing success of an organisation's mission, goals, and objectives. Therefore, this research has contributed to the understanding of the turnover process by taking the opportunity of working with the Waikato District Health Board to expand on current knowledge regarding turnover intentions. The strength of this research was to test the mediation effects of job satisfaction, affective commitment, and continuance commitment with turnover intentions. Overall, the results supported previous research on turnover intentions, with support for job satisfaction and affective commitment acting as mediators of the relationship between distributive justice, interactional justice, procedural justice, work strain, and family-to-work conflict with turnover intentions. In addition, some aspects of the model are valid, whereas others did not seem to apply to the New Zealand sample. These results will have implications for future research, employees, and organisational management.
+
+69
+
+This chapter is divided into six sections. Firstly the main findings will be examined, which will include discussing the relationship between the proximal variables and turnover intentions, the correlations between the distal variables with turnover intentions and the mediation effects of job satisfaction and affective commitment on turnover intentions. The subsequent sections will discuss strengths, limitations, practical implications, future research, and finally conclusions drawn from the findings.
+
+Proximal Variables In the present research both job satisfaction and affective commitment were found to be significant predictors of turnover intentions whereas no support was found for continuance commitment as a predictor of turnover intentions.
+
+Job satisfaction As stated earlier, job satisfaction refers to an employee's positive appraisal of their work situation (Locke, 1976). The underpinning premise is that employees who are satisfied with their jobs are less likely to have turnover intentions. Findings from this research supported previous research of Koslowsky (1991), and Hom and Griffeth (1991), show that job satisfaction is a predictor of turnover intentions. Paton, Jackson, and Johnston, (2003) mostly reported moderate effects of job satisfaction whereas this research yielded a strong negative relationship with turnover intentions. However, it needs to be stated that job satisfaction is an employee's current evaluation of his/her job and can be fluctuate widely depending on environmental factors and job tasks experienced on a daily basis. 70
+
+However, this research provided substantial evidence that job satisfaction is a strong predictor of turnover intentions and in its role as a mediator, therefore adding to the empirical knowledge of turnover intentions literature. Hence, this research suggests that the organisational managers need to ensure that work practices incorporates job design factors that foster job satisfaction as an important organisational goal if they are seeking to reduce turnover intentions.
+
+Affective commitment As stated earlier, affective commitment refers to an employee's attitude, expresses their emotional bond and uniqueness with the organisation (Allen & Meyer, 1990). The present research predicted that employees who are more committed to the organisation would be less likely to have turnover intentions. This rationale was based on the assumption that if an employee's commitment is affective he or she will stay "with the organisation because they want to" (Meyer & Allen, 1990, p. 4). An explanation of why this hypothesis was supported can be seen when looking through the lens of psychological attachment. When the employees have a sense of psychological attachment to an organisation they can identify with the organisation's policies, goals and values and feel adherence and devotion to the organisation. (O'Reilley, & Chatman, 1986). Therefore, they will be less likely to have intentions to leave the organisation. As predicted, affective commitment was found to have a stronger association to turnover intention than did continuance commitment. This implies that employees are prepared to stay with organisation based on their psychological attachment, rather than a continuance based on a calculative exchange (Meyer, Allen, & Gellatly, 1990). 71
+
+Continuance commitment Continuance commitment was hypothesised to be negatively associated with turnover intentions. As stated earlier, continuance commitment is a phenomenon based on Becker's side bet model (1960) and occurs as a result of "individualorganisation transactions and alterations in side bets or investment over time" (Mathieu & Zajac 1990, p. 172). The rationale for this hypothesis was that the allied health employees are involved in a calculative relationship where they are committed to the organisation because of the money, social and psychological rewards offered by the organisation (Mowday, et al. 1982). Thus, the allied health employee may be in a survival mode and do enough to ensure individual survival (Randall & O'Driscoll, 1997). As mentioned a side bet can be any variable that is of value to the employee, and which would be lost if the employee were to leave the organisation. Some examples of this are pay, or physical effort that an employee has put into the organisation, his/her position in the organisation, and/or financial loss for example losing a pension fund. These investments have a positive impact on the employee to remain in the organisation. Therefore, the employee is committed to the organisation based on the magnitude of the investments. However, no support was found for Becker's side bet theory in our sample of allied health employees between continuance commitment and turnover intentions. Some possible reasons are discussed below. The results of this study indicated that job satisfaction and affective commitment were similarly related to turnover intentions, whereas continuance commitment was not at all related to any of these variables. The results suggest that job satisfaction, feelings about work and affective commitment psychologically 72
+
+connect the allied health employees to their organisation, these reasons being more important to the employees than being committed solely for the calculative investments they have made.
+
+In a similar vein, it is possible that the reason why continuance commitment was not correlated with turnover intentions could be that normative commitment was a driving force rather than continuance commitment. The longer the allied health employee stays with the organisation, gaining transferable skills and valuable experience, the more he/she is inclined to remain with the organisation. The allied health employees could feel a sense of obligation to reciprocate after receiving training and inducements from the organisation and compensate the organisation by staying with the organisation and assisting them in meeting their goals. Eisenberger, Armeli, Rexwinkel, Lynch, and Rhoades (2001) mention that a norm of reciprocity, (normative commitment) may exist where devotion and dedication may be at the forefront therefore the employee may want to repay the debt. Therefore, with this sample of allied health employees a relationship based on reciprocity may exist rather than a cost-profit relationship based on calculative self-interest behaviour.
+
+Distal variable correlations with turnover intentions As predicted from previous research, the distal variables that were correlated with turnover intentions were distributive justice, interactional justice and procedural justice, work strain, and family to work conflict. However, work overload and workto-family conflict in this New Zealand sample did not have a significant correlation with turnover intentions. The possible reasons are discussed below. 73
+
+Work overload: Contrary to expectations, work overload did not correlate with turnover intentions, therefore job satisfaction and affective commitment were not mediators between work overload and turnover intentions. Hence, this finding did not support that of previous research by Spector and Rex (1998). As previously mentioned, the rationale for this was that if the allied health practitioners perceive they have too much work to do in a defined timeframe or insufficient time to complete the task, a quantitative overload condition exists. Alternatively, qualitative overload exists where the employee feels they do not have the ability to complete the tasks that performance standards are too high, or they just have too much to do in a given timeframe. Therefore, work overload should generate feelings of lower levels of satisfaction and a higher propensity to leave the organisation. As mentioned, work overload is very subjective in its meaning and what is considered too much for one employee, may be seen as perfectly reasonable by another. That is, employees may vary in their experiences of and reaction to the same workload because of individual personality differences.
+
+A possible factor that may explain why work overload was not correlated with turnover intentions could be that some situational and dispositional factors could moderate the feelings of work overload for the sample of allied health employees. Firstly, we can look at this through the lens of Karesak's (1979) job demands-job control model. Job demands are the psychological stressors placed on the employee such as having to work fast or too much to do within a defined time limit. This may lead to anxiety and feelings of depression. This may occur where the employee simultaneously has high demands placed on them and yet very little control over 74
+
+his/her work environment. However, where the employee has high demands placed on them and has high control over their work environment, coping strategies can be effective. An example of an environmental moderator would be where the allied health employee has been given job control to schedule their own daily tasks, the responsibility and authority to make decisions and changes to their work environment to compensate for the daily pressures (Spector, et al., 1998). This may include having the autonomy to designate tasks to other personnel and having supervisors who are flexible in work schedules. Thus, the allied health employees may feel as though they are in control of their daily work demands, may experience feelings of well being and therefore view the high workload as a challenge rather than a threat. Another possible factor that may explain why work overload was not correlated with turnover intentions could be that the dispositional variables, selfefficacy and type A behaviour patterns could be acting as individual personality differences and may influence the allied health employees reactions to workplace stressors and strains. Self-efficacy consists of a "cognitive evaluation people make of their ability to perform tasks" (Beehr & Glazer, 2005, p. 19). They have a high belief in their capabilities and approach high job demand situations as challenges to overcome. Matssui and Onglatco (1992) found that self-efficacy was a significant moderator for work overload in a sample of workers in Japan. Research by Barling and Beattie (1983) and Taylor, Locke, Lee, and Gist (1984) reported that employees who have high perceptions of self-efficacy are strongly associated with increased performance. Therefore, an allied health employee who is high in self-efficacy would display more involvement in task activities in their daily workload and persevere with
+
+75
+
+difficult or hard tasks, viewing them as challenges. They have a higher degree of coping strategies and persist with their efforts to the task conclusions. In contrast, an allied health employee with low self-efficacy would display less coping efforts and under adversity situations be inclined to give up, therefore their daily workload activities would be reduced. Thus if the allied health employee seems himself/herself as competent, motivated and has high self-efficacy in their own ability to perform their tasks they are less likely to see the workload as stressful, hence less likely to have turnover intentions. This dispositional variable has received little research in organisational settings and deserves further research due to its importance as a predictor of performance and to increased job satisfaction. Another explanation why workload did not correlate with turnover intentions could be due to individual differences in personality, type A and B behaviour patterns whereby the allied health employee may respond differently to the same amount of workload. Type A behaviour patterns (TABP) is a set of behaviours that are characterised by employees who are driven, hard-working, busy, and impatient, having a concern with time, competitive, and may show hostility and aggression. At the other end of the continuum are type B behaviour patterns where employees who display this characteristic have a relaxed manner, patience, friendliness and are inclined to take things easier and be less competitive (Beehr & Glazer 2005). Thus, the allied health employees whose disposition is towards the type A behaviour pattern would set higher standards for themselves, work longer hours, and therefore may subjectively experience their workload favourably compared to type B's.
+
+76
+
+The results to date on this dispositional variable have received mixed results and have tended to be old. Future research could look at this variable whether employees with type A behaviour patterns are more inclined to have increased job satisfaction, greater productivity and higher performance compared to type B employees.
+
+Work-to-family conflict: Surprisingly in the allied health employee sample, work-to-family conflict was not correlated with turnover intentions, therefore the mediations for job satisfaction and affective commitment were not pertinent. The rationale behind the correlation with turnover intentions was that if the employee were registering high levels of conflict that originate from the work or home domains they would be more likely to have turnover intentions.
+
+A possible reason for the difference from previous research could be to look at it through the lens of the job-strain model by Karasek (1979) whereby the employee is governed by the demands of two operating forces, demand and a sense of being in control. The allied health employee may have developed resource network ties within their work domain that can minimise conflict within the work and family domains during times of high work demands. The allied health employees could have resources in the form of effective coping skills, supportive work colleagues, friends, spouses, and supervisors, which can assist in supporting and minimising the effects during times of high work demands (Frone et al. 1997). Supervisor support has been found to reduce incidences of work-to-family conflict predominately for women than men (Batt & Valcour, 2003). Therefore, the results of this study imply 77
+
+that the allied health employees may have a strong social network ties to reduce feelings of conflict and therefore have no intentions to want to leave the organisation.
+
+Another factor why work-to-family conflict may not be correlated with turnover intentions could be that the allied health employees have perceptions that their employed organisation, Waikato District Health Board, is work-family friendly and provides work-family benefits. Thompson Beauvais, and Lyness (1999) found that in organisations that provide an inclusive work family culture and have policies and procedures that are conducive to work and family, therefore the employees experience less incidences of WFC.
+
+In addition to looking at the direct effects of turnover intentions, this research looked at the ways in which job satisfaction and affective commitment could mediate the relationship between the distal variables and turnover intentions. The mediated relationships will now be discussed.
+
+Mediated Relationships
+Because continuance commitment was not correlated with turnover intentions, which is a precondition for the mediation to occur no mediations were carried out for this proximal variable. The mediation effects for job satisfaction and affective commitment will now be discussed.
+
+78
+
+Mediation effects of job satisfaction and affective commitment In this research job satisfaction and affective commitment were moderately correlated with each other (0.42**) and their relationship with turnover intentions had similar effects (job satisfaction -0.41** and affective commitment -0.49**), therefore the mediation effects will be discussed together.
+
+Distributive justice: As previously mentioned Muchinsky (2000) states that distributive justice refers to the dissemination of resources and the criteria by which they are distributed to the organisational staff. It includes the principles of equity, equality, and need. The present study hypothesised that job satisfaction and affective commitment would mediate the relationship between distributive justice and turnover intentions. The results of this study supported both mediations. The rationale was that the stronger an employee's perceptions of distributive justice the more satisfied and committed (affective) the employee would be and therefore the less likely they would be to have turnover intentions. Distributive justice can be seen through the lens of equity theory. Adams (1963) stated that an employee would compare their own allocation of resources with that of their work colleagues. Therefore, from the results, the researcher concurs that the employees were satisfied with the organisation's distributive justice decisions such as pay and bonuses (Greenberg, 1990). Consequently, they felt greater emotional attachment, and involvement in the organisation, which motivated the allied health employee to remain with the organisation because he/she wanted to (affective commitment) and therefore had less propensity to leave the organisation.
+
+79
+
+Interactional justice It was hypothesised that job satisfaction and affective commitment would mediate the relationship between interactional justice and turnover intentions. This was based on Blau's (1964) social exchange theory whereby an exchange of goodwill takes place between employee and organisation or employee and supervisors and a sense of reciprocity exists between members. Therefore, the employees who have perceptions of being treated with respect and dignity in their dealings with their managers, were satisfied with their job, and therefore more committed to the organisation. In this research both hypotheses were supported where allied health employees had greater positive social interaction with their managers which generated feelings of satisfaction and commitment (affective), subsequently they were less likely to have turnover intentions. Further research could investigate the impact social group ties play in the formulation of justice perceptions.
+
+Procedural justice. It was hypothesised that job satisfaction and affective commitment would mediate the relationship between perceptions of procedural justice and turnover intentions. Both hypotheses were supported. The rationale for this hypothesis was that if the allied health employees have perceptions that they are being treated fairly in the method by which rewards are allocated (procedural justice), they are more likely to feel satisfied with their job (Greenberg, 1990) and display greater affective commitment to the organisation. Hence, they are less likely to have turnover intentions (Greenberg, & Gillespie, 2005).
+
+80
+
+Work strain
+
+It was hypothesised that job satisfaction and affective
+
+commitment would mediate the relationship between work strain and turnover intentions. Both hypotheses were supported. This suggests that those respondents that are consistently experiencing strain may experience feelings of anxiety and depression affecting personal health and well-being. The outcome may be job dissatisfaction (Beehr, 1995) and lower feelings of commitment (affective), therefore the respondent would be more likely to have turnover intentions.
+
+Work overload: A precondition of mediation is that the distal variable needs to be correlated to the criterion variable. As previously mentioned, in this study work overload was not correlated with turnover intentions. Thus, no mediation was possible.
+
+Work-to-family conflict: A precondition of mediation is that the distal variable needs to be correlated to the criterion variable. As previously mentioned, in this study work-to-family conflict was not correlated with turnover intentions. Thus no mediation is possible.
+
+Family-to-work conflict: It was hypothesised that job satisfaction and affective commitment would mediate the relationship between family-to-work conflict and turnover intentions. Both hypothesese were supported. Research by Ernst-Kosseck and Ozeki (1998), in that employees with low levels of family-to-work conflict are more satisfied with their job and have fewer propensities to turnover intentions. 81
+
+Practical Implications
+This research has several practical implications for personnel researchers, behavioural psychologists, management practitioners, and organisations. The findings of this research will benefit the turnover intentions literature by providing evidence from a New Zealand context in particular to human resource health managers. As mentioned in the introduction, human resource health managers are facing a crisis in how to retain their most valuable employees. Employee turnover will continue to be a challenging phenomenon for organisations. With the turbulent workforce that has eventuated over the last decade, the need to attract and sustain a productive workforce is increasingly essential to ensure continued organisational success. The basis of the current research was to investigate turnover intentions within the WDHB therefore the practical implications of these results to WDHB are discussed below.
+
+Job Satisfaction This research provided evidence that job satisfaction plays a major role in turnover intentions. Therefore, managers of organisations need to put in place human resource management practices that will foster job satisfaction. These can include situational related, and dispositional employee related practices (Arvey, Carter, & Buergley, 1991). Managers need to be aware that they can shape organisational (situational) factors through job enrichment such as task significance, task identity, work autonomy, role clarity, an effective communication (feedback) system and
+
+82
+
+allowing participation in the decision making process, as these factors all affect the employee's satisfaction attitude (Fried & Ferris, 1987). As previously mentioned the dispositional factors can include aspects of the individual employee such as internal locus of control, hardiness, type A behaviour pattern, negative and positive affectivity and self-efficacy (e.g. Spector, & O'Connell, 1994). Thus, managers of organisations may be able to select employees who possess these dispositional personality facets upon validation of suitable selection tools. Further studies may need to look at the association between the employee and job fit to gain a better understanding of job satisfaction.
+
+Affective Commitment This research highlights the important role that affective commitment and job satisfaction play in being strong predictors of turnover intentions as well as playing an important role in an organisation's performance and productivity. Recent studies on organisational commitment have focused on organisational commitment as a single construct. However, this research shows the need for organisations and in particular managers of the allied health employees is to focus on fostering affective commitment within their organisation. The results show that the allied health employees are highly satisfied with their job. However, the affective commitment in this sample was slightly below mid point, which is lower than anticipated. Therefore managers of organisations need to keep in mind the link between affective commitment and turnover intentions, as the employees who feel emotionally connected to the organisation are those who are least likely to leave, and are also those who will perform extra role activities. Therefore, it is beneficial for 83
+
+organisations to nurture and maintain this form of commitment in the performance of the employee, and the organisation (Meyer Allen & Smith, 1993). Not only does affective commitment enhance the employee's performance but also reduces absenteeism and enhances job satisfaction (Randall 1987). Thus fostering the psychological attachment of the employee to the organisation in this positive manner would be a very effective strategy. Managers of organisations need to be aware there are a variety of situational factors that can contribute to an increase in an employee's commitment to the organisation. Research by Meyer and Allen (1997) have mentioned that it is the work experiences that determine the employees level of commitment for example, ensuring the job is a challenge, role clarity, perceived organisational support, and effective feedback. In addition, affective commitment is likely to be influenced by changes/violations to the psychological contract between the employer and employee. The psychological contract represents "an employees beliefs about reciprocal obligations between the employee and the organisation ........ based on perceived promises (Morrison & Robinson, 1997, p. 229). Therefore, managers need to aware that perceived changes/violations to the contract that can impact to the detriment of the employee's wellbeing are likely to have an influence on employee-employer relationships and how they might determine their workplace commitments. Research has shown that fulfilment of the psychological contract increases affective commitment, job satisfaction, performance, and reduced intentions to leave the organisation (Robinson, 1996; Robinson, & Rousseau, 1994).
+
+84
+
+Distal Variables This research provides evidence in a New Zealand context that managers need to pay attention to the policies and procedures associated with distributive justice, interactional justice, and procedural justice. It is important that the organisation examine the policies and procedures it implements to see if they are in alignment and enhance the social exchange relationship. Management needs to ensure that the employees are given a "voice" in the process, that their input is valued, resulting in the employee perceiving the procedure (procedural justice) as fair and hence will be more satisfied with their managers and have greater commitment to the organisation (Meyer, et al., 1990). When employees are committed they identify themselves as being part of the organisation, reciprocity and a social exchange relationship exists, creating a sense of fellowship (Meyer & Allen 1996). Some consideration could be given to managers receiving interactional justice training, increasing their fairness behaviour, to improve the social relationships between managers and allied health employees, which could improve the workplace environment. Consequently, the managers would spend less time, effort, and expense on problems with conflict resolution (Cole & Latham 1997). Indeed the research of O'Driscoll and Beehr (1994) indicate the effects of the actions of managers upon the organisational employees in shaping their attitudes of job satisfaction. Thus, the results show that levels of job satisfaction and affective commitment will increase if the allied health employees perceive that the procedures and outcomes, distributive and procedural justices are equitable and fair. Therefore, managers need to ensure that all policies and procedures are based on the principles of organisational justice.
+
+85
+
+As indicated by this research, the allied health employees who experience high levels of strain are more likely to be less satisfied and less committed to the organisation with a resulting propensity to turnover intentions. Therefore, this study draws managers' attention to the necessity to develop appropriate human resource strategies to combat the influences of strain on job satisfaction and affective commitment. Managers of organisations need to provide differing interventions to reduce strain levels. O'Driscoll and Brough (2003) state that there can be three levels of interventions. Primary interventions emphasize prevention, and include aspects of redesigning jobs to lessen the amount of stress, ensuring effective communication channels are developed throughout the organisation so that the employees are informed and promptly receive accurate information. Secondary interventions involve employees' reactions to the stress-strain relationship. These include training the employee in how better to deal with stressful events, such as training for conflict resolution, and how they can mange their time more effectively. Tertiary interventions that the organisation may provide, such as counselling services, will help employees find coping strategies to deal with the stress-strain relationship. As indicated earlier some individual employees are more able to withstand higher levels of workplace stressors and strains. Thus, managers of human resource departments need to be aware that some situational and dispositional factors may have an impact on, the stress-strain relationship, employee job satisfaction, affective commitment, and productivity. This study also draws attention to the need for organisations to create workplace environments that are worker and family friendly and understand that both spheres are essential for the effective functioning and performance of the allied health employee. 86
+
+Future Research This research contributed to the area of turnover intentions, building a knowledge base and testing a comprehensive model with a New Zealand sample. Greater understanding is needed in the turnover intentions process with future research continuing to develop the empirical theory, as the theory needs to keep pace with every change in the modern work environment. However, I suggest it would be valuable to further replicate and investigate in greater depth the model presented in this research. In regard to organisational commitment, deeper investigation needs to take place in the changing forms of commitment. The melting pot of different commitment spheres provides managers of organisations new challenges. The multiple commitments approach may involve commitment to career, team, supervisor, profession, during organisational change, and external environment commitments, such as, customer, union, and community. Thus, examining the relationship of these variables could prove valuable in how they operate in today's environment, their influence with each other and turnover intentions. There is a considerable amount of empirical research left to be done to have a greater understanding the impact of commitment and its relationship with turnover intentions.
+
+As mentioned previously, future research could examine dispositional aspects of self­efficacy, and Type A behaviour patterns and there association with job satisfaction, affective commitment and turnover intentions. Future research in these
+
+87
+
+fields would benefit an organisations personnel selection decisions as they could form part of their selection criteria upon validation. As mentioned in the introduction an important consideration is how organisations can attract and retain highly valuable employees. A number of organisations are offering mentoring and career development programmes to attract and retain high calibre employees to their organisations. Some authors have supported such programmes (e.g. Mesmer, 1998; Underhill, 2006), as they could be an effective recruitment strategy to entice future employees to their organisation. There has been speculation that it benefits the organisation and the employee. However, empirical research has been limited in this area. Finally, as previously mentioned it would be beneficial to conduct longitudinal studies to overcome the limitations discussed. Longitudinal research will give data that could provide useful insights into the turnover intentions literature. It would enable stronger causal predictions to be made in the turnover intentions process.
+
+Strengths of the Research The present study had a number of strengths, including the complexity of the model, and undertaking research on turnover intentions within a New Zealand context. This study provided an opportunity to broaden the knowledge on turnover intentions by including a complex model of turnover intentions with the mediation variables of job satisfaction, affective commitment, and continuance commitment.
+
+88
+
+An additional strength of this research was to segregate the organizational commitment mediator into the two facets of affective commitment and continuance commitment. During the literature search for this research, it was noted that researchers tended to use organisational commitment as a single construct in particular in the last ten years. The refining of the organisational commitment construct into two further variables, gives the opportunity to look specific aspects of the work environment / employees' attitudes that are pertinent to developing retention strategies. In addition, this research built on the existing knowledge of what could cause employees to have turnover intentions within a New Zealand context. As mentioned previously the knowledge base on turnover intentions within a New Zealand context is limited. Therefore, the complex model that has been developed can be replicated/transposed into other large organisations. Most importantly, this research explored the mediation effects of job satisfaction, affective commitment, and continuance rather than simple direct effects. It included investigating the relationship with a varied range of distal variables that had not been previously investigated.
+
+Limitations of the Research The present study had a number of limitations. One limitation is that the sample was primarily female, and it is uncertain to what extent the findings can be generalised to males. Another limitation is that the data were obtained by self-report, therefore responses may have been influenced by common method variance. Avolio, 89
+
+Yammarino, and Bass (1991) state that common method variance is the "overlap in variance between two variables attributable to the type of measurement instrument used rather than due to a relationship between the underlying constructs" (p. 572). This may artificially inflate relationships between variables and may bias the results concerning associations. As highlighted in the results chapter, the predictor variables of interactional justice, family-to-work conflict, and work strain all had high skews in their results. Thus, self-report measures could have elevated these responses. However, the nature of the variables within this research requires self-report measures. Furthermore, common method variance cannot explain all the differential relationships that were obtained in this research. The research design of this study was cross sectional and it is thus not possible to infer a causal relationship. Undertaking research at one period in time can only reflect that period in time. A greater focus on longitudinal research designs may give a better indication of turnover intentions and may highlight stronger underpinning associations.
+
+The research was only from one organisation therefore the results are only specific for the WDHB. In addition, the participants came from a range of positions and locations within the allied health workforce so the findings cannot be generalised to other organisations. Despite this, I have argued that, for the most part, the findings should be relevant to other similar occupations and professions in similar organisations. The low response rate (114 from a population of 251) from the sample could have had an effect on the statistical power of the results. A possible consequence of 90
+
+this restriction is that it may have affected the results where variables were marginally below the significant threshold and which could possibly have proved significant if a larger sample were used
+
+The effect of seasonal variations is a consideration in this study and may have an effect on an employee's mood and behaviour. Rosenthal, Sack, Gillan, Lewry, Goodwin, Davenport, Meuller, Newsome, and Wehr (1984) identified a range of behavioural and psychological differences - for example, decreased physical activity, increased drowsiness, decreased sociability, and increased irritability during specific seasonal variations. Indeed empirical research relating mood variability to specific seasonal depressions has been found to be supported (Ennis and McConville 2004). A longitudinal study would have been able to uncover differing relationships and minimise `one point in time' biases.
+
+Finally, Mobley, (1977); Mobley et al. (1978); and Koslowsky (1991) argue that when using attitudinal variables of job satisfaction and organisational commitment with turnover intentions, the researcher needs to take into consideration the reverse causality. That is the impact that turnover intentions have on job satisfaction and organisational commitment. Clegg (1983) and Bateman and Strasser (1984) state the need to undertake longitudinal studies to understand the interplay between variables is necessary. Therefore, in this research, it may be possible that turnover intentions influenced job satisfaction and affective commitment.
+
+91
+
+Conclusions The present study found support for job satisfaction and affective commitment as proximal variables with turnover intentions. No support was found in the results for continuance commitment as a variable with turnover intentions. The results also concluded that significant positive correlations were found for the distal variables distributive, interactional, and procedural justice, work strain, and family to work conflict. Therefore, organisations need to focus on how to foster distributive interactional justice and procedural justice, reduce strain and family-to-work conflict in the workplace, to enhance job satisfaction and affective commitment as these findings indicate that New Zealand organisations can take positive actions that would facilitate employee retention. The findings of this study provide information that will be useful to organisations, personnel researchers, behavioural scientists, and management practitioners.
+
+92
+
+REFERENCES
+Abraham, R. (1999). The impact of emotional dissonance on organizational commitment and intention to turnover. The Journal of Psychology, 133, 441455. Adams, J. S. (1963). Towards an understanding of inequity. Journal of Abnormal Social Psychology, 67, 422-436. Alexander, J. A., Bloom, J. R., & Nuchols, B. A. (1994). Nursing turnover and hospital efficiency: An organizational level analyses. Industrial Relations, 33, 505-520. Allen, N. J., & Meyer, (1996). Affective, continuance, and normative commitment to the organization: An examination of construct validity. Journal of Vocational Behavior, 49, 252-276. Andersen, S. E., Coffey, B. S., & Bryley, R. (2002). Formal organisation initiatives and informal work practices: Links to work-family conflict and job-related outcomes. Journal of Management, 28, 787-810. Arnold, J., Davey, K. M. (1999). Graduates work experiences as predictors of organizational commitment, intention to leave and turnover. Applied Psychology: An International Review, 48, 211-238 Arvey, R.D; Carter, G. W; & Buerkley, D. K. (1999). Job satisfaction: Dispositional and situational influences. In Cooper, C. L., Robertson, I. T. (Eds.). International review of industrial and organizational psychology. (359-383). Oxford, England: John Wiley & Sons.
+
+93
+
+Ayree, S. & Chay, Y. W. (2001). Workplace justice, citizenship behaviour, and turnover intentions in a union context: Examining the mediating role of perceived union support and union instrumentality. Journal of Applied Psychology, 86, 154-160. Ayree, S., Chay, Y. W., & Chew, J. (1994). An investigation of the predictors and outcomes of career commitment in three stages. Journal of Vocational Behavior, 44, 1-6. Avolio, B. J., Yammirino, F. J., Bass, B. M. (1991). Identifying common method variencewith data collected from a single source: An unresolved sticky issue. Journal of Management, 17, 571-587. Banks, M., Clegg, C., Jackson, P., Kemp, N., Stafford, E., Wall, T. (1980). The use of the general health questionnaire as an indicator of mental health in occupational studies. Journal of Occupational Psychology, 53, 187-194. Barling, J., & Beattie, R. (1983). Self-efficacy beliefs and sales performance. Journal of Organizational Behavioral Management, 5, 41-51. Barling, J., Kelloway, E. K., & Frone, M. R. (2005) Handbook of work stress. London: Sage Publications. Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. Journal of Personality and Social Psychology, 51, 1173-1182 Barrick M. R. & Zimmerman, R. D. (2005). Reducing voluntary, avoidable turnover through selection. Journal of Applied Psychology 90, 159-166.
+
+94
+
+Bateman, T. S., & Strasser, S. (1984). A longitudinal analyses of the antecedents of organizational commitment. Academy of Management Journal, 27, 95-112. Batt, R., & Valcour, M. P. (2003). Human resources practises as predictors of workfamily outcomes and employee turnover. Industrial Relations, 42, 189-220. Becker, H. S. (1960). Notes on the concept of commitment. American journal of Sociology, 66, 32-42. Beehr, T. A., & Glazer, S. (2005). Organizational role stress. In Julian Barling. Kevin Kelloway, Michael Frone (Eds.), Handbook of work stress. London: Sage Publications. Beehr, T. A., & Gupta, N. (1978). `A note on the structure of employee withdrawal' Organizational Behavior and Human Performance, 21, 73-79. Becker, H. S. (1960). Notes on the concept of commitment. Journal of Sociology, 66, 32-40. Becker, T. E. (1992). Foci and bases of commitment: Are they distinctions worth making? Academy of Management Journal, 35, 232-244. Bellavia, G. M., & Frone, M. R. (2005). Work-Family Conflict, Chapter, 6. In handbook of work stress. USA. Sage Publications Inc. Bentein, K., Vandenberghe, C. V. R., & Stinglhamber, F. (2005). The role of change in the relationship between commitment and turnover: A latent growth modelling approach. Journal of Applied Psychology, 90, 468-482.
+
+95
+
+Bhagat, R., McQuaid, S., Lindholm, S., & Sergovis, J. (1985). Total life stress: A multimethod validation of the construct and its effect organizationally valued outcomes and withdrawal behaviours. Journal of Applied Psychology, 70, 202-214. Bies, R. J., & Shapiro, (1987). Voice and justification: Their influence on procedural fairness judgements. Academy of Management Journal, 31, 676-685. Blau, P. (1964). Exchange and power in social life. New York: Wiley. Bluedorn, A. C. (1982). A unified model of turnover from organizations. Human Relations, 35, 135-153. Bolino, M. C., & Turnley, W. H. (2005). The personal costs of citizenship behaviour: The relationship between individual initiative and role overload, job stress and work family conflict. Journal of Applied Psychology, 90, 740-748. Brotheridge, C. M., & Lee, R. T. (2005). Impact of work-family interference on general well-being: A replication and extension. International Journal of Stress Management, 12, 203-221. Brough, P., & Frame, R.(2004). Predicting police job satisfaction, work well-being and turnover intentions: The role of social support and police organizational variables. New Zealand Journal of Psychology, 33, 8-18. Clegg, C. (1983). Psychology of employee lateness, absence, and turnover: A methodological critique and an empirical study. Journal of Applied Psychology, 68, 88-101.
+
+96
+
+Cardenas, R. A., Major, D. A., & Bernas, K. H. (2004). Exploring work and family distractions: Antecedents and outcomes. International Journal of Stress Management, 11, 346-365. Carsten, J. M., Spector, P. E. (1987). Unemployment, job satisfaction, and employee turnover. A meta-analytic test of the Muchinsky model. Journal of Applied Psychology, 72, 374-381. Cascio, W. F. (1976). Turnover, biographical data, and fair employment practice. Journal of Applied Psychology, 61, 576-580. Cascio, W. F. (1987). Costing human resources: The financial impact of behaviour in organisations (2nd Ed.). Boston: PWS-Kent Publishing Company. Casper, W. J., & Maritin, J. A., Buffardi. L. C., & Erdwins, C. J. 2002 Work family conflict, perceived organizational support, and organizational commitment among employed mothers. Journal of Occupational Health Psychology, 7 99108. Chang, E. (1999). Career commitment as a complex moderator of organisational commitment and turnover intentions. Human Relations, 52, 1257-1278. Chen, X. P., Hui, C., & Sego, D. J. (1998). The role of organizational behaviour in turnover: Conceptualization and preliminary tests of key hypothesis. Journal of Applied Psychology, 83, 922-931. Clark-Rayner, P., Harcourt, M. (2000). The determinants of employee turnover behaviour: Evidence from a New Zealand bank. Research and Practice in Human Resource Management, 8, 61-71.
+
+97
+
+Cohen-Carash, Y., Spector, P. E. (2001). The role of justice in organizations: A meta-analyses. Organizational Behavior and Human Decision Processes, 86, 278-321 Cohen, A. & Lowenburg, G. (1990). A re-examination of the side bet theory as applied to organisational commitment: A meta-analyses. Human Relations, 43, 1015-1050. Cole, N. D., Latham, G. P. (1997). Effects of training in procedural justice on perceptions of disciplinary fairness by unionized employees and disciplinary subject matter experts. Journal of Applied Psychology, 82, 699-705. Colquitt, J. A., Greenberg, J., & Zapata-Phelan, C. P. (2005). Handbook of organisational justice. New Jersey. Lawrence Erlbaum Associates, Publishers. Colquitt, J. A., Wesson, M. J., Porter, O. L. H., Conlon D. E., & Ng, K. E. (2001). Justice at the millennium: A meta-analytic review of 25 years of organizational justice research. Journal of Applied Psychology 86, 425-445. Cordes, C. L., & Dougherty, T. W. (1993). A review and an integration of research on job burnout. Academy of Management Review, 18, 621-656. Dalton, D. R., Krachkhardt, D. M., & Porter, L. W. (1982). Turnover overstated: The functional taxonomy. Academy of Management Review, 7, 117-123. Dalton, D. R., & Todor, W. D. (1979). Turnover turned over: An expanded and positive perspective. Academy of Management Review, 4, 225-235 Dess, G. G., & Shaw, J. D. (2001). Voluntary turnover, social capital, and organizational performance. Academy of Management Review, 26, 466-456.
+
+98
+
+Dougherty, T. W., Bluedorn, A. C., & Keon, T. L. (1985). Precursors of employee turnover: A multiple sample casual analyses. Journal of Occupational Behavior, 6, 259-271. Eisenberger, R., Armeli, S., Rexwinkel, B., Lynch, P. D., & Rhoades, L. (2001). Reciprocation of perceived organizational support. Journal of Applied Psychology, 86, 42-51. Ennis, E., & McConville, C. (2004). Stable characteristics of mood seasonality. Personality and Individual Differences, 36, 1305-1315. Farrell, D., & Rusbult, C. E. (1981). Exchange variables as predictors of job satisfaction, job commitment, and turnover. The impacts of rewards, costs, alternatives, and investments. Organizational Behavior and Human Performance, 27, 78-95. Fox, M. L., Dwyer, D. J., & Ganster, D. C. (1993). Effects of stressful job demands and control on physiological and attitudinal outcomes in a hospital setting. Academy of Management Journal, 36, 289-318. Fried, Y., & Ferris, G. R. (1987). The validity of the job characteristics model: A review and meta-analysis. Personnel Psychology, 40, 287-322. Frone, M. R., Yardley, J. K. & Markel, K.S. (1997). Developing and testing an integrative model of the work-family interface. Journal of Vocational Behavior, 50, 147-167. Gaertner, K. N., Nollen, S. D. (1989). Career expectations, perceptions, and employment practices and psychological commitment to the organisation. Human Relations, 42, 975-991.
+
+99
+
+Grandey, A. A., & Cropanzano, R. C. (1999). The conservation of resources model applied to work-family conflict and strain. Journal of Vocational Behavior, 54, 350-370. Greenberg, J. (1990). Organizational justice: Yesterday, today, and tomorrow. Journal of Management, 16, 399-432.
+
+Greenberg, J., & Gillespie, J. Z. (2005). Are the goals of organizational justice selfinterested? In Greenberg, Jerald, & Colquitt, Jason, A. (Eds.). Handbook of organizational justice (179-213). Mahwah. NJ., US: Lawrence Erlbaum Associates Publishers. Greenhaus, J. H., & Beutell, N. (1985). Sources of conflict between work and family roles. Academy of Management Review, 10, 76-88. Greenhaus, J., Parasuraman, S., & Collins, K. M. (2001). Career involvement and family involvement as moderators of relationships between work-family conflict and withdrawal from a profession. Journal of Occupational Health Psychology, 6, 91-100. Griffeth, R. W. Hom, P. W. & Gaertner, S. ( 2000) A meta-analyses of antecedents and correlates of employee turnover> Update, moderator, and research implications for the next millennium. Journal of Management, 26, 463-488. Good, L. K., Page, P. J., & Young, C. E. (1996). Assessing hierarchical differences in job-related attitudes and turnover among retail managers. Academy of Marketing Science, 24, 148-156.
+
+100
+
+Hammer L. B., Neal M. B., Newsom J. T., Brockwood, K. J., & Colton C. L. (2005). A longitudinal study of the effects of dual-earner couples' utilization of family-friendly workplace supports on work and family outcomes. Journal of Applied Psychology 90, 799-810. Hofstede, G. (1984). Culture's consequences international differences in work related values. California: Sage Publications, Inc. Huselid, M. A. (1995). The impact of human resource management practises on turnover, productivity, and corporate financial performance. Academy of Management Journal, 38, 635-672. Huselid, M. A., Day, N. E. (1991). Organizational commitment, job involvement and turnover: A substantive and methodological analyses. Journal of Applied Psychology, 76, 380-391. Hom, P. W., & Griffeth, R. W. (1991). Structural equations modelling test of a turnover theory: Cross-sectional and longitudinal analyses. Journal of Applied Psychology, 76, 350-366. Hom, P. W., & Kinichi, A. J. (2001). Toward a greater understanding of how dissatisfaction drives employee turnover. Academy of Management Journal, 44, 975-981. Iverson, R. D., & Buttigieg, D. M. (1999). Affective, normative, and continuance commitment: Can the `right' kind of commitment be managed? Journal of Management Studies, 36, 307-333. Janssen, P. P. M., Schaufeli, W. B., Houkes, I. (1999). Work-related and individual determinants of three burnout dimensions. Work & Stress, 13, 74-86.
+
+101
+
+Jaros, S., Jermier, J., Koehler, J., & Sincich, T. (1993). Effects of continuance, affective, and moral commitment on the withdrawal process: An evaluation of eight structural equations models. Academy of Management Journal, 36, 951995. Jorm, A. F., Butterworth P., Jacomb, P. A., Rodgers, B. (2004). An examination of seasonality experienced by Australians living in continental temperate climate zone. Journal of Affective Disorders, 80,181-190. Kanter, R. M. (1968). Commitment and social organisation: A study of commitment mechanism in utopian communities. American Sociological Review, 33, 499517. Katz, D., & Kahn, R. L. (1978). The social psychology of organisations (2nd Ed.). New York: Wiley. Kivimaki, M., & Lusa, S. (1994). Stress and cognitive performance of fire fighters during smoke-diving. Stress Medicine, 10, 63-68. Koeske, G. F., Kirk, S. A., & Koeske, R. D. (1993). Coping with job stress. Which strategies work best? Journal of Occupational and Organizational Psychology, 66, 319-335. Koslowsky, M. (1991). A longitudinal analyses of job satisfaction. Commitment and intention to leave. Applied Psychology: An International Review, 40, 405415. Kossek E. E., & Ozeki, C. (1998). Work-family conflict, policies, and the job-life satisfaction relationship: A review and directions for organizational behaviour human resources research. Journal of Applied Psychology 83 139-149.
+
+102
+
+Flamholtz , E. (1973) Human resource accounting. Measuring positional replacement costs Human Resource Management Spring. Folger, R., Konovsky, M. A. (1989). Effects of procedural justice on reactions to pay decisions Academy of Management Review, 32, 115-130. Karesek, R. (1979). Job demands, job decision latitude, and mental strain: Implications for job redesign. Administrative Science Quarterly, 24, 285-308. Koslowsky, M. (1991). A longitudinal analyses of job satisfaction, commitment, and intention to leave. Applied Psychology: An International Review 40, 405-415. Krantz, D. S., Grunberg, N. E., & Baum, A. (1985). Health psychology. Annual Review of Psychology, 36, 349-383. Lee, T. W.., Ashford, S. J., Walsh, J. P., & Mowday, R. T. ( 1992). Commitment propensity, organizational commitment, and voluntary turnover. A longitudinal study of organizational entry processes. Journal of Management, 10, 15-32. Locke, E. A. (1976). Nature and causes of job satisfaction. In M. D. Dunnette, (Ed.). Handbook of industrial and organizational psychology. 1297-1349. Chicago: Rand McNally. Mannheim, B., Baruch, Y. Tal, J. (1997). Alternative models for antecedents and outcomes of work centrality and job satisfaction of high-tech personnel. Human Relations, 50, 1537-1561. Mansell A., Brough, P., & Cole K. (2006). Stable predictors of Job satisfaction, psychological strain, and employee retention: An evaluation of organizational change within the NZ customs service 13, 84-107.
+
+103
+
+Maertz C. P., & Campion R. (1998) 25 years of turnover research: A review and critique. In C. L. Cooper & I. T. Robertson (Eds.) International Review of Industrial and Organizational Psychology, 13, 49-81). London: Wiley. Mathieu, J., & Zajac, D. (1990). A review and meta-analyses of the antecedents, correlates and consequences of organizational commitment. Psychological Bulletin, 108, 171-194. Matsui,T., & Onglatco, M. (1992). Career self-efficacy as a moderator of the relation between occupational stress and strain. Journal of Vocational Behavior, 41, 79-88. McFadden, M., Demetriou, E. (1993). The role of immediate work environment factors in the turnover process: A systems intervention. Applied Psychology: An International Review, 42, 97-115. Mesmer, M. (1998). Mentoring; Building your company's intellectual capital. HR Focus, 75, 11-12. Meuller, Boyer, Price, & Iverson (1994). Cited in managing to overload? Work overload and performance appraisal processes. M. Brown and J. Benson. Group & Organization Management, 2005, 30, 99-125. Meyer, J. P., Allen, N. J., Gellatly, I. R. (1990). Affective and continuance commitment to the organization: Evaluations of measures and analyses of concurrent and time-lagged relations. Journal of Applied Psychology, 75, 710-720. Meyer, J. P., Allen, N. J., & Smith, C. A. (1993). Commitment to organizations and occupations: Extension and test of a three-component conceptualization. Journal of Applied Psychology, 78, 538-551.
+
+104
+
+Meyer, J. P., Paunomen, S. V., Gellatly, I R., Goffin, R. D., & Jackson, D. N. (1989). Organizational commitment and job performance: It's nature of the commitment that counts. Journal of Applied Psychology, 74, 152- 156. Meyer, J. P., Stanley, D. J., Herscovitch, L., & Topolynytsky, L. (2002). Affective, continuance, and normative commitment to the organization: A meta-analyses of antecedents, correlates and consequences. Journal of Vocational Behavior, 61, 20-52 Ministry of Health (n.d.). Retrieved 10th December, 2005 from http://www.nzhs.govt.nz Mitra, A, Jenkins, G. D., Gupta, N. (1992). A meta-analytic review of the relationship between absence and turnover. Journal of Applied Psychology, 77, 11-17. Mobley, W. H. (1982). Employee turnover: Causes, consequences, and control. Texas, Addison-Wesley Publishing Company. Mobley, W. H., Horner, S. O., & Hollingworth, A. T. (1978). An evaluation of precursors of hospital employee turnover. Journal of Applied Psychology, 63, 408-414. Mobley, W. H., Griffeth, R. W., Hand, H. H., & Meglino, B. M. (1979). Review and conceptual analyses of the employee turnover process. Psychological Bulletin, 86, 493-522. Morell, K. M., Loan-Clarke, J., & Wilkinson, A. J. (2001). Organizational change and employee turnover. Personnel Review, 33, 161-173.
+
+105
+
+Morrison, E., & Robinson, S. (1997). When employees feel betrayed: A model of how psychological contract violation develops. Academy of Management Review, 22, 226-256. Morrow, P. C. (1993). The theory and measurement of work commitment. Greenwich, England. Jai Press Inc. Mowday, R. T. (1981). Viewing turnover from the perspective of those who remain: The relationship of job attitudes to attributions of the cause of turnover. Journal of Applied Psychology, 66,120-123. Mowday, R. T., Porter, L. W., & Steers, R. M. (1982). Organizational linkages: The psychology of commitment , absentees , and turnover. San Diego, CA: Academic Press. Mowday, R. T., Steers, R. M., & Porter, L. W. (1979). The measurement of organizational commitment. Journal of Vocational Behavior, 14, 224-227. Muchinsky, P. (1990). Psychology of Applied to Work, California: Brooks/Cole Publishing Company Muchinsky, P. M., & Morrow, P.C. (1980). A multi-dimensional model of voluntary employee turnover. Journal of Vocational Behavior, 17, 263-290. Muchinsky, P. M., Tuttle, M. L. (1979). Employee turnover: An empirical and methodological assessment. Journal of Vocational Behavior, 14, 43-77. Netemeyer, R. G., Boles, J. S., & McMurrian R. (1996). Development and validation of work-family conflict and family-work conflict scales. Journal of Applied Psychology, 81, 400-410.
+
+106
+
+North, N., Rasmussen, E., Hughes, F., & Finlayson, M. (2005). Turnover amongst nurses in New Zealand district health boards: A national survey of nursing turnover and turnover costs. NZ Journal of Employment Relations Auckland, 30- 49. Numerof, R. E., Abrams, M. N., & Schank, G. S. (2002). Retention of highly productive personnel now at a crises proportions. Health Care Strategic Management, 20, 10-14. Nunnally, J. C. (1978). Psychometric theory (2nd Ed.). New York: McGraw-Hill. O'Driscoll, M. P. (1996). The interface between job and off-job roles: Enhancement and conflict, cited in Cooper, C. L., & Robertson, I. T., (Eds.). International Review of Industrial and Organizational Psychology, 11, 279-306. O'Driscoll, M. P., & Beehr, T. A. (1994). Supervisor behaviours, role stressors and uncertainty as predictors of personal outcomes for subordinates. Journal of Organizational Behavior, 15, 141-155. O'Driscoll, M. P., & Brough P. (2003). Job stress and burnout. In M. O'Driscoll, P. Taylor, & T Kalliath (Eds.). Organizational Psychology in Australia and New Zealand (p 188-211). Melbourne, Australia: Oxford University Press. O'Driscoll, M. P., & Cooper, C. L. (1994). Coping with work related stress: A critique of existing measures and proposal for an alternative methodology. Journal of Occupational andOrganizational Psychology, 67, 343-354. O'Driscoll, M. P., & Randall, D. (1999). Perceived organizational support, satisfaction with rewards, and employee job involvement and organizational commitment. Applied Psychology: International Review, 48, 197-209.
+
+107
+
+O'Reilley, C. A., & Chapman, J. A. (1986). Organizational commitment and psychological attachment: The effects of compliance, identification, and internalization on prosocial behaviour. Journal of Applied Behavior, 71, 492499. Parslow, R. A., Jorm, A. F., Butterworth, P., Jacomb, P. A., & Rodgers, B. (2004). Journal of Affective Disorders, 80, 181-190. Parasuraman, S., Purohit, Y. S., Godshalk, V. M., & Beutell, 1996). Work and family variables, entrepreneurial career success, and psychological well being. Journal of vocational Behavior, 48, 275-300. Penley, L. E., & Gould, S. (1988). Etzioni's model of organizational involvement: A perspective for understanding commitment to organizations. Journal of Organizational Behavior, 9, 43-59. Porter, L. W., Steers, R. M., (1973). Organazational work and personal factors in employee turnover and absenteeism. Psychological Bulletin, 8, 151-176. Porter, L. W., Steers, R. M., Mowday, R. T., & Boulian, P. V. (1974). Organizational Commitment, job satisfaction, and turnover among psychiatric technicians. Journal of Applied Psychology, 5, 603-609. Price, J. L. (1976). The measurement of turnover. Industrial Relations Journal, 6, 33-46. Price, J. L., & Meuller, C. W. (1981). A casual model of turnover for nurses. Academy of Management Journal, 24, 543-563. Randall, D. M. (1987). Commitment and the organization: The organization man revisited. Academy of Management Review, 12, 460-471.
+
+108
+
+Randall, D. M., & O'Driscoll, M.P. (1997). Affective versus calculative commitment: Human resource implications. The Journal of Social Psychology, 137, 606617. Ritzer, G., & Trice, H. M. (1969). An empirical study of Howard Becker's side bet theory. Social Forces, 47, 475-479. Viewed in Cohen, A. & Lowenburg, G. (1990). A re-examination of the side bet theory as applied to organisational commitment: A meta-analyses. Human Relations, 43, 1015-1050. Robinson, S. (1996). Trust and breach of the psychological contract. Administrative Science Quarterly, 41, 574-599. Robinson, S., & Rousseau, D. (1994). Violating the psychological contract: Not the exception but the norm. Journal of Organizational Behavior, 15, 245-259. Rosenthal, N. E., Sack, D. A., Gillin., Lewry,A. J. Goodwin, F. K. Davenport, Y., Mueller, P. S., Newsome, D. A., & Wehr, T. A. (1984). Seasonal affective disorder. A description of the syndrome and preliminary findings with light therapy. Cited in An examination of seasonality experienced by Australians living in continental temperate climate zone. Journal of Affective Disorders, 80, 181-190. Rusbult, C. E., & Farrell, D. (1983). A longitudinal test of the investment model: The Impact on job satisfaction, job commitment and turnover variations in rewards, costs, alternatives, and investments. Journal of Applied Psychology, 68, 429-438. Schaffer, M. A., Harrison, D. A., Gilley, K. M., Luk, D. M. (2001). Struggling for balance amid turbulence on international assignments: Work-family conflict, support and commitment. Journal of Management, 27, 99-121.
+
+109
+
+Shaw, H. (2006, January, 18th). Professional Advisor for Occupational Therapy. Waikato District Health Board. Interview. Shaw, J. D., Gupta, N., & Delery, J. E. (2005). Alternative conceptualizations of the relationship between voluntary turnover and organizational performance. Academy of Management Journal, 48, 50-68. Shaw, J. D., Delery, J. E., Jenkins, G. D., & Gupta, N. (1998). An organizational analysis of voluntary and involuntary turnover. Academy of Management Journal 41, 511-525. Spector, P. E. (2000). Industrial and organizational psychology: Research and practice (2nd Ed.). USA. John Wiley & Sons. Spector, P. E., & Jex, S. M. (1998). Development of four self-report measures of job stressors and strain: Interpersonal conflict at work scale, organizational constraints, quantitative workload inventory and physical symptoms inventory. Journal of Occupational Health Psychology, 3, 356-367. Spector, P. E., & O'Conell, B. J. (1994). The contribution of personality traits, negative affectivity, locus of control and type A to the subsequent reports of job stressors and job strains. Journal of Occupational and Organizational Psychology, 67, 1-11. Spence, J. T., Helmreich, R. L., & Pred, R. S. (1987). Impatience versus achievement strivings in the type A pattern: Differential effects on students' health and academic achievement. Journal of Applied Psychology, 72, 522528. Staw, B. M. (1980). The consequences of turnover. Journal of Occupational Behavior, 1, 253-257
+
+110
+
+Steele, R. P. (2002). Turnover theory at the empirical interface: Problems of fit and function. Academy of Management Review, 27, 346-360 Steele, R. P., & Ovalle, N. K. (1984). A review and meta-analysis of research on the relationship between behavioural intentions and employee turnover. Journal of Applied Psychology, 69, 673-686. Steers, R. M., & Mowday, R. T. (1981). Employee turnover and the post decision accommodation process. In B. M. Shaw and L. L. Cummings (Eds.). Research in Organizational Behavior. JAI Press. Taylor, M.S., Locke, E. A., Lee, C., & Gist, M. E. (1984). Type A behaviour and faculty research productivity: What are the mechanisms? Organizational Behavior and Human Performance, 34, 402-418. Tett, R. P., & Meyer, J. P. (1993). Job satisfaction, organizational commitment, turnover intention, and turnover. Personnel Psychology, 46, 259-293. Thompson, C., Beauvais, L., & Lyness, K. (1999). When work-family benefits are not enough: the influence of work-family culture on benefit utilization, organizational attachment, and work-family conflict. Journal of Vocational Behavior, 54, 392-415. Tziner, A., & Birati, A. (1996). Assessing employee turnover costs: A revised approach. Human Resource Management Review, 6, 113-122. Underhill, C. M. (2006). The effectiveness of mentoring programs in corporate settings: A meta-analytic review of the literature. Journal of Vocational Behavior, 68, 292-307.
+
+111
+
+Vandenberg, R. J., & Nelson, J. B. (1999). Disaggregating the motives underlying turnover intentions: When do intentions predict behaviour? Human Relations, 52, 1313-1336. Waikato District Health Board (n.d.). Retrieved 20th December, 2005 from http://www.waikatodhb.govt.nz/ Wang, P., Lawler, J. S., Walumbwa, F. D., Shi, K. (2004). Work family conflict and job withdrawal intentions: The moderator effects of cultural differences. International Journal of Stress Management, 11, 392-412. White, G. L. (1995). Employee turnover: The hidden drain on profits. HR Focus, 72, 15-17. Wiley, D. L. (1987). The relationship between work/non work role conflict and job related outcomes: Some unanticipated findings. Journal of Management, 13, 467-472.
+
+112
+
+APPENDIX A
+
+Letter to Professional Advisors'
+
+113
+
+Information Sheet to the Professional Advisors Request for Support to Distribute Surveys
+Dear Professional Advisor, I am a graduate student currently at the Waikato University and conducting research for the completion of my Masters in Applied Psychology (Organisational). This research is about finding factors that might be related to the allied health staff members' intention to stay within the WDHB. The findings could help the WDHB in making decisions on how to retain the current workforce. My research has two stages. The first stage is a survey to find the key factors that are significantly related to a staff member's intention to stay with WDHB. The second stage will be focus group interviews with key personnel from the allied workforce to discuss the survey findings where members will be invited to suggest ways in which WDHB might increase the likelihood of employees staying with the organisation. Therefore, I would appreciate your help in distributing the survey to every staff member within your department. The participation in this study is voluntary and is important for the success of this study. The survey focuses on a variety of issues relating to the job, organisation, and family life. The completed surveys are to be returned to me in the stamped addressed envelope provided. I will be the only one who will see your responses and confidentiality is assured. The staff has the right to withdraw from this research at any stage without penalty or loss of benefits and no individual will be identified in my thesis or any other publication arising from this research. No staff member participating will be identified to the WDHB. If you would like further information about this study, or have any problems, please contact me: Derek Riley Phone: 021 1266 370 E mail: dr11@waikato.ac.nz My academic supervisors for this research are Dr Paul Taylor and Mike O'Driscoll. I would be grateful if the surveys are returned to me by the 6th December 2005 Again, I am grateful for your input into the successful implementation of this research. Kind Regards, Derek Riley Masters student Psychology Department University of Waikato Hamilton Dr Paul Taylor Psychology Department University of Waikato Hamilton
+
+114
+
+APPENDIX B
+
+Employee Questionnaire Cover letter
+
+115
+
+Information Sheet Thoughts about staying with Waikato District Health Board (WDHB)
+Dear Staff Member, I am a graduate student currently at the Waikato University and conducting research for the completion of my Masters in Applied Psychology (Organisational). This research is about finding factors that might be related to intention to stay that WDHB could use to retain the current workforce as an integral part of an organisation's success is to retain the current workforce. My research has two stages. The first stage is a survey to find the key factors that are significantly related to a staff member's intention to stay with WDHB. The second stage will be focus group interviews with key personnel from the allied workforce to discuss the survey findings and the members will be invited to suggest ways in which WDHB might increase the likelihood of employees staying with the organisation. Your participation in this study is voluntary and is important for the success of this study. The questionnaire that follows focuses on a variety of issues relating to your job, organisation and family life. Please answer all questions to the best of your ability so this survey can be used for this research. Please place your completed questionnaire in the stamped addressed envelope provided. I will be the only one who will see your responses and your confidentiality is assured. You have the right to withdraw from this research at any stage without penalty or loss of benefits. No individual will be identified in my thesis or any other publication arising from this research. If you would like further information about this study, or have problems in completing this questionnaire please contact me: Derek Riley Phone: 021 1266 370 E mail: dr11@waikato.ac.nz My academic supervisors for this research are Dr Paul Taylor and Professor Mike O'Driscoll I would be grateful if you could return this questionnaire by 6th December 2005 Thank you for taking the time to fill out this survey Kind Regards, Derek Riley Masters Student Psychology Department University of Waikato Hamilton Dr. Paul Taylor Psychology Department University of Waikato Hamilton
+
+116
+
+APPENDIX C
+
+Employee Questionnaire
+
+117
+
+Thoughts about staying with WDHB
+This survey is to find the key factors that might be related to staff members intention to stay within an organisation. This survey has nine sections and relates to areas of your job, organisation, attitude, and family life. Please complete all the following items as carefully as possible using the rating scales provided Section A: Job Satisfaction In this section, I would like to ask you how satisfied you are with various aspects of your present job. Please enter the number in the space provided which best indicates how you feel about each of following aspects. 1 = very dissatisfied 5 = slightly satisfied 2 = moderately dissatisfied 6 = moderately satisfied 3 = slightly dissatisfied 7 = very satisfied 4 = neither satisfied nor dissatisfied N/A = not applicable to me ______________________________________________________________ _ Job aspect ____________________________________________________________________ A1 Financial rewards (pay, fringe benefits) ___________ A2 A3 A4 A5 A6 A7 A8 A9 A10 A11 A12 A13 Job security My workload Opportunities for promotion/advancement Relations with my co-workers The way my boss handles his/her subordinates Physical working conditions Variety in my work The competence of my supervisor Amount of challenge in my job Support from others Opportunities to use my skills and abilities The praise I get from doing a good job ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ __________ __________
+
+118
+
+Section A: Job Satisfaction continued.... 1 = very dissatisfied 2 = moderately dissatisfied 3 = slightly dissatisfied 4 = neither satisfied nor dissatisfied A14 A15 A16 5 = slightly satisfied 6 = moderately satisfied 7 = very satisfied N/A = not applicable to me __________ __________ __________
+
+Amount of freedom to decide how to do my work The way organizational policies are put into practice My job as a whole
+
+Section B: Perceptions of Work Environment In this section, I would like to ask you questions about your perceptions of your work environment. Please enter the number which best indicates how you feel about each aspect. 1 = to a very small extent 4 = to a large extent 2 = to a small extent 5 = to a very large extent 3 = to a moderate extent B1. B2. B3. B4. B5. B6. B7. My work schedule is fair ________ I think that my level of pay is fair ________ I consider my work load to be fair _________ Overall, the rewards I receive here are fair _________ I feel that my job responsibilities are fair _________ Job decisions are made by the manager in an unbiased manner _________ My manager makes sure that all employees' concerns are heard before job decisions are made _________ To make job decisions, my manager collects accurate and complete information _________ 119
+
+B8.
+
+Section B: Perceptions of Work Environment continued 1 = to a very small extent 2 = to a small extent 3 = to a moderate extent B9. 4 = to a large extent 5 = to a very large extent
+
+My manager clarifies decisions and provides additional information when requested by employees All job decisions are applied consistently across all affected employees. _________ Employees are allowed to challenge or appeal job decisions made by the manager. _________ When decisions are made about my job, the manager treats me with kindness and consideration _________ When decisions are made about my job, the manager treats me with respect and dignity _________ When decisions are made about my job, the manager is sensitive to my personal needs _________ When decisions are made about my job, the manager deals with me in a truthful manner _________
+
+B10.
+
+B11.
+
+B12.
+
+B13.
+
+B14.
+
+B15.
+
+B16. When decisions are made about my job, the manager shows concerns about my rights as an employee _________ B17. Concerning decisions made about my job, the manager discusses the implications of the decisions with me _________ B18. The manager offers adequate justification for decisions made about my job _________
+
+120
+
+Section B: Perceptions of Work Environment continued 1 = to a very small extent 2 = to a small extent 3 = to a moderate extent 4 = to a large extent 5 = to a very large extent
+
+B19. When making decisions about my job, the manager offers explanations that make sense to me _________ B20. My manager explains very clearly any decision made about my job _________ Section C: Feelings about your Work and Family life Work and family are two important domains in a person's life. The experiences in one domain can affect the experiences and behaviours in the other domain, and vice versa. Thinking about your work and family lives, please enter the number which best indicates how you feel using the scale below. 1 = strongly disagree 2 = disagree 3 = neither agree or disagree C1. C2. 4 agree 5 = strongly agree
+
+The demands of my job interfere with my home and family life. _________ The amount of time my job takes up makes it difficult to fulfil family responsibilities. _________ Things I want to do at home do not get done because of the demands my job puts on me. _________ My job produces strain that makes it difficult to fulfil family duties. _________ Due to work-related duties, I have to make changes to my plans for family activities. _________ The demands of my family or spouse/partner interfere with work-related activities. _________
+
+C3.
+
+C4.
+
+C5.
+
+C6.
+
+121
+
+Section C: Feelings about your Work and Family life continued........ 1 = strongly disagree 2 = disagree 3 = neither agree or disagree C7 4 agree 5 = strongly agree
+
+I have to put off doing things at work because of demands on my time at home. _________ Things I want to do at work don't get done because of the demands of my family. _________ My home life interferes with my responsibilities at work such as getting to work on time, accomplishing daily tasks, and working overtime. Family-related strain interferes with my ability to perfom job-related duties.
+
+C8.
+
+C9.
+
+_______ ________
+
+C10.
+
+Section D: Work Demand The following items refer to the amount of work you are expected to do as part of your daily activities. Please enter the number that indicates your feelings to each question. 1 = strongly disagree 2 = disagree 3 = neither agree or disagree D1. D2. 4 = agree 5 = strongly agree
+
+The amount of work I am expected do is too great. ________ I never seem to have enough time to get everything done at work. _________ It often seems like I have too much work for one person to do. _________
+
+D3.
+
+122
+
+Section E: Feelings about your Organisation Questions in this section of the survey deal with your feelings about the company in which you work. Thinking about the particular organization in which you are now working, indicate the extent of your agreement or disagreement with each of the following statements. 1 = strongly disagree 2 = moderately disagree 3 = slightly disagree 4 = neither agree nor disagree 5 = slightly agree 6 = moderately agree 7 = strongly agree _______ _______ _______ _______ _______ _______ _______ _______ _______
+
+E1. I do not feel a strong sense of belonging to my organization. E2. I do not feel "emotionally attached" to this organization. E3. This organization has a great deal of personal meaning for me. E4. I do not feel "part of the family" in this organization. E5. E6. E7. E8. E9. E10. I would be very happy to spend the rest of my career with this organization. I enjoy discussing my organization with people outside it. I really feel as if this organization's problems are my own. I think I could easily become as attached to another organization as I am to this one. Right now, staying with this organization is a matter of necessity as much as desire.
+
+One of the major reasons I continue to work for this organization is that leaving would require considerable personal sacrifice. Another organization may not match the overall benefits I have here. _______ feel I have too few options to consider leaving this organization. _______
+
+E11. E12. E13.
+
+One of the few negative consequences of leaving this organization would be the scarcity of available alternatives. _______ It would be very hard for me to leave this organization right now, even if I wanted to. _______
+
+123
+
+Section E: Feelings about your Organisation continued...... 1 = strongly disagree 2 = moderately disagree 3 = slightly disagree 4 = neither agree nor disagree E14. E15. E16. 5 = slightly agree 6 = moderately agree 7 = strongly agree
+
+Too much in my life would be disrupted if I decided I wanted to leave my organization now. It wouldn't be too costly for me to leave my organization in the near future. I am afraid of what might happen if I quit my job without having another one lined up.
+
+_______ _______ _______
+
+Section F: General Health In this section of the questionnaire, I would like to ask some general questions about your health. I would like you to indicate whether or not you have experienced each of the following situations in the past three months. Alongside each item place, the number, which best reflects your experiences during this period. Please choose one of the following responses for each item. 0 = Not at all 1 = very occasionally 2 = sometimes 3 = often Over the past three months, have you... F1. F2. F3. G4. F5. F6. F7. F8. Been able to concentrate on what you are doing? Lost much sleep over worry? Felt you are playing a useful part in things? Felt capable of making decisions about things? Felt constantly under strain? Felt you couldn't overcome your difficulties? Been able to enjoy your normal day-to-day activities? Been able to face up to your problems? ___________ ___________ ___________ ___________ ___________ ___________ ___________ ___________ 124 3 = often 4 = very often 5 = all the time
+
+Section F: General Health continued......... Over the past three months, have you... 0 = Not at all 1 = very occasionally 2 = sometimes 3 = often F9. F10. F11. F12. Been feeling unhappy or depressed? Been losing confidence in yourself? Been thinking of yourself as a worthless person? Been feeling reasonably happy, all things considered? 3 = often 4 = very often 5 = all the time ___________ ___________ ___________ ___________
+
+Section G: Feelings about your Current Job In this section I would like to ask you how you feel about your present job, compared with alternative jobs that that you maybe interested in or able to obtain. Please place a cross [X] on one of the spaces underneath each question to indicate how you feel. G1. Thoughts about quitting my job cross my mind. :_____: Strongly disagree G2. :_____: Rarely :_____: Sometimes :_____: Often :_____: Very often _____: All the time
+
+I plan to look for a new job within the next 12 months. :_____: Strongly disagree :_____: Moderately disagree :_____: Slightly disagree :_____: Slightly agree :_____: Moderately agree :_____: Strongly agree
+
+G3.
+
+How likely is it that, over the next year, you will actively look for a new job outside of this firm? :_____: Very unlikely :_____: Moderately unlikely :_____: Somewhat unlikely :_____: Somewhat likely :_____: Moderately likely :_____: Very likely
+
+125
+
+Section H: Background Characteristics Finally, are a few background questions which will help in understanding your responses. H1. H2. H3. H4. H5. H6. What is your current job (occupational) title? Please be specific _______________ How long have you been employed in your present job? _______________ years How long have you been employed by WDHB. _______________ years In which year where you born? Are you male or female 19______ (please fill in the year). (please circle). ________(please fill in number)
+
+How many dependants do you have?
+
+Please check to make sure you have answered all the questions. Please return it now in the attached envelope to Derek Riley by the 6th December Thankyou for Completing the Questionnaire!
+
+126
+
+

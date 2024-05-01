@@ -1,0 +1,1221 @@
+Change in local places: the experience of a peri-urban community
+
+Jason Wright
+
+2006
+
+Change in local places: the experience of a peri-urban community
+Department of Geography
+
+A thesis submitted in partial fulfilment of the requirements for the degree of Master of Social Sciences at the University of Waikato by Jason Wright
+
+September 2006
+
+2
+
+ABSTRACT
+
+This thesis explores change in place, and particularly the social tensions that arise from change in peri-urban communities. In this study, a review of relevant literature indicates that rural/urban fringe areas are dynamic places, as pressure for the conversion of rural land uses to rural residential function creates social and economic anxiety.
+
+With pressure for change, tensions between people, both inside and outside of the local community become more clearly articulated, as change for some members of the community is an un-welcomed progression. Others, who may have no association with the local community, grasp the opportunity for change, particularly if financial return is the end reward. This study considers various approaches to the analysis of these changes in place and develops a methodology that reveals the social dimension of change, and more particularly the tensions associated with shifting land use patterns and changing demographic characteristics in the peri-urban location of Matangi.
+
+3
+
+ACKNOWLEDGMENTS
+
+While establishing my career in the environmental planning field, I elected to undertake this research study on a part time basis. Over the last two and a half years, I have dedicated time and much effort to literature reviews, fieldwork and data interpretation. During my journey, I have consulted and sought advice from a small but significant group of people.
+
+First, I acknowledge the Matangi residents who gave me their precious time and attention by sitting through sixty minutes or more of interview questions. I thank you, as without your help this study would not have come to fruition. I owe any sincere thanks to my thesis supervisor Associate Professor Lex Chalmers, particularly for his patience, advice and guidance in seeing me through this academic task. I also sincerely thank Jan Benseman for her clear and much appreciated peer review of the early draft chapters.
+
+There were times during the research and writing process when I wondered if there was light at the end of the tunnel, the countless hours spent in front of the computer, not to mention the mountain of literature reviewed and the many chapter re-drafts. However, I had much support from family and friends who gave me the encouragement needed through the most demanding of times.
+
+Researching and writing a thesis of this nature has been a true experience in time management and of self-discipline. However, I must confess it is a huge relief to finally not have to get up at 5:00a.m in the morning to sit in front of the computer screen before work and then again at night after work. I now have time to socialize with friends and family on a more regular basis.
+
+4
+
+TABLE OF CONTENTS
+
+ABSTRACT...............................................................................................i ACKNOWLEDGEMENTS.............................................................ii TABLE OF CONTENTS...............................................................iii LIST OF FIGURES.....................................................................vi
+
+CHAPTER ONE - Introduction 1.1 Setting the Scene.....................................................................1 1.2 The Research Question.............................................................1 1.3 Matangi a useful case study.................................................................2 1.4 Thesis Structure.......................................................................3
+
+CHAPTER TWO - Situating the Peri-Urban Place 2.1 Introduction............................................................................5 2.2 The bio-physical features of the lower Waikato Basin......................6 2.3 Peri-urban space and Matangi as a place....................................11 2.4 The People of Matangi............................................................15 2.5 Conclusion............................................................................21
+
+CHAPTER THREE - Theoretical Dimension 3.1 Introduction...........................................................................22 3.2 Interpretivism.........................................................................23 3.3 Symbolic Interactionism...........................................................24 3.4 Symbolic Interactionism and place..............................................26 3.5 Place as a Symbolic Identity.....................................................29 3.6 Symbolic Interactionism and Matangi..........................................32 3.7 Conclusion...........................................................................35
+
+5
+
+CHAPTER FOUR - Methodology, Method and Fieldwork 4.1 Introduction...........................................................................37 4.2 Qualitative Methodology...........................................................38 4.3 Ethnographic Enquiry..............................................................39 4.4 The Matangi Case Study..........................................................42 4.5 Building a Sample Frame.........................................................42 4.6 Sample Representativeness......................................................44 4.7 Sample Size..........................................................................45 4.8 A Personal Reflection of the Interview Process.............................47 4.9 Interpreting the Interviews........................................................48 4.10 Discourse Analysis................................................................50 4.11 Conclusion..........................................................................52
+
+CHAPTER FIVE - Description of Results 5.1 Introduction...........................................................................54 5.2 Community...........................................................................55 5.3 Development and Matangi........................................................59 5.4 The Local Environment............................................................61 5.5 Dramatic Change in Matangi ....................................................63 5.6 Conclusion............................................................................66
+
+CHAPTER SIX - Interpretation and Discussion 6.1 Introduction...........................................................................67 6.2 Past and Present Change........................................................68 6.3 Impressions of Community.......................................................72 6.5 The Future of Matangi.............................................................77 6.6 Conclusion............................................................................81
+
+6
+
+CHAPTER SEVEN - Conclusion 7.1 Introduction...........................................................................82 7.2 Revisiting the Research Questions.............................................83 7.3 Limitations of the Study............................................................85 7.4 Implications of the Research.....................................................87 7.5 Future Research ....................................................................88
+
+BIBLIOGRAPHY.........................................................................90
+
+APPENDIX ONE ­ Interview Schedule.............................................97
+
+APPENDIX TWO ­ Consent Form...................................................98
+
+APPENDIX THREE ­ Poplar Lane Survey Plan..................................99
+
+APPENDIX FOUR ­ Matangi Photographs .....................................100
+
+7
+
+LIST OF FIGURES
+
+FIGURE 1: Maori Settlements in the Waikato....................................8 FIGURE 2: Matangi Land Use Capability Map..................................12 FIGURE 3: Area Map of Matangi....................................................14 FIGURE 4: Matangi Population Changes.........................................18 FIGURE 5: Matangi Age Distribution...............................................18 FIGURE 6: Ethnic Groups in Matangi..............................................19 FIGURE 7: Education..................................................................19 FIGURE 8: Income......................................................................20 FIGURE 9: Analytical interest in the Characteristics of Language...........51 FIGURE10: De-Contextualising and Re-Contextualising......................52 FIGURE 11: Proposed Boundary Expansion of Hamilton City...............80
+
+PLATE 1. Oblique Aerial Photograph of Matangi...............................10 PLATE 2. Aerial Photograph of Matangi..........................................10
+
+8
+
+Chapter One
+
+Introduction
+
+1.1
+
+Setting the Scene
+
+This research thesis is driven by my interest in the peri-urban 1 fringe and increasing pressure for development within these urban/rural locations. Although I have never lived in the peri-urban fringe, the appeal and character has certainly sparked an interest in an investigation of the dynamics of change caused by internal and external influences. I have selected Matangi (a peri-urban place) as a case study, because the changes in this location over the last 30 years reflect bio-physical, social and economic transformations that I believe are representative of those in many peri-urban communities of New Zealand.
+
+Given the high demand for land in Matangi, tensions between those who have lived in the area for some time and those who are recent arrivals have created a definite divide. Many residents speak of urban influences and fashionable city trends that they see encroaching on long-standing place values in communities such as Matangi. As such, change is imposed upon those who may not necessarily want change, and for that reason, Matangi is an ideal research location to study peri-urban social and economic changes, brought about by external influences.
+
+1.2
+
+The Research Questions
+
+In this study I explore the dynamics of change in Matangi. I believe change is a social phenomenon, which involves at its core people who interact and interpret symbols and signs presented to them in every day life by other interacting individuals. The research literature in Social Sciences contends that all socially constructed signs and symbols can be interpreted, and human actions better understood as a consequence of such studies.
+
+1. Peri-urban refers to the domain located on the fringe of the urban environment. These areas are characterised by a transitional landscape consisting of both urban and rural influences.
+
+9
+
+I offer an interpretation based on the key questions that I present below. I believe these questions are central to a contemporary social construction of change in Matangi. The questions are: · · · What mechanisms have influenced change in the peri-urban place of Matangi? Do identifiable tensions exist between the differing social groups in Matangi because of the changing environment? Is change a constant for Matangi and if so what are the future ramifications of continual change?
+
+The thesis will explore these questions using original and secondary data relevant to the Matangi area. Commentaries from national and international sources will assist in understanding the peri-urban place from a global and local perspective.
+
+1.3
+
+Matangi; a useful case study?
+
+Many peri-urban areas in New Zealand are experiencing pressure for social, economic and developmental change. The peri-urban community of Matangi is no exception, as over the last thirty years this place has become a popular rural residential area for many urban dwellers and more recently property developers. The drivers of this change are complex; as some migrants come to Matangi seeking a lifestyle experience, while others are lured by the lucrative financial return of the appreciating land asset.
+
+The relaxation of Waikato District Council's subdivision policy over the last 25 years has transformed Matangi from a rural, land-based economy to, in a contemporary time, an area with rural residential development prospects. Demand for rural residential lifestyle blocks has not only changed Matangi land use patterns but also introduced social changes in the local demographic profile. Commentaries from residents suggest established traditions, commonalities and social securities are perceived as threatened, as new comers establish their own identities. The social fabric of Matangi has been transformed to accommodate these new ideals
+
+10
+
+from outside the place. As a result, tensions grow between the differing social groups, as change for some is unwelcome.
+
+1.4 Thesis Structure I have structured the thesis into seven chapters. Each chapter presents ideas and themes gathered through the literature review, field data collection and analysis stages. The next chapter (Chapter Two) presents Matangi from historic and contemporary viewpoints. The bio-physical geography of Matangi is presented to provide a backdrop for the description of subsequent changes in landscape by Maori and European settlers. From the bio-physical environment, the chapter then examines social and economic influences within the area introduced by European settlers, with a particular focus on more recent trends. The last section offers a demographic profile based on Census data recorded from all people who were resident in Matangi on Census night in 2001.
+
+Chapter Three introduces the theoretical principles underlying this study. Symbolic Interactionism, is the key theoretical approach adopted for this research study. The approach allows a greater understanding of the meaning and interpretation of social and place change, with specific focus on the symbolic representativeness of changes that have had direct effects on the social structure of Matangi.
+
+Chapter Four discusses the derived qualitative methodology. This methodology incorporates techniques such as semi-structured interviews, observation and historic document research as key data gathering instruments. A discussion within the chapter provides in-depth reporting of the interview technique, and the section on transcribing interview texts identifies the issues in the interpretation of data retrieved from the 21 research participants.
+
+In Chapter Five, I provide a forum for the 21 research participants to voice their concerns, frustrations and apprehension about the changes that have occurred over the time of their residence in Matangi. Chapter Six builds on this discussion with my interpretive analysis revealing and commenting on 11
+
+the emergent ideas and themes from participants' responses as described in Chapter Five.
+
+In Chapter Seven I broaden the commentary and offer some conclusions on the nature of change in peri-urban places. I revisit the theoretical and methodological components of my work and assess their effectiveness in the light of the analysis and commentary on peri-urban place. I also take the opportunity within the chapter to reflect and report on my personal observations, interpretations and findings associated with social sciences research in a geographically distinctive place; the peri-urban environments of New Zealand.
+
+12
+
+Chapter Two
+
+Situating the Peri-Urban Place _____________________________________________________
+
+2.1 Introduction Chapter One outlined the origins, interests and structures of this study; the objective of this chapter is to provide a context for the analysis of periurban Matangi. The discussion is intended to provide a backdrop for the subsequent analysis of change experienced in Matangi. Chapter Two is organised into three sections
+
+The first section of this chapter looks at the bio-physical setting of Matangi and the impacts of this setting on the sequence of human occupancies. Environmental determinism is along-standing theme in human geography (Harvey et al, 2002, 212) and a review of the physical geography of the wider Waikato basin provides a useful platform for an historical review of Matangi as rural space. In the second section, the bio-physical review provides a base for a brief chronicle of Maori and colonial settlements of the Waikato region and more particularly the Matangi area and the beginnings of a rural production land base. The review of the (dominantly) pastoral agricultural development in turn leads to comments on contemporary changes associated with small block holdings and social change in the demography of Matangi.
+
+The final section of the chapter reports on the demographic response to economic development of Matangi. Census data are discussed in this section. Given my interest in exploring the views and behaviours of individuals effecting and experiencing change in Matangi, the Census tables are complemented by comments that provide an insight to the nature of the Matangi community.
+
+5
+
+2.2 The Bio-physical features of the Lower Waikato Basin Flowing through the Waikato basin from Lake Taupo in the south, the Waikato River makes a course to Port Waikato on the west coast of the north island discharging to the Tasman Sea. In the area around Hamilton, the Waikato River drains a sedimentary basin between low hills and significant mountain ranges. The eastern ranges consist of Mt Te Aroha and the Kaimai and Coromandel Ranges and to the west the Hakarimata Range and Mount Pirongia.
+
+Before human settlement, the lower Waikato landscape was characterised by mature forest cover, swamps, wetlands and peat lakes. Large Podocarpus species dominated the forest floor, peat bogs and lakes formed with the shifting motion of the Waikato River. Rich alluvial soils formed with the constant flooding and deposition of silt. Ox bow lakes formed as the river course changed direction, creating stagnating backwaters, bogs and nutrient rich swamps (Clarkson 2002).
+
+The alluvial soil depositions formed what is known as the Hinuera surface that covered the existing underlying terrain to eventually form the relatively flat plain of the Waikato Basin (Orbel 2006). Clarkson (2002) suggests bogs and swamps originally covered 110,000 hectares of the region, dominating the lowland basin of the lower Waikato. By 1840, the Hamilton region had an area equating to 24,000 hectares of wetland, with a further 18,559 hectares in primary forest primarily of broad-leaved species.
+
+Nicolls (2002, 68) suggests the most dramatic changes to the lower Waikato landscape were related to fire. In drier months, fire had the ability to devastate significant areas of indigenous forest. However, evidence suggests that around AD 1500 fire became a more regular event and probably coincided with Maori migration movements. Clarkson (2002, 89) also supports the idea that fire had a dramatic impact on forests, as burnoffs were a regular event associated with Maori cultivation and garden preparation. Fire for the purposes of Maori became an essential tool in the clearing and control of vegetation, as the burned remnants or pot-ash
+
+6
+
+were utilised for the production of food resources, principally kumara and later with European settlement potatoes (Puke 2005). See Figure 1.
+
+Various groups within the many sub-tribes and hapu of the Tainui iwi spread throughout the wider Waikato region. These groups often occupied strategic locations near swamps, tributary waterways and particularly the Waikato River, as these natural features were considered valuable food resources and in the case of the Waikato River a valued transport route (Stokes 2002 and Puke 2005).
+
+Contestation with the settler economy over access to the fertile Waikato lands was at the centre of the 19th Century Land Wars (Finlay 1998) with the grievances of dispossessed Tainui finally recognised in the substantial Waikato Raupatu claims settlement of 1995 (Boast et al. 1999 and Greensill 2000). As a result of the Waikato Land Wars of 1863, 1.3 million hectares of Tainui land was officially confiscated under central government authorisation and eventually re-offered for settlement. This is significant as McCraw (2002) suggests the last 30 years of the 19th century triggered a time of transformation that would lead to the Waikato area becoming a nationally dominant pastoral heartland. The 19th century Waikato was no different from any other district as the New Zealand Premier, Julius Vogel, zealously pursued a national pattern of land clearance, swamp draining and infrastructure works. As a result, by the later part of the 1800s New Zealand was predominately rural, with approximately 60% of all New Zealanders (in 1881) living and working in rural settings (Statistics NZ 2001).
+
+Pastoral farming, on a national scale, expanded rapidly particularly between 1885 and 1935. In this period, reported growth saw an estimated increase in area from 2.6 million to 7.9 million hectares of land under cultivation. Sown grass dominated almost 90 percent of the cultivated landscape, supporting a nation wide increase in livestock, predominantly sheep and cattle (Statistics NZ, 2001).
+
+7
+
+Figure .1 Maori Settlements in the Waikato c.1860
+
+8
+
+Around the turn of the 20th century, dairy farming became firmly established in the Waikato, as the realisation that certain areas of the Waikato basin were fertile high productive soil types. These soils could retain moisture over long periods in the summer months, but were sufficiently free draining to evade water logging or complete submersion in the winter months (Orbel 2006).
+
+With the emergence of farming and particularly dairy farming in the Matangi area, the construction of a dairy factory and associated technologies in road/rail transportation and telecommunications
+
+contributed to the development of an industrially driven, export-orientated production landscape. In 1902, the first Matangi post office opened and in 1906, a telegram service was added, to the existing postal infrastructure. A school, bulk stores, marshalling yards and a community hall would follow in the creation of what is today the heart of the Matangi community. See Plates 1 and 2.
+
+The residents of Matangi had common expectations, as every small farming town hoped to have a rail connection with ready access to markets and ports. In 1884, the Hamilton to Cambridge branch line opened for service, and as a result, a train station was built in Matangi for this purpose. With the building of the dairy factory in 1919, further rail sidings were added, along with a stationmaster and maintenance crews. From 1919 until its closure in the mid 1980s, the Matangi dairy factory produced milk powder, condensed milk and Glaxo milk products for the formulation of baby foods.
+
+Nothing is certain nor protected from change; in the late 1980s national economic restructuring saw the closure of the dairy factory and local services, including the post office and telephone exchange. Prior to this, the passenger rail service ceased as improved roading networks, road refrigerated freight transportation and individual car ownership
+
+9
+
+Plate 1 ­ Oblique photograph of the Matangi village 1951
+
+Plate 2 ­ Aerial Photograph of the Matangi area in 2002
+
+10
+
+saw dwindling demand for rail transportation. At this time Matangi, like many rural centres in the mid 1980s, was thrust into the discomfort of nation wide economic restructuring (Joseph 1999).
+
+Britton el at. (1992, 146) argue that the changes were needed to bring the New Zealand economy into line with a globalising world market. Deregulation along with abolished subsidies and less state control in the market place were the signals of change for rural places throughout New Zealand. Despite its advantageous biophysical foundation and sustained history of agricultural development, Matangi had no resistance to these restructuring changes.
+
+2.3 Peri-urban Space and Matangi as Place Many towns and cities have been built on soils considered to be high quality, and most land suitable for agriculture is also very suitable for urban development. Barker and Brown (1979) recognise that productive rural land on the fringe of urban places is often the target for development, particularly demand from expanding cities into these areas. Brown and Barker point out that land is a finite resource, and land reduced in terms of quality, location, rate of loss and costs (in terms of lost production) are serious global issues facing many peri-urban locations. Orbel (2006) points out areas with a Land Use Capability assessment containing classes I and II soils are under threat in New Zealand, especially where they are close to urban centres where the need for expansion and development is greatest (Moran el at. 1980; Waikato District Council 2004).
+
+Orbel (2006) also points out that, within the Waikato District, land classified as Class I and II soil types occupy 115941 Hectares (26% of the area), and represents some 8.2% of all versatile land in New Zealand. Areas such as Matangi and Tamahere on the southern fringe of Hamilton City are prime examples of Class I and II soils; as they are considered free draining, fertile and easily tilled. The topography is generally flat, of insignificant erosion but retains moisture through into the warmer months and is not overly wet during the winter months. See Figure 2. 11
+
+Figure 2 ­ Matangi Land use Capability Map Matangi is situated in the peri-urban zone on the south-eastern boundary of Hamilton City (See Figure 3). Over the last thirty years subdivision and development interests have seen the area change from a production based economy to one of small lifestyle blocks, as a result of relaxed subdivision policy and the ability to sell fragmented farmland in times of 12
+
+financial hardship. Because of this relaxation in subdivision, lifestyle blocks in Matangi, over the last thirty years, have become sought after real estate. Particularly evident is the migration of people from Hamilton and other urban locations wanting property to the south-west in areas such as Matangi, Newstead and Tamahere (Waikato Times 2003).
+
+Scott et al. (1998, 11) and Joseph et al. (2004, 17) identify two groups of urban dwellers that move to rural areas. The first group are described as part-time farmers, who hold down fulltime urban jobs and indulge in farming activities in their spare time outside of fulltime employment. Twenty-five to thirty years ago, this group were better known as 10-acre small holders, and in the Matangi context were dominant landowners.
+
+The second group are those who purchased land in the peri-urban location as a non-productive rural residential lifestyle allotment. This group identify land in the peri-urban location as a status symbol where a large house and well landscaped gardens portray wealth and a sense of achievement. Williamson (1998, 59) broadens the non-economic evaluation of periurban residential sites by suggesting the reason for the shift to peri-urban areas is to escape career pressures and urban confinement. This group seek a perceived simpler country lifestyle via small block ownership.
+
+In Matangi, this group of people are increasingly evident as over the last decade the 10-acre lifestyle blocks have been further fragmented into small rural residential allotments, making country living, for urban migrants, more accessible.
+
+Williamson (1998, 58) describes the peri-urban environment of Tamahere and Matangi as locations "sandwiched" between the dynamics of the city and the slower tranquil components of the rural countryside. While identifying with the sort of people who live in these peri-urban areas,
+
+13
+
+Figure 3 ­ Area Map of Matangi
+
+14
+
+Williamson suggests, there are the long time residents who hold values and views of the area, while newer immigrants may not be aware or care so much for existing values and instead introduce new ideals and behaviour that better suit their lifestyle needs and personal values.
+
+With small lifestyle blocks replacing uneconomic farm units, the nature of Matangi as a rural place changed with new influences and values slowly replacing those of a more traditional era. As a secondary consequence of these changes, the new lifestylers in the area are often unfamiliar and unaware of local traditions and tend not to share the same commonalities as the more established resident community (Palakshappa 1983).
+
+2.4 The People of Matangi Two distinct groups reside in Matangi. The first group are generally associated with a time when dairy farming was the economic mainstay of the area. The population in Matangi at that time were principally farmers, farming families, and people associated with the farm economy, including farm hands and dairy factory workers.
+
+With changes in the economy and relaxation of subdivision policy in the 1970s and 80s, a new group of 10-acre small block holders began to emerge in the Matangi location. The one characteristic common to this group was a majority had fulltime employment in the city and outside of work hours became part time hobby farmers. This was no coincidence, as throughout the 1970s and early 1980s legislation allowed the subdivision of existing pastoral units, but the blocks had to demonstrate they were productive and economic. As a result, many landowners planted and managed a horticultural crop or practiced animal husbandry (Haywood 1981).
+
+During the mid 1990s, small block production was steadily replaced with small rural residential allotments as further relaxation of the subdivision policy has opened the flood-gate for developers. Along with the change in land use, the population structure has changed, as the Matangi location is no longer characterised as a rural community but as a peri-urban 15
+
+community with a more cosmopolitan flavour as urban migrants re-settle in the area.
+
+This change can be seen in Census statistics over the last decade, as the overall population in Matangi has been steadily rising (Census 1991, 1996 and 2001 statistics). The population in 1991 was 1,296, five years later the Census data indicates an increase of 117 people (a 9.0% growth) bringing the population to 1,413. The 2001 census increases the population count by another 114 to total 1,527 people (a 7.5% growth).
+
+Of the population gain identified above, the age groups 45 to 60 years have seen the most significant increase, while the 25 to 29 age group has been in decline. There is no surprise to note that the age group of 20 to 29 has been steadily declining since 1991. To account for loses in this group; one only has to recognise that young people tend to move around in the pursuit of employment or study opportunities, while many also take advantage of travelling abroad. The 35 to 39 age group, although it did peak in 1996, has dropped away only slightly in 2001. See Figure 4. The three dominant demographic groups residing in Matangi, may be described as those in their thirties with young families, those in their middle years, often with older children who have since left the family nest and a smaller but significant group of semi-retirees.
+
+The over 65+-age group tends to decline as people make the decision as to where they will retire. However, when statistics from the 1991, 1996 and 2001 census are compared, there appears to be a slight increase in the number of people represented in this age group. This figure could be over represented, as the Assissi Retirement Home is located in the Matangi census area and may attribute to the inflated total. See Figure 5.
+
+Of the groups represented above, Europeans are 93% of the Matangi population (See Figure 6). The most popular occupational group in Matangi is professionals at 21.2 %. This is also a reflection of school and higher qualifications statistics, as 42% of Matangi residents have obtained a post school qualification. In conjunction with the last two statistics, 16
+
+approximately 5.9 percent of Matangi residents earn $100,000 or more a year in personal real income. (Statistics New Zealand, 2001). See Figures 7 and 8.
+
+17
+
+Figure 4 - Matangi Population Change (Migration & Immigration)
+50.0% 45.0% 40.0% 35.0% 30.0% 25.0% 20.0% 15.0% 10.0% 5.0% 0.0% 20-29 yrs 30-59 yrs AGE GROUPS 60+ yrs
+
+1991
+
+1996
+
+2001
+
+Source: 1991, 1996 & 2001 Census Data
+
+Figure 5 - Age Distribution
+
+65+ yrs
+
+AGE GROUPS
+
+15-64 yrs
+
+New Zealand Matangi
+
+0-15 yrs
+
+0.0%
+
+10.0%
+
+20.0%
+
+30.0%
+
+40.0%
+
+50.0%
+
+60.0%
+
+70.0%
+
+Source: 2001 Census Data
+
+18
+
+Figure 6 - Ethnic groups in Matangi
+100.0% 95.0% 90.0% 85.0% 80.0% 75.0% 70.0% 65.0% 60.0% 55.0% 50.0% 45.0% 40.0% 35.0% 30.0% 25.0% 20.0% 15.0% 10.0% 5.0% 0.0%
+
+ETHNIC GROUPS European Maori Pacific People Asian
+
+Source: 2001 Census Data www.stats.govt.nz
+
+Figure 7 - Education
+
+Post School
+
+Q U A L IF IC A T IO N S
+
+School
+
+No Qualifications
+
+0.0%
+
+5.0%
+
+10.0%
+
+15.0%
+
+20.0%
+
+25.0%
+
+30.0%
+
+35.0%
+
+40.0%
+
+45.0%
+
+Matangi
+
+New Zealand
+
+Source: 2001 Census Data
+
+19
+
+Figure 8 - Income
+
+$1-$10,000
+
+$10,001-$20,000
+
+$20,001-$30,000
+
+IN C O M E G R O U P
+
+$30,001-$40,000
+
+$40,001-$50,000
+
+New Zealand Matangi
+
+$50,001-$70,000
+
+$70,001-$100,000
+
+$100,001 or more
+
+0.0%
+
+5.0%
+
+10.0%
+
+15.0%
+
+20.0%
+
+25.0%
+
+30.0%
+
+Source: 2001 Census Data
+
+20
+
+2.5 Conclusion The objective of this chapter is to contextualise the place of Matangi. I attempt to build a picture of the lower Waikato region in describing the transformation that has taken place with the settlement of migrating Maori and later British immigrant occupation. The Waikato experience is broadly similar to events in the small rural location of Matangi, where migrant settlers transformed the forested landscape into one of agricultural land production.
+
+In recent times, the population of Matangi has experienced a significant change in land use which has been reflected in demographic and economic change as lifestyle and political circumstances along with regulatory mechanisms have freed the ability to subdivide land, thereby opening a window opportunity for urban migrants to settle in the peri-urban space.
+
+Matangi is no longer the rural domain of farmers and farming practices. Instead, couples with young families are moving away from the urban centres and into this peri-urban community. This is also similar for middleaged couples, who since the .2001 Census are represented as the numerically dominant group in the Matangi location.
+
+21
+
+Chapter Three
+
+Theory and Literature Review
+
+3.1 Introduction This chapter describes the theoretical framework for the study. Theory informs the methodology that ultimately guides how the field data is gathered and to some extent analysed. In this chapter I will outline an interpretivist paradigm that attempts to identify with, and understand meanings of interacting individuals in the social world, while actively recognising that objects are not just `out there' but are a social construct of the human world.
+
+As a sub-grouping under the broad interpretivist umbrella, symbolic interactionism identifies a social world of symbolic meanings and the interpretation of those meanings. Credited as the pioneers of symbolic interactionism, Mead (1934) and Blumer (1969) suggest humans act toward things on the basis of the meanings that the things have for them, and that those meanings are the product of social interaction.
+
+Burton (2004, 198) points out that symbolic interactionism is "behavioural consistency" that ensures actions and behaviours accepted by a social community are adopted and practiced by each individual group member. The advantage for the individual in identifying with a social community is to develop a self-identity, a sense of security and a framework to understand the socially constructed world that each member occupies.
+
+In more contemporary human geography, two aspects have emerged. The first matter is associated with an ethnographic method in providing compelling accounts of the social construction of specific cultural and place experience. The second matter illuminates the relationship with place and identity, or more specifically, how social actors create place and how place is reflective of the actors in place (Ley, 1981).
+
+22
+
+The remainder of this chapter will describe symbolic interactionism with the aim of establishing a working definition of the theoretical framework. An investigation of symbolic interactionism and the peri-urban place will also set the foundation for the case study area of Matangi.
+
+3.2 Interpretivism All theoretical perspectives are generated from an underlying paradigm. Paradigms are `basic beliefs' that guide the researcher and are shaped around epistemological, ontological and methodological perspectives; essentially paradigms are a set of beliefs that guide actions (Denzin & Lincoln 1998).
+
+In this section, I introduce an explanation of the underlying interpretivist paradigm. Interpretivism describes a qualitative process that reveals how the individual, and in a broader sense society, creates meaning from the world. However, to better understand the social world, a theoretical framework needs to be employed in an effort to make sense of the social meanings constructed by people to help explain the space they occupy and the objects in that space. Interpretivism is a paradigm orientated towards the reconstruction and/or interpretation of understandings from the point of view of the interacting individual in the `life world' or understanding the actor's definition and meaning of a situation.
+
+Actors in particular places, at particular times, fashion meaning out of events and phenomena through prolonged, complex processes of social interaction involving history, language and action. Interpretivism means that human beings do not find or discover knowledge so much as construct or make it. We invent concepts, models, and schemes to make sense of experience (Schwandt 1998). Knowledge is a constructed (versus discovered) form of experience. Knowledge might be created in the individual mind, but can also be shared and expanded via human thought, language and communication. Human beings create the social world. Objects may exist `out there', but humans interpret, label and categorise those objects in order to better interpret the social space we all occupy (Mead 1934; Blumer 1969; Brunori 2003). 23
+
+Over time, objects become the socially constructed world. We know objects because we label objects through language and we communicate the named objects to one another on a daily basis (Brunori 2003). However, if human beings were not present, objects would still exist. The key component to interpretivism is the fact that human beings through language and communication are able to express ideas, emotions and bias, and for this reason, interpretivism provides a deep and qualitative investigation of the places that human beings create and occupy.
+
+In the next section, I wish to introduce the theoretical framework of symbolic interactionism. As discussed earlier, every theoretical stance has an underlying paradigm, as I have briefly touched on interpretivism as that paradigm, I would now turn to discuss the theoretical principle of symbolic interactionism.
+
+3.3 Symbolic Interactionism Symbolic Interactionism is a theoretical view that identifies the interpretation and meaning humans derive from the social world, and is deeply embedded in social psychology and sociology. George Mead and later Herbert Blumer, the founding pioneers of symbolic interationism, became increasingly uneasy with the empirical psychological approach in the explanation of human social behaviour. Mead suggested that instead of focusing on the individual and his or her personality characteristics or the social structures that cause individual behaviour, an approach should focus on the nature of social interaction and the dynamic social activities taking place between the person and social groups.
+
+...in focusing on the interaction itself as the unit of study, the symbolic interactionist creates a more active image of the human being and rejects the image of the passive, determined organism (Charon 1985). Symbolic Interactionism, as described by Mead, at its roots identifies with the self, in that human beings are capable of self-thought and interaction via the thought process. However, to be capable of thought we must learn 24
+
+language, which in turn labels objects and then gives meaning of those objects.
+
+Language in effect constructs the social world by placing named objects into categories that then become known symbols, these symbols are then communicated to others who either agree or disagree about the described symbol. Essentially, symbols are objects that require a consensus of social agreement as to their meaning and use (Sarantakos 1993).
+
+Arendt (1958:16) adds further comment in the suggestion that,
+
+...our need to understand and to be understood gives rise to inserting ourselves into a world through speech and action. [Humans] create a `web of meaning' and are also brought into already existing webs of meaning. These webs of meaning are the context in which we reveal ourselves to others. Meltzer (1972, 102) suggests the self forms in the same way as other objects in the socially constructed world. At the point that a individual starts communicating internally to him/herself, through the mind, it is fair to say language has been learned and, at that point, external communication of internal thought is possible. At the point of external communication, interpretation and meaning take on a whole new role as others agree or disagree with the creation of social meanings.
+
+The mind is social in both origin and function. It arises in the social process of communication. Through association with the members of his/her groups, the individual comes to internalise the definitions transmitted to him/her through linguistic symbols, and learns to assume the perspective of others and thereby acquires the ability to think. An object implicates definitions by others and these definitions involve language or significant symbols. The individual acquires a commonality of perspective with others by learning the symbols by which they designate aspects of the world (Meltzer 1972). We learn language and gestures to express ourselves to others. The use of symbols allows the individual to take on shared roles with others, and he/she is then able to experience the perspective of others. To be part of the social world, the actors in it become role players, as behaviour is 25
+
+constructed and played out in front of a social audience, where each actor has a part to play and a line to rehearse. However, each actor must have an understanding of the meaning of the `play' to make sense of the role they assume, that then fits in with the broader script or social web of meaning (Arendt 1958, Goffman 1959 and Burton 2004).
+
+Symbolic Interactionism (much like the hypothetical play) tells us that once symbols are recognised, interpretation and meaning of the social world then allows the social actor to freely express the self and communicate the learned symbols to others who also assume similar role plays.
+
+3.4 Symbolic Interactionism and Place Geographic perception and spatial behaviour become important factors in the investigation of place, as like landscape, places are also experienced. Lippard (1997, 97) identifies the experienced place as a mix of feelings, sensations and encounters. Essentially all the senses are stimulated as lived experiences become the subject of place. Place is a condition of human experience, and also shapes our individual and collective identities. For this reason, place relations build cultural and social alliances in shaping place as a cultural, historic and social experience (Entrikin 1991).
+
+The social construction of place is based on human experiences, interpretations and social creations of space. Essentially, human beings create place as a socially constructed entity, based on linguistic symbolic meanings used to describe, interpret and give meaning to place. If people were not present in the world, place would not exist. However, there would still be forests, rivers and mountains (or objects) but these entities would be unnamed and would exist `out there' on their own accord.
+
+This recognised by Ley (1981, 54) who argues that, place is a negotiated reality, a social construction by purposeful set of actors. Bender (2002, 158) points out, [Humans], through our embodied understanding, our being in the world, create categories and the interpretations of place... Place becomes a perceived `object' that is then created by the use of 26
+
+thought (mind), linguistics (speech) and communication (shared language) from these three processes places are created, interpreted and become socially accepted.
+
+Jakle, Brunn and Roseman (1976, 37) suggest the process of attaching meaning to one's surroundings is only possible through sharing of language and symbols. As such, linguistic and symbolic interactions are social tools in shaping the socially constructed world and place. This is important, as Meinig (1979) suggests,
+
+two people in the same place will not necessarily interpret place the same, it is only by shared communication and the describing process of language that identifies similar parts of place that become common points of agreement. Wapner (2003, 69) also points out. ...there is nothing with an authentic voice because as soon as human beings image a place or object expressing itself, we recognise that we are speaking for the entity, by utilising the language of words to vocalise the object of attention. If people are able to describe, interpret and categorise places, there must be both a creator and consumer of those places. Moreover, in a humanistic sense the creator often adds a significance of meaning to the creation, something of a personal touch, much like an artist who leaves the interpretation of his or her work open for the imagination of the consumer. As such, people create place by the act of experience, emotion and visual display. Others add their own interpretation to place. Tuan (1979) suggests a person in a place interprets and constructs the place leaving the place open for further interpretation. In a similar vein, Palka (199.......) points out
+
+...the position of the individual in relation to place is based on the assumption that place does not exist without an occupier. However, place may bond a meaning to those that created it, but may say nothing to the consumer of place, as time, social and emotional attachments have not cemented the consumer of place-to-place. In many 27
+
+respects, it is up to the outsider of place to interpret for him or her self the meaning of a place. This interpretation is a personal understanding of the place, what one-person experiences, another may experience or view the same place as something very different.
+
+This discussion indicates that not every person experiences place in the same manner. Where one person may see the landscape or place as an aesthetic, pleasing, tranquil location, another person may view the potential for economic or political advantage. Therefore place represents many things to different people, this also explains why place is always in a state of flux, as different ideals and social pressures transform places into something else representative of each individual or group (Bender 2002).
+
+Cosgrove (1984, 45) argues Place has its own history, but a history that can be understood only as part of the wider history of economy and society. However, to better understand place, Jakle el at. (1976, 89) suggest, the process of attaching meaning to one's surroundings is only possible through sharing of language and symbols (emphasis added). While Brunori (2003, 3) points out; communication is the key to understanding the lived, perceived and conceived space.
+
+The consumer of place must then learn the meanings of place to better understand the political, historic and social meanings the creators of place are portraying. Each place has a story, memory and familiarity to an actor and each actor creates a web of social meaning while in or away from place. Human beings invent concepts, models, and schemes to make sense of space and the experiences encountered in that space (Schwandt 1998).
+
+Cresswell (2004, 78) identifies the bi-polar characteristics of place and space, as space transforms into place by way of the characteristics of the occupier/creator. Space transforms into place as physical locations such as neighbourhoods become associated with and personalised by particular social groups. In his search for a definition of place, Cresswell suggests people make spaces meaningful, by creating places of comfort, 28
+
+security and familiarity ... places must have some relationship to humans and the human capacity to produce and consume meaning. In essence, place then takes on characteristics associated with the occupiers of the place.
+
+3.5 Place as a Symbolic Identity Naming of space gives symbolic meaning to a place. Names tend to give identity to an area, as a person may travel away from a named place, but can always return to an area when it has a known and named location. Once a place has a name, it becomes labelled and easily identified, via a map reference or directional sign informing the traveller of distance and direction. This is also true for places that are named in recognition of land or water features, such as Matangi whose Maori name, when translated, means `a place of wind'.
+
+Another important activator of place identity is the memory of place. Creswell (2004, 59) points out `place and memory are inevitably intertwined, memory is a personal thing, but is also a social thing'. Memories are constantly being preserved through the creation of place monuments, museums, plaques and public inscriptions. Cresswell (2004, 62) suggests people no longer need mental processes for storing memories of place, not when memories are,
+
+...inscribed in the landscape ­ as public memories. ...Place memory is the ability of the past to come to life in the present and thus contribute to the production and reproduction of social memory of place. It is not only monuments and museums that contribute to social memory; many structures and local architecture remind the present of the past. During the in-depth interviews of the Matangi study area, many older participants referred to existing structures in the village and gave indepth recollections of the past use of the structures. In one case, a participant gave a personal account of a romantic encounter in the now defunct post office, while another recalled the billiards and village hall as places of socialising and friendships.
+
+29
+
+The seven sisters houses located along Matangi Road seem to also be identified as historic icons (social memory), as research participants referred to not only the dwellings' history, but could name all the past occupiers of the houses. The dairy factory is another local icon, as many older research participants recall factory workers by name, twenty years after closure.
+
+People who have occupied an area for a lengthy period, identify with place as home, as comfort and security. These established residents of place often preserve generational links to place, links that are associated with genealogical histories, memories and friendships. However outsiders or travellers to a place may visit the area but only view its physical features, or its travel book `must see' icons. People new to an area only see place through the eyes of travel advertisements or real estate campaigns, and are initially blind to local place history and meaning.
+
+Lippard (1997, 87) suggests insider occupants can also become place "blind" or ignorant to familiarity of place, and this occurrence is possible when an individual is so familiar in a location, that uniqueness and familiarity of place become normalised and taken for granted. However, this may change as outsiders to place introduce changes that start to erode the taken for granted familiarities of those insiders to place.
+
+Lippard further suggests that outsiders are strangers to place and may try to fit in by adopting traditions and beliefs of the local community, but at what stage do outsiders become insiders? Does being an insider denote a length of time or the keeping of traditions or a sort of genealogical connection to place? Can a place become home without historical links and are family ties and local knowledge the key to making place a home?
+
+Relph (1976, 21) makes a similar distinction; by suggesting the insider to place has an `authenticity' to place as though they have a genuine and sincere attitude to place. ...to be inside a place is to belong to it and identify with the place.
+
+30
+
+However, Relph also suggests an outsider to place is alienated and excluded from place because a connection has not yet formed. However, who is to say once a connection to place has formed, that the outsider will take on the same values, beliefs or familiarities as that of the insiders? The outsider may choose to introduce new values that contravene existing beliefs. This, as Relph explains, could be a rebellion against the
+
+established social structure, and could be viewed as an inauthentic attitude to place, reflecting the lack of deep and symbolic meaning to place that the insider portrays.
+
+From a slightly different position, Cohen (1982, 98) identifies `social culture' as the real place connector. `Social culture' links people through genealogy to the local community. History also plays a dominant role in connecting communities to place, as a long genealogical association fixes people to any location. Associated with genealogical links, local skills and traits draw groups of the same people together, as can be readily observed in rural communities or coastal fishing towns where social commonalities attract similar groups of people of similar interests and character (Burton 2004).
+
+Cronon (1991, 45) warns against the erosion of place by the gradual creep of flows of people, trends, and replication. He points to the
+
+homogenisation of locations around the world, as each place suddenly has the same fast food restaurants and the same sort of shopping malls. Places start to look and feel the same as the uniqueness that once distinguished a place becomes generic and mainstream. Cronin suggests, these are spaces that seem detached from the local environment and tell us nothing about the particular locality in which they are located. The meaning that provides the sense of attachment to place has been radically thinned out as place repetition starts to creep in.
+
+This point is extended by Relph (1976, 38) who links the break down of places to improvements in transportation networks and communication technologies. Relph suggests, mobility of homeowners reduces the significance of home and thus plays a major role in the growing problem of 31
+
+placelessness. Placelessness is associated with restless transient communities, in that people are no longer rooted in place, but stay for a time and move, never really experiencing the place at a deeper level. The transient community is an issue facing many peri-urban locations such as Matangi in the New Zealand context, and is revealed in Chapter Five as participants' voice their concerns and opinions regarding these sorts of changes experienced in Matangi
+
+Place is a way of seeing, knowing and understanding the world we each occupy. Each place has attachments and connections to friends, family and the experiences shared with those people of place. Place then
+
+becomes space invested with meaning in the context of power (Cresswell 2004). Cresswell also suggests, it's not so much physical places in the world that interest us, but place as an idea, concept and away of being-inthe world. Place is open to things such as `value' and `belonging', and because of that knowledge, place is a simple fact of experience. In the next section, I link the value of belonging to place with the case study example of Matangi.
+
+3.6 Symbolic Interactionism and Matangi Matangi is a peri-urban settlement located southeast of the Hamilton City boundary. The area historically evolved from the land production economy of dairy farming, and as such, dairy production was up until recently the distinguishing feature of the location. From the historic roots, long associations with Matangi are evident in generational sequence as long time established families still occupy the location.
+
+In the late 1970s, a change in subdivision policy allowed the fragmenting of 10-acre blocks from larger farm holdings. Many landowners at that time took the opportunity to subdivide for both additional land titles and financial reasons. Some subdivided with the intention of selling and some with the peace of mind that parts of the farm could be sold in the event of a future rural downturn. Eventually the rural down turn did come to fruition, forcing small dairy farmers to merge into larger production units or to sell the farm out right (Shearer, 1979). 32
+
+In the mid 1990s, subdivision policy relaxed further to allow subdivision of the original 10-acre blocks into smaller rural residential allotments. This change was to transform the residential character of the Matangi area. The demographic group that now resides in Matangi identifies with urban based couples and their young families. However, the people moving to Matangi, when compared with the earlier 10-acre block demographic, are career minded, generally well educated and financially secure (Williamson 1998 and National Census Statistics 2001).
+
+A second group are also migrating to Matangi from the urban centres. These people are characterised as middle-aged couples, who (like the younger couples) also have a high degree of affluence, they generally are more stable financially, suggesting accumulated equity and assets. These couples also tend to be empty nesters as children are older and in the transition of leaving home or have already `flown the nest'.
+
+For each of the identified groups, Matangi has created/creates a different meaning. Some identify with the historic past, others view the benefits of raising a family, while others see the location as a hide away where the draw bridge can be lifted in the search for privacy and seclusion (Waikato Times 2003, Williamson 1998). Each group has recognised something in Matangi that they relate to, and in some cases, these ideas have been embedded into the minds of people through advertising hype of the commercial world, as real estate agents, developers and media sources promote the benefits of peri-urban or country lifestyle living.
+
+As Valentine (2001, 58) argues, the countryside is being targeted by the media and has become commodified. The countryside is marketed as a desirable and exclusive place to live, a place of stress free lifestyles, and the promise of exclusivity away from the urban hordes and the city environment. People are sold the lifestyle, with all the added benefits of not living in the city but close to the amenities of the city. Because country living has become an exclusive lifestyle, it seems only those with financial capability can afford the privilege.
+
+33
+
+How
+
+are
+
+the
+
+above
+
+demographic
+
+groups
+
+relevant
+
+to
+
+symbolic
+
+interactionism? The main thrust of symbolic inetractionism reveals how the individual interprets and gives meaning to the social world. As part of that interpretation, language plays an enormous role as the vehicle used in constructing the social world. Language is the one symbol that is universal, in that human beings need language to communicate ideas, thoughts and meanings to others (Ley 1981 and Brunori. 2003).
+
+Accordingly, Valintine (2001, 68) suggests as a commercial commodity, people are sold the idea of living in the rural environment. The benefits are often glamorized with advertising hype and key words such as healthy living, open spaces, peace, quiet and an escape from daily stress. Yet in the Matangi context residents speak of the urban-influenced environment, where city pressures are changing the local place from a once dominantly rural environment, to a place characteristized by suburban living standards. These same people suggest the place of familiarity is becoming an unfamiliar place of transient neighbors, urban trends and `get rich quick' land marketing strategies. Essentially Matangi has been transformed from a rural base symbolized by agricultural land production to a land marketing commodity symbolized by a stress free peri-urban lifestyle readily accessible to city amenities.
+
+Symbolic Interactionism explores how social groups in Matangi view and create meanings within the place, and more particularly with each other. While some people identify Matangi for certain values and ideals, those ideals may be very different to those held by someone else. No two people will ever view, experience or describe the same place, as each person identifies with something in that place that the other person may choose to ignore (Jakle et al. 1976). However, as pointed out by Meinig (1979), when in a place two individuals or a group of people may read the landscape/place entirely differently, but there may also be similar parts of the place that become common points of agreement.
+
+34
+
+In the Matangi context, residents use language to describe their own interpretation of the place. These I have already discussed as historic memories, lifestyle choice and the search for seclusion and privacy. People attach meaning to Matangi via the parts of Matangi that hold some relevance and interest to their own lives.
+
+Mead (1968, 59) points out, that humans act toward physical objects and other beings in their environment based on the meanings that these things have for the individual. However, these meanings derive from the social interaction between and among individuals. Interaction involves
+
+communication of thought via language. Language, gesture and meanings are established and modified through an interpretive process used by each individual during the interaction process. Meanings change to suit the situation in which the language and gestures are displayed. As such, time provides the vessel that creates change in place by allowing the social fabric of a place to transform and bring about new interpretations and meanings.
+
+3.7 Conclusion For every theoretical framework, an underlying paradigm guides the theoretical approach to any research study. In this chapter, I have attempted to describe an interpretive paradigm as the underlying philosophical component driving the symbolic interactionist theory. I have applied symbolic interactionism as the theoretical framework as it fits with my own ideas and thinking associated with the construction of place as a social product by actors who attach meaning to a world of existing meanings (webs of meaning).
+
+Symbolic interactionism identifies how the individual and social group give meaning and interpretation to the social world. Thought and language are the universal keys in expressing our inner thinking and desires to others. The ability to communication enables the labelling and categorisation of objects that then creates the human-based social world. Accordingly, we are born into webs of meaning or a socially constructed world based on
+
+35
+
+symbolic interactionism or the interpretation of known objects, symbols and signs in our social encounters and interactions.
+
+This theoretical explanation outlines in a broad sense the theoretical framework. However, in Chapter Six I mould and refine the theory using the Matangi case study area.
+
+36
+
+Chapter Four
+
+Methodology, Method and Fieldwork
+
+4.1 Introduction This study uses a qualitative methodology that allows the researcher to become part of the qualitative research process via the interview, transcription and analysis process. The qualitative process not only includes observation, communication and participant interaction
+
+(involvement), the process also allows the researcher to tap into the respondent's personal thoughts, values and views.
+
+Bakhtin (1986, 54) suggests the relationship between the researcher and the researched is dynamic and mutual, with the researcher being equally open to the process as the participant. Babbie (1998) also indicates that, by going directly to the social group under study and observing as completely as possible, the researcher can develop a deeper and fuller understanding of the participants and at a broader level the study topic. Consequently, a qualitative enquiry is an indepth investigation, which follows a narrow line of enquiry in allowing a fuller understanding of the social actor, in their social environment.
+
+In this chapter, I introduce the qualitative methodology (used as a tool of enquiry with the Matangi research participants) and explain why I have used this particular approach, and how it relates to the theoretical material described in Chapter Three. I also outline the research method involving indepth interviews. I clarify the interview transcription process and the difficulties associated with transferring spoken dialogue to written text. Discourse analysis completes the methodology chapter; by discussing how the method is used to analyse themes emerging from the body of collected data.
+
+37
+
+4.2 Qualitative Methodology Qualitative research, when linked with the principles of symbolic interactionism, immerses the researcher into real-world situations based around subjective social interaction and interpretation. Stryker (2003, 100) elaborates further by pointing out,
+
+...symbolic interaction is a strong preference for qualitative description and analysis of data gathered in situations amenable to direct observation or intense interviewing of relatively small sets of participants. Qualitative methodologies are generally semi-structured interviews and often revolve around indepth conversation, observation, and/or textual interpretation carried out between the researcher and research
+
+participant(s). Denzin and Lincoln (1998, 24) suggest the researcher is not passive, but is actively and interacting during the research process, prompting participant's responses (via research techniques) to reveal personal explanations of the social world he or she occupies. Sarantakos (1993, 12) argues that qualitative methodologies attempt to address the social world in a narrow but indepth way. DeVaus (2002, 12) also confirms that,
+
+Qualitative methods are often regarded as providing rich data about real life people and situations and able to make sense of behaviour and to understand behaviour within its wider context. Qualitative research is based on human actions, emotions and language. Actions and words allow the researcher to better interpret meanings of social behaviour. The most effective way of gathering this sort of data is through observation, interviews, historic and personal documents ­ often captured via video, audio or textual forms (Maykut and Morehouse 1994).
+
+Lincoln and Guba (1985, 36) identify the term indwelling, which literally means focusing in detail on an actor's situation and taking an empathic position in understanding the actor's (research participant's) point of view. In turn, the researcher achieves observational and conversational interaction with the participant. 38
+
+In a similar approach to indwelling, Lincoln and Guba (1985) also identify a qualitative concept that they have termed human as instrument. This idea simply means that it is the researcher with all of his or her skills, experience and knowledge (including bias), who is the primary source of all data collection and analysis. A human instrument is responsive, adaptable, and holistic in an attempt to make sense of the participant's actions, words and meanings.
+
+Indwelling and human as instrument identifies the researcher as the instrument, gathering information related to the socially constructed world. The researcher, when indwelling, experiences the world in a similar way to the participant. As such, the researcher becomes part of the research process. Because of this, interpretation (the process of receiving and making sense of in coming information) and meaning (the way of explaining this information to others) are symbolic processes as the researcher attempts to interpret meanings from the participant's world. Therefore, qualitative research can never be value free, as the researcher has substantial influence over the research process and may have preconceived ideas which influence his or her interpretation of the research participant's view(s).
+
+Bruner (1986, 62) argues that human intentions are central to understanding an actor in a qualitative study. Qualitative research examines persons as agents who act on intentional states such as beliefs, desires and commitments. The researcher will always be part of the process of understanding and will always place his or her own interpretation on the actors' (participant's) beliefs and actions.
+
+4.3 Ethnographic Enquiry Geertz (1983, 14) suggests the task of ethnographic enquiry is not observation and description, but the inscription (writing) or thick description of the meanings of human action. Kitchin and Tate (2000, 224) point out that ethnographic research seeks to understand the world as it is seen through the eyes of the social participants. Crotty (1998, 52) and Stryker (2003, 100) describe ethnographic enquiry in the spirit of symbolic 39
+
+interactionism that seeks to uncover meanings and perceptions of the research participants, viewing these understandings against the backdrop of the people's overall worldview.
+
+For the purposes of this study, the tools of analysis are based on the qualitative tradition of indepth interviews (see Appendix One and Three). The indepth interview produces a social enquiry between the researcher and research participant in which the former attempts to understand the viewpoint of the latter in the context of his/her lived environment, or for the purposes of this research the case study area of Matangi. The interviews are based on a temporary visit / experience and can only assume a static moment in time or quite literally a snap shot of each participant's view as expressed at this moment.
+
+The ethnographic enquiry is a subjective approach to data collection revealing the `rhythms' and `ruptures' of daily life. The researcher is an observer of culture, an outsider who becomes a temporary insider (of the community or research group). The observer attempts to experience, understand and interpret social interaction of the individual or group. Consequently, group cooperation and trust are essential between the researcher and the researched.
+
+The foundational basis of the ethnographic interview is not only observation but also the indepth conversation between the researcher and the participant. Indepth conversation allows the researcher to delve and probe into the social world of the participant in order to reveal, explain and interpret life experiences that form and create that particular individual's socially constructed world (Sarantakos 1993).
+
+Haggart et al. (2002, 23) identify the participants of an ethnographic enquiry as knowledgeable, situated agents. At the ethnographic core, there is an extended period of participant observation that involves studying what people say and do and how they interact within their social environment. Ethnographic findings are not realities extracted from the
+
+40
+
+field generally but are inter-subjective truths (or world views) negotiated out of the friction of an unfolding interactive process.
+
+The ethnographic enquiry portrays research participants as storytellers, revealing to the researcher personal insights to social encounters and experiences. Bryman (2004), in discussing narrative analysis, suggests that during the interview process people become storytellers by revealing to the researcher a personal and intimate side where inner thoughts, personal triumphs and tragedies are exposed. Bryman also points out, that narrative analysis is an approach, which (when analysing qualitative data) reveals additional meaning to narratives that people apply to past and present events. In this study my aim is not so much a life narrative but a social commentary revealing participants views, values and personal experiences of changes that have and are occurring in the place of Matangi.
+
+Bakhtin (1986, 14) suggests subjectivity, as it applies to qualitative research, points to interaction between researcher and participant within the revealing of a narrative or story. The informal, indepth interview is a methodological tool that the ethnographic researcher utilises to persuade research participants to reveal a personal narrative. The key components in the interview process are broad interview (open ended) questions that direct the conversation, steering the interview through different categories of the research topic, in an attempt to reveal the participant's underlying views and personal experiences. As in this study of the Matangi community, the indepth interview equates to, and forms, a dialogue of the participant's interpretations of their place in the socially constructed world.
+
+The above discussion highlights the ethnographic technique employed as a qualitative tool in undertaking a social enquiry that focuses how a research participant interprets and make sense of his or her world. As a continuation of the methodology component, the next section outlines the interview process.
+
+41
+
+4.4 The Matangi Case Study Williamson (1998, 83) suggests case studies in peri-urban areas expose the tensions relating to land use options, but should also aim to develop an understanding of the processes taking place within the peri-urban environment on a wider level.
+
+I believe Matangi is the ideal case study area for ethnographic research and particularly for data collection, as the location is confined in area and allows greater opportunities for participant access via in-depth interviews. Indepth interviews allow research participants to express their own views and opinions regarding changes taking place in Matangi. The case study therefore includes a complex mix of place-specific social interaction and of intertwined activity patterns that constitute a community of diverse individuals. This is what Crotty (1998, 11) is suggesting when he states,
+
+...an ethnographic enquiry in the spirit of symbolic interactionism seeks to uncover meanings and perceptions on the part of the people participating in the research, viewing these understandings against the backdrop of the people's overall worldview or `culture'. Geographical case studies expose social meanings as place specific. This is an indepth concentrated view of the findings of the people who occupy and interact in place. As such, this case study of Matangi provides a concentrated overview of social interaction of local community
+
+participants, who (through the vehicle of indepth interviews) reveal the structure, functions and meanings of symbolic systems (Jacob 1988). By going directly to the social phenomena under study and observing it as completely as possible, the researcher can develop a deeper
+
+understanding of the subject matter (Babbie 1998).
+
+4.5 Building a Sample Frame Qualitative researchers concerned with complex human phenomena rarely have the opportunity to select what is often referred to in quantitative research as a random sample. Qualitative researchers often settle for approximations of randomness or gaining a deep understanding of phenomena experienced by a selection of identified participants whose 42
+
+knowledge and experiences are held to be representative of the larger population (Babbie 1998). Participants are selected for their range of experience of the phenomena in which the researcher is interested. As such, our working knowledge of the contexts of the individuals and settings leads us to select them for initial inclusion (Longhurst 2003).
+
+Maykut and Morehouse (1994, 156) identify the snowballing technique as maximum variation sampling. Snowball sampling identifies an initial selection of persons whose knowledge and experiences could be representative of the broader groups' knowledge and experiences. Essentially, as we identify, define and refine knowledge gained from participants, we seek new key informants who may amplify some aspect of our enquiry. As such, the snowballing technique is valuable where a key informant recommends another potential informant and he or she in turn recommends another and so on, until all criteria of the sampling categories (representative groups) are satisfied. Although it could be argued this is a quantitative technique, it can also be adapted quite successfully for qualitative uses in devising and shaping the study sample.
+
+Haggart et al. (2002, 25) indicate that there are advantages and disadvantages in snowballing, as participants may move in narrow social circles, suggesting unknown and unwanted social connections that may not necessarily be suitable for the study. However, if precautions are taken to filter out respondents who are inappropriate, the remaining sample group should be an adequate representation of the broader location population.
+
+Fox (1990) identifies key research informants as important to any research study as these people may hold specific historic, cultural or community knowledge of the topic under investigation. As a secondary benefit, Fox also suggests, these same informants may also be in a position to identify other members of a group who may also be in possession of worthwhile or key information.
+
+43
+
+When attempting to engage potential participants in the Matangi case study area, initial meetings with key informants did not lead to other informants, as the participants I had engaged seemed to associate in a narrow circle of the community. However, I was in a fortunate position as my job put me in direct contact with Matangi landowners/ developers. With ready access to a set of relevant records available at my workplace, I selected a list of possible contacts from the client portfolio. These people all lived in Matangi and presented an additional sampling framework of appropriately qualified informants. After contacting those listed, I formed a short-list of people willing to be interviewed. Once the interview process began, the snowball effect from this group of participants was a more positive experience, as other suitable contacts were recommended, particularly people who had lived in the Matangi community for some time.
+
+4.6 Sample Representativeness With regard to representation, sampling in qualitative research is not based on probability theory (unlike a quantitative method) and the size of samples is often too small to reflect all characteristics of the population concerned. Instead, the sampling procedures used are related to the subject or the topic to be explored and are geared towards key informants and local knowledge, as discussed in section 4.5 of this chapter.
+
+Before a sample can be established, Maykut and Morehouse (1994, 12) suggest a collection of variables must be identified in order to create a defined qualitative sample. Place, age, experience and gender are four variables of many that can be used in building initial profiles of suitable research candidates. However, the variables are only guides in the initial phases of bringing together characteristics of the sample.
+
+Longhurst (2003) points out participants in any enquiry should be chosen on the basis of knowledge and experience related to the subject topic. Some of these people are considered key informants because they may hold status in the local community, and may include (but are not limited to) people such as the church minister, school principal and long-term
+
+44
+
+residents. People in organisations such as sports clubs, social clubs, and community groups also fit this criterion.
+
+During the participant selection process, I attended a community meeting in conjunction with the Waikato District Council and the launch of the Draft Matangi Community Plan (Matangi Community Hall 3 August 2005). As a substantial community turn out was anticipated, I took the opportunity to introduce myself to a number of Matangi residents, giving an explanation of my background and of my particular interest in the area. Generally, people seemed to take an interest in the broader objectives of my study, and some even indicated they would be prepared to talk with me about their experiences in the changing Matangi environment.
+
+With the range of potential participants now recognised for the sample, I very quickly realised it was not possible to interview each and everyone of them - mainly to due to time constraints. Consequently the next section outlines how to determine an adequate sample size when limiting factors are a perplexing issue.
+
+4.7 Sample Size As this study is constrained by time, interviewing every potential participant in the case study area would be an impossible task. However, Glaser and Strauss (1976) provide a solution to this dilemma by suggesting the researcher continues to gather information until a saturation point is reached and no new information is forthcoming. Where time is limited, a smaller sample group may contain enough
+
+knowledgeable representatives to satisfy what maybe considered a satisfactory representation of local knowledge.
+
+Taking a similar approach, Haggart, et al. (2002, 25) suggest sample size is identified with the nature of the study, whether it is a general picture of the problem or a more indepth investigation of events (historic or contemporary). In general terms, if a population is heterogeneous (mixed) then a larger sample is desirable, but if the population is considered homogeneous (uniform) a smaller sample group may be appropriate. 45
+
+In the context of this study, as time constraints are an issue, only a small sample of the broader population was selected. The question of variability then needed addressing, by questioning whether the participants' views were representative of the broader area population. My goal during the sample phase was to select participants based on their experiences and knowledge of living in Matangi. To achieve this task I first drew on key informants and their community referrals (snowballing). My second (back up) strategy involved analyzing the Matangi community profile (Census 2001) where I discovered that the Matangi population is relatively homogenous with reference to Census variables including ethnicity, income, and education. For these reasons, I selected a smaller sample group, as I believe the views obtained from the participants would be representative of the broader population base.
+
+To ensure I maintained homogeneity, the sample included a range of participants based on socio-economic factors such as age, gender, length of residency and diversity of living environments including farms, lifestyle blocks and the village location. The objective of such a broad range of participants allows for differing views and opinions in identifying that although a geographic population may seem homogeneous on the surface, differing social perspectives may create tensions and rifts that pull at the very fabric of the social community.
+
+4.8 A Personal Reflection of the Indepth Interview Process Between July and September 2005, I conducted 21 indepth interviews with selected informants in the Matangi area. The interviews took between 60 to 90 minutes each and commenced in the participant's home environment. At the start of each interview, I briefed the participant on the nature of the interview, the interview process and ethical issues surrounding interviews of this nature (see Appendix Two).
+
+When conducting each interview my aim was to emulate, as closely as possible, an open relaxed conversation. In order to achieve the conversational objective, I asked broad (open ended) questions. By asking 46
+
+broader questions, this prompted the participant to reveal their personal experiences as examples to back up their opinions. The few times when discussion and personal opinion lost focus, I subtly guided the participant's conversation back to the original topic, by relating a question to previously discussed topic categories.
+
+If a respondent is to be understood as a person rather than an object, the relationship between the researcher and the "other" person must be a dynamic and mutual relationship. Bakhtin (1986, 56) sees the researcher and participant connected through interview dialogue with one affecting the other. During the interview stage, trust between the researcher and the participant is a vital component. Kitchin and Tate (2000, 10) point out that, from the start, the researcher has to present him or herself as an agent of confidentiality and to guarantee anonymity in order to gain the trust and eventual openness of the participant.
+
+...the indepth interview seeks to understand the world as it is `seen through the eyes `of the participants... to gain understanding of their lives through a genuine trusting relationship... (Kitchin and Tate 2000). The individual participant has his or her own unique point of view, which has to be treated with the utmost respect, as the researcher is an invited and privileged guest in the lives of individuals who become participants. The interview is fundamentally an attempt by the researcher to understand the world as seen through the eyes of the participant. As such, the interview provides a snapshot of the participant's personal perspectives and views that are communicated as personal statements, in an anonymous forum (Babbie 1998).
+
+Before a researcher undertakes any interview, a self awareness of the importance of confidentiality and anonymity must be the utmost consideration in relation to the individual or group under investigation. Valentine (1997, 16) states
+
+47
+
+...the aim of an interview is not to be representative but to understand how individual people experience and make sense of their own lives... When you are thinking about who you want to interview it is important to reflect on who you are and your own identity and how it will shape the interactions you have with the research participant(s). Essentially, the researcher has to show the utmost professionalism in order to gain trust and confidence of the research participant(s).
+
+4.9 Interpreting the Interviews The activity of transcribing `fixes' the `said' of an event that the enquirer observes ­ the meaning , the gist, the thought of a speech event ­ but not the event itself. In so doing, the enquirer rescues the activity of participants' meaning... changing it from a passing event, which exists only in its own moment of occurrence, into an account, which exists in its inscriptions and can be consulted. (Geertz 1973). Transcribing is the process of transforming the spoken word into written text, with a particular emphasis on the detailed dialogue between the participant and researcher. Contained in the dialogue are the forms of conversation, including pauses, silences, background noise, interjections and jumbled multiple exclamations such as um, ah and err which need to be represented in text form to illustrate, as closely as possible, the structured reality of the conversation (Silverman 1997).
+
+In order to capture the essence of each interview, with verbal consent from each participant, I elected to tape-record every interview session. Upon completion of the interview, a transcript of the recording was formatted in order to elaborate on meanings and ideas revealed by the participants. The transcript stage also allowed the participant an opportunity to view, amend or delete information from his or her particular interview.
+
+The following transcript is a brief example of a conversation held during an interview. Note textual conversion of the spoken word in identifying the minute details in a spoken sentence.
+
+48
+
+Researcher: um (...) so I guess the first one is just a general one (...) what does Matangi mean to you, what brought you here, what aspect of Matangi do you like and why have you stayed here ? Participant: definitely ya definitely, it was the fact that it was only ten minutes from town but it was right in the country (...) um ya ah ya good good separation from properties ya. At the time (...) ahhhh we asked if this property was subdividable and they (council) said "No and wouldn't be for ten years..." Without knowing the key interpretations to the symbols in the above text, the above conversation has no real significance. The transcriber's symbols endeavour to interpret real conversation by emphasising details of speech to make the text expressive and realistic. The example above sheds light on three aspects of transcribing: verbal recording; written text of the recording; and accurate representation of the participant's original meanings.
+
+A verbally recorded interview may capture the spoken word but does not illustrate visual or non-verbal language evident during the interview. Examples of non-verbal language include facial expressions, body language and local conditions such as smells, light and mood of the setting, which can change the behaviour of people during an interview. Essentially, the taped interview gives only a partial glimpse into the setting in which the interview took place.
+
+Transcribed recorded interviews dilute the original interview essence, as the researcher transforms the dynamics of the spoken word and converts it into textual form. Original word meanings, expressions and contexts maybe eliminated as textual punctuation and symbols created by the researcher endeavour to interpret and represent a written meaning from the spoken dialogue.
+
+Every effort was made to reflect each participant's personal ideas in the final transcriptions. However, I also know during the transcription process I had to provide my own interpretation of some spoken dialogue, as background noise or muffled recordings meant valuable material was not definitively recorded. All was not lost however, as validating the transcripts 49
+
+with each participant gave me an opportunity to clarify sections of the interview that were not so easily deciphered.
+
+4.10 Discourse Analysis Once the interviews are transcribed into formal text, an analysis of the text begins the dissection of underlying themes from the interview material. Discourse analysis builds profiles of thematic layers. The version of the process used in this study assembled textual utterances of paragraph length (from each respondent) under headings with relevant quotations.
+
+Wetherell (1999, 268) implies discourse analysis focuses on the language people use to describe and discuss certain aspects of their lives. Its aim is to uncover the larger patterning of thought that structures the way language is used and, more specifically, how the meaning of that language are created, reproduced and interpreted by those involved in its use. Wetherell also suggests what we want to do (as discourse analysts) is study the flavour and texture of language. We need to acknowledge how discourse and talk are constitutive and exhibit the power to establish social life and work as crucial practices or functioning elements in social action.
+
+Discourse analysis looks at the subtle ways in which language orders our perceptions and makes things happen and thus shows how language can be used to construct and create social interaction and diverse social worlds. As such, discourse analysis is practical with all forms of spoken interaction including formal, informal, and written text (Potter and Wetherell 1987). Tesch (1990, 115) uses Figure 9 to illustrate research in the characteristics of language.
+
+50
+
+The Characteristics of Language
+
+As Communication
+
+As Culture
+
+Content
+
+Process
+
+Cognitive
+
+Interactive
+
+Content Analysis
+
+Discourse Analysis
+
+Ethnography
+
+Symbolic Interactionism
+
+Figure 9. Analytical interest in the Characteristics of Language
+
+The Figure above illustrates the interactive process of symbolic interactionism when used in conjunction with discourse analysis, and focuses on patterns of communication (with cultural and social alliance) that have functional relevance for people.
+
+Discourse analysis usually is less context imbedded, i.e. it focuses directly on conversation and language interactions. Analysis is done by indexing the whole body of data recorded transcripts, which can then be compared with other transcripts in the same data. The goal is to discover the structure of the language in terms of regularities that can be described in more general terms such as related linkages to opinions, thoughts and beliefs. This then allows the researcher to make statements or conclusions about the findings as patterns or themes start emerging from the spoken language.
+
+Tesch (1990, 121) goes on to suggest, text or transcript segments must be carved out of their context in such a way that they retain meaning, even when they are encountered outside of their context. The first task is to decontextualise or to separate relevant portions of data from their context. This could take the form of cutting and pasting text from transcripts. Recontextualising is the process of placing relevant segments into identified themes. The de-contextualising and re-contextualising processes are 51
+
+described as descriptive and interpretive analysis and are a process under the discourse analysis umbrella, as illustrated in Figure 10. De-contextualising
+Enntujgmv ,v, Dgfdhhj jjkfkl
+
+Re-contextualising THEME: Environment
+ENTINFMD JDJFJKK HFHJFJ
+
+Etr yb
+
+Transcript
+
+Sorting segments of transcript text
+
+Segment of text placed in themes
+
+Figure 10 ­ De-contextualising and re-contextualising themes
+
+As more text is added to each theme, themes are added, deleted or collapsed into one another to expand existing themes or to form whole new themes. The end result is the categorising of the interview transcripts into designated themes that reveal patterns or common participant views in thematic layers. The emerging themes as revealed by this study are presented in Chapter 5.
+
+4.11 Conclusion This chapter discussed the methodology and methods used in conducting this research. In summary, a qualitative framework allows a narrow but tightly focused investigation of the case study area (Matangi). As part of the qualitative method, the indepth interview is the technique employed to reveal resident's views regarding change experienced at Matangi.
+
+At the outset, I knew the qualitative methodology was the technique to inform this study. I had also decided indepth interviews were the most appropriate tool in revealing a narrow but indepth view of resident's opinions. The only area of contention was deciphering the field data into logical arrangements, and discourse analysis proved to be a valuable technique. Discourse analysis allowed the spoken dialogue to be analysed
+
+52
+
+from the interview tapes to uncover common themes. As more text is added to each theme, themes are added, deleted or collapsed.
+
+The methodology component sets the stage for Chapter Five were a descriptive analysis of the lives of Matangi resident's reveals, in their own words, changes affecting Matangi. Chapter Six utilises a complete implementation of the methodology in an interpretive analysis, generating concepts and ideas based on the substantive discussion of Chapter Five, using in the context of Chapter Two and informed by the theoretical material included in Chapter Three .
+
+53
+
+Chapter Five
+
+Description of Results _____________________________________________________
+
+5.1 Introduction This chapter explores change as experienced by the research participants in the case study area of Matangi. My objective is to allow each research participant to express, in his or her own words, thoughts and feelings associated with the changing Matangi environment. I believe the authentic voice speaks first hand of changes experienced in the place, which for the purposes of this study, provides a solid platform for the analysis offered in Chapter Six.
+
+I have arranged the chapter into four sections. Each section reflects the identified themes at the data analysis stage as revealed in Chapter Four. I have described the themes under four broad umbrella headings, as the length of this study would not allow a fuller analysis of all the identified themes. However, in my view, the four themes are broad enough to address the views and issues expressed by each research participant.
+
+The first section interprets and constructs meanings with reference to social relations, including community, socialising patterns and life histories. The second section investigates Matangi's developmental change, particularly land use change associated with relaxed subdivision policy and the changing demographic profile. The third section inquires into environmental issues, principally participants' views on environmental pollution, increased living density and effects linked with changing land use patterns. The fourth section explores the future of Matangi and particularly respondent comments concerning the erosion of traditional values linked with the local community. As the social profile of Matangi changes, new ideals are injected into the area as new comers bring their own unique expectations and values. These expectations, along with other ideals, will be revealed to determine differences in the social groups living in this peri-urban place. 54
+
+5.2 Community I want to discuss the meaning of community, as viewed by the research participants, as I explore whether there is a social community of place in Matangi. Or is community just a geographical location, merely occupied by a group of people who have no affiliation to each other or the very place in which they reside?
+
+Of the participants, nearly three quarters commented they did not associate with Matangi as a community. The basis for this comment is identified in the interviewees' responses, as nearly three quarters of those interviewed openly admitted they were not from Matangi and had relocated from other centres (peri-urban places may be characterised by high turnover of residents).
+
+In contrast, the remaining participants who did recognise a local community were people who had lived in the area for a number of decades. Often these people were born or married into the Matangi area. This group of participants were generally older people who tended to describe a familiarity of place and attachment. These participants could recollect local memories, dates, familiar names and faces. Matangi for this group tended to be remembered as a rural community, and in many cases recollections of the dairy factory, school, local hall and bulk stores were prevalent. For this group, the Matangi community is associated with a time when locals not only worked but also socialised together. Tom an exfarmer and long time resident of Matangi explains,
+
+The hall was once a focal point for the community in this area. We would go to dances and parties there. Often the whole district would turn up; people would be mingling outside because there wasn't enough room. Margaret who was born and raised in Matangi adds,
+
+In the early days, the church and the hall brought people together, and it was very much a community spirit in those days. We had gettogethers in the hall regularly.
+
+55
+
+In contrast, the participants who identify themselves as recent immigrant residents freely admit they do not necessarily identify with a local community. In more than one instance participant comments suggested community was exclusive to long established families and residents of the area. The view was one of a closed community that was only open to those who had `done their time' in the area.
+
+As Hamilton is a short travelling distance from Matangi, and as a majority of the more recent Matangi residents have employment in town, many commented their socialising is done outside of the area. Local community for these people does not play such a big role, as the city adequately fulfils this need. Alice, a working mother of two primary school age children, explains a typical day.
+
+Work and schooling take us out of the area. We don't school the children at Matangi, they go to Cambridge to the pre-school there. My day is spent shuttling them from home to school and back again. Four days a week I'm outside the area during working hours. We don't socialise at all here, we go else where to do that ­ normally to Hamilton or Cambridge. Kevin, a mid thirties professional, explains.
+
+We both work in Hamilton, we have friends and family in the city, so yes, I suppose we spend a great deal of our time in town... Justine, a new comer to Matangi and mother of two children, explains her views on community.
+
+Unless you have little children at the school, community involvement is minimal, if at all. We socialise in town because we work there and many of our friends are there. In contrast to the above responses, a small number of new residents indicated they socialised more within the Matangi area. These people tended to be participants with young children who preferred to socialise in Matangi because the school is a big focus, particularly for those who have children enrolled there. From initial comments, it appears as if these people associate with their common interest group, i.e. other couples with 56
+
+young children. Accordingly, this group indicated they spent most of their social time with couples they had met through the school. Brenda, a young mother, identifies her group of local friends.
+
+Many of our friends live in Matangi. We didn't know anyone when we came here, but having the children at the play centre and the school we have met a fantastic group, they are people from all over the district. I see friends at playcentre and school every week because we are all picking kids up and dropping them off. As a group, we meet at least once a week whether it is to play tennis or doing things with the kids or maybe a few beers on a Saturday afternoon. Another group of participants that I have identified as the "10-acre lifestyler's" are characterised by those people who bought lifestyle blocks in the early to mid 1980s. The cycle for this group has how come full circle, as in the early years a majority of these people were migrants to Matangi, characterised as young couples with young children. Thirty years on, and for those still on 10-acre blocks, there seems to be a different attitude to how they now view Matangi. Many comment that once their children left the school, the community of friends all seemed to drift away, and Matangi for some of these people has become an empty place. However, many commented they stay because of the preferred lifestyle, but made it very clear they no longer associate with whatever community there maybe in Matangi. Bob, a man in his mid fifties, explains his position concerning community.
+
+We did associate with people in the village when the children were young and going to the school, but now we don't associate with anyone much. Once the children left the primary school that was all we had to do with the community, we sort of did our own thing after that. Hilda a middle-aged women who has resided in Matangi for over twenty years, explains community from her perspective.
+
+Once your kids leave the school, the interest in community affairs sort of diminishes, and then you get older and all these young people with kids move into the area. Suddenly you feel like you have nothing in common with these people, but you have to remind yourself these people were us 20 years ago. 57
+
+Another distinctive group of participants are people in their mid 40s to late 50s who are characterised by the fact that they have teenage families or children that have "flown the nest". Generally, these people are affluent professionals seeking the Matangi lifestyle as an escape from pressures of living an urban lifestyle. In many cases, Matangi is an island where privacy is an absolute and an escape from daily stresses created by social and career demands. As Williamson (1998, 82) points out, peri-urban places for these people are places where the drawbridge is lifted to shut off the outside world.
+
+Many research participants who had recently moved to Matangi indicated the area was their first living preference because of its geographical location, the reputation of the area and the short commuting distance to city amenities. One particular participant indicated she knew Matangi was the ideal location but finding the right property proved to be challenging, as she had specific requirements that the property had to meet. Matangi, in her mind, was the area of choice because it had the physical and locational appeal that other peri-urban areas just could not match. Carla, a city professional and mother of three children, identifies the lengths she went through to find the perfect block in Matangi.
+
+In 3 months, we saw 70 properties, only two did I get out of the car. Most of them I didn't touch the brake, I saw the property from the road and kept on going. I specifically wanted privacy and most of them didn't offer that at all. I wanted land where no one could build you out and that's very hard to find ­ most of the properties I saw didn't meet that criteria. Our property was purchased from the road, I didn't see inside the house, we got 10 metres up the driveway and I said to the agent this is fine lets draw up an agreement. The house to me was irrelevant, I was more interested in the location, land and the aspects it offered. The property had mature trees, and the gully meant no one could ever build around us. Other participants indicate the move to Matangi was principally a lifestyle choice to provide a better environment in which to raise children, as the countryside was viewed by many as a better alternative than raising children in the city. In addition, the reputation of the school also influenced the move to Matangi, as smaller class sizes and lower children to teacher 58
+
+ratios became an important factor. Frank explains why he and his wife chose to reside in the Matangi area.
+
+We lived in the city for a while, but I was concerned that the kids weren't getting the sort of lifestyle I did when I was young. I was raised on a farm just outside of Morrinsville and I loved being outside with the animals. So we decided the best thing for the kids was to move to Matangi, because the school has a good reputation and Matangi is a convenient distance to town. Matangi, for many participants, is a place of mixed desires and needs, principally characterised by lifestyle demands. Many describe Matangi as the ideal place for child rearing, a place to escape or a place of convenience. Yet others reminisce about a time when Matangi was a thriving rural community with a feeling of purpose, as agricultural production was the identifying characteristic of the area.
+
+5.3 Development and Matangi Many participants acknowledge developmental change is inevitable; some even embraced the opportunity to further themselves economically via the process of subdivision and development. This is reflected in comments from a group of participants who themselves are recent migrants to Matangi. They indicated that the land had been purchased for the medium-term capital gain, recognising property on the peri-urban fringe as a sought after commodity. Although lifestyle was an important factor, return on the investment was also factored into the decision to buy land in the area.
+
+A notable difference in participant attitude to development was from the group of older long-term residents. The sentiments expressed suggested what was once a rural domain of land production and farm estates has in recent years fragmented, and is now dominated by small unproductive lifestyle blocks, designer houses and an area associated with status and affluence. George an elderly resident sees small blocks as a waste of good land.
+
+59
+
+I guess you have to roll with close to Hamilton, subdivision see over the years such good It's a real shame to see the blocks.
+
+the times, and because we are so has to happen. But it is a shame to dairy land having houses built on it. area convert to small unproductive
+
+Myrtle's comments contain similar sentiments.
+
+...subdivision has had a dramatic effect, we have seen a lot of changes, including the sort of people that come out here. Some move in and some move out and I don't know any of them, unlike the good old days when I knew every neighbour along this road. Comments expressed by the original 10-acre block participants suggest they felt their ideal lifestyle was under threat by increasing demand for smaller blocks. Essentially, the very reason for residing in Matangi is being eroded by the encroaching urban elements, as noise, traffic and higher living density are changing the country charm of Matangi.
+
+Linda sees subdivision and development as a major change to the region.
+
+We bought our 10-acres out here in the mid 1980s, back then we had rural views and our neighbours were far enough away that we didn't have to worry about them. But now we have houses and people all around us. We must be about the last 10-acre block on this road because all the other blocks have since been cut up into these small sections. Hilda explains the effects of subdivision. We wouldn't want a lot of small blocks around us; I wouldn't want the feeling of living in town. But if subdivision carries on the way it is, it will be the ruin of the area. Steve reiterates these sentiments.
+
+When we moved here 25 years ago, we had a view across the gully of trees and paddocks. Over the last 8 years, there must be four or five houses now looking back at us across the gully - its all been subdivided and developed.
+
+60
+
+A majority of participants who have recently moved to the area and bought small rural residential blocks tend to be from urban backgrounds. They often have fulltime employment in the city, with social and recreational connections to the city, but choose to reside in the peri-urban fringe. These people may be characterised into two distinct groups: The first are couples with young families, who tend to relocate to Matangi for the benefits of raising a family, stipulating a country lifestyle is a better alternative for child rearing. The second group is characterised by middleaged people. This group tends to view Matangi as an escape from daily stresses linked with work and social expectations. Comments from this group indicate Matangi offers tranquillity and a sense of privacy.
+
+Allan explains why he and his wife were drawn to Matangi. We lived and worked in the city most of our lives. We raised our family there and most of our friends and family are there. But you get to an age where you just want to be out of the hustle and bustle and away from the city. I think Matangi is a place where you can unwind and be yourself, and you're guaranteed privacy to do your own thing 5.4 The Local Environment Many participants expressed concern with the environmental
+
+consequences of increasing living density, as land is consumed for rural residential housing development. In just about every case, participants indicated they reside in Matangi for the lifestyle characteristic of open space, privacy and ample housing separation. The general feeling of participants revealed if increased development and higher living densities continue, the desired lifestyle will gradually be eroded by the slow creep of urbanisation.
+
+However, many participants at the same moment expressed their concern for lack of local infrastructure, and particularly domestic wastewater disposal. Currently the Matangi area has no council sewerage reticulation, as all waste is dealt with via septic tanks and effluent field soakage. With a growing Matangi population, many participants begged the question - will ground soakage of effluent be satisfactory in the medium to long term?
+
+61
+
+This fear is justified, as many participants in my research sample revealed they draw water from underground aquifers.
+
+Sam a long time resident in Matangi points out,
+
+...with the increase in population because of subdivision, I wonder about the increase loading on the Matangi area, because they are infilling Matangi now, where as before there was one dwelling on 10-acres. In this sandy soil effluent disposal wasn't a problem, but I think with more houses long-term that may become a problem with septic outflow into the water table. Stella also comments,
+
+...the council have told us our road where we live can cater for another 100 lifestyle blocks, at the moment we have 60 blocks along the road. In effect, the road will have 160 additional blocks, times that by two parents and kids and many people are yet to move into the area. It frightens me to think how much waste from septic tanks will be pumped into the ground, because many people still use a ground bore for water supply. Additional issues associated with the need for infrastructure improvement are concerns surrounding increased road traffic, safety and excessive noise. It appears that for those that reside near Matangi and Tauwhare Roads, road noise has become a major topic of controversy. This was a point of contention at the public meeting for the Draft Community Plan held on 3 August 2005, where countless residents voiced their concerns over development, traffic, and infrastructure issues. (For a historic depiction of a changing Matangi, see Appendix Four for a series of land survey plans illustrating the transforming place of Poplar Lane ­ Matangi)
+
+Many suggested the quiet amenity values for which they moved to Matangi were being challenged with increased living density, traffic noise and congestion. Ideas put forward by council to help alleviate the roading problem identified the reduction of speed limits from 80km/h to 60km/h, road reducing barriers and clearer speed signage.
+
+62
+
+Other residents identified the increase of traffic and vehicle speed with the increase of small block subdivision, acknowledging the trend was not going away and there was now a good opportunity to address roading issues before they further escalate. Some even suggested that subdivision and development should be slowed so the region could investigate mechanisms to deal with contentious issues.
+
+A middle aged woman voiced her concerns by pointing out,
+
+Since we've been here I have noticed an increase of noisy traffic on the road, although it surprises me how many people buy here and put their house almost on the road. Maybe they want to show it off or they are townies who are used to the noise. A younger woman also asserted her position, stating the following;
+
+There appears to be more traffic on the roads and with more traffic comes an increase in road noise and sooner or later we will have some real problems out this way. In my opinion it's the continual subdivision of lifestyle blocks that's the cause. With similar concerns, an elderly man seems quite perturbed over the traffic issue.
+
+The traffic is getting worse out here I wake up at 6:00a.m in the morning to cars racing up Matangi Road, they have no respect for those who are trying to sleep and they seem to use the road as a speedway. When I approached the various people who had voiced their opinions, it became very apparent that many had only lived in the area for a short period of time. I could not but help thinking when these people relocated to Matangi in search of the desired lifestyle they too contributed to the increased living density and vehicle noise, the very topics of contention they had been protesting over during the meeting.
+
+63
+
+5.5 Dramatic Change in Matangi A series of interview questions asked participants their views regarding the most dramatic changes experienced in Matangi. Generally, long-term residents felt developmental change associated with the original 10-acre subdivision twenty-five years ago was the turning point for decline of the local community.
+
+Eva, an elderly woman of long standing in the community, sheds light on a little local history.
+
+During the war, my father ran a lot of sports events. We had them here at Matangi, Tauwhare and Eureka and it was fund raising for the war effort. It was very popular, people came from all over the place. But times have changed now, we are too close to Hamilton and there's too many other activities in town. The old social events have just died out as people have lost interest. Recently we have been worried about the Matangi indoor bowling club because people keep dying and there's no one to replace them. Tom also adds:
+
+Fifty years ago this area was all dairy farms, full of dairy farmers. Now, all these lifestyle blocks have taken over the place and with that, all these townies have moved here. Most of them are professional types who build large houses and gardens; it just seems a waste of good land. George explains:
+
+I'm an ex-farmer, I don't like to see good land being swallowed up and become wasted for small blocks, all they do is mow their acreage. There's no grazing or production on it. Before the land was subdivided, people were making a living off the land, now its costing these people money because they have to run machinery to mow the grass ­ that's just ridiculous. An interesting comparison comes in the form of comments from relatively recent migrants to Matangi, as these people tend to move into the area with an expectation of living in the country, and view Matangi as an island or refuge from the urban aspects of city life. These people jealously guard the environment they live in, and point out they would not want to see 64
+
+additional development and closer living densities that may jeopardise their lifestyle arrangement.
+
+Carla asserts:
+
+I wouldn't want to see this area put into 1 acre blocks, I think 1 acre blocks don't look right they are just so small. It would become like a suburb in town and that's not why we moved here. Stella also provides similar views, suggesting:
+
+We wouldn't want a lot of small blocks around us, they are just too close to each other, there's no privacy, you may as well be in the city. Allan explains:
+
+We moved here to get away from close living in Hamilton, I really wouldn't want to live in that sort of environment again. But there seems to be more houses going up out here all the time now. For many of the newer participants the move into the peri-urban area was viewed as a change of lifestyle. These people tend to think that once they secure their spot in the countryside things become static. However, as identified in the environmental section of this chapter, with continual increases in development and as people move into the area the newer Matangi residents feel their peri-urban lifestyle is under threat from unwanted urban influences.
+
+In many respects, there are entrenched views that heighten the contrasts between the long and sort term residents of Matangi. The long-term residents recollect when the area had a rural influence, associated with a like minded agricultural community. Accordingly, this group reject change and feel outside influence is eroding away their values and local traditions. In a similar light, the newer residents tend not to want the encroachment of urban densities that erode away their valued lifestyle. However, many also view the land as a commodity that in the medium term may bring profitable
+
+65
+
+financial return via resale or subdivision opportunities. (See Appendix 5 for a contemporary Matangi)
+
+5.6 Conclusion Distinct groups emerge as three broad views crystallise out of the mass of comments provided by people who experience living in Matangi. For those participants who have resided in the area for some considerable time, memories of a time when the community revolved around rural production are prevalent; the dairy factory, primary school, and social events. This stance forms what is a characterised as a traditionalist / agricultural productivist community view.
+
+However, the rural character of Matangi changed when urban dwellers migrated to the countryside in search of a lifestyle change. When opportunity arose, via the subdivision of 10-acre blocks, a new type of people moved into the area, bringing with them urban ideas and influence and a change in direction for an area that was traditionally based on rural production. This is typical of a progressive point of view in that old values are replaced with new ideals.
+
+The Matangi location may transform into a peri-urban fringe on the outskirt of an expanding city centre (Hamilton). As technology and efficiency of travel has improved, so too have the type of people moving to the periurban fringe. Couples with young children recognise the superior lifestyle opportunities the peri-urban location offers when raising a young family. In contrast, professional middle-aged couples welcome their newfound country lifestyle. Matangi for these people becomes an island of escape away from urban stresses, and a place where the drawbridge is lifted in an attempt to sever ties with the outside world.
+
+66
+
+Chapter Six
+
+Interpretation and Discussion
+
+6.1 Introduction In previous chapters, I have discussed the importance of `situating' Matangi with reference to the contextual, theoretical and methodological approaches used in this study. This discussion precedes the substantive survey work I report in Chapter Five where Matangi is `revealed' through the research participants' experiences of this place. In this chapter, I wish to correlate themes from the earlier chapters to provide an interpretive final discussion. Using the theoretical framework in Chapter Two, the
+
+findings and information from the methodological framework of Chapter Four, and participants' comments in Chapter Five, I present a discussion that reveals the complexity of views on the changing Matangi environment.
+
+The first area of investigation explores the changes that have occurred due to outside political influences, particularly those changes associated with economic restructuring of the mid 1980s. I explore the survey respondents' perception of change. I reveal not only the responses of those research participants who have lived in Matangi for many years, but also the views of residents who are considered recent migrants to the periurban place. Many respondents accept that change is continual, and Matangi has become a place of transience, as people move in or out depending on their particular needs and life stage.
+
+In a second thematic discussion, I explore the meaning of community, and evaluate the dynamics of the Matangi community. My aim is to determine how Matangi residents perceive and react to the notion of community, what sort of people are considered to belong in Matangi and why some people choose not to associate with others in the community environment.
+
+67
+
+The last section investigates the future prospects of Matangi, and particularly the pressure for further development and land fragmentation. With increasing demand for land and relaxation of local authority development policies, the possibility of an urban transformation is a real likelihood for places like Matangi. The growing demand for urban amenities and infrastructure becomes an increasing matter of debate from migrants to Matangi who are used to such infrastructure services.
+
+6.2 Past and Present Change Cronon (1991, 121) writes about the erosion of place by gradual global flows of people and ideas that lead to place replication. He points to the homogenisation of locations around the world, as each place suddenly has the same fast food restaurants, shopping malls and suburban design. Places start to look, feel and smell the same. Cronin suggests these are spaces that seem detached from the local environment and tell us nothing about the particular locality or its history. The meaning that provides the sense of attachment to place has been radically thinned out. Places become generic copies, as popular logos, locations commercialism with the and same
+
+developmental
+
+concepts
+
+reproduce
+
+characteristics. As a result, the uniqueness of the original location is eroded.
+
+Homogenisation of place and the accessibility to urban centres are issues associated with a "supa-community", where external pressures linked with political decision-making, economic restructuring and social demands are seen to transform one place into a generic copy of hundreds of other places. National and international influences at the supra community level are forces often outside the control of local communities.
+
+Economic restructuring of the mid 1980s is a good example of an outside influence that dramatically transformed rural industry and particularly periurban places such as Matangi (Joseph 1999). However, change has been occurring in Matangi for sometime, and I was interested to explore whether the people of this place accept these changes in any way that might be considered as distinctive. During the interview stage, I pursued 68
+
+this idea by prompting research respondents for their views. I was particularly interested in responses from the longer-term residents.
+
+In nearly all cases, the long-term participants strongly expressed their resistance to change. In their comments, the general feeling was that change was not welcomed in the area, as internal change for this group meant a move away from familiarity and in some respects the feeling of loss of control over local issues. Chapter Five reveals many older participants connected with a Matangi of forty years earlier. They felt comfortable in a place where land-based production was the common thread. It was a place where community members were known on a first name basis and community affairs were decided as a collective effort.
+
+The older participants seemed emotional about the changes that had taken place over the years. One particular respondent expressed his disbelief in the moves council had made in allowing uncontrolled subdivision to occur, which in turn made him "bloody" angry to think that urban sprawl is allowed to spread so rampantly and uncontrolled in the Matangi location. This was not the only dismayed comment, as others expressed their heart-felt emotion in the loss of the original community and place.
+
+Unlike urban places where change is better absorbed, rural Matangi is a place where influences from the outside (i.e. political and demographic) can accelerate the experience of change as new landscapes emerge in response to social and economic reforms. However, the traces of the old community are still evident, as no matter how many social or economic layers are added, the residual effects are still faintly visible as a historical reminder or palimpsest.
+
+Perhaps surprisingly some of those who could be described as new comers are also dubious about further change, particularly the further increases in rural population densities through further subdivision of land around Matangi. Some expressed their concern about the continual changes that have occurred during their short time in Matangi. Many of 69
+
+these people pointed out that they relocated to Matangi from the urban centre, seeking a country retreat in the belief that the sought-after lifestyle would secure a preferred environment in which to raise families and a welcome change from urban living. However, with the continuation of subdivision and development, many of these people now realise that their perception of a country escape is gradually eroding, and is being replaced by a more urbanised environment, of which they were desperately trying to escape.
+
+Comments from research respondents suggest that the sorts of changes they have observed reflect problems they previously experienced in the city environment. Higher living densities, cumulative traffic noise and the problems associated with pollution have become an issue for many residents of Matangi over the last 10 years (Community Draft Plan 2005).
+
+Another significant change in Matangi over the last decade has been the purchase of land as an investment opportunity. The outside demand for prime Matangi land has meant that blocks are bought and sold on that premise, as the higher the demand, the more rewarding the resale opportunity. The comments of respondents reported in Chapter Five reflect a complete inversion of the views held by residents with experience of Matangi landowners half a century ago. The farming community at that time regarded land as an economic mainstay. Respondents reported that land was revered and often retained in family circles, passing from one generation to the next.
+
+In contemporary Matangi, land is a commodity to be bought and sold. As land is further developed people come and go, and Matangi becomes a location of transience as people settle in for the short to medium term to fulfil needs associated with raising a family, lifestyle change or capital gain. Comments from one research participant indicated that although the lifestyle is all important, you soon realise the financial investment and the potential reward at resale is also a huge consideration when buying land in the area.
+
+70
+
+I find resistance to change rather contradictory. Was it not decisions made thirty years ago by Matangi landowners to subdivide 10-acre blocks from farm units? Were these decisions then instrumental in setting the developmental ball rolling? Was it not inevitable that Matangi would become a sought after location due to its close proximity to the city of Hamilton? Was it not also the case that these same people took the opportunity to subdivide and fragment productive agricultural land into small lifestyle blocks for some sort of financial reward? In my view, many respondents expressing concern about change fail to accept that it was their (historic) community that initiated the process. They have short memories when it comes to identify the possible causes and effects of change in this place.
+
+Yet in a contemporary time, newcomers to Matangi chose the location for their own reasons, lifestyle choice being at the fore. They expect the environment to stay static, and object when further developments encroach on their corner of what they purchased as a rural paradise. Nonetheless, is it not these same people who also take the opportunity to subdivide and develop their land in pursuit of a financial return? As one interview respondent points out,
+
+In peri-urban places like Matangi you almost have a guaranteed buyer because people are almost scrambling over themselves to live in these areas. As I listened to each research participant describe their issues and concerns, place memories and life narratives, I realised Matangi is an evolving location, particularly for those who have lived in the area for a lengthy time. The changes experienced by these people reflect external social, political and economic influences and trends.
+
+As already mentioned, the group that particularly interested me were the long-term residents. This group tended to have experienced the broadest concept of change in local place, and (for me) this group captured my imagination in creating a mental picture of an alternative Matangi before the sealed roads, architecturally designed houses and lifestyle blocks. 71
+
+Somehow, the life these people described seemed simpler and less complicated when compared to a contemporary Matangi setting. It
+
+became very apparent to me that a large majority of residents in Matangi did not accept change easily. As noted, the group of longer-term residents who have experienced the shifting sands of time in Matangi are those who seem to be most resistant to place change, particularly as these people cling desperately to place traditions, memories and values created forty years earlier.
+
+It would seem change affects people across the demographic board. Much to my surprise, even those participants who saw themselves as medium term residents were resistant to their environment changing. Yet it could be argued, they have contributed to local change by the construction of their architecturally designed house and further fragmentation of land for financial purposes.
+
+6.3 Impressions of Community Cohen (1982, 93) identifies the social components of life that connect people to community. Cohen suggests that community is not simply based on a geographical location, as `social culture' is the real connector. `Social culture' links people through family ties, local histories and long genealogical association to a location. However, I believe family links are not the only factors that determine community structure; skills, experience and personal traits also draw groups of people together, as can be readily observed in areas such as Matangi where like minded people associate and often forge ties to the one location. Interview comments from longestablished residents express this sentiment, as many recollect a historic Matangi where agricultural production was at the heart of the local community.
+
+Farming, forty years ago, was the backbone of the Matangi economy, influencing the establishment of the dairy factory, a primary school and various service stores. These same activities formed the nucleus of the village in giving an identity to the location. The common thread for the community was the fact that many families in the region were from farming 72
+
+backgrounds, suggesting a commonality of similar skills and interests. Reflecting on the comments reported in Chapter Five, older respondents' perception indicates that Matangi was viewed as a self-sufficient rural centre, where the community banded together as an agricultural identity.
+
+Evidence of this is reported by long established participants who give detailed accounts of various community committees that were often formed by locals charged with the responsibility of organising social outings, sporting events and recreational activities. The social club (located in the dairy factory) proved to also be a popular domain for local socialising. In addition, places like the billiards and sports club were also viewed as popular local venues.
+
+A common theme that emerges from respondent comments suggests that forty years ago, Matangi was its own centre of attraction; people had no need to venture outside the local community for recreational or social interests, as those interests were at the core of the local community. Matangi was its own rural bubble, based on agriculture and agricultural production. The community at that time saw themselves as separate from the city domain and as an independent locality that needed no intervention from outside influence. Comments in Chapter Five reveal many of the older research respondents consider there was a certain pride in being local and belonging to the community.
+
+However, in more contemporary times, the same long-term residents tend to view Matangi as a place of transience and individualisation. Many complain that the sort of people who are now settling in the area have a tendency to stay for such short periods of time that community relations are not formed. This is because the newer residents may live in Matangi but work and engage in social interests outside of the area. These people tend not to have the same interests as the original community; as they accept and hold ideals and views generated externally to the original community.
+
+73
+
+Research respondents representative of the 10-acre lifestyle block owners, who settled the Matangi location 20 years earlier, claim that their association to the Matangi community was only through the school, and more particularly involvement with the school's parent teacher association (PTA). In more than one instance, participants indicated that once their children had left the primary school, many personal friendships dissolved as families moved from the area.
+
+However, with further questioning I discovered that those who did choose to remain in Matangi tend to spend much of their time outside of the area, often in fulltime employment and recreational or social pursuits. Comments in Chapter Five indicate that once children finished their schooling in Matangi, local ties to the community tend to disperse. This occurs particularly when children reach secondary school level, where schooling is undertaken in Hamilton. Respondents reported that weekends were increasingly consumed with children's sporting and social activities which took place outside of the Matangi community.
+
+Another recent Matangi group, who I call "new comers", are characterised by the fact that many have migrated from the urban centre in search of the elusive country lifestyle. The peri-urban location suits the needs of this group, as although they believe they are living the country dream, the city centre is but a short travelling distance away. During the interviews, it became apparent that although these people seek the rural lifestyle, they still find comfort in knowing urban amenities are in close proximity.
+
+As the interview data from Chapter Five became clearer, I divided the new comers into two distinct groups: The first group identified couples with young children. Both parents tend to be career orientated, retaining employment in the city centre. Most participants in this category indicated they would not go out of their way to be involved in the local community. However, the exception to this view is linked with the school, as respondents with young children indicated one of the attractions of Matangi is the local school, as the school has a good reputation and the
+
+74
+
+teacher to child ratio is especially favourable when compared to city equivalents.
+
+Many participants in the new comer group emphasised that they did not associate with the local community, as most of their social connections and recreational interests occurred away from Matangi. There was also a feeling among these people that the community was only for those who had lived a considerable number of years in the locality, and was typically associated with established families and long allied residents.
+
+However, a smaller group of new comer participants (couples with young children) indicated that they had formed lasting friendships with other parents of school age children in the area, and regularly socialised within the district. It seems that the group was exclusive to those who had children at the school only, as there appeared to be no association with the local community beyond activities of the school. This is reflected in comments from one participant, who points out,
+
+When I'm 60 years old and feel the urge to play indoor bowls maybe then I will get more involved in community matters. The second group of middle-aged new comers tends to view Matangi as an `island utopia', in that the `drawbridge' is lifted in order to sever ties with the outside world (Williamson 1998). The participants in this group are characterised by the fact that their children had `flown the nest'; they have established city careers, accumulated equity and status and, as a result, are `secure' in almost any location.
+
+The middle-aged participants indicated that they tended not to concern themselves with community affairs. Matangi, for this group is viewed as a place of escape. Because of their connection with the city, these people preferred to socialise outside of Matangi, many indicating they had no real need or use for social relations within the local district. I got the distinct impression that this group of respondents were after one thing from Matangi and that was reclusive and complete privacy away from daily stresses associated with work and community affairs. 75
+
+An interesting distinction emerges, as those residents who have long established links to Matangi generally identify community with the familiarity of an insider who has historic and personal experience of the place and people in the place. Relph (1976, 236) makes a similar point, by suggesting the insider to place has an `authenticity' in place as though they have a genuine and sincere attitude to place, while outsiders to a place or community may feel alienated and become excluded, never identifying with the uniqueness of a place or its community. I believe outsiders settling in Matangi have no appreciation or knowledge of place experience and history. As such, these people may feel alienated because they have no feeling of belonging, hence they may not socialise within the local community and only socialise with people of similar interests. The actions of new comers is then viewed by long established residents as anti-social (Scott et al. 1998).
+
+Comments reported in Chapter Five by long established residents regarding eroding traditions is in my opinion a last ditch effort to retain effect and control over valued histories and social connections as these long-standing residents jealously guard the importance of the local community. They resist newer external influences, which they view as eroding long-held place and communal familiarity. Although place change for many of these people has been occurring for the last thirty years, it has only been in the last eight to ten years that rapid developmental changes are now emerging as a clear threat to the historic community structure of Matangi.
+
+It appears Matangi is split by two sets of opinions. The established residents resist the ideals of the new comers in the belief that these ideals will erode long held local values of the community. However, the new comers to Matangi tend to view the community as an assembly of established residents, they tend to report there is no accessible commonality or interest with the local community and as a result, do not associate themselves with communal affairs.
+
+76
+
+Another factor that emerges from Chapter Five may explain why the community identification in Matangi is diminishing. Several comments from long-term participants reveal an issue that I think has had a dramatic effect on community life. Transport technology, most notably access to private (personal as well as family) vehicles has made travel more efficient from Matangi to outside destinations, particularly to and from Hamilton City. With sealed roads and private motor vehicles, personal mobility has opened up the peri-urban area for many residents. People are able to commute to employment and socialise outside of the area. The attraction for many new comers to the location is based on the fact that travel time is short to places of work or schools. Given that two major highways (State Highways 1 and 26) are easily accessible from Matangi, other destinations are also well within commuting distance.
+
+With accessibility to other interests outside of Matangi, people tend to view the area as their place of residence but not their place of recreation or the social mainstay. The community that tends to be aligned with longer-term residents starts to diminish as interest from newer residents is diverted to social and recreational activities outside the local village centre of Matangi.
+
+6.4 The Future for Matangi Heimlich and Anderson (2001, 125) identify two key components in urban fringe and rural growth changes. These changes include population growth and household formation,
+
+...economic growth increases income and wealth, and preferences for housing and lifestyles is enabled with new transportation and communication technologies. Increased income and wealth spurs new housing development and ultimately requires additional land on the urban fringe to accommodate growth. Comments in Chapter Five from longer-term residents hit upon the fact that improvements in transport and communication technologies have made the urban fringe location of Matangi more attractive and accessible to potential landowners and developers.
+
+77
+
+The introduction of the internet, mobile phone networking and computer technology have enabled and empowered people to choose where they live and do business. As a result, technology is gradually severing physical ties to the core physical location of communities. Heimlich and Anderson (2001) make this point with reference to urban communities. In my view, it is just as relevant to peri-urban communities like Matangi.
+
+Due to advancement in technology and the flexibility in where people choose to do business, in the intermediate future Matangi may resemble a suburb of Hamilton City as the urban area is very accessible, but the preference for a peri-urban lifestyle is also a strong attraction. Increasing population density will create issues for the provision of infrastructure and environmental costs, but the capital value per hectare will probably be similar to urban settlements.
+
+The appreciation of a potential urban future was evident among some long established research respondents who have experienced first hand local change. They recognised the history of 10-acre block subdivision, economic restructuring of the mid 1980s and more recently the fragmentation of 10-acre blocks into small rural residential lifestyle allotments. Many older participants indicated with advancing
+
+telecommunication technology and improving roading networks Matangi is becoming a satellite suburb of Hamilton City.
+
+These fears may not necessarily be unfounded, as the proposed Waikato Expressway, bypassing Hamilton City on the eastern flank will be completed by 2050. As part of this proposal, approximately 900ha of Puketaha and Ruakura (rural fringe locations on the city boundary) will be incorporated within Hamilton City. The Hamilton City and Waikato District councils have indicated the long-term plan for these areas will consist mainly of residential development interlaced with commercial and recreational uses (Hamilton City Council and Waikato District Council 2004).
+
+78
+
+To place Matangi in perspective, the southern fringe of the 900ha area to be brought into the Hamilton City is a mere 6 kilometres distance to the intersection of State Highway 26 (S.H.26) and Matangi Road. In addition, the proposed Waikato Expressway intersects Matangi Road, linking it to State Highway 1 (S.H.1) on the south-western fringe. A land catchment of approximately 200ha is sandwiched between the proposed expressway, the city boundary and S.H.1. As part of the eastern bypass project, Hamilton City Council has indicated the 200ha area of Matangi (after intense public consultation) could be brought into the boundary of Hamilton City (see Figure 11).
+
+The above comes as no surprise, as the proposed 2006-2016 Long Term Hamilton City Plan provides a blue print for the next ten years of city growth. The plan projects growth of 11,000 new homes and a population increase of over 25,000 people. As part of the growth strategy, land earmarked for future growth will affect Matangi and other fringe locations, as the pressure for additional land should match the rate at which the city expands.
+
+During the interviews, I did find an interesting association between those who had lived in the area for some time and those new to the area. It seems many want their slice of Matangi to stay static. In contrast to longer term residents, the newer residents felt that if development continues, the view was one of well we are only here for a while, if it gets too much, we can move on.
+
+Of the older residents, one or two stood out from the majority when they indicated that they were happy to see the area cater for more housing and people. As an elderly participant pointed out, with more people in the area this will ensure the survival of local businesses and guarantee a secure future for the school. In many respects, these people felt with more people living in Matangi, the better chances of a supportive community, particularly as many local children attend the school where communal events and relations seem to be forged.
+
+79
+
+Figure 11 - Proposed boundary expansion of Hamilton City
+
+80
+
+6.5 Conclusion In this chapter, I have attempted to reveal the process of change experienced in Matangi. I have drawn upon interview material in Chapter Five to explores the inner workings of the distinctive groups within Matangi, and to reveal a better understanding of how place changes have shaped this peri-urban location. During the process, a history has unfolded revealing Matangi as a place that has undergone numerous developmental, social and economic transformations, especially over the last 30 year.
+
+Matangi is a place that is constantly evolving and transforming, and the respondents in the community that I interviewed provide testimony to these changes. Memory serves many long-term residents well in
+
+recollecting a time when the common thread that bound the community together was land-based agricultural production. However, the most dramatic change has been in land use patterns resulting in small rural residential lifestyle blocks, which now dominate the landscape. With further subdivision, there is a general feeling among many residents that Matangi will eventually resemble an urban environment, as closer living densities and infrastructure opens the floodgates for increased
+
+development opportunities.
+
+Community connectedness is a diminishing phenomenon in Matangi and with future relaxation of subdivision policies and infrastructural works; continual change in the community is inevitable. Change will manifest itself as influences from the urban environment, as new trends and resident needs slowly encroach on the old values that once bound a rural community together.
+
+81
+
+Chapter Seven
+
+Research Conclusion
+
+7.1 Introduction For my analysis of peri-urban places, I chose a case study of Matangi as a representative location. During the last thirty years, Matangi has experienced an over-whelming pressure for change, and the land-based economy is now a secondary focus of community activity. Pressure has come particularly from property developers and landowners who have taken advantage of relaxed local authority subdivision policy. The relaxation of developmental policy has advantaged many, particularly those with the expectation of a significant financial return, while simultaneously satisfying the demand of those seeking a country lifestyle close to urban amenities. Longer-term residents have not always been sympathetic to such change. The changes have resulted in tensions between local groups, particularly from long established residents who recollect a time when Matangi was a rural based community, where people thought, talked and practised farming.
+
+With local authority policy changes, new groups of people have seized upon the opportunity of living a Matangi lifestyle. Many of these `new comers' tend to migrate from urban centres - particularly from Hamilton City. As my interviews reveal, connections with city life are not necessarily severed, as urban ideals and values are transferred to their new place of residence (Matangi). Consequently, longer-term residents view some aspects of this invasion as a threat to long-standing community values and established traditions.
+
+In an attempt to understand the tensions change creates between social groups in Matangi, I spent a great deal of time defining the research questions that would generate useful information for a series of interviews in Matangi. Through my work on defining the study objectives, I gained a clearer understanding as to the scope and limitations of my research topic. 82
+
+The literature review reported in Chapter Four also assisted in providing a fuller appreciation of the nature of research work previously undertaken in peri-urban and rural communities.
+
+Armed with a clearer understanding of the research field and the direction I was to follow during the course of this study, I anchored this work in one of the established traditions of geographical research. As revealed in Chapter Three I used the concept symbolic interactionism to frame my approach and devised an interview method to generate the most appropriate data for my study. From the outset, I decided a qualitative methodology would suit the contextual and theoretical framework. As discussed in Chapter Four the chosen methodology allows a narrow but in-depth enquiry of the topic area, and more particularly a deeper understanding of the people and the internal tensions experienced in Matangi.
+
+The technique for the initial collection of data was based around individual in-depth interviews undertaken with a select group of research participants, who (in my opinion) more than adequately represented the broader group of Matangi residents. The data gathered from each research participant formed the basis of my analysis and my original contribution to research on the peri-urban environment.
+
+The remainder of this chapter revisits the research questions outlined in Chapter One. I then highlight the limitations of the study and particularly the constraints associated with putting together a study of this nature. The final section reveals the implications of the research and determines how this study contributes to the existing body of knowledge.
+
+7.2 Revisiting the Research Questions In Chapter One, I outlined the research topic and several key questions that set the foundation for the rest of this study. The research questions broadly asked what mechanisms have influenced change in the peri-urban place of Matangi? Do identifiable tensions exist between the differing social groups in Matangi because of the changing environment? Is change 83
+
+a constant for the location and if so what are the future ramifications of continual change?
+
+In response to mechanisms of change, the literature review in Chapter Three reveals that Matangi is no different from any other peri-urban place in that social and economic pressure for change is a constant factor, which heightens tensions between various social groups residing in the location. This happens as established traditions slowly erode and become replaced by new ideals and fashionable trends brought in by people who have had no previous association with the original community or place.
+
+During the course of this study, it became obvious that the key mechanism for change are shifting land use patterns, communication and transport improvements. Subsequently, confirmation in Chapter Five validated the view that many participants' considered land use and technology change as the foremost cause of the locations transformation. Many attributed land use change to the relaxation of local authority subdivision policy, particularly regarding subdivision controls thus allowing the creation of lifestyle blocks, and more recently smaller rural residential allotments.
+
+If change is linked with changing land use patterns, how does the mechanism of change reflect upon tensions between the differing social groups in Matangi? Findings in Chapter Five indicate a residential divide, as long-term residents resist the changing environment and those outsiders (recent immigrants) who bring to Matangi changes associated with development and small block ownership.
+
+Longer-term residents tend to hold on to and reminisce about the historic rural based Matangi community, and particularly traditions and values linked with that time. In contrast, the new comers tend to be unaware or do not care for past local history, and instead bringing their own unique ideals and values into the location. In turn older residents view the imposing ideals of those characterised as recent arrivals as a threat to established traditions. Accordingly, chapter Five reveals that older residents tend to
+
+84
+
+feel a loss of community and particularly control as the past slips away and is replaced with a globalised contemporary environment.
+
+As change is in a continual state of flux, many participants voiced their concern with future Matangi development. What surprised me the most were concerns regarding change that were not only shared by the longerterm residents but also a smaller number of new comers to the area.
+
+It appears that a majority of people move to Matangi with the expectation that the place will stay static. However, all too quickly they realise that the future direction of Matangi may be in jeopardy, as the open views and rustic charm are soon obscured by housing developments, landscaped (manicured) gardens and an over whelming feeling of development claustrophobia. Tensions surface, as others (outsiders) of a similar mindset who also demand the same lifestyle benefits thwart the original ideals of the existing residents (former new comers). Soon enough more development and housing change the landscape and with it the very ideals of the new comers who were originally attracted to Matangi for its charm and rustic simplicity.
+
+Findings in Chapter Five indicate participants believe Matangi will eventually resemble a suburbanised place. Their reasoning is based on changes with local authority policy, which originally allowed the fragmentation of productive farmland into 10-acre lifestyle blocks (1980s), then further fragmentation of the original 10-acre blocks into small rural residential allotments (1990s). With increasing demand for peri-urban land and forecasts of an expanding Hamilton City, many local residents believe pressure for urban land will unquestionably see parts of Matangi suburbanised.
+
+As has been revealed, participant comments indicate a mixed response to change in Matangi. A small number of research participants allude to resistance to the changing environment, suggesting they are determined to retain the quality of lifestyle that initially attracted them to this place. A small minority indicate they would rather relocate to a completely new 85
+
+location in order to retain the lifestyle ideals that originally attracted them. However, all respondents did recognise that Matangi is a changing environment, and with continual demands for land development and forecasted long-term increases in population for Hamilton City, Matangi will undoubtedly be shaped by external pressures.
+
+7.3 Limitations of the Study Any research enquiry has inherent limitations. These are usually associated with time and / or financial constraints. The undertaking of this research thesis is no exception, as timeframes and deadlines restrict what can be achieved in the areas of data collection, analysis and interpretation of results. Consequently, the first limitation was that associated with the selection of just one peri-urban area. I could have chosen other areas (such as Gordonton, Te Kowhai or Whatawhata communities near Hamilton) but my selection was based on a community in which I had work experience and one that had previously attracted interest of researchers in the rural fringe. In response to this issue, I consider that my analysis has shown that a study of Matangi has provided a basis on which I can answer the key research questions presented in Chapter One.
+
+I consider the major restrictions of this study are those associated with the number of respondents interviewed, and the amount of information that could be collected in a practical interview session. There were questions about financial and personal histories that could not be pursued in the sort of analysis I wished to carry out. I became aware that no study of this type could ever aspire to cover the entire range of views about the nature of change among the population resident in the Matangi area. However I attempted to insure that my interview schedule focused on the material important in the analysis I was conducting.
+
+Another issue that arose early in the study was the problem of sample representation - in particular a Maori viewpoint. In pre-colonial times Matangi, Tamahere and Tauwhare areas all served as settlements, hunting grounds and food sources for numerous hapu associated with the Tainui iwi. However, the 2001 Census statistics indicate Maori 86
+
+representation in Matangi is less than the population at large and only constitutes nine percent of the total Matangi population.
+
+Although the percentage of Maori living in Matangi is low, it was still important that the sample reflect a Maori point of view. Nevertheless, finding people willing to be interviewed became a challenging task, however I did make contact with a Tainui spokesperson who was a willing and very informative respondent who became a valuable source of historic information regarding Matangi and historic Maori occupation of the area.
+
+Another potential limitation lay in my ability to retain participant authenticity in the analysis and reportage of the interview material. In Chapter Four I discuss my apprehension following the analysis and transcribing process. During the transcription and analysis phases, I was conscious of preserving as closely as possible an authentic interpretation of the words expressed by each interviewed research participant. However, the process of uncovering themes from the pool of data and then transcribing the spoken word into a textual format proved to be a difficult task. I found myself continually questioning whether I was retaining the essence of each interview, and if indeed I was revealing interview themes that were reflective of the issues in Matangi. During the transcribing process, I had to be particularly cautious that I was not projecting my own personal opinions and interpretations into the gathered data.
+
+I realise the researcher has a tremendous privilege and responsibility. As it is highly desirable to present findings in an authentic voice representative of the participant research group as these views generally construe opinions and views of the broader population. Aware of these issues, I am satisfied that my analytical process was sound and representative of the views expressed by each member of the sample group.
+
+7.4 Implications of the Research I argue that the findings of this study have contributed original knowledge to the broader field of the geography of local places in Aotearoa/New Zealand and to the issues relevant to environmental planning in the 87
+
+Waikato region. The literature search establishes that there are other studies of a similar nature that have revealed comparable data and findings, which suggests peri-urban places have a particular dynamic that is interesting in its own right. This is not unusual, as national and international literature reveals that fringe locations in most Western countries are experiencing similar sorts of external pressures, particularly pressure for economic and developmental change.
+
+These developmental pressures are external to the peri-urban place itself as cities and towns, bordering peri-urban locations, at some stage expand their economic footprint (often in response to population pressure). Relaxation of territorial authorities' developmental policies have
+
+contributed to these pressures for change in the last 30 years, in that relaxed policies accommodate further expansion and incur yet more change to communities struggling to come to terms with the changing local environment.
+
+I believe the findings of this research could assist council policy makers in the future planning of the Matangi/Tamahere locations and surrounding areas. A better understanding of the sorts of changes affecting local communities may prompt policies that help preserve the peri-urban place and those historic characteristics that often give these sorts of places their sense of identity.
+
+7.5 Future Research International literature over the last few decades has expressed concern regarding urban expansion, particularly in Western countries. Available land is vital in fulfilling the demand for new urban suburbs, roading networks and infrastructure services. Accordingly, land on the peri-urban fringe has always been an area under pressure, as city planners look toward these areas for future growth opportunities. In the case of Matangi, land in the area contains high quality fertile soils. With district plan rezoning these fertile locations, their `use value' becomes secondary to opportunity costs associated with residential development. Housing and
+
+88
+
+infrastructural returns on land ownership financially outweigh any benefits the land once had for production.
+
+The future of places such as Matangi hang in the balance as further developmental pressures force more changes to an area that was once a rural production economy. I believe future research needs to enquire into the direction of places like Matangi as urban expansion forces change and new issues emerge in these rural places. These issues include but are not limited to, congestion, pollution and higher living densities.
+
+This study has begun to reveal the effects of change in the social structure of the Matangi community. Future research could provide a fuller appreciation of peri-urban places like Matangi, their histories, social personalities and the resistance of some community members to change. In addition, the themes identified as a result of this study, could also be compared and or contrasted with those of other peri-urban places either locally or in an international context in order to identify if the themes of change identified in the Matangi community are similar to changes experienced else where in other New Zealand and international locations.
+
+89
+
+Bibliography
+
+Agnew, J. 1987: The United States in the World Economy. Cambridge University Press, Cambridge. Arendt, H. 1958: The Human Condition. University of Chicago, Chicago. Babbie, E. 1998: The Practice of Social Science Research (8th Edition). Wadsworth Publishing Co, California. Barker, W.H. and H.J, Brown. 1979: Peri-Urban Land use. Joint Centre for Environmental Sciences # 6, University of Canterbury and Lincoln College, Christchurch. Bakhtin, M. 1986: Speech genres and other late essays. Translated, University of Texas, Texas. Blumer, H. 1969: Symbolic Interactionism: Perspective and Method. Prentice-Hall, New Jersey. Boast, R., A. Erveti, D. McPhail and N. Smith. 1999: Maori Land Law. Butterworth, Wellington. Britton, S., R. Le Heron and E. Pawson. 1992: Changing Places in New Zealand: A Geography of Restructuring. New Zealand Geographical Society, Christchurch. Bruner, J. 1986: Actual Minds, Possible Worlds. Harvard, Cambridge, MA. Brunori, G. 2003: Patterns of interaction, rural representations, performance of rural initiatives: some theoretical insights. International Seminar, Universita della Calabria. Burton, R. 2004: Seeing Through the `Good Farmer's' Eyes: Towards Developing an Understanding of the Social Symbolic Value of `Productivist Behaviour'. Sociologia Ruralis, 44 (2), 196-215. Bryman, A. 2004: Social Research Methods. Oxford University Press, United Kingdom. Cant, G. 1980: Rural Depopulation: Patterns and Processes. Cited in G. Cant (ed), People and Planning in Rural Communities: Studies in Rural Change #4. Christchurch. Carter, H. 1995: The Study of Urban Geography (4th Edition). Arnold Publishing, London. Census Population Count 1991, 1996, 2001 www.statsgovt.nz/eng/TableViewer/wdsview (9 May 2005).
+
+90
+
+Cohen, A. 1982: A sense of time, a sense of place: the meaning of close social association in Whalsay, Shetland. Cited in A.P. Cohen (ed) Belonging, Identity and social organisation in British rural cultures. Manchester University Press, United Kingdom. Goffman, E. 1959: The presentation of every day life. Doubleday, New York. Cosgrove, D. 1985: Social Formation and Symbolic Landscapes. Croom Helm, London. Challeger, V. 1985: Enter to Learn, Leave to Serve: Matangi Primary School 75th Jubilee 1910 ­ 1985. W.J. Deed Printing Ltd, Waiuku. Charon, J. 1985: Symbolic Interactionism: An Introduction, An Interpretation, An Integration (2nd edition), Prentice-Hall, New Jersey. Clarkson, B. 2002: Swamps, Fens and Bogs. Cited in B. Clarkson, M. Merret and T. Downs (eds). Botany of the Waikato. Waikato Botanical Society Inc, Hamilton. Clarkson, B., J.R. Leathwick and P.T. Whaley. 1995: Vegetation of the Waikato Region: Current and Historic Perspectives. Landcare Research, Hamilton. Cloke, P., I. Cook, P. Crang, M. Goodwin, J. Painter and C. Philo. 2004: Practising Human Geography. Sage Publications, London. Cresswell, T. 2004: Place: A short Introduction. Blackwell Publishing, London. Cronon, W. 1991: Nature's Metropolis: Chicago and the great west. Norton, New York. Crotty, M. 1998: The Foundations of Social Research: Meaning and Perspectives in the Research Process. Allen and Unwin, Australia. Denzin, N. and Y.S. Lincoln. 2003: Collecting and Interpreting Qualitative Material (2nd Edition). Sage Publications, London. Denzin, N. and Y.S. Lincoln. 1998: The Landscape of Qualitative Research: Theories and Issues. Sage Publications, London. DeVaus, D.A. 2002: Surveys in Social Science Research (5th Edition). Allen and Unwin, Australia. Entrikin, N.J. 1991: The Betweenness of Place: Towards a Geography of Modernity. Macmillian Education Ltd, London. Evans, M. 1981: Smallholders and Small Rural Properties in New Zealand: Studies in Rural Change #7. University of Canterbury, Christchurch. 91
+
+Finlay, N. 1998: Sacred Soil: Images and Stories of the New Zealand Wars. Random House New Zealand Ltd, Auckland. Geertz, C. 1983: Local knowledge: Further essays in interpretive anthropology. Basic Books, New York. Geertz, C. 1973: The Interpretation of Cultures: Selected Essays. Basic Books, New York. Gill, M. 2002: Waikato lifestyle blocks in demand. Waikato Times, pp 16, 13 July. Goodall, D.H. 1982: The Waikato: Man [sic] and His Environment #2. Waikato Branch of the New Zealand Geographical Society (Inc), Hamilton. Goodyear, R. 2005: Life in Rural Paradise "Work, Knowledge and Skills in Urban/Rural New Zealand". Statistics New Zealand, Christchurch. Greensill, A. 2000: Waikato Raupatu Land Claims and Settlement (Lecture Series). University of Waikato, Hamilton. Haggart, K., L. Lees and A. Davies. 2002: Researching Human Geography. Arnold Publishing, London. Hamilton City News. 2006: Hamilton City Council's Proposed 2006-16 Long-Term Plan Overview. April/May. Hamilton City Council and the Waikato District Council. 2004: Proposed Strategic Agreement on Future Urban Boundaries. Hamilton. Harvey, D. 1996: Justice, Nature and the Geography of Difference. Blackwell Publishers, Cambridge. Harvey, J.H. 1981. Cognition, Social Behaviour and Environment. Hillsdale, New Jersey. Hayward, A. 1981: Berryfruit Farming on 10-acre Blocks in the Waikato: The Planning Implications. Research Thesis, Dept of Town Planning, University of Auckland. Heimlich, R. and W. Anderson. 2001: Development at the Urban Fringe and Beyond: Impacts on Agriculture and Rural Land. Economic Research Service, U.S Department of Agriculture #803. Jacob. E. 1988: Classifying Qualitative Research: A Focus of Tradition. Educational Researcher, 17, 16-24. Jakle, J.A., S. Brunn and C. Roseman. 1976: Human Spatial Behaviour: A Social Geography. Duxbury Press, Massachusetts.
+
+92
+
+Joseph, A.E., J. Lidgard and R. Bedford. 2004: Rural Trajectories: Diversification and Farm-Community Linkages in Whakatane District, 1999-2003.The University of Waikato, Hamilton. Joesph, A.E. 1999: Toward an Understanding of the interrelated Dynamics of Change in Agricultural and Rural Communities. The University of Waikato, Hamilton. King, M. 2003: The Penguin History of New Zealand. Penguin Books (NZ) Ltd, New Zealand. Kitchin, R. and N.J. Tate. 2000: Conducting Research into Human Geography: Theory, Methodology and Practice. Prentice Hall, United Kingdom. Le Heron, R. and E. Pawson 1996: Changing Places: New Zealand in the Nineties. Longman Limited, Auckland. Ley, D. 1981: Behavioural Geography and the Philosophies of Meaning. Cited in K.R. Cox and R.G. Golledge (eds), Behavioural problems in geography revisited. Methuen, London, pp 209-30. Lincoln, Y.S. and E.G. Guba. 1985: Naturalist Enquiry. Sage Publications, California. Longhurst, R. 2003: Participant Observation. Cited in N.J. Clifford and G. Valintine (eds), Key Methods in Geography. Sage Publications, London. Lippard, L.R 1997: Lure of the Local: Senses of place in a multi-centred Society. New Press, New York. Masey, D. 1997: A Global Sense of Place. Cited in T. Barnes and D. Gregory (eds), Reading Human Geography. Arnold Publishers, London. pp 315-323. Mason, K. 1990: Not Waving, but Bidding: Reflections on Research in Rural Settings. Cited in R.G. Burgess (ed), Studies in Qualitative Methodology. Jai Press Inc, London. Matangi Community Profile www.stats.govt.nz/domino/external/Web/CommProfiles (13 April 2005). Maykut, P. and R. Morrehouse. 1994: Beginning Qualitative Research: A philosophic guide. Falmer Press, London. McCraw, J. 2002: Physical Environment. Cited in B, Clarkson, M. Merrett and T. Downs (eds), Botany of the Waikato. Waikato Botanical Society Inc, Hamilton. Mead, G. 1934: Mind, Self and Society. University of Chicago Press, Chicago. 93
+
+Meinig, D.W. 1979: The Interpretation of Ordinary Landscapes. Oxford University Press, Oxford. Meltzer, B. 1972: Meads Social Theory. Cited in J.G. Manis and B.N. Meltzer (eds), Symbolic Interactionism: A reader in Social Psychology (2nd Edition). Allyn and Bacon Inc, Boston. Ministry of Agriculture and Fisheries Economics Division. 1987: Survey of Small Holding Agriculture in New Zealand, Wellington. Moran, W., N. Warwick., D. Rankin and R. Cochrane. 1980: Rural Smallholdings in the Auckland Region: Summary of Conclusions Volume 1. Auckland Regional Council, Auckland. Moran, W., B. Burton., W. Friesen., H. Jarvis and R. Mckitterick. 1979: Rural Small holdings in the vicinity of Auckland: A Pilot Study. Auckland Regional Authority, Auckland. Nicholls, J. 2002: History of Vegetation. Cited in B. Clarkson, M. Merrett and T. Downs (eds), Botany of the Waikato. Waikato Botanical Society Inc, Hamilton. Orbell, G. 2006: Land Use Capability. A paper submitted to the Waikato District Council, Ngaruawahia. Orbel, G. Personal communication on the 7 May 2006. Land use capability and the differing soil types of Matangi. Palakshappa, T.C. 1983: Urban Fringe and the Rural Structure and Process: A case Study of the Waikato Region #19. The University of Waikato, Hamilton. Palka, E.J. 199?: Coming to Grips with the Concept of Landscape, Landscape Journal, (volume number unknown), pp 63 ­ 73. Paterson, J. 2005: What is a lifestyle block and is it a form of rural gentrification. A paper presented to the Waikato Branch of the Geographical Society, The University of Waikato, Hamilton. Polanyi, M. 1994: Knowing and Being. Cited in P. Maykut and R. Morehouse (eds), Qualitative Research: A Philosophic and Practical Guide. Falmer Press, London. Pomeroy. A. 1997: Impacts of recent economic reforms on rural communities, Paper presented to the New Zealand Agricultural and Resource Economics Society Conference, Blenheim, July 1997. Cited in A. E. Joseph (ed) Toward an Understanding of the Interrelated Dynamics of Change in Agriculture and Rural Communities. University of Waikato, Hamilton.
+
+94
+
+Potter, J. and M. Wetherell. 1994: Analyzing Discourse. Cited in A. Bryman and R.G. Burgess (eds), Analysing Qualitative Data. Routledge, London. Potter, J. and M. Wetherell. 1987: Discourse in Social Psychology. Sage Publications, London. Puke, W. Personal communication on the 3 August 2005. Maori occupation and the cultural practises of hapu groups in the area of Matangi and Tamahere. Relph, E. 1976: Place and Placelessness. Pion, London. Sarantakos, S. 1993: Social Research. MacMillian Education Australia, Melbourne. Scott, K., J. Park, C. Cocklin and G. Blunden. 1998: A Sense of Community: An Ethnography of Rural Sustainability in the Mangakahia Valley, Northland. Occasional Publication, The University of Auckland, Auckland. Schwandt, T.A. 1998: Constructivist, Interpretivist Approaches to Human Enquiry. Cited in N. Denzin and Y. Lincoln (eds), The Landscape of Qualitative Research: Theories and Issues. Sage Publications, London. Shearer, I. 1979: Policy Decisions and the Environmental Ethic. Cited in W. Bishop (ed), Proceedings of the Seminar on Peri-Urban Land Use. Land Use Advisory Council held at the University of Waikato, Hamilton. Silverman, D. 1997: Qualitative Research: Theory, Method and Practice. Sage Publications, New York. Simpson, T. 1997: The Immigrants: The Great Migration from Britain to New Zealand 1830 ­ 1890. Auckland University Press, Auckland. Stokes, E. 2002: Wiremu Tamehana: Rangatira. Huia Publishers, Wellington. Stryker, S. 2003. Whither Symbolic Interaction? Reflections on a Personal Odyssey. Symbolic Interaction, 26 (1), 95-109. Tesch, R. 1990: Qualitative Research: Analysis Types and Software Tools. Falmer Press, New York. Tuan, Y. 1979: Space and Place: Humanistic Perspective. Progress in Geography 6: pp 211-252. Urban / Rural Profile Categories of the Waikato www.stats.govt.nz/urban-rural-profiles/ (19 November 2005).
+
+95
+
+Valentine, G. 2001: Social Geographies: Space and Society. Prentice Hall, London. Valentine, G. 1997: Tell me about ... using interviews as a research methodology. In R. Flowerdew and D. Martin (eds), Methods in Human Geography: A guide for Students Doing a Research Project. Edinburgh Gate: Addison Wesley Longman. Waikato Times: Waikato lifestyle blocks still in hot demand, pp?, 23 March 2004. Waikato Times: Farmers vs. lifestylers: demand for more land, pp 11, 28 October 2003. Wapner, P. 2003: Leftist Criticism of "Nature": Environmental Protection in a Postmodern Age. Dissent New York, Vol 50, Iss 1, pp 75 ­ 79. Williamson, K. 1998: People, Planning and Peri-Urban Places: Land use Tensions in Tamahere. MSocSc Thesis, Department of Geography, University of Waikato, Hamilton. Wetherell, M. 1999: Discourse Analysis. Cited in C. Davidson and M. Tolich (eds), Social Science Research in New Zealand: Many paths to Understanding. Longman, New Zealand.
+
+96
+
+APPENDIX ONE
+
+Interview Schedule
+
+97
+
+In-depth Interview Themes Personal: Length of time you have stayed in Matangi What drew you to settle in Matangi How much time do you spend in Matangi (work, socialising, recreational, living), what are the other places you spend most your time ­ a rough gauge When you first moved to the area, what expectations did you have of the area (open space, healthy lifestyle and good environment for the family/semi-retirement) Community: In general do you think community is important Does Matangi have a feeling of togetherness or community spirit Is it easy for outsiders to become involved in the Matangi community (are they readily accepted) How well do you know your immediate neighbours What events take place in Matangi that could involve residents
+
+Subdivision and Development: What are your views about development/ subdivision in Matangi How do you think development in Matangi should be managed e.g. more regulations and controls, local community should have more input How in your opinion, has property subdivision over the time you have been here influenced changes in Matangi In your opinion over the long term, what will Matangi eventually resemble? (As a rural area how will it evolve) With continual developmental and land use changes, would you stay in Matangi Do/Did you intend to subdivide / develop your land originally
+
+98
+
+Local Place: Length of time you have stayed in Matangi Was your previous residence in an urban or rural location if you have not lived in Matangi all your life? What were your expectations of Matangi and what drew you to settle in Matangi Have you ever moved away from Matangi What was the reason for returning back to Matangi What changes have you observed in the local vicinity e.g. landscape, developments, population changes (residential demography) Development: What are your feelings about developmental / land-use changes in Matangi How has subdivision changed the location over the time you have lived here What in your opinion, are the advantages and disadvantages in allowing continued developmental changes in Matangi Over the long term, what will Matangi resemble? (As a rural area how will it evolve) With continual changes, would you stay or leave Matangi - why
+
+Community and Family in Matangi: - Does Matangi community have a spirit or a feeling of togetherness Is a sense of community important to you - why or why not How do you think the sense of community could be strengthened in Matangi ­ if indeed it needs to be strengthened at all How well do you know your immediate neighbours
+
+99
+
+-
+
+How much time do you spend in Matangi (work, socialising, recreational, living), what are other places you spend most your time in if not in Matangi
+
+-
+
+Where is home for you People often make reference to home is where the heart is and
+
+no place like home - in that sense what does home mean to
+you Where does Matangi fit concerning home Is Matangi a good place to raise a family In your view what are the advantages and disadvantages of raising a family in Matangi What sort of community will Matangi become with consideration to historic, current and future changes Are there any other issues you might like to raise concerning Matangi as a place, home, community or changes
+
+100
+
+APPENDIX TWO
+
+Consent Form
+
+101
+
+GEOG593-05C Geography Thesis The University of Waikato Dear............................................................................................................... Thank you for agreeing to participate in this research study. Please read the information presented below, as it sets out the research objectives and outlines the process of this study and the rights you have as a participant. At the end of this introduction, you are asked to sign and date this form. A copy is to be retained by you and another copy retained by the researcher (Jason Wright). Principal Researcher: Jason Wright Reason for research: This interview assists me to meet the requirements for a Thesis undertaken through the Geography Department of the University of Waikato. The interview will explore my personal interest in people's interaction with their local environment. This research will investigate local responses to local changes. I also want to identify the reasons why people instigate change, and particularly the processes involved in initiating and deciding on change to familiar or unfamiliar places. The interview will last for approximately 60 minutes. I intend to structure the interview as a conversation, guided by a general set of questions and broad themes.
+
+102
+
+Purpose of research: The purpose is to conduct recorded interviews with a Matangi resident concerning their views on: · · · Changes Associated with rural development The reasons why Matangi residents accept or reject change The decision making process leading to changes in land-use patterns Recording instruments: I wish to tape record the interview and where necessary, write additional notes. Right to decline: The participant has the right to decline answering any question or questions and at any time may withdraw from the interview. If the participant so desires the transcript and audio tape will be returned to them. Confidentiality: All collected information will be stored on a computer database only accessible via a password known to the researcher. In addition, all back up discs are to be stored in a locked secure cupboard ensuring no access of the research material by a third party. Anonymity: No participant name, specific place of residence or identifying feature will appear within the final thesis. However, Geography Department academic staff and an external examiner (from another University) will have access to the final thesis. A copy of the thesis will be lodged with the Department of Geography and the University of Waikato library.
+
+103
+
+Retention of recorded responses and written notes will be for a period of twelve months. After the prescribed twelve months, I will destroy all interview transcripts associated with this study. Before final submission of the interview transcript, you will have the opportunity to view the document and make any changes or deletions as appropriate. Signed Participant Consent: I have read the above conditions and give consent for Jason Wright (the researcher) to interview me for the purposes of the identified University study. Interviewee to sign:_____________________________ Date:_____________
+
+Interviewer to sign:_____________________________ Date:_____________ For further information contact: Associate Professor Lex Chalmers, Department of Geography, University of Waikato, Private Bag 3105 Hamilton, Telephone (07) 838
+
+104
+
+APPENDIX THREE
+
+Poplar Lane Survey Plan
+
+105
+
+106
+
+107
+
+108
+
+APPENDIX FOUR
+
+Matangi Photographs
+
+109
+
+The level of affluence appearing in Matangi
+
+A common Matangi sight as more subdivision occurs
+
+110
+
+A new rural residential Matangi subdivision
+
+Reminiscent of the past - the old dairy factory
+
+111
+
+

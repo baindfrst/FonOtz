@@ -1,0 +1,1 @@
+A method for modeling uncertainty in semantic web taxonomies We present a method for representing and reasoning with uncertainty in RDF ( S ) and OWL ontologies based on Bayesian networks .

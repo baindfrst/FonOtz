@@ -1,0 +1,1 @@
+P-tree : a p2p index for resource discovery applications We propose a new distributed , fault-tolerant Peer-to-Peer index structure for resource discovery applications called the P-tree . P-trees efficiently support range queries in addition to equality queries .

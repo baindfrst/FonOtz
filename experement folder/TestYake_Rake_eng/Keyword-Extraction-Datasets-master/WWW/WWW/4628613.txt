@@ -1,0 +1,1 @@
+A storage and indexing framework for p2p systems We present a modularized storage and indexing framework that cleanly separates the functional components of a P2P system , enabling us to tailor the P2P infrastructure to the specific needs of various Internet applications eat , without having to devise completely new storage management and index structures for each application .

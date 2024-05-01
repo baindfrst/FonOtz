@@ -1,0 +1,1 @@
+Random surfer with back step We present a novel link-based ranking algorithm RBS , which may be viewed as an extension of PageRank by back-step feature .

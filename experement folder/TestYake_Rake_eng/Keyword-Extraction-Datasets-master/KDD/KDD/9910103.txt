@@ -1,0 +1,1 @@
+Is there a grand challenge or X-prize for data mining ? This panel will discuss possible exciting and motivating Grand Challenge problems for Data Mining , focusing on bioinformatics , multimedia mining , link mining , text mining , and web mining .

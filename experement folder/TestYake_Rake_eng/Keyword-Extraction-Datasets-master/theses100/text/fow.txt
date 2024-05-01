@@ -1,0 +1,1376 @@
+Ozone Depletion and Global Warming
+
+A thesis submitted in partial fulfilment of the requirements for the degree of
+
+Master of Science
+in Physics University of Waikato by
+
+Alista Fow
+
+2006
+
+Acknowledgements
+I would like to thank Doctor Michael Cree for allowing me to study in this area of physics. Also for his assistance, persistence and occasionally, insistence that things be done in a proper way. I would to thank Doctor Willem de Lange for ensuring that the physics was grounded in the worlds of science, geology and climatology. Also to all the people in the Earth Sciences Department who helped a wannabe physicist look into their world, and all the people in the Physics Department who have had to put up with me for the last year, thanks. Finally to my friends and family, you know who you are, thank you for your tolerance during a stressful and busy time.
+
+iii
+
+Abstract
+This thesis examines global warming and the possible contribution that ozone depletion provides to this warming. An examination is performed to determine the extent of any warming/cooling events within the Earth­atmosphere system. The change in energy corresponding to this warning of the Earth­ atmosphere system is estimated as being equivilent to an increase of mean solar input of 0.22 W/m2 . This is compared to the predicted changes of solar input for the two most common global warming scenarios: greenhouse gases and solar irradiance variance; and for a less well explored scenario, snow-ice albedo change. Examination of ozone depletion data shows that an absence of ozone in the stratosphere produces an increase in UV-B radiation at the surface of the Earth. This increase in UV-B light has not previously been thourougly examined in any of the global warming scenarios. This is presented as a fourth scenario for global warming. An analytical three layer model of the Earth­atmosphere, based on an earlier two layer model, is developed. Using this model it is determined that greenhouse gases, solar irradiance, snow-ice albedo feedback and ozone depletion can cause warming of the Earth's atmosphere. After comparison with other models, a snow-ice albedo mechanism is incorporated into the three layer model. This produces an amplification effect of any warming that occurs. Compared to the observed increase of surface temperature between 1975­2000 of 0.55 K, the model using a snow-ice albedo feedback, produced an increase of temperature of 1.4 K for greenhouse gases, 0.294 K for a solar irradiance increase and 0.119 K caused by a decrease in the ozone layer. Of the greenhouse gas, solar irradiance and ozone depletion scenarios, ozone depletion demonstrates the most realistic relative changes with a cooling of the stratosphere and a warming of the troposphere and Earth's surface as has been observed. It is concluded that ozone depletion is likely for a reasonable part of observed global warming.
+
+v
+
+Contents
+Acknowledgements Abstract 1 Introduction 1.1 Overview of Global Warming and Ozone Depletion 1.2 Thesis Overview . . . . . . . . . . . . . . . . . . . . 1.2.1 Aims . . . . . . . . . . . . . . . . . . . . . . 1.2.2 Thesis Structure . . . . . . . . . . . . . . . 1.2.3 Original Work . . . . . . . . . . . . . . . . . 2 Global Warming 2.1 Overview . . . . . . . . . . . . . . . . 2.2 Observed Climate Change . . . . . . 2.2.1 Average Global Temperature . 2.2.2 Ocean Warming . . . . . . . . 2.2.3 Continental Warming . . . . . 2.2.4 Troposphere Warming . . . . 2.2.5 Stratospheric Cooling . . . . . 2.2.6 The Cryosphere . . . . . . . . 2.3 Energy Budget . . . . . . . . . . . . 2.4 Greenhouse Gases . . . . . . . . . . . 2.5 Solar Irradiance . . . . . . . . . . . . 2.6 Snow-Ice Albedo Feedback . . . . . . 2.7 Conclusions . . . . . . . . . . . . . . 3 Ozone Depletion 3.1 Overview . . . . . . . . . . . . . 3.2 Ozone and its chemistry . . . . 3.3 Where has all the Ozone Gone? 3.4 Goodbye Ozone, Hello UV-B . . 3.5 Conclusions . . . . . . . . . . . 4 The 4.1 4.2 4.3 iii v 1 1 2 2 2 4 5 5 6 6 10 11 11 12 12 16 18 21 23 24 25 25 25 26 30 36
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . . . . . . . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+Three Layer Model 37 Overview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37 A One Layer Model . . . . . . . . . . . . . . . . . . . . . . . . . 38 A Two Layer Model . . . . . . . . . . . . . . . . . . . . . . . . 39 vii
+
+viii 4.3.1 The UV entering the system 4.3.2 The IR leaving the system . 4.3.3 The complete model . . . . 4.3.4 Using the two layer model . A three layer model . . . . . . . . . 4.4.1 The three layers . . . . . . . 4.4.2 UV entering the system . . 4.4.3 The nodes . . . . . . . . . . 4.4.4 UV Energy Absorbed by the 4.4.5 IR out of the system . . . . 4.4.6 The complete model . . . . 4.4.7 Calibrating the model . . . Conclusion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Layers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+CONTENTS . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 42 43 43 45 45 46 49 51 52 54 55 58 59 59 59 64 67 68 69 69 69 71 72 72 74 80 80 80 81 83 83 84 85 90 91 93 93 95 95 97
+
+4.4
+
+4.5
+
+5 Using a Three Layer Model 5.1 Overview . . . . . . . . . . . . . . . . . 5.2 Varying individual components . . . . 5.3 Testing scenarios . . . . . . . . . . . . 5.4 Testing the scenarios using real values . 5.5 Conclusion . . . . . . . . . . . . . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+6 A Comparison of Results With Other Models 6.1 Overview . . . . . . . . . . . . . . . . . . . . . . 6.2 The Budyko Model . . . . . . . . . . . . . . . . 6.3 Seller's Model . . . . . . . . . . . . . . . . . . . 6.4 Using a Global Climate Model . . . . . . . . . . 6.4.1 EdGCM and Greenhouse Gases . . . . . 6.4.2 EdGCM and Solar Variability . . . . . . 6.4.3 EdGCM and Ozone Depletion . . . . . . 6.4.4 GCMs and sensitivity . . . . . . . . . . . 6.4.5 GCMs and the Three Layer Model . . . 6.5 Conclusion . . . . . . . . . . . . . . . . . . . . . 7 Extending the Three Layer Model 7.1 Overview . . . . . . . . . . . . . . . . . . . . 7.2 Adding a simple albedo feedback mechanism 7.3 Albedo Feedback by latitude . . . . . . . . . 7.4 Further extensions to the three layer model . 7.5 Conclusion . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . .
+
+. . . . . . . . . .
+
+. . . . . . . . . .
+
+. . . . . . . . . .
+
+. . . . . . . . . .
+
+. . . . . . . . . .
+
+. . . . . . . . . .
+
+. . . . . . . . . .
+
+. . . . . . . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+. . . . .
+
+8 Conclusion 8.1 Summary of the Main Results from this Thesis . . . . . . . . . . 8.2 Final Conclusion on Ozone Depletion and Global Warming . . . 8.3 Further Study . . . . . . . . . . . . . . . . . . . . . . . . . . . . References
+
+List of Figures
+2.1 2.2 2.3 2.4 2.5 2.6 2.7 2.8 3.1 3.2 3.3 3.4 3.5 3.6 3.7 3.8 4.1 4.2 4.3 4.4 4.5 4.6 5.1 5.2 5.3 5.4 5.5 Global Annual Mean Surface Air Temperature Change 1856­1970 Global Annual Mean Surface Air Temperature Change (GISS) . Global Annual Mean Surface Air Temperature Change (CRU) . Annual Mean Surface Air Temperature Change by Latitude Bands Net decrease in Glaciers . . . . . . . . . . . . . . . . . . . . . . Arctic, September Sea Ice extent trend, 1978­2005 . . . . . . . . Carbon dioxide mixing ratio and temperature for the last 160 000 years. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Solar Irradiance versus Temperature. . . . . . . . . . . . . . . . Global total ozone changes. . . . . . . . . . . . . . . . . Total measured ozone at Halley Bay Station . . . . . . . The Ozone Hole 3/10/94 . . . . . . . . . . . . . . . . . . Average total ozone in the polar regions . . . . . . . . . Arctic and Antarctic Ozone distribution by altitude . . . Comparison of solar UV-B irradiance and total ozone . . Surface UV radiation increase due to ozone loss . . . . . Change in solar intensity caused by the 1992 Ozone Hole. The blackbody spectrum of the Sun and the Earth UV input in a two layer node . . . . . . . . . . . . UV input in to a three layer model . . . . . . . . . UV input in to a three layer model . . . . . . . . . Infrared emissions and absorptions by the layers . The Earth's annual global mean energy budget. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 7 8 9 13 14 20 22 28 29 31 32 32 33 34 35 39 48 48 49 53 56
+
+The temperature variation of the layers as a function of the three reflectivities. . . . . . . . . . . . . . . . . . . . . . . . . The temperature variation as a function of changing each of the three emissivities. . . . . . . . . . . . . . . . . . . . . . . . . . The temperature variation as a function of varying atmosphere UV absorptivities. . . . . . . . . . . . . . . . . . . . . . . . . . The temperature variation as a function of varying atmosphere IR absorptivities. . . . . . . . . . . . . . . . . . . . . . . . . . How changing non-radiative heat transfer and the solar input alters the temperatures in the three layer model . . . . . . . . ix
+
+. 61 . 62 . 62 . 63 . 63
+
+x 6.1 6.2 6.3 6.4
+
+LIST OF FIGURES Average latitudinal temperature distribution . . . . . . . . . . . The dependence of temperature distribution on radiation amount The changes in the Earth surface temperature between preindustrial and 2001 greenhouse gas levels . . . . . . . . . . . . . . The changes in the Earth surface snow and ice cover between preindustrial and 2001 greenhouse gas levels, (a) shows areas of increase in snow/ice cover, (b) shows areas of decrease in snow/ice cover. . . . . . . . . . . . . . . . . . . . . . . . . . . . Change in The Annual Mean Surface Air Temperature for a 0.02% increase in irradiance. . . . . . . . . . . . . . . . . . . . . The change in snow, ice and sea-ice for a 0.02% increase in solar irradiance, (a) shows areas of increase in snow/ice cover, (b) shows areas of decrease in snow/ice cover. . . . . . . . . . . The change in albedo for a 0.02% increase in solar irradiance, (a) shows areas of increase in albedo, (b) shows areas of decrease in albedo. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . The change in net radiation received at the Earth's Surface for a 0.02% increase in solar irradiance, (a) shows areas of increase in radiation, (b) shows areas of decrease in radiation. . . . . . . Surface temperature by latitude using a three layer model with a simple albedo by temperature function . . . . . . . . . . . . Surface temperature by latitude and change in temperature by latitude caused by a 1% increase in greenhouse gases. . . . . . Surface temperature by latitude and change in temperature by latitude caused by a 1% increase in solar radiation. . . . . . . Surface temperature by latitude and change in temperature by latitude caused by a 1% increase in solar radiation. . . . . . . 70 71 73
+
+75 76
+
+6.5 6.6
+
+77
+
+6.7
+
+78
+
+6.8
+
+79
+
+7.1 7.2 7.3 7.4
+
+. 87 . 88 . 89 . 90
+
+List of Tables
+2.1 4.1 4.2 4.3 4.4 4.5 4.6 5.1 5.2 5.3 6.1 7.1 7.2 A first order energy budget of the Earth for the period 1970 to the early 2000s . . . . . . . . . . . . . . . . . . . . . . . . . . . 18 Parameters in Knox's two layer model. . . . . . . . . . . . . . Global warming scenarios using Knox's two layer model . . . . Parameters in the three layer model . . . . . . . . . . . . . . . Energy flows and their analogues in a three layer model . . . . Initial values of independent variables . . . . . . . . . . . . . . Comparison of model results against the Kiehl/Trenberth observations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 44 46 55 57
+
+. 57
+
+Temperature increase by altitude for the four Global Warming scenarios . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66 Relative magnitudes of temperature increase by altitude for four Global Warming scenarios. . . . . . . . . . . . . . . . . . . . . . 66 Temperature increase by altitude for four Global Warming scenarios with observed data . . . . . . . . . . . . . . . . . . . . . 67 Comparison of results between the Three Layer Model and the Budyko Model . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71 Surface Temperature increase for three scenarios . . . . . . . . . 85 Temperature increase by altitude for three Global Warming scenarios with as predicted by the three layer model including simple albedo feedback . . . . . . . . . . . . . . . . . . . . . . . . . 85
+
+xi
+
+Chapter 1 Introduction
+1.1 Overview of Global Warming and Ozone Depletion
+Global Warming has become an issue of some concern over the last couple of decades. The question of how increased temperature will affect the world habitats and agricultural land is considered by some, the greatest current threat to humanity. There is much debate about whether this increase in temperature is human induced or whether it is normal natural variation. If the warming is induced, at least in part, by human activity then the belief amongst some politicians is that the event can be reversed. Another issue that has recently become a concern is ozone depletion. A decrease of ozone concentration in the ozone layer causes an increase in the amount of ultraviolet light that reaches the surface of the Earth. Biologists argue that this increase in `burning' radiation may cause problems as it has the potential to harm or kill various biological organisms, especially bacteria. This may have significant implications, usually assumed to be negative, to the whole ecosystem. Previous study of global warming and ozone depletion has treated these as two totally separate and unrelated issues. Yet, the combination of these two mechanisms could potentially have a severe effect on the weather system and consequently ecosystems. It would seem intuitive that the increase of UV-B radiation at the surface of the Earth due to the decrease of the ozone layer would have effects besides biological. An increase in energy at the surface implies an increase of temperature. If this increase in temperature actually occurs, then it is not currently accounted for in mainstream global warming 1
+
+2
+
+Introduction
+
+theories. It is therefore of use to determine if UV-B is a plausible cause of at least part of known global warming.
+
+1.2
+1.2.1
+
+Thesis Overview
+Aims
+
+The goal of this thesis is to determine whether the observed changes in stratospheric ozone could plausibly have a marked effect on the Earth's climate. Because ozone depletion and global warming have occurred at the same time it is plausible, but far from clear, whether they are related. Ideally, simulation with a Global Circulation Model (GCM) would be used to answer this question, however modifying a GCM requires work far beyond that of a Masters thesis. Anyway there are questions about the validity of GCMs. For the purposes of this thesis it was decided to use a much simpler analytical model of the Earth and its atmosphere, that incorporates the essential components of energy flow required to answer the question. It is not a requirement to simulate localised (whether temporal, or spatial) weather systems of the Earth. Rather, the model is required to demonstrate the long term trends of the whole Earth. This is achieved by modelling the gross energy flows in a steady state system and then perturbing that system. A simple such model is the Knox Two layer model, as hinted at by Arrhenius (1896) and Kittel and Kroemer (1980), but developed in full by Knox (1999). In this thesis, we extend the Knox two layer morel by creating an extra layer to create a three layer model. This additional layer provides finer resolution when modelling the observed effects of the atmosphere. In particular, it allows modelling separately the behavior of the troposphere and the stratosphere. This model is then used to test the veracity of various global warming scenarios including ozone depletion. This model is further extended to allow for an ice-snow albedo feedback mechanism.
+
+1.2.2
+
+Thesis Structure
+
+The structure of the thesis is as follows. In chapter 2, Global Warming, the known evidence for global warming is summarised. We attempt to show that some warming, particularly over the last two decades, has occurred but do not attribute the warming to any single cause. Calculations are performed to determine the amount of energy that has
+
+1.2 Thesis Overview
+
+3
+
+been absorbed by the Earth due to the warming effects. The greenhouse gas and solar irradiance theories are then explored in relationship to the observed energy changes. The Snow-Ice Albedo Feed Mechanism is also explored and the magnitude of this feedback is compared to observed results. Ozone depletion is not a currently recognised cause of global warming. In chapter 3 we summarise the known data that supports that ozone depletion has been occurring and that it is predominantly caused by human activity. The locations and times of ozone depletion ­ the so called `hole' ­ are documented, and it is observed that where ozone depletion is greatest that there is also an increase in UV-B radiation. Chapter 4 is devoted to developing the mathematical model that we use to test various scenarios for the causes of global warming. We begin with the Knox two layer model of the Earth to simulate the Earth­atmosphere system. This model is then extended to include a third layer. This allows for the modelling of the stratosphere, the troposphere and the surface temperatures. The three layer model is calibrated against observed values. In chapter 5 the results of running the three layer model on a number of scenarios are presented. First, each individual parameter of the three layer model is varied in turn to establish the effects of the parameter on the model as we move from the calibrated state. Four scenarios of global warming are also run and compared with the observed data on global warming. A number of other models of the Earth's climate have been used by other researchers. Chapter 6 is devoted to comparing their results to those obtained with the three layer model. The iterative models first appearing in the late 1960s are examined as well as the modern GCMs. Output from these models, where it is possible to simulate the scenarios under examination, are compared to the three layer model results. A limitation of the three layer model is that it cannot simulate directly the Snow-Ice Albedo Feedback Mechanism. In chapter 7, the model is extended by adding two such feedback mechanisms. The first is a simple mechanism that models for the mean Earth Temperature. The second is a mechanism to determine the feedback effects for a simple two-dimensional model of the Earth that includes latitudes. Some preliminary output from the extended three layer model is presented. The evidence for this thesis, namely that ozone depletion is a likely contributing factor to global warming is summarised in chapter 8.
+
+4
+
+Introduction
+
+1.2.3
+
+Original Work
+
+While the concepts of ozone depletion and global warming are common knowledge in the non-scientific community, the idea that they are related is not held by the scientific community. The Thesis developed herein, namely, there exists a link between ozone depletion and global warming is therefore original work. Chapters 2 and 3 are summaries of well known observed data, nevertheless the initial energy budget calculation and the quantification of the ice-snow albedo feedback and the comparison of the conventionally held theories against the energy budget are original contributions. The two layer model and the initial values presented for that model in chapter 4 are due primarily to Knox (1999) and to a lesser extent earlier researchers. The results presented in this thesis using the two layer model are original as we use the two layer model for scenarios that Knox did not consider. The extension of the two layer model to include an extra layer, to give the three layer model, as it is called herein, is original work. The atmosphere model that the three layer model used to simulate is due to Kiehl and Trenberth (1997). The results obtained in chapters 5 and 7 are original. The models used in Chapter 6 are attributed to their authors there. The results obtained using the Budyko Model and the Sellers' Model are the work of those respective authors, while the results of the GISS II GCM are original work.
+
+Chapter 2 Global Warming
+
+2.1
+
+Overview
+
+A reasonable estimate of global surface temperature change between the late nineteenth century and the present is 0.8 K. It is of interest to note that over half of that change has occurred since 1975. During this time the air temperature has warmed more in the northern hemisphere more than the southern hemisphere. While the ocean has warmed less than the continents, it has absorbed significantly more energy than the land masses. The troposphere has warmed while the stratosphere has cooled. There has also been a noticeable amount of melting of the glaciers, sea-ice, ice shelves, winter snow coverage and the Arctic Polar ice cap. This corresponds to an increase of energy at the surface of 0.22 W/m2 . There is still major disagreement over the two major theories of global warming. The greenhouse proponents claim an increase of carbon dioxide and other greenhouse gases are the cause of warming, yet they have difficulty demonstrating that the increase of naturally occurring greenhouse gases is not caused by the increase of temperature. The solar variability proponents show that there is a link between the amount of sunlight reaching the upper atmosphere and the surface temperature of the Earth, yet they concede that there is not enough energy increase to account for all of the temperature increase. 5
+
+6
+
+Global Warming
+
+2.2
+2.2.1
+
+Observed Climate Change
+Average Global Temperature
+
+During the 1960s and 1970s many climatologists studied the changing weather patterns. Using data such as shown in figure 2.1, climatologists such as Budyko (1969) and Sellers (1969) predicted not only a continued cooling of the Earth's atmosphere, but indeed the possibility of a runaway ice age. During the early seventies the predominant theme was that the Earth had entered a cooling cycle and was returning to a `normal' temperature as seen during the ice ages.
+
+Figure 2.1: Global Annual Mean Surface Air Temperature Change 1856­1970, [Adapted from: Goddard Institute of Space Studies (2006)] In recent years climatologists have become interested in the opposite trend; the warming of the atmosphere. The Intergovernmental Panel on Climate Change (IPCC) is the foremost proponent of the current climate change being caused by global warming. Using the Goddard Institute of Space Studies (GISS) data presented in fig 2.1 and adding the data collected since 1970 gives fig 2.2. In this figure the mean surface air temperature for any particular year is shown, with the extreme fluctuations smoothed out by plotting the five year mean temperature centered on any particular year. On closer inspection of figure 2.2 it appears there has been a slight cooling
+
+2.2 Observed Climate Change
+
+7
+
+Figure 2.2: Global Annual Mean Surface Air Temperature Change [Source: Goddard Institute of Space Studies (2006)] phase between 1880 and 1910, a warming phase between 1910 and 1945, another cooling phase between 1945 and 1975 and a dramatic rise in temperature between 1975 and 2005. These data show a rise in the mean global surface air temperature of approximately 0.9 K between 1910 and 2005, most of which occurred between 1975 and 2005. Of note is that the mid 1970s seems to be the start of a new warming cycle. As seen in fig 2.3 the temperatures observed by the Climatic Research Unit show similar trends. The results from the four major studies, the Goddard Institute of Space Studies, Climatic Research Unit (CRU), National Climate Data Center (NCDC) and the State Hydrological Institute (SHI) all show similar trends and magnitudes (Houghton, 2001). There is difficulty in assessing the reliability of the data. Earliest reliable data dates to the 1890s where measurements were made directly with thermometers, however coverage of the Earth was limited mainly to the Northern Hemisphere. Since 1979 we have satellite observations that cover most (but not all) of the globe on a regular basis. There is also suspicion of the effect described as the `Urban Heat Island' (Houghton, 2001). This holds that most temperature measurements are taken in or near cities and most cities are warmer than the surrounding areas because of heat production, heat retention caused by roads, and by smog. The urban heat island effect is a real climate
+
+8
+
+Global Warming
+
+Figure 2.3: Global Annual Mean Surface Air Temperature Change, [Source: Climatic Research Unit (2006)] change in urban areas, but is not representative of larger areas. This produces an uncertainty in modern measurements of ±0.06 K (Houghton, 2001). Other methods of determining surface temperature have been used. Analyses of underground temperature measurements from 358 boreholes in eastern North America, southern Africa and Australia indicate, in the twentieth century that the average surface temperature of the Earth has increased by about 0.5K and that the twentieth century has been the warmest of the past five centuries. The subsurface temperatures also indicate that the Earth's mean temperature has increased by about 1.0 K over the past five centuries. The geothermal data offer an independent confirmation of the unusual character of the twentieth century climate that has emerged from recent multi-proxy studies (Pollack et al., 1998) The Earth is not totally homogeneous and the hemispheres show different characteristics. The Southern Hemisphere has been called the `Water Hemisphere'. Therefore it would be reasonable if the globe exhibited different warming characteristics in the different hemispheres. In figure 2.4 the Earth is divided into three regions, everything North of the Tropic of Cancer, everything between the Tropics of Cancer and Capricorn and all of the Earth south
+
+2.2 Observed Climate Change
+
+9
+
+of the Tropic of Capricorn. As can be seen the most dramatic temperature rises have occurred in the Northern hemisphere with the smallest changes in the Southern Hemisphere.
+
+Figure 2.4: Annual Mean Surface Air Temperature Change by Latitude Bands, [Source: Goddard Institute of Space Studies (2006)] A major cause for this is due to the different specific heats of water and land. While very difficult to quantify the value for land, it can be shown that 145×1021 J of warming has increased the ocean temperature by 0.3 K (Levitus et al., 2000), while 9.1×1021 J of energy has warmed the land surfaces by 0.3 K (Beltrami et al., 2002). The northern hemisphere is 60.7% sea and 39.3% land, whilst the southern hemisphere is 80.9% sea and 19.1% land (Garrison, 1999). The land content of the northern hemisphere is twice the area of the southern hemisphere. As land warms more easily than water, it is reasonable to expect the northern hemisphere surface air temperature will warm faster than the southern hemisphere surface air temperature.
+
+10
+
+Global Warming
+
+For the northern hemisphere there was a cooling trend between the 1930s and 1970, and a warming phase, from the 1970s onwards. For the low latitudes the start of the warming phase occurred at the mid 1970s, early 1980s. For the southern latitudes there was a rapid warming from the mid 1960s to the early 1970s. From this time onwards there has been a lesser but consistent warming trend. Even though the Southern Hemisphere has less heating than the Northern Hemisphere, the most extreme heating has been occurring in Antarctica. Analysis of 50 meteorological records have since revealed warming on the Antarctic Peninsular and that a number of ice shelves have retreated. From times-series observations of the areal extant of nine ice shelves on the Antarctic Peninsula, it is seen that the five northerly ones have retreated dramatically in the last 50 years, while the ones further south have no clear trend. Comparison with air-temperature data shows that the pattern and magnitude of ice-shelf retreat is consistent with the existence of an abrupt thermal limit on ice-shelf viability, the isotherm associated with this limit having been driven south by atmospheric warming. The only climate parameter that is well mapped on the Antarctic Peninsula is the mean annual air temperature. Meteorological records along the west coast of the Antarctic Peninsula show a spatially consistent warming of  0.056 K/yr has been measured since 1946, giving a total rise between 1946­1996 of  2.5 K (Vaughan and Doake, 1996).
+
+2.2.2
+
+Ocean Warming
+
+An accurate measurement system for ocean temperatures has only recently occurred. Reports of the water temperatures went from less than 100 000 reports per year in 1860 to over 2.0 million a year in 1980. Antarctic sea surface temperature observations went from virtually none in 1860 to the tens of thousands per annum in the late seventies (Woodruff et al., 1987). Sea water temperature measurement coverage became widespread in much of the Atlantic and Indian Oceans during the nineteenth century. Much of the Pacific Ocean had sparse coverage until the 1930s. Many areas had a marked decrease in the availability of data of or around the two world wars. The opening of the Suez (1869) and Panama (1914) canals caused major changes in predominant shipping routes. In particular, after about 1914 far fewer ships circumnavigated Cape Horn, so that the measurement coverage decreased dramatically in the midlatitude southeast Pacific (Park et al., 1995) Observations since World War Two show that between 1948 and 1998 there
+
+2.2 Observed Climate Change
+
+11
+
+was a net warming of 0.06 C of the oceans' waters from the surface to a depth 3000 m. This is approximately 2×1023 J or a warming rate averaged over the entire planet of 0.3 Wm-2 downward radiative forcing. The temperature rise from the surface to 300m was 0.31 C or 1×1023 J of equivalent energy (Levitus et al., 2000). This shows that even though most warming is occurring in the shallow 0­300 m band, there is some warming occurring in the deep oceans. This is further supported by the thermal expansion of the oceans. Thermosteric sea level rises for the world ocean between 1955­2003, for the 0 to 700m layer has averaged 0.3 mm/year and between 1993­2003 has increased to an average height increase of 1.23 mm/year (Antonov et al., 2005). This supports the idea of a sudden increase of ocean temperature in recent times.
+
+2.2.3
+
+Continental Warming
+
+Until recently the heat gain by the land surfaces of the world had not been addressed. Land represents 29% of the Earth's surface and can therefore make a significant contribution to the total warming of the planet. Using temperature readings from 616 water boreholes in six continents, Beltrami et al. (2002) was able to determine that the continental lithosphere has been rising in temperature for the past 500 years, with the largest rises occurring between 1950­ 2000 and 1900­1950. Between 1950­2000 the continental lithosphere gained 9.1×1021 J in heat.
+
+2.2.4
+
+Troposphere Warming
+
+The air at the surface of the Earth tends to be the same temperature as the surface of the Earth to maintain thermal equilibrium. However the air bands above the surface of the Earth may behave in an independent manner. Defining the Troposphere as the atmosphere with a pressure of 850­300 mbar of pressure, (85.9­30.3 kPa), then for the whole Earth between 1958 and 1998 the surface of the Earth warmed 0.14 ± 0.13 K/decade and the troposphere warmed by 0.10 ± 0.09 K/decade (Angell, 1999). Yet again, the northern hemisphere and the southern hemispheres act differently. In the northern hemisphere, the surface warms considerably more than the troposphere. The Earth's surface experienced a temperature rise of 0.19 ± 0.14 K/decade, while the troposphere experienced 0.07 ± 0.09 K/decade. In the southern hemisphere it is the troposphere that warms faster than the surface. Surface warming of 0.09 ± 0.12 K/decade and troposphere warming of
+
+12
+
+Global Warming
+
+0.13 ± 0.12 K/decade are observed (Angell, 1999). Again this behaviour can be explained by the different specific heats of the Earth's crust and water.
+
+2.2.5
+
+Stratospheric Cooling
+
+For the atmosphere above approximately 10km a different trend has been observed. Lidar and rocket data available from specific sites show a cooling over most of the middle and upper stratosphere ( 30­50 km) of 1­2 K/decade since about 1970, with the amount of cooling increasing with altitude (Ramaswamy et al., 2001). Using northern midlatitudes, between 1979­1994, the cooling data are robust. For the low-stratosphere ( 16­21 km)the cooling is  0.6 K/decade. For the mid-stratosphere ( 20­35 km)the cooling is  0.75 K/decade and for the uppermost stratosphere there is an even greater cooling, for example at 50km the rate of cooling is  2.5 K/decade (Ramaswamy et al., 2001). Substantial cooling ( 3­4 K/decade) is observed in the polar lower stratosphere during late winter/spring time in both hemispheres (Ramaswamy et al., 2001). Simulations based on the known changes in the species' concentrations indicate that the depletion of lower stratospheric ozone is the major radiative factor in accounting for the 1979­1990 cooling trend in the lower stratosphere ( 0.5­0.6 K/decade), with a substantially lesser contribution by the well mixed greenhouse gases. Ozone loss is also an important causal factor in the latitude-month pattern of the lower stratospheric cooling trend. In the middle and upper stratosphere, both well mixed greenhouse gases and ozone changes contribute in an important manner to the cooling (Ramaswamy et al., 2001).
+
+2.2.6
+Glaciers
+
+The Cryosphere
+
+Over the years there has been a decline in the total amount of glaciation in the world (National Snow Ice Data Center, 2005) While there are some glaciers that have increased in size, the net glacier loss is shown in figure 2.5. This shows that even though in some years there has been a gain in the volume of glaciers, that between 1961 and 2004 there has been a net loss of 6 000 km3 of ice. With the density of ice as 917 kg/ m3 it follows that some 5.5×1015 kg of ice has been lost (Halliday et al., 1997).
+
+2.2 Observed Climate Change
+
+13
+
+Figure 2.5: Net decrease in Glaciers [Source: National Snow Ice Data Center (2005)]
+
+14 Land Snow and Sea-Ice
+
+Global Warming
+
+Of great concern to many climatologists is the decrease in sea-ice. Since Budyko (1969) and Sellers (1969), there has been an awareness that sea-ice, landice, glaciers and the polar ice caps can directly influence climate through the Snow-Ice Albedo Feedback mechanism. It is of interest then to determine the behaviour of sea-ice. In the Northern Hemisphere a thirty year satellite study showed that the Artic Sea Ice extent decreased by (0.30 ± 0.03)×106 km2 /decade from 1972 to 2002, but between 1979 to 2002 its loss rate had increased 20% to (0.36 ± 0.05)×106 km2 /decade (Cavalieri and Parkinson, 2003). More recently, the National Snow Ice Data Center (2005) for the fourth year in a row have tracked a stunning reduction in sea ice at the end of the northern summer as demonstrated in figure 2.6. Not only does the graph in
+
+Figure 2.6: Arctic, September Sea Ice extent trend, 1978­2005 [Source: National Snow Ice Data Center (2005)] figure 2.6 show the loss of over 1 000 000 km2 of sea-ice, but it shows that there may be an acceleration in that loss. According to Johannessen et al. (1999) there has been a 3% per decade reduction in the areal extent of the Arctic sea ice cover since 1978. Also there has been a 14% reduction in the multi-year ice cover between 1978­1998 (Johannessen et al., 1999). The largest decreases have occurred in the Kara and Barrents Seas, followed by the seas of Okhotsk and Japan, the Artic Ocean, Greenland Sea, Hudson Bay, and Canadian Archipelago. Regions showing an increasing yearly ice extent are
+
+2.2 Observed Climate Change
+
+15
+
+Baffin Bay/Labrador Sea, the Gulf of St. Lawrence and the Bering Sea, with only the increases in the Gulf of St. Lawrence being statistically significant at the 99% level (Parkinson et al., 1999). Not only is the area of Arctic sea-ice on the decline, but so is the thickness of the remaining sea ice. Comparison of sea-ice draft data acquired on submarine cruises between 1993 and 1997 with similar data acquired between 1958 and 1976 indicates that the mean ice draft at the end of the melt season has decreased by 1.3 m in most of the deep water portion of the Arctic Ocean from 3.1 m to 1.8 m. Preliminary evidence is that the ice cover has continued to get thinner in some regions during the 1990s (Rothrock et al., 1999). In the Antarctic the behaviour has been different. There was a dramatic decline in sea ice from 1973­1977 then it gradually increased. Total sea ice decline for the thirty year period is (0.15 ± 0.08)×106 km2 /decade. This includes a period of sea-ice increasing from 1979­1998 at the rate of (0.0112 ± 0.042)×106 km2 /decade (Cavalieri and Parkinson, 2003). Unfortunately there is little or no data from before 1973 so it is difficult to determine if the 1973­1977 sea-ice decrease was a one off event or part of a longer event. Antarctic sea-ice decline is not uniform across of Antarctica. Satellite derived data shows an increase in Antarctic sea ice of 4­10% per decade in the Pacific sector and -4­10% in the Bellinghausen/western Weddell sector (Liu et al., 2004). There are two classic views on Antarctic Sea Ice Changes: (1) sea ice cover decreases with warmer weather, and (2) sea ice cover increases with warmer weather. The later view assumes increased precipitation with warmer atmosphere results in more snowfall on sea ice and lower salinity in the surface ocean layer (Liu et al., 2004) In terms of spatial extent, seasonal snow cover is the largest single component of the cryosphere with a mean winter maximum area of 47 000 000 km2 , of which 98% is located in the Northern Hemisphere. Preliminary analysis of the 24 year trend in snow extent derived from visible and passive microwave satellite data indicates a decrease of approximately 3% to 5% per decade during spring and summer (National Snow Ice Data Center, 2005). This represents a loss of snow cover on the order of 4 500 000 km2 Ice Shelves Much has been made recently of the break up of Antarctic ice shelves. Not only do they represent a demonstration of the warming of the Antarctic (Vaughan and Doake, 1996), but also contribute to the Snow-Ice Albedo Feedback.
+
+16
+
+Global Warming
+
+Since 1974, seven Antarctic ice shelves have retreated by a total of 13 500 km . The most pronounced ice shelf retreat has occurred on the Larson Ice Shelf located on the eastern side of the Antarctic Peninsula's northern tip (National Snow Ice Data Center, 2005).
+2
+
+It is less widely known that ice shelves occur in the high Arctic and that these are also undergoing substantial contraction. The Ward Hunt Iceshelf, Nunavut, Canada contracted 90% during the period 1906­1982 by calving from its northern edge. Since then it has remained relatively stable, until recently when it collapsed and has been destroyed (Mueller and Vincent, 2003).
+
+2.3
+
+Energy Budget
+
+In order to understand the magnitude of global warning, a summary of the individual components are compiled. This allows us to calculate how much extra energy must be placed into the Earth system to account for all the observed effects.
+
+Atmospheric Warming We divide the atmosphere into three bands of interest. From 1013 mb to 850 mb is defined as surface air. Between 850 mb to 350 mb defined as troposphere and the atmosphere with a pressure of less than 136 mb is taken as the stratosphere. There is an unaccounted for region between 350 mb and 136 mb. This is the area between the warming of the troposphere and the warming of the stratosphere. Because of insufficient data it will be presumed that the cooling effects active in the upper levels cancel out any warming from the lower levels. The total mass of the atmosphere is 5.136×1018 kg (Lide, 2003) and using the pressures to define the various layers, the layers can be divided so that the surface air has a mass of 8.264×1017 kg, the troposphere 2.535×1018 kg and the stratosphere 6.895×1017 kg. Taking the specific heat of air as 1 000 J/kg/K (Kirkpatrick and Wheeler, 1995), it is now possible to work out how much energy the warming of each layer represents. The surface air temperature has increased 0.62 K between 1965 and 2003, therefore the change in energy is 5.124×1020 J. This is an increase of energy of 1.35×1019 J/year. The troposphere has been warming 0.10 ± 0.09 K/decade between 1958 and 1998. This is an increase of energy of 1.014×1021 J or 2.535×1019 J/year.
+
+2.3 Energy Budget
+
+17
+
+The stratosphere has been cooling at the dramatic rate of 0.6 K/decade and at much greater rates in the upper atmosphere. This produces a net cooling of -1.8 K or the equivalent of-1.24×1021 J between 1970 and 2000, or -4.137×1019 J/year. Surface warming According to Levitus et al. (2000) the warming of the oceans is equivalent to 2×1023 J. His latest assessment (Levitus et al., 2006) states that between 1955 and 1998 the world ocean heat content (0 ­ 3 000m) increased by 1.45×1023 J. This equates to an annual change of 3.37×1020 J/year. During 1950­2000 the continental lithosphere absorbed 9.1×1021 J which equates to 1.8×1020 unJ/year (Beltrami et al., 2002) With regard to the cryosphere, not only does ice require energy to be raised in temperature, but the phase change from solid to liquid requires a large input of energy. The latent heat of fusion for ice requires is 333 000 Joules/kg (Halliday et al., 1997) and the density of ice is nominally 917 kg/m3 (Halliday et al., 1997). For the purposes of the energy budget calculations we divide the cryosphere into glaciers, ice shelves and sea ice. The net retreat of glaciers between 1961 and 2004 and the net loss of 6 000 km3 , requires a total energy input of 1.7×1021 J or 3.9×1019 J/year National Snow Ice Data Center (2005). The loss of 13 500 km2 of ice shelves (National Snow Ice Data Center, 2005) represents a net energy gain of (0.412­2.47)×1021 J and a warming rate of (1.37­8.24)×1019 J/year. The Arctic sea-ice has reduced both in area and in thickness. Its area has reduced by  2 000 000 km2 between 1979 and 2005. Arctic sea-ice had an average thickness of 3.1m so this represents a gain in energy of 2×1021 J at a rate of 7×1019 J/year. The reduction in thickness of the remaining Arctic sea ice represents a net energy gain of 2.2×1021 J at a rate of 8.4×1019 J/year. The reduction of Antarctic sea ice represents a represents a net energy gain of 4.3×1020 J at the rate of 1.4×1019 J/year. The above is a first order approximation of the energy increase of the Earth between the 1970s and the early 2000s and is summarised in table 2.1. As can be seen from the calculation, the largest single component of warming is the amount of energy that is absorbed by the world's oceans. It is at least two orders of magnitude larger than any other single factor. The rate of change of energy in the Earth system is of the order of 3.6×1021 J/yr. This
+
+18
+
+Global Warming
+
+Table 2.1: A first order energy budget of the Earth for the period 1970 to the early 2000s. The total, is for the total of known warming during this period. Energy Input Energy (J) Rate of Change (J/year) Ocean (1955­1998) 1 450×1020 337×1019 20 Continental (1950­2000) 91×10 1.8×1019 Surface Atmosphere( 1965­2003) 4.8×1020 1.3×1019 Troposphere (1958­1998) 10×1020 2.5×1019 20 Stratosphere (1970­2000) -12×10 -4.1×1019 Glaciers (1961­2004) 17×1020 3.9×1019 Ice Shelves 14×1020 4.8×1019 20 Arctic Sea Ice (1979­2005) 20×10 7×1019 Antarctic Sea Ice 13×1020 4×1019 20 Thinning Arctic Sea Ice 22×10 8.4×1019 Total 1 600×1020 360×1019 corresponds to an instantaneous increase of heating of the whole Earth's surface of 0.22 W/m2 . This represents an increase of the mean solar constant of 0.06%. This is the budget for the static components of warming. There are other components due to the dynamic nature of the Earth, for example, the increased kinetic energy associated with a higher wind speed. Unfortunately there are no data available on the increase in the mean air speed increase of the Earth's atmosphere. Estimates of the change in kinetic energy of the Earth's atmosphere, from a mean speed of 10 m/s to 20 m/s, show the amount of kinetic energy would increase by 8×1020 J. This is two orders of magnitude less than the results from thermal effects and henceforth will be ignored as insignificant.
+
+2.4
+
+Greenhouse Gases
+
+To account for the observed rising in the Earth's temperature two main theories have been proposed. The politically acceptable theory is that of `Global Warming caused by Greenhouse Gases.' The theory proposes that the atmosphere acts as a `blanket' around the Earth. Visible and Ultraviolet light are absorbed by the Earth surface and are reemitted in the infra-red range due to black body radiation. Components of the atmosphere absorb the IR light at various frequencies. IR radiation from the atmosphere is considered isotropic. Some light is emitted to space, with the remainder transmitted back to the surface of the Earth. This acts as an additional heat input to the Earth and provides additional input in the atmosphere.
+
+2.4 Greenhouse Gases
+
+19
+
+The first scientist to note the warming effect of greenhouse gases in the atmosphere was the French mathematician Jean-Baptiste Fourier in 1827. He first pointed out the similarity between what happens with the glass in a greenhouse and the Earth's atmosphere. Around 1860 the British scientist John Tyndell measured the absorption of infrared by carbon dioxide and water vapour. Further, he proposed that the ice ages may have been caused by a decline in the greenhouse effect of carbon dioxide gas (Houghton, 2004). In Arrhenius (1896) published an article about the influence of carbon dioxide in the atmosphere upon the effect on surface temperatures. He states "a simple calculation shows that the temperature in the Arctic regions would rise 8 C to 9 C, if the carbonic acid increased to 2.5 to 3 times its present value." He also noted "The geographical annual and diurnal ranges of temperature would be partly smoothed away, if the quantity of carbonic acid were augmented." Arrhenius used this concept to explain why it was warmer during prehistoric periods (Arrhenius, 1896). In the year 1957, Roger Revelle and Hans Suess of the Scripps Institute of Oceanography, published a paper that stated that the buildup of carbon dioxide in the atmosphere was a large-scale geophysical experiment carried out by human beings. This was the first expression of concern that an increase of greenhouse gases could be causing a climate change (Houghton, 2004). The most important greenhouse gases are water vapour and carbon dioxide. Water vapour makes up 1% of the Earth's atmosphere by volume (Allen, 1997) and is strongly absorbing in the 0.8, 0.9, 1.1, 1.3, 1.8, 2.3­3.3, 5.0­8.0 and 15100 µm bands (Peixoto, 1992). These correspond very strongly to the infrared portion of the solar input and to the blackbody radiation of the Earth. Carbon dioxide composes 0.003% of the Earth's atmosphere by volume (Allen, 1997) and is strongly absorbing in the 3.0, 4.0 and 13.0­18.0 µm bands (Peixoto, 1992). Of these the 13.0­18.0 µm band corresponds to the Earth's black body radiation. Other greenhouse gases include methane, nitrous oxide, CFC-12, CFC-11 and carbon tetrachloride. These and the other lesser gases are measured in parts per trillion in the atmosphere (Houghton, 2001) and are, in total, seven orders of magnitude less in volume than water and five orders of magnitude less than carbon dioxide. The greenhouse gases absorb infrared radiation and re-radiate the infrared radiation. There is a clear sky downward radiative forcing to the Earth due to the greenhouse effect of 125 W/m2 . Of this 60% is from water vapour and
+
+20
+
+Global Warming
+
+26% is from carbon dioxide, 8% is from ozone and the remaining 6% is from all other effects (Kiehl and Trenberth, 1997). While water vapour is the most important greenhouse gas, it is also the least recorded. There are no historical records for the Earth's mean water vapour content. While there is a satellite record from 1979 onwards, it is incomplete. There are no commonly used proxy methods to determine historical water vapour pressure. While water vapour feedback is considered important in modelling, there is little or no historical data to base the models' water vapour feedback mechanisms upon. Therefore most models model the change in carbon dioxide and methane content in the absence of any historical data. Recent modelling shows an increase of radiative forcing by the increase of industrial gases of +2.42 W/m2 but does not ascribe any value to radiative forcing by water vapour (Houghton, 2001). The IPCC reports also considers stratospheric ozone a greenhouse gas. According to (Houghton, 2001), the cooling of the stratosphere is caused be the loss of greenhouse effect caused by the decrease in stratospheric ozone. The report ascribes a change of radiative forcing of -0.15 ± 0.1 Wm-2 for the period 1979 to 1997. With a negative forcing effect due to ozone loss, one would expect the greatest surface cooling due to this effect to occur where the ozone loss is the greatest, namely at high latitudes and over the South Pole during the ozone hole. These cooling effects have not been reported. We conjecture, this is related to the sensitivity issues associated with GCMs as detailed in section 6.4.4.
+
+Figure 2.7: Carbon dioxide mixing ratio and temperature for the last 160 000 years. [Source: Barker and Ross (1999)]
+
+2.5 Solar Irradiance
+
+21
+
+Figure 2.7, shows a historical record of the mean temperature of the Earth from 160 000 years ago until 1991. The graph shows that there is an apparent relationship between carbon dioxide and temperature between 150 000 and 10 000 years ago. The resolution is not fine enough to distinguish which event is the cause and which is the effect. Extending the Vostok ice core records back to 450,000 years ago shows a similar relationship with a similar conclusion (Petit et al., 1999). This does not resolve whether the increase in carbon dioxide caused an increase in temperature, or the increase in temperature caused an increase in carbon dioxide. Between the period of 1881­1991 there appears to be no direct relationship between temperature and carbon dioxide. The theory of Arrhenius shows that an increase in carbon dioxide in the atmosphere results in an increase in the atmospheric temperature. Scientists such as Soon et al. (1999) conclude that "There is no clear evidence, nor unique attribution, of global effects of anthrogenic CO2 on climate." Indeed, a careful statistical study of the correlation between ocean temperatures and carbon dioxide in the atmosphere carried out over a thirty year period (1958­ 1988) by Kuo et al. (1990) of the Bell Telephone Laboratories indicates that during this time that the temperature and atmospheric carbon dioxide are strongly significantly correlated and a rise in carbon dioxide follows a rise in temperature by five months. The main proponents of the greenhouse gas theory of global warming, the Intergovernmental Panel on Climate Change ascribe a radiative forcing value of 2.42 W/m2 to the increase of well mixed greenhouse gases Houghton (2001, P. 351). Compared to the energy budget determined earlier in this chapter, this is an increase of a magnitude larger than has been observed.
+
+2.5
+
+Solar Irradiance
+
+An alternate theory has been proposed that links variations in Earth's temperature to variation in solar output. If there is a higher solar input into the Earth system, then the temperature should increase. A decline in solar input implies a corresponding decline in the Earth's temperature. A reconstruction of temperature versus solar irradiance perpendicular to the top of the atmosphere is given in figure 2.8. As can be seen while there is a good relationship solar radiation and temperature except around 1830 and 1890. These correspond with the eruptions of Mount Tambora in 1815 and Karkatoa in 1883.
+
+22
+
+Global Warming
+
+Figure 2.8: Solar Irradiance versus Temperature. The light solid line represents the global mean temperature as reconstructed using proxies. The light dashed line represents temperatures directly recorded and the dark line represents the solar radiation. [Source: University of Leeds (2005)]
+
+For 20 South to 60 North a depth weight average temperature was produced (DVT). Basin and global averages of these DVT changes reveal decadal and interdecadal variability in phase across the Indian, Pacific, Atlantic and global oceans, each significantly correlated with changing solar radiative forcing at a lag of 0 ± 2 years. Decadal and interdecadal changes in global average DVT are 0.06 ± 0.01K and 0.04 ± 0.01K respectively. The same as those expected in response to 0.1% changes in the solar radiative forcing of 0.2 W/m2 and 0.15 W/m2 suggesting that natural modes of Earth's variability are phase locked to the solar irradiance cycle (White et al., 1998) If the increase of solar activity is a cause of the increasing temperature on Earth then by the nature of the sun being the primary energy source for the Earth, it seems reasonable that other bodies where the sun is the primary energy source may also be experiencing global warming. Global warming may also have been observed on Mars (Bougher et al., 2006), (Savijarviand et al., 2005), on Neptune's moon Triton (Buratti et al., 1999), (Elliot et al., 1998) and Pluto (Hunter, 2002). A climate sensitivity of 2 K per 1% change in solar forcing can be identified for the period 1700­1800. Using this sensitivity over the last 140 years would
+
+2.6 Snow-Ice Albedo Feedback
+
+23
+
+lead to an increase in surface temperature of 0.26K. Over the last 25 years the climate sensitivity deduced for the period 1700­1800 can explain less than onethird of the observed temperature increase (University of Leeds, 2005). The total increase of radiative forcing due to solar variations from 1750 to 2000 is 0.3 W/m2 (Houghton, 2001). The energy budget determined earlier this is shows that for the period 1950 to 2005 there is required an instantaneous increase of energy of 0.3 W/m2 . This shows that these two figures are in the same magnitude of rise and within a factor.
+
+2.6
+
+Snow-Ice Albedo Feedback
+
+The loss of 1 950 000 square kilometres of sea ice and 4 500 000 square kilometres of snow cover could make an enormous contribution to the Earth's energy budget. According to Kiehl and Trenberth (1997) 58% of sunlight reaches the surface of the Earth. Of that reaching the some is reflected back into space, that amount being determined by the reflectivity, or albedo, of the Earth. Albedo for new snow can be as high as 98% and for older snow down to 52%. The Albedo of ice can be as low as 2%­20%, but is more normally between 50%­95% (Kondratyev et al., 1981). For this study we will conservatively use an albedo of 60% or 0.6 for snow and ice albedo. We will also conservatively estimate that the snow and ice are melting at 60 longitude. The average albedo of water at 60 N and 60 S is 0.134 (Kondratyev et al., 1981). Using spherical trigonometry, from Peixoto (1992), it can be determine at 60 the mean annual solar constant is 237 W/m2 , of which 58% or 137 W/m2 reaches the surface. For sea ice there is a change in albedo from 0.60 to 0.13 for a change of 0.47. This represents a change of 0.47 × 137 W/m2 = 65 W/m2 being absorbed by the oceans of the Earth. The total amount of additional energy entering the system will be equal to the area of missing sea-ice multiplied by the average increase per square metre times the time. The total extra energy in for one year with a reduction of 1 950 000 square kilometres of sea ice is therefore 4.00×1021 J/year or 0.25 W/m2 for the entire planet. The first order energy budget shows that an average increase of 0.22 W/m2 is required to account for the increase of observed temperature.
+
+24
+
+Global Warming
+
+2.7
+
+Conclusions
+
+We conclude that warming of the mean Earth surface atmosphere temperature has occurred over the last five hundred years. This warming has been most noticeable since the 1970s. The causes of the warming are controversial. Greenhouse proponents suggest that increase in carbon dioxide is responsible, however there is little independent data to support this. Solar variation proponents advocate that solar activity increases the temperature, yet is not the complete solution. Since the mid 1970s there has been warming of the surface air temperature in both the northern hemisphere and the equatorial region. The southern hemisphere has exhibited similar warming trends since the mid 1960s. Arctic sea ice has been of the decline since the 1970s. In the Antarctic there was a large sea ice melting phase that ended in the late 1970s. Glacier loss increased from the 1970s onward. Cooling of the stratosphere has been observed since the 1970s. Where there is data of high enough resolution there appears to be a major warming occurring since the late 1960s, early 1970s. Using a budget of the energy absorbed in recent years it can be seen that the total energy absorbed (not counting kinetic events) is 1.6×1023 J. This is at the rate of 3.6×1021 J/year or at an average instantaneous rate of 0.22 W/m2 . Two major theories have been proposed for this increase. By modelling the greenhouse gas theory shows that additional greenhouse gases produce an average instantaneous increase of energy at the rate of 2.42 W/m2 . The solar irradiance theory has measured an increase in average instantaneous energy of 0.30 W/m2 . Snow-Ice albedo feedback by itself can be contributing and increase of average instantaneous increase of 0.25 W/m2 . The observed increase in average instantaneous energy input is 0.22 W/m2 . The total increase due to global warming theories is 2.97 W/m2 . There is obviously an inconsistency between these results. One possible reason for this inconsistency is that the quantities determined for greenhouse gases and for solar irradiance change are modelled while the figure for an albedo change is determined more directly. However these results are not complete as there has been one other major change in the Earth/atmosphere system that could also cause an increase of energy absorbed at the surface.
+
+Chapter 3 Ozone Depletion
+3.1 Overview
+
+In the upper atmosphere ozone is an important component. While present in small quantities, it absorbs large quantities of ultraviolet radiation. In recent years there has been a change in the atmosphere. Initially open air nuclear weapons testing caused a reduction in the amount of stratospheric ozone and more recently there has been a reduction caused by chlorofluorocarbons.
+
+3.2
+
+Ozone and its chemistry
+
+Ozone (O3 ) is found in minute quantities throughout the atmosphere with the largest concentrations in the lower stratosphere between 12 and 30 km. The maximum concentration is at about 25 km. Approximately 90% of the ozone is found in the stratosphere with the remaining 10% found in the troposphere. Ozone plays an important role in the biosphere by absorbing the solar radiation that would otherwise reach the Earth's surface. The resulting heating of the upper atmosphere leads to a temperature increase with height in the stratosphere and a maximum value of about 270 K near the stratopause. In the stratosphere, ozone results from the photodissociation of molecular oxygen by solar ultraviolet radiation and the subsequent recombination reaction between atomic and molecular oxygen in the presence of another molecule (Peixoto, 1992). Ozone in the stratosphere can be destroyed by nitrous oxide, a hydroxyl group, chlorine, iodine or bromine. Chlorine can attack ozone in the following reaction sequence: 25
+
+26
+
+Ozone Depletion
+
+Cl + O3  ClO+O2 ClO +ClO  Cl2 O2 Cl2 O2 + hv  Cl +ClOO ClOO + O  ClO+O2
+
+(3.1) (3.2) (3.3) (3.4)
+
+giving a net destruction of 2O3  3O2 . A chlorine atom may be involved in as many as 100 000 ozone destroying cycles before being sequestered into less active reservoir species (de Mora et al., 2000). One of the primary sources of chlorine in the stratosphere is through the production and release of chlorofluorocarbons (CFCs). CFCs were first produced in the 1930s. They found a wide variety of uses such as refrigerant, propellants in aerosol cans, cleaning compounds and blowing agents for foam manufacturing. Since the introduction of CFCs, their concentration in the atmosphere, in general, have shown a steady increase, with a corresponding decrease in stratospheric ozone. Molina and Rowland first proposed the role of CFCs in the destruction of stratospheric ozone in 1974. They shared the 1995 Nobel Prize for chemistry with Paul Cruzten (de Mora et al., 2000).
+
+3.3
+
+Where has all the Ozone Gone?
+
+With chlorofluorocarbons destroying the stratospheric ozone, it became important to know where these losses occur and how much ozone is missing. The standard unit for measuring atmospheric ozone is the Dobson Unit (DU), named after Gordon Dobson. 100 DU are defined as being an ozone layer 1 mm thick at 0 C and 1 atm pressure (de Mora et al., 2000). Therefore 1 DU is the equivalent of 2.6867×10+20 molecules per square metre, or 4.4615×10-04 mol/m2 or 2.1415×10-05 kg/m2 (Global Monitoring for Environment and Security Services, 2006). As ozone is created by the interaction between ultraviolet light and oxygen, one might expect to find the highest concentrations of stratospheric ozone at low latitudes and high altitudes where solar irradiance is the strongest. In fact ozone levels at the equator are relatively uniform at about 260 DU whereas ozone levels above high latitudes in the southern hemisphere can reach a maximum of 350 DU and in the northern hemisphere can reach a maximum of 450 DU. This pattern is a result of a naturally occurring ozone transport mechanism that redistributes high altitude ozone-rich air from
+
+3.3 Where has all the Ozone Gone? the tropics to lower altitudes in the polar regions (de Mora et al., 2000).
+
+27
+
+In 1957, a network of ground-based instruments for continuous monitoring of ozone using the measuring technique pioneered by Dobson was established worldwide. This Dobson network is still operational and between 1979 and 1994 showed decreases in ozone in the equatorial region of -1.7% ± 0.9%, for the mid northern latitudes of -7.3% ± 1.3% and for the mid southern latitudes of -4.8%±2.1%. All uncertainties are to 95% confidence (±2) (World Meteorological Organisation, 1994b). Independent research using Solar Backscatter Ultraviolet spectrometers show a decrease in ozone between 1979 and 1994 for the equatorial regions of -2.7% ± 2.2%, for the mid northern latitudes of -7.0% ± 2.7% and for the mid southern latitudes of -7.4% ± 2.3%. Again all uncertainties to 95% confidence (±2) (World Meteorological Organisation, 1994b). Since then factors beside CFCs have also been at work. In the top panel of figure 3.1, it is interesting to note the low values of O3 leading up to 1970. These are related to the open air nuclear testing between 1962 and 1970. For the northern polar regions the ozone cover reduces up to 9% (Rowland, 1991). Figures are not given for the southern pole in relation to nuclear testing. The lowest values of ozone occurred following the volcanic eruption of Mount Pinatubo in 1991 (Ennis, 1994). Even discounting this as a one off event, by 2002 the total amount of stratospheric ozone had decreased nearly 4% compared to the average value for 1964 to 1980. It is also shown in the lower panel of figure 3.1 that there is virtually no change in ozone at the equatorial regions, but ozone loss increases as one approaches the poles, with the greatest ozone loss occurring near the south pole. In the period pre-1980 to 1997­2001, average ozone decreased by about 3% in the northern middle latitudes (35 N­ 60 N) and about 6% in the southern middle latitudes (35 S­60 S) (Ennis, 1994). Farman et al. (1985) discovered the Antarctic Ozone Hole. The `Ozone Hole' is a region in the Antarctic where and when there is a sudden reduction in the amount of stratospheric ozone. Since the discovery of the ozone hole, the depletion of polar stratospheric ozone has been a major concern of atmospheric research. Figure 3.2 shows the ozone column at the Halley Bay Research Station (75 35'S 26 34'W) during the month of October between the years 1956 and 1994. This demonstrates a decrease in stratospheric ozone from 325 DU for 1956 to 1966, to 125 DU in 1994. This represents a total loss in the stratospheric ozone of over 60%. Figure 3.3 graphically illustrates the
+
+28
+
+Ozone Depletion
+
+Figure 3.1: Global total ozone changes. [Source: Ennis (1994)]
+
+3.3 Where has all the Ozone Gone?
+
+29
+
+Figure 3.2: Total measured ozone at Halley Bay Station [Source: Centre of Atmospheric Research (2006)]
+
+30
+
+Ozone Depletion
+
+locations of ozone during the third of October 1994, this year being of interest as it is the year of greatest ozone loss in the observed time period. These data were obtained from satellites using the Total Ozone Mapping Spectrometer (TOMS). It shows low levels of ozone over the Antarctic continent as well as the surrounding ocean. It is of interest to note the high ozone values in the latitudes of New Zealand and Chile. Antarctic ozone depletion is seasonal occurring in late winter and spring (August to November). Peak depletion occurs in October. The area of the ozone hole (Total Ozone < 220 DU) has reached 25 000 000 km2 . This is nearly twice the area of the Antarctic continent. Minimum values of ozone within the ozone hole have fallen as low as 100 DU. This compares to normal springtime values of approximately 300 DU (Ennis, 1994). The average total ozone for the polar regions is shown in figure 3.4. Again this clearly shows the loss of ozone between 63 S and 90 S. It also demonstrates that in the Arctic region there has also been a reduction in the ozone in most years after 1982. While this amount is not as dramatic as in the Antarctic regions it is still measurable. In 1997, the year of the largest ozone loss, there is an average reduction of ozone of 22%. As is illustrated in figure 3.5 the major loss of ozone in the ozone hole occurs between the altitudes of 12 to 22 km. Between 13 to 20 km there is an almost total destruction of ozone.
+
+3.4
+
+Goodbye Ozone, Hello UV-B
+
+It has been observed that the Earth now has an overall reduction in stratospheric ozone. But does this reduction in ozone have any effects? UV wavelengths are divided into four categories: vacuum UV (< 200 nm), UV-C (200­280 nm), UV-B (280­320 nm) and UV-A (320­400 nm). Vacuum UV and UV-C are completely absorbed in the atmosphere and do not reach the Earth's surface. UV-A is not significantly affected by ozone. UV-B wavelengths are differentially absorbed by stratospheric ozone (Karentz, 1991) For wavelengths of greater than 340 nm, an ozone reduction has no impact upon absorption. However at a wavelength of 325 nm, a decrease in ozone from 315 to 110 DU is accompanied by a 2.2 increase in irradiance and at 305 nm the corresponding enhancement is a factor of 14 (Frederick and Snell, 1988) The relationship between UV-B light received at the surface of the Earth and ozone level can clearly be seen in figure 3.6. This graph shows the solar
+
+3.4 Goodbye Ozone, Hello UV-B
+
+31
+
+Figure 3.3: The Ozone Hole 3/10/94 [Source: Centre of Atmospheric Research (2006)]
+
+32
+
+Ozone Depletion
+
+Figure 3.4: Average total ozone in the polar regions [Source: Ennis (1994)]
+
+Figure 3.5: Arctic and Antarctic Ozone distribution by altitude [Source: Ennis (1994)]
+
+3.4 Goodbye Ozone, Hello UV-B
+
+33
+
+Figure 3.6: Comparison of solar UV-B irradiance and total ozone [Source: Roy (1990)] noon UV-B irradiances for 285­315nm, taken over several clear sky days during December 1987 and January 1988 in Melbourne, Australia. It illustrates the strong relationship between ozone depletion and an increase of UV-B reaching the surface of the Earth. Roy (1990) performed a more detailed examination of the data from the 10th and 14th December 1988 and concluded that a 10.5% decrease in ozone concentration resulted in an 11.9% increase in UVB irradiance. Hence at this latitude a decrease in ozone of 1% produces an increase of incident UV-B by 1.1%. In absolute terms, the maximum change in ozone from 320 DU to 265 DU produced an increase of UV-B irradiance of 0.54 W/m2 , or a change of 0.034 W/m2 per 1% decrease in stratospheric ozone. In the Antarctic the changes in UV-B are even more dramatic due to the larger loss of ozone. However there are no data available to compare groundlevel UV intensities from before 1988 with present day irradiances (Karentz, 1991). In 1987 the National Science Foundation UV Monitoring Network was established and installed spectrometers in the Antarctic in 1988. As the ozone hole was first reported in 1985 and monitoring of UV irradiance was not measured until 1988 there is no direct control data. With a decrease of ozone there is an increase of ultraviolet light reaching the Earth's surface. The increase in UV radiation for a 1% decrease in stratospheric ozone is given in figure 3.7. As can be seen the largest absolute increase in UV is when the sun is directly overhead with a zenith angle of 90 . The increase in surface UV-B decreases sharply with the Zenith angle. The reason for the large relative reduction in the UV spectrum with respect to the zenith
+
+34
+
+Ozone Depletion
+
+Figure 3.7: Increases in UV radiation in response to a 1 percent decrease in the total ozone column near 300 DU (1 DU = 2.69×1020 molem-2 ). Solid lines (right scale) give spectral irradiance changes, dotted lines (left scale) give percent changes. Values are for overhead sun (thick lines) and for a solar zenith angle of 70 (thin lines) [Source: World Meteorological Organisation (1994a)] angle is twofold. Firstly there is an enhancement of scattering. Rayleigh scattering in the atmosphere is inversely proportional to the fourth power of the wavelength and is therefore more effective in the UV region. Due to the longer path travelled through the atmosphere due to a lower zenith angle there is an increased probability of scattering occurring. Scattering may redirect the photon into space or may enhance the probability of absorption by ozone and oxygen molecules. Secondly, there is an enhancement of absorption by ozone and oxygen molecules, due to the longer lengths travelled (de Mora et al., 2000). As seen in figure 3.5 much of the stratospheric ozone has been destroyed with an almost total destruction occurring between 13 to 20 km. Therefore much of the extra energy is absorbed by the troposphere or the surface. Integrating under the curve of figure 3.7 shows an absolute increase of 45 mW/m2 for a decrease in 1% ozone with an overhead sun and an increase 10 mW/m2 when the sun is at 70 . The losses of ozone for the Antarctic Ozone are much higher than 1% and the change in light reaching the surface under the 1992 and 1987 ozone holes are illustrated in figure 3.8. The Centre for Atmospheric Science at Cambridge University has calcu-
+
+3.4 Goodbye Ozone, Hello UV-B
+
+35
+
+Figure 3.8: Change in solar intensity caused by the 1992 Ozone Hole. The Solid line represents the change in 1992, the dashed line represents 1987. [Source: Centre for Atmospheric Research (2006)]
+
+lated the magnitude of the increase of solar irradiance caused by the presence of the ozone hole. Figure 3.8 shows the increase of solar intensity under the ozone hole in 1992 and 1987. The lines represent the difference in light intensity reaching the surface under the observed ozone holes in the given years and the light intensity that would occur if there were an unbroken ozone cover. There is a dramatic increase in the amount of ultraviolet reaching the surface of the Earth centred around 315nm. Underneath the 1992 ozone hole the UV-B intensity is almost twice as strong as underneath the 1987 ozone hole. Underneath the 1992 ozone hole, nearly two thirds of the whole solar UV-B radiation is reaching the Earth's surface (Centre for Atmospheric Research, 2006). Using data from the National Science Foundation UV Monitoring Network it is possible to determine that the maximum changes in UV-B at local noon due to the ozone hole are 0.49 W/m2 at the South Pole (90 00'S), 0.96 W/m2 at Palmer Station (64 03'W,64 46'S) and 0.96 W/m2 at McMurdo Station (166 40'E, 77 51'S). This represents an increase in the total solar radiation reaching the surface of the Earth of approximately 0.15% under the ozone hole.
+
+36
+
+Ozone Depletion
+
+3.5
+
+Conclusions
+
+From the above data there is a consensus that there is a reduction in the total amount of ozone in the stratosphere. There is a very large reduction in ozone over the Antarctic in the spring months. This reduction occurs primarily in the stratosphere. Also there is consensus that because of the reduction in ozone there is an increase of UVB light reaching the surface of the Earth. Currently many scientists are concerned about the biological impact of increased UVB on organisms, for example. ( World Meteorological Organisation (1994a), Karentz (1991), de Mora et al. (2000)). Nobody has extensively studied the warming and climate effects caused by the increase in UVB reaching the surface of the Earth and being absorbed by the troposphere. Globally there was an ozone depletion event in the 1960s caused by nuclear weapons. There has also been a strong global ozone depletion trend from the 1980 onwards, however at the Antarctic there is evidence of ozone depletion since the late 1960s. Comparing global warming data with ozone depletion data it can be seen that there was a raising in the surface air temperature from the late 1970s onwards. Since the late 1970s there has also been a rapid decrease in the world ozone. Global warming may be happening faster in the polar regions than anywhere else in the world. Ozone depletion is happening to the greatest degree in the polar regions. While there is a belief that these two events are not related,this should not deter researchers from determining conclusively if there is a causal relationship.
+
+Chapter 4 The Three Layer Model
+4.1 Overview
+
+The two approaches to determining the energy fluxes produced in a system are to measure them experimentally or to model them. Models can be actual physical constructions, simple analytical mathematical constructions or numerical constructions. It is apparent that the Earth's weather system is not a steady state system but is in fact a chaotic dynamic system. With improving technology, especially with the use of satellites, it is now possible to accurately measure data from much more of the Earth's surface, however data coverage is still incomplete. Because of the size, complexity and chaos inherent in the climate systems of the Earth, a direct measurement of the heat fluxes is impractical, if not impossible. The most common approach to determine heat fluxes, and thus the Earth's climate, is to use mathematical models. As the Earth is a large chaotic system that cannot be modelled in its entirety, we should note the observation of the medieval English philosopher and Franciscan monk William of Ockham (circa 1285­1349),"Pluralitas non est ponenda sine neccesitate" or "plurality should not be posited without necessity" (Carroll, 2006). In the use of models the aim should always be to find the simplest model that produces an accurate simulation of what is observed and produces observable predictions from the given data. In this chapter, we develop mathematical models to test global warming theories. The four theories to be tested are greenhouse gas emissions, solar irradiance, the rise in temperature due to ozone depletion and snow-ice albedo feedback. While the last theory cannot of itself be the cause of global warming it is of interest to see the effect of a decrease in planetary albedo. 37
+
+38
+
+The Three Layer Model
+
+4.2
+
+A One Layer Model
+
+The simplest model of the Earth energy system is to model the system as a blackbody radiator. In this model it is assumed that all of the energy output from the Earth is radiated into space. The equation that describes the amount of radiation from a blackbody was discovered empirically in 1879 by Joseph Stefan and derived theoretically in 1884 by Ludwig Boltzmann (Tipler, 1991). This is the Stefan-Boltzmann law that states P = AT 4 (4.1)
+
+where P is the power radiated,  is the emissivity of the object,  = 5.6705×10-8 Wm-2 K-4 is the Stefan-Boltzmann constant, A is the surface area and T is the absolute temperature. In steady state the power Pin into a blackbody radiator equals the power out, Pout . Modelling the Earth as a perfect blackbody radiator with  = 1, A = 1 m2 and P = 342 Wm-2 being the mean solar energy received at the top of the Earth's atmosphere, and solving equation 4.1 for temperature gives the temperature of the Earth as 279 K. A best estimate of the absolute global mean surface temperature of the Earth during the period 1961­1990 is 287.15 K ± 0.12 K(2) (Lide, 2003). The simple blackbody model using the actual solar input gives a temperature within 3% of the accepted value. There are problems with the above grossly simplistic model. The first is that the Earth is not a perfect absorber of energy. Approximately 35% of all the energy the Earth receives is reflected directly back into space. So we must modify the incoming power to the system to be Pin (1 - ), where  is the albedo of the Earth. At steady state, the Stephan-Boltzmann law becomes Pin (1 - ) = AT 4 (4.2)
+
+This adjusted formula yields a mean surface temperature of 251 K. This represents a model error of 15%. One partial solution to this is that the Earth is also not a perfect emitter of radiation and has an emissivity of approximately 0.95 at the surface. Applying this to the temperature equation produces a result of 253 K. This is an insufficient improvement to call this the simplest reasonable model. The factor that limits the applicability of this model to the Earth is the Earth's atmosphere. The trouble is that it is the upper atmosphere that radiates to space, therefore the one layer model gives the temperature of the upper
+
+4.3 A Two Layer Model
+
+39
+
+atmosphere rather than at the surface of the Earth. It is at the surface of the Earth that the most useful and easily obtained data exists, thus predicting the temperature at the surface of the Earth is of importance.
+
+4.3
+
+A Two Layer Model
+
+Constructing a two layer model of the Earth allows for the difference in temperature at the top of the atmosphere and the Earth's surface. The first person to use a two layer model for the Earth­atmosphere system was Arrhenius (1896), who makes use of the fact that the radiation involved can be divided into two separate spectral regions, the visible-ultraviolet(UV) and the infrared(IR). Kittel and Kroemer (1980) makes reference to the two layer model but leaves it as a problem to solve. In Knox (1999) a full two temperature two layer model is presented and explained. We note that the primary source of all energy is the sun. A significant simplification used in the model is achieved by considering the nature of the radiation emitted from the sun and the Earth. Modelling the sun and the Earth as blackbody radiators, it can be determined that the wavelengths and amount of light emitted from these bodies are as shown in figure 4.1.
+
+Figure 4.1: The blackbody spectrum of the Sun and the Earth. The blackbody spectrum of the Sun is assumed to be 5 800 K and the Earth 288 K. This plot expresses the distributions in terms of flux density per bandwidth, with the sun's distribution scaled to unity. The 288 K curve has been multiplied by a factor of 7 000 [Source: Knox (1999)] The sun itself is modelled as blackbody radiator with a surface temperature of 5 800K. It can be seen in figure 4.1 that the energy transmitted with the
+
+40
+
+The Three Layer Model
+
+greatest power output is centred at a wavelength of 889 nm. The Earth's black body radiation is centred around 10 µm. Choosing 3.1 µm as the boundary between UV and IR, then 2% of the 5 800 K radiation lies in the infrared and 0.008% of the 288 K radiation lies in the visible-UV region (Knox, 1999). Because of the very strong division at this point, we assume that all the incoming radiation is UV/visible light and all outgoing radiation emitted by the Earth is IR light and the UV radiation can be treated separately from the IR radiation. The two layers are the Earth's surface and the atmosphere (Knox, 1999). To these are assigned parameters that describe the interaction of the UV/Visible light and infrared light with the layer. The model uses only six independent variables, as listed in Table 4.1. Table 4.1: Parameters in Knox's two layer model. Definition reflectivity of the atmosphere reflectivity of the Earth's surface, absorptivity of UV radiation by the atmosphere, absorptivity of IR radiation by the atmosphere, a non-radiative heat transfer from the surface to the atmosphere, the solar input.
+
+Symbol ra rs f g h So
+
+The upper layer of the model represents the atmosphere. This has the properties of reflecting a portion of incident sunlight, ra directly back into space and of absorbing the fraction (1 - ra )f of the entering UV radiation. The absorption of the radiation occurs only after the portion of the incoming radiation ra is reflected, hence the term (1 - ra ) in the absorption fraction. The atmosphere also absorbs a fraction g of IR light radiated from the lower layer. The lower level of the system is the Earth's surface. This has an albedo given by its reflectivity, rs . The solar input, So is the amount of radiation incident on the Earth/atmosphere system from the sun.
+
+4.3.1
+
+The UV entering the system
+
+The solar input So can be determined using basic geometry. Measurements for the incident sunlight perpendicular to the top of the atmosphere have varied in satellite missions from about 1 365 to 1 373 Wm-2 . We will assume a solar constant of 1 367 Wm-2 (Kiehl and Trenberth, 1997). Dividing by the crosssectional area the Earth presents to the solar radiation gives the mean solar radiation for the globe as 342 Wm-2 . Solar energy enters the upper layer
+
+4.3 A Two Layer Model
+
+41
+
+of the model. A proportion ra of the energy is reflected directly back into space. Of that proportion that is not reflected, (1 - ra )f , is absorbed. The remainder, (1 - f )(1 - ra ), is transmitted to the Earth. A fraction of the UV light arriving at the Earth's surface is reflected upwards from the surface of the Earth, whilst the remainder, (1 - rs ), is directly absorbed by the earth. Of the light reflected by the Earth a portion is then absorbed by the atmosphere, a portion is transmitted and a portion is reflected downwards, back to the Earth, and so on. The proportion of light reaching the surface is (1 - ra )(1 - f ). Hence a fraction (1 - ra )(1 - f )rs of the incident sunlight is reflected by the surface and (1 - ra )(1 - f )(1 - re ) is absorbed. Of the light that reflected off the Earth's surface a total proportion,(1 - ra )(1 - f )rs ra is reflected back downwards from the atmosphere to the Earth giving another portion (1 - ra )(1 - f )(1 - rs )rs ra , absorbed at the Earth. There may be many reflections between the atmosphere and the Earth and the total amount of energy absorbed is the summation of this infinite series. The light absorbed by the Earth's surface, can therefore be written as UE = So (1 - f )(1 - ra )(1 - rs )[1 + rs ra + (rs ra )2 + . . . ]
+
+
+= So (1 - f )(1 - ra )(1 - rs )
+0
+
+(rs ra )m 1 1 - r a rs (4.3) (4.4)
+
+= So (1 - f )(1 - ra )(1 - rs )
+
+= So (1 - f )(1 - ra )(1 - rs )km where km =
+
+1 1 - ra rs
+
+(4.5)
+
+is the sum of the geometrical series. This factor appears in subsequent formulae. We require also the amount of radiation absorbed by the atmosphere. We have already noted above a fraction (1 - ra )f of sunlight is absorbed. Also absorbed is that portion that is reflected by the surface then interacts with the atmosphere. A portion is then reflected downwards, (1 - f )(1 - ra )rs ra , a portion, f (1 - f )(1 - ra )2 rs is absorbed, the remainder radiates to space. In this case too, the reflections form an infinite series and the radiation absorbed
+
+42 by the atmosphere is given by
+
+The Three Layer Model
+
+UA = So (1 - ra )2 (1 - f )rs f [1 + (ra rs ) + (ra rs )2 + ...] = So (1 - ra )2 (1 - f )rs f km
+
+(4.6) (4.7)
+
+with km as given above. Including the initially absorbed radiation results in the total radiation absorbed by the atmosphere as UA = [f + f (1 - ra )km rs (1 - f )](1 - ra )So The remaining UV is returned to space. (4.8)
+
+4.3.2
+
+The IR leaving the system
+
+IR radiation is emitted by both the atmosphere and the surface. In the Knox model the emissivity of the Earth is assumed to be the same as the absorptivity. The surface emits all IR towards the atmosphere. Some is absorbed by the atmosphere and the rest is transmitted into space. Because the system is in equilibrium, the net energy gain at each surface is zero, hence the IR radiated out from the Earth, for example, is balanced by the UV and the IR received from the atmosphere, less any energy lost by the Earth by means other than radiation. The Earth is considered to be a perfect blackbody radiator with an emissivity of one. Therefore the IR energy radiated from the surface of the Earth, SE , can be written as SE = km (1 - rs )(1 - f )(1 - ra )So + gSA - SN R (4.9)
+
+where SA is IR energy radiated from the atmosphere towards the Earth and SN R is the non radiated energy transfer, which is convenient to express as SN R = hSo . The amount of radiation emitted by the atmosphere is equal to the amount of UV light that is absorbed by the atmosphere plus the component of infrared light emitted by the Earth that is absorbed by the atmosphere plus any energy that transfers upwards from the surface of the Earth through non-radiative means. In this model the parameter g is used both for the absorptivity and the emissivity of the atmosphere. The equation for the IR energy emitted by the atmosphere is therefore 2gSA = [f + f (1 - ra )km rs (1 - f )](1 - ra )So + gSE + SN R (4.10)
+
+4.3 A Two Layer Model
+
+43
+
+The value 2g is used as the atmosphere has both an upper and a lower surface and thus emits radiation from both of these surfaces.
+
+4.3.3
+
+The complete model
+
+The two coupled equations of the Knox Two Layer model can be solved by arranging them into matrix form. 2g -g -g 1 where Knox defines A = f (1 - ra ) + f km rs (1 - f )(1 - ra )2 as the proportion of incoming UV absorbed by the atmosphere, and B = km (1 - rs )(1 - f )(1 - ra ) (4.13) (4.12) SA SE ASo + SN R BSo - SN R
+
+=
+
+(4.11)
+
+as the proportion of the UV light absorbed by the Earth's surface. By expressing SN R as a fraction of So , i.e., SN R = hSo , we can take out a common factor of So . Solving for SA and SE gives SA SE =
+4 TA 4 TE
+
+=
+
+2g -g -g 1
+
+-1
+
+A+h B-h
+
+So
+
+(4.14)
+
+Solving for temperature of the atmosphere, TA , and the Earth, TE , gives the general solution as TA TE So = g(2 - g) A + h + g(B - h) g(A + h) + 2g(B - h)
+1 4
+
+(4.15)
+
+4.3.4
+
+Using the two layer model
+
+To use the model suitable values for the parameters must be determined. The model is calibrated using pre-existing data. By a converging process of trial and error Knox decided upon the parameter set, So = 342 W/m2 , f = 0.080, g = 0.890, ra = 0.255, rs = 0.160 and h = 0. This yields a surface temperature of 288.0 K and an upper-atmosphere temperature of 246.1 K. For the purpose of our research we treat these values as baseline values to which various scenarios
+
+44
+
+The Three Layer Model
+
+can be applied. Now that the model has been calibrated it can be used to simulate proposed situations. Greenhouse gases work in the IR portion of the model. The various greenhouse gases in the atmosphere absorb the IR emitted from the Earth and then re-emit it. Some of this radiation is then reabsorbed by the Earth and eventually emitted. This produces the warming effect. This is emulated by altering the value of g which describes the IR absorptivity of the atmosphere. The atmosphere produces an IR back radiation of 324 W/m2 (Kiehl and Trenberth, 1997). The increase in back radiation due to well mixed greenhouses between the years 1750 to 1998 is +2.43 W/m2 (Houghton, 2001). This represents an increase of back radiation of 0.75%. Increasing the value of g by 1.07% produces the required increase in back radiation. This change produces a surface temperature of 288.7 K and an atmospheric temperature of 246.5 K. These are a change in temperature of 0.7 K and 0.4 K, respectively, from the baseline values given above. Temperature change is also caused by a change in the amount of sunlight incident on the top of the atmosphere. This is simulated by increasing So . An increase of solar input of 1% produces temperatures of 288.8 K and 246.7 K for the surface and the atmosphere. This is an increase of temperatures by 0.8 K and 0.6 K over baseline. Ozone depletion causes a decrease in the amount of UV absorbed by the atmosphere. This is simulated by reducing f . The overall measured ozone loss between November 1978 and March 1991 is on the order of -3.5% (Stolarski et al., 1992). A 3.5% reduction to f produces a surface temperature of 288.1 K and in atmospheric temperature of 246.0 K. This is a change of +0.1 K and -0.1 K respectively over baseline. Table 4.2: Global warming scenarios using Knox's two layer model Surface Atmosphere Scenario T (K) T K T (K) T K Nominal 288.0 -- 246.1 -- Greenhouse (+1.5%) 288.7 +0.7 246.5 +0.4 Solar Variation (+1%) 288.8 +0.8 246.4 +0.3 Ozone (-3.5%) 288.2 +0.1 246.0 -0.1 Observed Changes -- 0.7 -- -1.8 The various scenarios are summarised in table 4.2. Actual observations show a warming of the surface and a cooling of the stratosphere (Houghton, 2001). The greenhouse scenario predicts accurately the observed surface tem-
+
+4.4 A three layer model
+
+45
+
+perature, but fails to predict the temperature change of the atmosphere. The solar variation model also produces a reasonable increase of surface temperature but again fails to predict the decrease in the temperature of the atmosphere. Of the three scenarios presented, only the Ozone Depletion scenario describes an increase of the surface temperature and a decrease in the temperature of the surface of the atmosphere. The temperature changes for the ozone depletion theory are the smallest of the three scenarios tested.
+
+4.4
+
+A three layer model
+
+While the two layer model is a useful model to demonstrate some of the effects of atmospheric change upon the Earth, however there are other areas that would merit a closer examination. It would be better to divide the atmosphere into two regions to take account of the fact that the atmosphere behaves differently at different heights. The troposphere contains over 70% of the mass of the atmosphere and is where most of the weather occurs. It also contains most of the greenhouse gases, especially water vapour. It is also characterised by non-conductive heat transfer. In contrast, the stratosphere has less water vapour and contains the ozone layer which is a strong absorber of UV-B radiation. Beyond the stratosphere there are further layers such as the Thermosphere and the Ionosphere. These are important for the survival of life on the Earth, nevertheless they comprise less than 0.2% of the total mass of the atmosphere, therefore to model the behaviour of the atmosphere for climate variation, only two layers need be considered: The troposphere and the stratosphere. We also note a further failing of the two layer model in that the IR absorptivity of the atmosphere is set equal to the emissivity of that layer and that the Earth is represented as a perfect blackbody radiator with an emissivity of one. It would be better to model the emissivities independently of the absorptivities.
+
+4.4.1
+
+The three layers
+
+The three layer model, as its name suggests, models the Earth's climate system with three layers. The top layer is the Stratosphere; this represents the Earth's atmosphere at an altitude of 10 000 m and above. This layer has the independent variables: rS the reflectivity of the stratosphere; fS the UV absorptivity of the stratosphere ; gS the IR absorptivity of the stratosphere and
+
+46
+
+The Three Layer Model
+
+S the emissivity of the stratosphere. Again, the parameter fs applies only to that portion of light, (1 - rs ), that is not reflected by the stratosphere. The middle layer, the troposphere, is the atmosphere from sea level up to 10 000 m. This layer is modelled by the independent variables: rT , the reflectivity of the troposphere; fT , the UV absorptivity of the troposphere; gT the IR absorptivity of the troposphere and T , the emissivity of the troposphere. Once again ft only applies to that part (1 - rt ) that is not reflected by the troposphere. The bottom layer is the surface of the Earth and has a reflectivity rE , and an emissivity E . It is assumed that all light not reflected by the Earth is absorbed, therefore there are no absorptivity parameters for the Earth. As before So is the solar radiation incident upon the top of the atmosphere, and h is the heat transmitted from the surface into the troposphere, via transport phenomena other than radiation. This enables heat transport by convection due to mixing of troposphere gases to be included, in some part, in the model. The complete set of independent variables is listed in Table 4.3. Table 4.3: Parameters in the three layer model Symbol Definition rS the reflectivity of the Stratosphere rT the reflectivity of the Troposphere rE the reflectivity of the Earth's surface, fS the absorptivity of UV radiation by the Stratosphere, fT the absorptivity of UV radiation by the Troposphere, gS the absorptivity of IR radiation by the Stratosphere, gT the absorptivity of IR radiation by the Troposphere, S Emissivity of the Stratosphere T Emissivity of the Troposphere S Emissivity of the Earth's Surface h a non radiative heat transfer from the surface and So the solar input incident on the top of the Stratosphere.
+
+4.4.2
+
+UV entering the system
+
+The modelling of the UV entering the system is more complicated with the introduction of the third layer. In the Knox Two Layer model the UV input is modelled as shown in Figure 4.2. This we call a Two Layer Node. Here ru is the light reflected from the upper layer and rl is the light reflected from the lower layer. As usual So is the amount of sunlight entering the system. This
+
+4.4 A three layer model
+
+47
+
+light follows one of three courses. A proportion R is reflected back towards the source (the sun), a portion, A absorbed by the layer, and a portion T is transmitted through the layer. We note that So = (R + A + T ). The amount of light reflected back into space is R = ru So + k(1 - f )2 rl (1 - ru )2 So (4.16)
+
+Note that in this equation, the first term ru So is that sunlight directly reflected off the top layer. The second term is that amount of sunlight that passes through the top layer, (1 - ru )(1 - f ), is reflected off the bottom layer, rl , and passes through the upper layer again out into space, (1 - ru )(1 - f ). Any number of reflections may occur between the top and bottom layer before the light escapes to space. This is represented by the series of zigzag lines between the two layers in figure 4.17. The factor displayed in equation 4.5 is the summation of the geometrical series that results. The quantity absorbed by the upper layer is given by A = [f + f krl (1 - f )](1 - ru )So . (4.17)
+
+As the light passes through the layer the amount (1 - ru )f is absorbed. (The first term of equation 4.17). Of the remaining light, (1-f )(1-ru ), a proportion rl is reflected from the lower layer towards the upper layer. Again any number of reflections may occur between the top and bottom layer before the light is absorbed. The same factor k results from the summation of the geometrical series. Finally any radiation that is not reflected or absorbed by the upper layer and is not reflected by the lower layer is called the transmitted component. It is T = (1 - rl )(1 - f )(1 - ru )So . (4.18) This is the amount remaining of So after a proportion of the entering radiation passes through the top layer, (1 - ru ), (1 - f ) and the proportion remaining is absorbed by the lower layer, (1 - rl ). Note that the equations for A and T are the same as in equations 4.8 and 4.9 of the two layer model. In the two layer model R was not calculated. All light has been accounted for and as expected R + A + T = SO . The UV component of the three layer model is illustrated in figure 4.3. In this case we assign nodes to represent the interactions between two layers only: The layer the node is named after and the layer below. The first entry
+
+48
+
+The Three Layer Model
+
+Figure 4.2: UV input in a two layer node of light into the system acts according to the original two layer model in the first "Strat" node of figure 4.3. This node describes interactions between the stratosphere and the troposphere. The light entering the node is either reflected back into space, RS , absorbed by the node at the stratosphere, AS , or transmitted to a lower level, TS . It is assumed that space is a perfect absorber and does not re-emit any energy back into the system.
+
+Figure 4.3: UV input in to a three layer model The transmitted UV from the "Strat" node enters the Troposphere­Earth system, that is, the "Tropo" node of figure 4.3. This node is not the same as the original two layer model as that portion of the light initially reflected off the troposphere has already been taken account of in the "Strat" node. Light entering the "Tropo" node is either absorbed by the troposphere, AT , absorbed by the Earth, TT , or reflected back into the stratosphere after one or many reflections off the Earth, RT . It is assumed that all light reaching the Earth's surface that is not reflected is absorbed by the Earth. The proportion of light reflected upward from the "Tropo" node into the "Strat" node must be dealt with in a different manner than the initial "Strat" node. The entry of sunlight into the original "Strat" node was from above the uppermost layer. In the case of the second "Strat" node the UV enters the
+
+4.4 A three layer model
+
+49
+
+stratosphere from below. The second "Strat" node is identical to an inverted copy of the "Tropo" node. Light entering the new second "Strat" node can be transmitted into space, TS , absorbed by stratosphere, AS , or reflected into the troposphere node, RS . Any number of reflections may occur between the second "Strat" node and the "Tropo" node before the light is lost to space, absorbed by the Earth, absorbed by the stratosphere or absorbed by the troposphere. The geometrical series that results from these multiple reflections from the stratosphere, RS , and the troposphere, Rt , can be summed to give a multiple reflection parameter of M= 1 (1 - RS RT ) (4.19)
+
+With the insights above the UV component of the three layer model is redrawn in figure 4.4. The arrow for Rt entering the stratosphere node and the arrow Rs entering the troposphere demonstrate the multiple reflections between these two nodes.
+
+Figure 4.4: UV input in to a three layer model
+
+4.4.3
+
+The nodes
+
+The initial node This is the node where the UV radiation is first incident upon the model and is the same as the first "Strat" node of figure 4.3. We rename the outputs as RI , AI and TI . The derivation given at the start of section 4.4.2 is applicable
+
+50 here, and so we can state the outputs as RI = rs + (1 - fs )2 ks rt (1 - rs )2
+
+The Three Layer Model
+
+(4.20) (4.21) (4.22)
+
+AI = [fs + fs ks rt (1 - fs )(1 - rs )](1 - rs ) TI = ks (1 - rt )(1 - fs )(1 - rs ) where ks is given by ks =
+
+1 (1 - rs rt )
+
+(4.23)
+
+The troposphere node The Troposphere node is almost mathematically identical to the Stratosphere node except that the input to this node is from the output of the initial node, TI and therefore there is no reflection from the upper surface of the troposphere node as this reflection has already been accounted for in the Initial node. All light transmitted through this node is absorbed by the Earth's Surface. We can therefore modify equation for RI to remove the initial rs and change the subscripts to `t' and `e'. The equations of the Troposphere node are
+
+RT = (1 - ft )2 kt re (1 - rt ) AT = ft + ft kt re (1 - ft )(1 - rt ) TT = kt (1 - re )(1 - ft ) Here kt is given by kt =
+
+(4.24) (4.25) (4.26)
+
+1 (1 - rt re )
+
+(4.27)
+
+The stratosphere node As the light enters this node from the troposphere node, it is treated differently than the initial node. The input into this node is the light reflected upwards from the troposphere node, RT , therefore there is no initial reflection upon the initial entry into this node as this reflection has already been accounted for in the troposphere node. All light transmitted through this node is absorbed by space. This node functions as an upside-down version of the Troposphere node and thus the stratosphere acts as the lower layer of the two layer node and the troposphere acts as the upper layer. The proportions of light reflected,
+
+4.4 A three layer model absorbed and transmitted are therefore given by RS = kS rS (1 - rT ) AS = fS kS (1 - rS ) TS = ks (1 - fS )(1 - rS ) where ks is given in equation 4.23.
+
+51
+
+(4.28) (4.29) (4.30)
+
+4.4.4
+
+UV Energy Absorbed by the Layers
+
+The total UV energy lost to space ESpace is the proportion of light that is reflected by the initial node, RI plus the proportion that is transmitted by the initial node, reflected from the troposphere node and is then transmitted to space, TI RT TS . As it is possible for light to reflect between the troposphere and the stratosphere many times it is required to use the multiple reflection parameter M . Hence the light absorbed by space is
+
+
+ESpace = RI SO + TI RT TS
+i=0
+
+(RS RT )i SO
+
+(4.31) (4.32)
+
+= RI SO + TI RT TS M SO
+
+The energy absorbed by the stratosphere EStratosphere is the proportion of light that is absorbed by the initial node, AI plus the proportion that is transmitted by the initial node, reflects from the troposphere node and is then absorbed by the stratosphere, TI RT AS . Including multiple reflection, the light absorbed by the stratosphere is
+
+
+
+EStratosphere = AI SO + TI RT AS
+i=0
+
+(RS RT )i SO
+
+(4.33) (4.34)
+
+= AI SO + TI RT AS M SO
+
+The energy absorbed by the troposphere Etroposphere is the proportion of light that is transmitted by the initial node, TI , and is then absorbed by the troposphere mode, AT , plus the portion that is transmitted by the initial node, reflects from the troposphere node and is then reflected by the stratosphere, TI RT RS before being absorbed by the troposphere node, TI RT RS AT . Including multiple reflections the light absorbed by the troposphere is
+
+52
+
+The Three Layer Model
+
+
+
+ET roposphere = TI AT
+i=0
+
+(RS RT )i SO
+
+(4.35) (4.36)
+
+= TI AT M SO
+
+The energy absorbed by the Earth EEarth is the proportion of light that is transmitted by the initial node, TI , and is then transmitted by the troposphere mode, TT , plus the portion that is transmitted by the initial node, reflects from the troposphere node and is then reflected by the stratosphere, TI RT RS . The light absorbed by the Earth, including multiple reflections, is
+
+
+
+EEarth = TI TT
+i=0
+
+(RS RT )i SO
+
+(4.37) (4.38)
+
+= TI TT M SO
+
+In equations 4.32, 4.34, 4.36, 4.38, M is a magnification factor given by the summation of the geometrical series
+
+
+M
+i=0
+
+(RS RT )i =
+
+1 . 1 - RS RT
+
+(4.39)
+
+. With these four equations all the radiation entering the three layer model is accounted for, hence ESpace + EStratosphere + ET roposphere + EEarth = So .
+
+4.4.5
+
+IR out of the system
+
+The infrared component is emitted by the Earth and the atmospheric layers. It is assumed that there is no IR input from the sun. The amount of IR emitted by each layer can be determined using the Stefan­Boltzmann Law for blackbody radiators. Assuming equilibrium then for each layer the amount of IR emitted equals the amount of UV absorbed by that layer plus the amount of IR absorbed by that layer from other layers (ignoring non-radiative heat transfer at this stage). Each of the atmosphere layers has an infrared absorptivity (gs and gt ) and it is assumed that space and the Earth are perfect absorbers of IR. The emission and absorption of IR is illustrated in figure 4.5 Each layer has an IR energy flux density, namely the stratosphere, SS , the troposphere, ST and the Earth, SE . The other parameters for the model are
+
+4.4 A three layer model
+
+53
+
+Figure 4.5: Infrared emissions and absorptions by the layers
+
+summarised in table 4.3. The infrared emitted by the stratosphere is given by 2S SS , where S is the emissivity of the layer. The factor arises because the stratosphere should be treated as two radiating surfaces, one pointing up and one pointing down. This term is balanced by energy inputs at equilibrium, hence
+
+2S SS = AI SO + TI RT AS M SO + gs t ST + gs (1 - gt )E SE
+
+(4.40)
+
+. where the first two terms are the UV input (equation 4.34) and the last two terms are the absorption of IR radiated by the other two layers (see figure 4.5. The infrared emitted by the troposphere is given by 2T ST , where T is the emissivity of the layer. As in the case of the stratosphere the troposphere should be treated as two radiating surfaces, one pointing up and one pointing down. This term is balanced by energy inputs at equilibrium, hence 2T ST = TI AT M SO + gT S SS + gT E SE + SN R (4.41)
+
+where the first term is the UV input (equation 4.36), the next two terms are the absorption of IR radiated by the other two layers and the final term is non-radiative heat transfer.
+
+54
+
+The Three Layer Model
+
+The infrared emitted by the Earth's is given by varepsilonE SE , where E is the emissivity of the Earth. This term is balanced by energy inputs at equilibrium, hence E SE = TI TT M SO + (1 - gT )S SS + T ST - SN R (4.42)
+
+where the first term is the UV input (equation 4.38), the next two terms are the absorption of IR radiated by the other two layers and the final term is non-radiative heat transfer.
+
+4.4.6
+
+The complete model
+
+To find the temperatures of the layers we simultaneously solve the three equations 4.40, 4.41 and 4.42. Rearranging in matrices notation   2S -gS T -(1 - gT )gS E SS    -gT S 2T -gT E    ST  -(1 - gT )S -T E SE   AI SO + TI RT AS M SO   =  TI AT M SO + SN R  (4.43) TI TT M SO - SN R which can be more simply written as (once again using SN R = hSo )     2S -gS T -(1 - gT )gS E SS A      -gT S 2T -gT E    ST  =  B + h  SO -(1 - gT )S -T E SE C -h (4.44) where A = AI + TI RT AS M (4.45) B = TI AT M and C = TI TT M (4.47) (4.46)  
+
+Applying the Stephan-Boltzmann Law and rearranging we arrive at the
+
+4.4 A three layer model finished model
+
+55
+
+1   -1   4 TS 2S -gS T -(1 - gT )gS E A       SO   -gT S 2T -gT E  TT  =    B+h     TE -(1 - gT )S -T E C -h (4.48) 
+
+4.4.7
+
+Calibrating the model
+
+An implementation of the three layer model will be considered reasonable if (1) it predicts the mean temperatures of the surface of the Earth, the troposphere and the middle of the stratosphere and (2) if it models the known energy fluxes with some precision. We choose to use the temperature for the middle of the stratosphere because of the heat rise at the top of the stratosphere is caused by mechanisms other than those we are studying. The effect of these mechanisms is too small to affect the results of the three layer or meaningfully affect the Earth system, but it is enough to have an effect on the rarefied gases of the extreme stratosphere. The measured and estimated energy fluxes of the Earth are shown graphically in figure 4.6 Note that the infrared out going radiation, as reported by Kiehl and Trenberth (1997), is modelled and therefore has a higher degree of uncertainty than the measured UV radiation. The analogues between the Kiehl and Trenberth energy budgets and the three layer model are given in table 4.4 Table 4.4: Energy flows and their analogues in a three layer model Keihl/Trenberth model Three layer model Incoming Solar Radiation SO Reflected Solar Radiation ESpace Reflected by Atmosphere (rS + TS TU M )SO Absorbed by Atmosphere EStratosphere + ET roposphere Reflected by Surface ESpace - (rS + TS TU M )SO Absorbed by Surface EEarth Thermals and Evapotranspiration hSo Surface Radiation E SE Atmospheric Window (1 - gs )(1 - gT )E SE Emitted by Atmosphere S SS + (1 - gS )T ST Back Radiation (1 - gT )S SS + T ST Outgoing Longwave S SS + (1 - gS )(T ST + (1 - gT )E SE ) The initial values of the eleven independent variables will determine directly
+
+56
+
+The Three Layer Model
+
+Figure 4.6: The Earth's annual global mean energy budget. All units are Wm-2 . [Source: Kiehl and Trenberth (1997). the output of the model. It is therefore important to decide what initial values the independent variables should have. Initial attempts should produce outputs for the Stratosphere at 30 000m of 226 K, the troposphere at 5 000m of 255 K from the Standard atmosphere (Lide, 2003) and the Earth's surface as 287K from observed global warming studies (Lide, 2003). Further the UV absorption of the atmosphere should be 0.2251, the surface reflection should be 0.1515, and the direct surface reflection to space should be 0.0877 and a total of 107 W should be reflected to space. There should be 67 W absorbed by the atmosphere, 23 W in the stratosphere, 44 W in the Troposphere and the remaining 168 W should be absorbed by the surface. In the IR range the difference between heat emitted upwards and that emitted downwards by the atmosphere should be 59 W. All values taken from Kiehl and Trenberth (1997). Using a process of trial and error the parameters in table 4.5 were determined as suitable. Using these figures in the three layer model gives the results in table 4.6. The most precise results are for those given by h and SO . This is because these are the values as they are defined. Most other measurements are within
+
+4.4 A three layer model
+
+57
+
+Table 4.5: Initial values of independent variables Variable Value Source S 0.9 experimentally determined T 1.0 experimentally determined E 0.95 Peixoto (1992) fS 0.06 experimentally determined fT 0.16 experimentally determined gS 0.685 experimentally determined gT 0.725 experimentally determined rS 0.085 experimentally determined rT 0.19 experimentally determined h 0.298 Knox (1999) SO 342W m-2 Kiehl and Trenberth (1997)
+
+Table 4.6: Comparison of model results against the Kiehl/Trenberth observations Keihl/Trenberth Three layer model Result W/m2 W/m2 Incoming Solar Radiation 342 342 Reflected Solar Radiation 107 99 Reflected by Atmosphere 77 80 UV Absorbed by Atmosphere 67 66 Reflected by Surface 30 19 Absorbed by Surface 168 178 Thermals and Evapotranspiration 102 102 IR Surface Radiation 390 365 Atmospheric Window 40 32 IR Emitted by Atmosphere 195 212 Back Radiation 324 289 Outgoing Longwave 235 244
+
+58
+
+The Three Layer Model
+
+10% of the Kiehl/Trenberth model. The results furthest from the standard model are those for light reflected by the surface and back radiation. The model can be optimised for these variables, however the above data set gives the best general results. This three layer model produces good results without resorting to sensitivity factors or other parameters. These figures indicate that the three layer model will produce qualitative results if not absolute quantitative results for a steady state Earth.
+
+4.5
+
+Conclusion
+
+Starting with the original Knox two layer model of the Earth/Atmosphere system, it is possible to extend the model by adding another layer. This allows the representation of an atmosphere with a troposphere and a stratosphere as well as retaining the layer representing the Earth's surface. While this adds a some complexity to the original model it is still capable of being solved analytically. The model is kept as simple a possible and such techniques as sensitivity factors have not been included. The results from the three layer model should be sufficient to demonstrate trends in all three layers relative to each other. This model will be the minimum required to test the four theories proposed.
+
+Chapter 5 Using a Three Layer Model
+5.1 Overview
+
+As the three layer model is for a steady state system, results obtained are only valid for a system for which transients have decayed sufficiently. They are also for the mean state of the entire system. In the last chapter a reasonable set of initial parameters for the three layer model were obtained. We now vary each individual parameter, the effect of the parameter on the Earth system can hopefully be observed or extrapolated. In this chapter four scenarios are given special attention. They are : Greenhouse Gases, Solar Variation, Ozone Depletion and Albedo Reduction.
+
+5.2
+
+Varying individual components
+
+In the model there are twelve independent parameters (see table 4.3). It is of interest to examine how the model behaves as each of these is varied. The physical phenomena linked to the variables can then be explained in turn. The reflection of UV light as it enters the stratosphere, rs , is primarily caused by cirrus clouds, ice crystals and particularly for shorter wavelengths, by Rayleigh scattering. The reflection of light in the troposphere, rt , is primarily effected by clouds, aerosols and Rayleigh scattering. The reflection from the surface of the Earth, re , is determined by proportion of ice, water and land. The most reflective parts of the Earth are covered in snow and ice and the least reflective is the open sea with an overhead sun. The parameter re is for the whole planet. The UV absorptivity of the stratosphere, fs , is due to the absorption of UV light by various atmospheric gases. This includes the absorption of UV-B light by the ozone layer. The UV absorptivity of the troposphere, ft , is primarily 59
+
+60
+
+Using a Three Layer Model
+
+due to clouds and aerosols. The IR absorptivity of the stratosphere, gs , is due to atmospheric greenhouse gases at this level. These include ozone and carbon dioxide and some water vapour. The IR absorptivity of the troposphere, gt , represents the lower level greenhouse gases of water vapour and carbon dioxide. The emissivity of the stratosphere,s , is due to the gaseous makeup of the stratosphere. The emissivity of the troposphere,t , is due to the gaseous makeup of the troposphere. One important component of the tropospheric atmosphere is the water vapour content. The emissivity of the Earth's Surface,e , is determined by emissivities of each component of the Earth's surface. Land has an emissivity of approximately 0.92 while snow and ice has an emissivity of 0.98. Non-radiative transfer of energy, h , occurs between the Earth's surface and the troposphere. The primary components of this are energy transfer caused by evaporation of water from the oceans and also convection effects in the atmosphere such as thermals and low pressure weather systems. The solar input at the top of the atmosphere, So is a naturally variable parameter, due to solar activity. By running the three layer model repeatedly, each time changing the single parameter that governs the reflectivity of layer, the results as shown in figures 5.2­ 5.5 are obtained. This three layer model shows that if the reflectivity of any layer increases (see figure 5.2) then the temperature at all levels decrease. Note that as rs and rt approach unity the surface temperature becomes complex. This is because the variable hSo has been set at 102 W/m2 . When the amount of sunlight reaching the surface decreases below 102 W/m2 , the amount of energy radiated from the Earth's surface becomes negative. This is unphysical and leads to complex numbers when calculating the temperature of the surface. It only occurs for very high values of reflectivity for the troposphere and stratosphere, that are much higher than ever will occur in practice. The change in the surface albedo is simulated by varying re . Figure 5.2(c) shows that as the albedo of the surface decreases, the temperatures of all three layers of the model increase. The greatest increase is in the surface temperature. A plausible cause for a decrease in albedo is the melting of highly reflective snow and ice and the appearance of less reflective land and water. The change in atmospheric albedo is modelled by varying rs and rt . A major cause of atmospheric albedo increase is the increase of cloud cover. For both the stratosphere and the troposphere, as albedo increases the temperature of all three levels decrease. Other possible causes for an increase of atmospheric
+
+5.2 Varying individual components
+
+61
+
+(a)
+
+(b)
+
+(c)
+
+Figure 5.1: The temperature variation of the layers as a function of the three reflectivities. In all cases the solid line represents the temperature of the surface, the dashed line represents the tropospheric temperature and the dotted line represents the stratospheric temperature.
+
+reflectivity are an increase of aerosols or particulate matter ejected in volcanic eruptions. When the emissivity of a level is changed, the only temperature that changes is for that level where emissivity is changed (see figure 5.2). As emissivity increases, so the temperature of that layer increases. The case of ozone depletion is partially modelled by varying the amount of UV absorbed by the stratosphere, that is, by varying fs . As shown in figure 5.3, even a small decrease in the value of fs produces a large decrease in the stratospheric temperature with increases in both surface and tropospheric temperatures. A decrease in ft causes a decrease in both stratospheric and tropospheric temperatures and an increase in surface temperature. An increase in either produces an increase in atmospheric temperatures and a decrease in the surface temperature. The parameters gs and gt , are primarily effected by the greenhouse gases. As figure 5.4 demonstrates, an increase in gs produces an increase in the tem-
+
+62
+
+Using a Three Layer Model
+
+(a)
+
+(b)
+
+(c)
+
+Figure 5.2: The temperature variation as a function of changing each of the three emissivities. In all cases the solid line represents the temperature of the surface, the dashed line represents the tropospheric temperature and the dotted line represents the stratospheric temperature.
+
+(a)
+
+(b)
+
+Figure 5.3: The temperature variation as a function of varying atmosphere UV absorptivities. In all cases the solid line represents the temperature of the surface, the dashed line represents the tropospheric temperature and the dotted line represents the stratospheric temperature.
+
+5.2 Varying individual components
+
+63
+
+(a)
+
+(b)
+
+Figure 5.4: The temperature variation as a function of varying atmosphere IR absorptivities. In all cases the solid line represents the temperature of the surface, the dashed line represents the tropospheric temperature and the dotted line represents the stratospheric temperature.
+
+(a)
+
+(b)
+
+Figure 5.5: For non-radiative heat transfer and the solar input, the temperature changes by altitude are graphed for the varying of that parameter. In all cases the solid line represents the temperature of the surface, the dashed line represents the tropospheric temperature and the dotted line represents the stratospheric temperature. peratures of all three layers, the largest rate of increase being that of the stratosphere. An increase in gt produces increases in temperature in both the troposphere and the surface but produces no change in the temperature of the stratosphere. The non-radiative heat transfer between the Earth's surface and the troposphere is represented by the parameter h. This is the heat transferred by evaporation and convection from the surface to the troposphere. It has no effect on the temperature of the stratosphere. An increase in h produces an increase in the tropospheric temperature and a decrease in the surface temperature(see figure 5.5).
+
+64
+
+Using a Three Layer Model
+
+The primary driver of the Earth thermal system is the solar input from the sun. By varying the solar input all three temperatures modelled increase [figure 5.5(b)]. The only reason for So to change in this model would be for a change in the power output of the sun. If we are only allowed to change a single variable then the result that yields temperatures that are the most consistent with climate observations is that achieved by changing fs . This model shows a decrease in the temperature of the stratosphere, an increase in the troposphere temperature and an increase in the surface temperature of the Earth. This is consistent with observations outlined in section 2.2.
+
+5.3
+
+Testing scenarios
+
+With the three layer model it is now possible to perform preliminary tests of proposed theories of global warming and compare them with the data reported in the literature. As the three layer model delivers three temperatures as output, we compare those temperatures against that observed. Observations of the Earth show that the mean surface air temperature has increased by +0.55 K between 1970 and 2003, the tropospheric temperature has increased by +0.40 K between 1958 and 1998 and the middle stratosphere has changed by -1.13 K between 1979 and 1994. For a scenario to be considered plausible it is not required to precisely replicate these values, rather predicting a fixed ratio of these values should be considered sufficient. We explore four scenarios. Any one of these may be sufficient in itself to explain global warming. It is also possible that a complete explanation of global warming will require a combination of two or more of these scenarios.
+
+Greenhouse gases
+As reported in the IPCC report, the carbon dioxide level in the Earth's atmosphere has increased 31% between 1750 and 2001. The amount of methane and nitrous oxide has also increased during this period. Change in water vapour between 1750 and the present is not recorded in the literature. Carbon dioxide, methane, nitrous oxide and other more recent greenhouse gases are considered well mixed, which means that they will occur in their observed proportions through the troposphere and the stratosphere. This will result in an increase of both gs and gt . According to the IPCC report there is also a decrease in stratospheric greenhouse gases with the loss of stratospheric ozone.
+
+5.3 Testing scenarios
+
+65
+
+To simulate the ratio we raise, gs by 0.5% and gt by 1.0%. Using these figures produces increases of 0.39 K, 0.75 K and 0.44 K for the stratosphere, the troposphere and the surface respectively. The most dramatic rise in temperature is in the troposphere.
+
+Solar Variability
+By increasing So , an increase of solar output can be simulated. A 1% increase in light entering the model results in an increase of 0.56 K for the stratosphere, 0.58 K for the troposphere and 0.87 K for the surface. Both layers of the atmosphere warm a similar amount while the surface warms much more rapidly.
+
+Ozone Depletion
+By decreasing fs we can model the reduction in the absorption of UV-B by ozone. We can do better than this though, as ozone is also a greenhouse gas and absorbs IR in the 10 µm range (Peixoto, 1992). In the stratosphere it is a trace gas at  8 parts per million by volume (de Mora et al., 2000). To model this greenhouse effect, gs must be modified. While there is a decrease in ozone, there is, never the less, an increase in other greenhouse gases. These include water vapour, carbon dioxide, methane, nitrous oxide as well as the fluorocarbons that are destroying the ozone layer. Authorities such as Houghton (2001), appear ascribe all cooling of the stratosphere to the decrease of ozone and the greenhouse effect of that gas. No account seems to made of the decrease in the initial absorption of UV-B radiation caused by a decrease in ozone. A 5% reduction in ozone represents a decrease of ozone of 0.4 ppmv. This compares to an increase in carbon dioxide of 87ppmv and of methane of 1 ppmv (Houghton, 2001). From the data available it is uncertain whether gs should be increased or decreased. For a simple reduction of fs only by 5%, the temperature of the stratosphere decreases by 0.21K, the troposphere warms by 0.02K and the surface warms by 0.10K.
+
+Albedo decrease
+A reduction in ice and snow covering the Earth causes a reduction of the Earth's albedo. A 1% reduction in rs produces temperature increases in the stratosphere of 0.04K, in the troposphere of 0.05K and on the surface of the Earth of 0.09K.
+
+66
+
+Using a Three Layer Model
+
+Table 5.1: Temperature increase by altitude for the four Global Warming scenarios Stratosphere Troposphere Surface Scenario T (K) T (K) T (K) Greenhouse Gases (+1%) 0.39 0.75 0.44 Solar Variability (+1%) 0.56 0.58 0.87 Ozone Depletion (+5%) -0.21 0.02 0.10 Albedo Decrease (-1%) 0.04 0.05 0.09 Observed -1.13 0.40 0.55
+
+Table 5.2: Relative magnitudes of temperature increase by altitude for four Global Warming scenarios. The number of plus + or - signs indicates the magnitude of change in temperature. All magnitudes are only in relation to the temperatures of the remaining layers in the chosen scenario. Stratosphere Troposphere Surface Scenario T T T Greenhouse Gases (+1%) + ++ + Solar Variability (+1%) + + ++ Ozone Depletion (+5%) -- + + Albedo Decrease (-1%) + + ++ Observed -- + +
+
+Summary of the four scenarios
+The results from the four scenarios are summarised in tables 5.1 and 5.2. Comparing the relative magnitudes of temperature changes of the layers for each of the four scenarios, the only scenario that closely follows that actually observed is the ozone depletion scenario. In absolute terms however these numerical values obtained are smaller than has actually been observed, particularly for the troposphere. One significant cause for this is that the model has been optimised to show relative temperature changes in the layers of the model, rather than the absolute changes. Most modern models have sensitivity parameters than can be varied to produce the magnitude of the changes desired. Further, it is probable that all four scenarios contribute to the actual observed values. Nevertheless, of the four models tested, it is to be noted that only ozone depletion causes a reduction in the stratospheric temperature.
+
+5.4 Testing the scenarios using real values
+
+67
+
+5.4
+
+Testing the scenarios using real values
+
+While the above tests are indicative of what is expected, it will be of interest to model the real values as observed. For the case of greenhouse gases, other models have been used to show an increase of radiative forcing of 2.4 W/m2 representing the increase in infrared radiation being emitted towards the surface by the atmosphere. The amount of downward radiation is determined by the amount emitted downwards by the troposphere and also the amount emitted downwards from the stratosphere that is not absorbed by the troposphere. By a process of trial and error it can be determined the required changes to create a change of 2.4 W/m2 . Changing the variable gt from 0.725 to 0.738 produces the desired results. For solar irradiance to cause an increase in of radiative forcing 0.3 W/m2 it is required to increase the variable So by 0.384 W. To increase the effect of albedo it is required to change the amount absorbed by the Earth by 0.25 W/m2 . This quantity simulates the observed loss of sea ice, but not snow cover. This entails a change in re from 0.1515 to 0.150039. The amount of change for ozone depletion is very speculative. To simulate the reduction of 4% it is proposed to reduce the value of fs by 2% from 0.06 to 0.0588. The results of these four changes are summarised in table 5.3. While the largest increase is due to greenhouse gases, there is a warming produced by all four scenarios. A combined run was performed which used all the value changes from the individual scenarios. This produces results in all three layers that are larger than observed, with the largest discrepancy being in the troposphere.
+
+Table 5.3: Temperature increase by altitude for four Global Warming scenarios with observed data Stratosphere Troposphere Surface Scenario T (K) T (K) T (K) 2 Greenhouse Gases (+2.4 W/m ) 0.0 1.045 0.469 2 Solar Variability (0.3 W/m ) 0.063 0.066 0.098 Ozone Depletion (-2%) -0.084 0.007 0.039 Albedo Decrease (0.25 W/m2 ) 0.040 0.044 0.087 Combined Change 0.020 1.165 0.695 Observed -1.13 0.40 0.55
+
+68
+
+Using a Three Layer Model
+
+5.5
+
+Conclusion
+
+The effects of altering a single parameter in the model were explored. Only the variation of fs produced results that are consistent with observed data. A reduction in stratospheric UV absorption produces a decrease in stratospheric temperature and increases in the troposphere and Earth. Modelling a 5% decrease in stratospheric UV absorption produced relative effects similar to those actually observed, but of a smaller magnitude. Quantitively, modelling actual observed value changes show that the largest single contributor is greenhouse gases, however qualitively, greenhouse gases give the least desirable fit to the observed data. Ozone depletion was the only scenario that showed cooling of the stratosphere. While individual scenarios have been modelled, it does not preclude the possibility that multiple scenarios contribute to the final solution.
+
+Chapter 6 A Comparison of Results With Other Models
+6.1 Overview
+
+The Two Layer Model is not the only model that has been used to simulate the Earth climate system to determine the effects of global warming. In the late 1960s and early 1970s Budyko and Sellers both produced models for demonstrating the risks of an ice age. In recent years the most popular models are General Circulation Models (G.C.M.s). These are the most common models used in modern research. It is therefore useful to explore how the Three Layer Model compares with these other models.
+
+6.2
+
+The Budyko Model
+
+One of the first published theoretical models dealing with the ice-snow albedo feedback is that due to Budyko (1969). The model was published with mixed units and many of the constants in the model were reported without the appropriate units specified. This unfortunately means that the original model is difficult to reproduce. One of the aims of the model was to determine the temperature at various latitudes. As can be seen from figure 6.1 there is a good correspondence between Budyko's model and observed data. Budyko then explored the relationship between the amount of solar radiation received by the Earth and the surface temperature. His model included a mechanism for snow ice albedo feedback. As predicted in figure 6.2, Budyko's model predicted that a 1% decrease in solar radiation would produce a 5 C 69
+
+70
+
+A Comparison of Results With Other Models
+
+Figure 6.1: Average latitudinal temperature distribution [Source: Budyko (1969) with modifications by Watkins (2006) reduction in temperature and a 1.5% reduction in radiation would produce a 9 C reduction. Further, the model predicted that in the northern hemisphere that the boundary of glaciation would move 10­18 south from the present limits. One of Budyko's conjectures was that volcanic activity could cause such a reduction in irradiance (Budyko, 1969). Budyko then explored the relationship between temperature and the removal of polar glaciations. His model predicted the largest increase of temperature at the poles themselves, with an increase of 8 C at the poles and 2-3 C at the equator. This shows that removal of the ice caps will alter the entire planets temperature. This model is of extreme importance; we have already noted that the northern polar ice cover has reduced greatly in recent years and it appears that it will reduce further in coming years. The results obtained from the three layer model for the scenarios of decrease of solar irradiation by 1% and 1.5% are summarised in table 6.1. Both the three layer and the Budyko model show the cooling associated with a loss of solar irradiance. The Budyko model shows a much larger effect, this is partly due to the snow-ice albedo feedback mechanism included in the model. The snow-ice feedback increases the reflectivity, re , of the surface of the Earth, re , as ice and snow cover the oceans. As shown in figure 5.1c even small amounts of decrease in solar irradiance can produce large temperature decreases. The three layer model, as it stands, is not capable of reproducing results varying
+
+6.3 Seller's Model
+
+71
+
+Figure 6.2: The dependence of temperature distribution on radiation amount (Source: Budyko (1969) with modifications by Watkins (2006) with latitude Table 6.1: Comparison of results between the Three Layer Model and the Budyko Model Scenario Surface(K) Surface(K) T Budyko(K) Irradiance 100.0% 286.56 -- -- Irradiance 99.0% 285.68 -0.88 -5 Irradiance 98.5% 285.24 -1.32 -9
+
+6.3
+
+Seller's Model
+
+In the same year that Budyko published his model another model of the Earthatmosphere system was also published by Sellers (1969). The Sellers model calculated the sea-level temperature in 10 latitude belts. This temperature is a function of the solar input, the planetary albedo, the transparency of the atmosphere to infrared radiation and the turbulent exchange co-efficients of the atmosphere and the oceans. The model involved ten simultaneous equations that were solved using an iterative process. The Seller's model accounts for heat flux between the various latitudes. Sellers concluded that an increase in solar input of  3% would probably be sufficient to melt the ice sheets and
+
+72
+
+A Comparison of Results With Other Models
+
+that removing the ice caps would increase the local temperature by no more than 7 C.
+
+6.4
+
+Using a Global Climate Model
+
+One of the primary tools in modern climate research is the computer driven Global Climate Model (GCM). Until recently theses GCMs required supercomputing facilities and skilled programmers to operate. A GCM is traditionally initialised and controlled through a combination of computer programmes and UNIX shell scripts. The model is of a computational nature, uses large amounts of computer memory and can take hours or even days to run. Once the output has been processed it must then been analysed. Variables of interest must first be extracted from the binary files that are the normal GCM's raw output. The data are then averaged over meaningful time periods or geographical areas, and scaled into useful units. The model used for this thesis is the GISS GCM Model II developed by Hansen et al of the NASA/Goddard Space Flight Center, Institute for Space Studies. The model was published as Hansen et al. (1983) and has been in continual development ever since. The GISS GCM Model II is a threedimensional model that solves numerically the physical conservation equations for energy, mass, momentum and moisture, and the equation of state. The GISS Model II has a horizontal resolution of 8 latitude by 10 longitude. The atmosphere is modelled with nine layers that extend to 10 mbar. The ground has two ground hydrology layers. Other factors included in the model are cloud cover, precipitation, snowfall and sea surface temperatures. The University of Columbia has recently added a Graphical User Interface (GUI) to the GISS Model II. This enables non­programmers to use the GISS Model II. This package, EdGCM, is used in this project as a representative GCM.
+
+6.4.1
+
+EdGCM and Greenhouse Gases
+
+Many of the current group of Global Climate Models were designed to test the effects of increasing carbon dioxide and other greenhouse gases. Using EdGCM a simulation run was undertaken to determine the changes in temperature caused by changing greenhouse gases from their preindustrial values to their 2001 values. The regions with increased and decreased temperatures are shown in figure 6.3.
+
+6.4 Using a Global Climate Model
+
+73
+
+(a)
+
+(b)
+
+Figure 6.3: The changes in the Earth surface temperature between preindustrial and 2001 greenhouse gas levels, (a) shows areas of temperature increase, (b) shows areas of temperature decrease
+
+74
+
+A Comparison of Results With Other Models
+
+Using this model the World shows warming over most of the surface; the greatest warming, with rises of over 10K, occurs in and around Canada and Greenland. The mean temperature rise over the globe is 1.8K. While this shows that the northern hemisphere experiences more warming than the southern hemisphere, it does not exhibit the extreme warming around the Antarctic Peninsula that has been observed. In figure 6.4 the change in snow and ice cover is recorded. A reduction in snow in ice should result in a reduction in surface albedo with a corresponding increase in energy absorption. In the northern hemisphere there is a strong relationship between reduction in snow ice and the increase in temperature. The relationship in the southern hemisphere is not as obvious.
+
+6.4.2
+
+EdGCM and Solar Variability
+
+The effect of solar variability is modelled on the EdGCM by increasing the variable Solar Luminosity from 1366.619 W/m2 to 1366.819 W/m2 over a period of ten years. This is a total increase of 0.2 W/m2 or 0.015%. The system was allowed to run for ten simulated years before the change took place to give baseline data. After the change occurred, the model was left to run another 24 years to reach a new equilibrium temperature. The change of surface temperature is recorded in figure 6.5. All parts of the surface recorded warming, the smallest being an increase of 1.6 K and the largest increase being 16.4 K in the southern oceans. The whole of the Southern Hemisphere demonstrates a greater degree of warming than the Northern Hemisphere. This is at odds with the observed evidence presented in Chapter 2. The current data shows warming of the southern hemisphere and a larger warming of the northern hemisphere. This is not observed in the GCM output. The magnitude of the changes indicate a sensitivity issue with this model in this case. A major cause for this response is that the GISS:Model II does not model ocean temperature. Because of the very high specific heat of water compared to land, a much larger amount of energy is required to produce the same amount of warming in water. As the southern hemisphere has a larger amount of water than the northern hemisphere the temperature response will be different in the different hemispheres. Because the ocean temperatures are not modelled the temperatures in the southern hemisphere have an amplification factor. The reason for the large increase in temperatures is illustrated in figure 6.6. The first panel shows the areas of the world where the snow and ice increases. For this model, the only location that snow and
+
+6.4 Using a Global Climate Model
+
+75
+
+(a)
+
+(b)
+
+Figure 6.4: The changes in the Earth surface snow and ice cover between preindustrial and 2001 greenhouse gas levels, (a) shows areas of increase in snow/ice cover, (b) shows areas of decrease in snow/ice cover.
+
+76
+
+A Comparison of Results With Other Models
+
+Figure 6.5: Change in The Annual Mean Surface Air Temperature for a 0.02% increase in irradiance.
+
+ice increases is in northern India and the Himalayas. The second panel shows that the greatest loss of snow, ice and sea-ice occurs in the southern oceans with large areas of 50­100% loss. This loss of ice in produces a decrease of surface albedo, hence an effective increase in heating due to sunlight. The change in planetary albedo by this model is illustrated in figure 6.7. The first figure shows an increase of albedo over much of the northern hemisphere. With the decrease in ice and snow in these areas this increase in albedo is caused by an increase in cloud cover. With the loss of sea ice in the southern oceans there is a corresponding decrease in albedo. Figure 6.8 illustrates the change in radiation reaching the surface of the Earth due to albedo changes and changing cloud cover. Most of the planet has a reduction of sunlight at the surface. This correlates well with the increased cloud cover. However the equatorial zone as well as the southern oceans show an increase in the sunlight penetrating to the surface. This model shows that even small increases in solar irradiance can have large effects on the Earth/Atmosphere system. The modelled results do not show a strong temperature rise in the northern hemisphere, yet they show the effects of snow-ice albedo feedback.
+
+6.4 Using a Global Climate Model
+
+77
+
+(a)
+
+(b)
+
+Figure 6.6: The change in snow, ice and sea-ice for a 0.02% increase in solar irradiance, (a) shows areas of increase in snow/ice cover, (b) shows areas of decrease in snow/ice cover.
+
+78
+
+A Comparison of Results With Other Models
+
+(a)
+
+(b)
+
+Figure 6.7: The change in albedo for a 0.02% increase in solar irradiance, (a) shows areas of increase in albedo, (b) shows areas of decrease in albedo.
+
+6.4 Using a Global Climate Model
+
+79
+
+(a)
+
+(b)
+
+Figure 6.8: The change in net radiation received at the Earth's Surface for a 0.02% increase in solar irradiance, (a) shows areas of increase in radiation, (b) shows areas of decrease in radiation.
+
+80
+
+A Comparison of Results With Other Models
+
+6.4.3
+
+EdGCM and Ozone Depletion
+
+To directly model the effects of ozone depletion is beyond the input capacities of the EdGCM model. While this model has a factor for light absorption by ozone, this is not adjustable by the user, let alone adjustable by latitude. It is intuitively felt that an increase in UVB penetrating to the Earth's surface would have a similar effect as an increase in solar irradiance. It is beyond the scope of this work or this model to verify this is true for a GCM model.
+
+6.4.4
+
+GCMs and sensitivity
+
+For calibration purposes the EdGCM was run with no industrial gases in the atmosphere. The levels of carbon dioxide, methane, nitrous oxide and chlorofluorocarbons was set to zero. This scenario provided an average mean temperature of the surface of the Earth of -15 C after which point the model failed. If the atmosphere contained nitrogen and oxygen only then the atmosphere would have a temperature of -6 C or 267 K (Houghton, 2004). It would be expected the decrease in temperature predicted by the GCM would be even greater if the major greenhouse gas, water vapour, had been removed from the atmosphere as well. For this scenario the agreement between the GCM and independent calculations do not show agreement. Research into GCMs has shown that the models have different sensitivities to different scenarios. Sensitivity is defined as the average temperature change for a unit increase in radiative forcing. carbon dioxide warming is defined as the standard scenario by which other sensitivities are measures. Upper stratosphere ozone has a lower sensitivity while lower stratosphere ozone has higher sensitivity (Joshi et al., 2003). For a constant increase for radiative forcing the range of temperature change for altering ozone by altitude was on the order of a factor of three. This demonstrates that the climate sensitivity parameter is highly variable (Stuber et al., 2005). GCMs therefore seem to show more reliable results for certain scenarios over others.
+
+6.4.5
+
+GCMs and the Three Layer Model
+
+It is difficult to directly compare the Three Layer Model with the other models reported here. The Budyko model, whilst simple and important, was primarily used to discover glaciation limits. It shows strongly the link between temperature and ice-snow albedo feedbacks. The Sellers model is more complete in that it also models heat fluxes and includes models in the oceans. Again it
+
+6.5 Conclusion
+
+81
+
+shows the strong link between snow, ice and the temperature. The GCM model produces almost too much information. Primary information output from the three layer model is the temperature of the layers. While it is possible to extract this information from a GCM, it takes specialist knowledge. For the greenhouse gas increase scenario, both the GCM and the three layer model show an increase of average surface temperature. The Budyko and Sellers model are not designed to account for differences caused by greenhouse gases. For the scenario of an increase in solar irradiance both the GCM and three layer model show an increase in the mean annual surface temperature of the Earth. The GCM produces a result significantly larger than the three layer model or what has actually been observed. Both the Budyko and Sellers model show a decrease in temperature with a decrease in solar irradiance. They were not tested for a solar increase as global warming was not a concern at the time of their publication.
+
+6.5
+
+Conclusion
+
+Of the models examined, only the three layer model can easily be utilised to demonstrate the effects of ozone depletion. One can argue that by analogy the GCM model can be used with an increased solar irradiance to simulate the decrease in stratospheric ozone. This is a week analogy and should be tested more rigorously. It should be noted for this and all other scenarios that sensitivity issues associated with Global Circulation Models. Of the four models examined, only the three layer model does not have an albedo feedback mechanism. Both the Budyko and Sellers demonstrate the importance of this effect. In most cases the GCM shows a link between snow and depletion and warming. There is at least one scenario where this link seems ambiguous. It would be useful to include the snow-ice albedo factor and to model individual latitude bands in the three layer model. These improvements are the subject of the next chapter.
+
+Chapter 7 Extending the Three Layer Model
+7.1 Overview
+
+While the three layer model produces useful results for the level of complexity it possesses, it is deficient in several areas. The first and most important of these is that the model contains no feedback mechanisms. It is, fact that, lack of feedback that allows the model to be solved simply and analytically. Adding feedback mechanisms will force us to use iterative schemes for a solution. The ice-snow albedo feedback mechanism, while understood conceptually has not been numerically evaluated by the scientific community as it is not a problem worthy of research in its own right. While feedback mechanisms in current climate models, there are no observed data on the quantity of this effect. The first described and simplest approach to include a snow-ice albedo feedback mechanism is due to Sellers (1969), whereby a single amplification factor is used. A more complex approach described by Budyko (1969), in which the Earth is divided into latitudes and the temperature and albedo for each latitude is determined. Even so, this only allows only for a qualitative result as the heat flux through each latitude is not taken into account. Another reason to divide the Earth into latitudinal lines is to examine the effects of ozone depletion at various latitudes. The composition of the atmosphere is fairly uniform over the surface of the globe. Water vapour is the only major constituent that naturally varies somewhat over the globe. since industrial times there is a variable aerosol component, these aerosols being generated by human activity and being of greatest concentration in the temperate band of the northern hemisphere and over China. The ozone layer 83
+
+84
+
+Extending the Three Layer Model
+
+is also not the same from hemisphere to hemisphere and with human activity there is a large ozone loss as one approaches the poles. As the three layer model shows that there is an increase of surface temperature with ozone loss, and because ozone loss varies with latitude, it seems prudent to model the variation of ozone over latitude. The effects of ozone variation can then be studied. The final and most complete approach is to model each latitude taking into account factors such as heat flux through each latitude as well as the ratio of land to water. Also modeling the change in ozone and albedo. However at this point the increasing complexity of the model and the number of fundamental assumptions that made may render the model problematic.
+
+7.2
+
+Adding a simple albedo feedback mechanism
+
+The simplest approach to adding a snow ice albedo feedback mechanism to the three layer model is the one due to Sellers (1969). This approach directly relates the reflectivity of the Earth to the mean temperature of the planet. In the three layer model this is simply achieved by altering the value of re . Sellers determined from data of the time that a 1K drop in temperature increases the surface albedo by 0.009. This can be incorporated into the model by changing the value of re in the model from 0.1515 to re = 0.1515 - 0.009(TE - 287) (7.1)
+
+Thus as the temperature increases the surface albedo decreases and as the temperature decreases the surface albedo increases. At extreme temperatures this approximation yields unphysical values of greater than one or less than zero. Nevertheless it provides an approximation of snow-ice albedo feedback that is accurate within a few degrees of the base temperature. To implement this into the three layer it is required to iterate the model until it reaches a new steady state. This has been done and test runs have shown that the model reaches a steady state in 30 iterations or less. The adjusted three layer model was rerun for each of the scenarios with results listed in table 7.1. In all three scenarios the temperature increase is magnified by more than a factor of 3. Again if we use the figures for radiative forcing as determined by other au-
+
+7.3 Albedo Feedback by latitude
+
+85
+
+Table 7.1: Surface Temperature increase for three scenarios T Surface T Surface Scenario (Normal Model) (K) (Model with Albedo) Greenhouse Gases (+1%) 0.4415 1.3156 Solar Variability (+1%) 0.8704 2.5658 Ozone Depletion (-5%) 0.0989 0.2979 thors and described in chapter 2, the final amount of warming can be modelled as in table 7.2. In all three cases the amount of warming of the troposphere and the stratosphere has increased over that of no albedo feedback. The greenhouse values are notably much larger than observed. This could be due to sensitivity issues with the three layer model, or that there are negative feedback mechanisms that have to be further modelled, or there are sensitivity issues with the greenhouse gas model. Of note is the increase of stratospheric temperature with the greenhouse gases model. This occurs even though there is no increase in the amount of greenhouse gases modelled in this layer. Table 7.2: Temperature increase by altitude for three Global Warming scenarios with as predicted by the three layer model including simple albedo feedback Stratosphere Troposphere Surface Scenario T (K) T (K) T (K) 2 Greenhouse Gases (+2.4 W/m ) 0.449 1.543 1.402 2 Solar Variability (0.3 W/m ) 0.158 0.169 0.294 Ozone Depletion (-2%) -0.046 0.049 0.119 Combined Change 0.562 1.764 1.815 Observed -1.13 0.40 0.55 Table 7.2 show that both solar variability and ozone depletion can make significant contributions to global warming. The effect of albedo change can magnify the effect of smaller changes. Together solar variability and ozone depletion with albedo feedback can account for approximately 75% of observed warming effects.
+
+7.3
+
+Albedo Feedback by latitude
+
+While it is useful to note the total warming global trend, it is also of use to note where the warming is occurring. Without trying to make a complete GCM it is possible to simulate a world that is divided into discrete latitudes. The crux of this model is to divide the world into slices, where each slice is modelled as
+
+86
+
+Extending the Three Layer Model
+
+a three layer model. While heat fluxes are important in forming a complete model, Budyko (1969) showed that indicative results can be obtained without inclusion of this mechanism. We therefore do not include heat fluxes in the model described here. In forming the model, each fifth of a degree of latitude is modelled as a separate, independent three layer model. The parameters that need modification per latitude are the solar input So and the reflectivity of the Earth's surface re . Other parameters can also be easily modified by latitude as required. This allows the modification of the stratospheric UV absorption parameter f . The mean solar input is now a function of latitude. Using spherical trigonometry, the sunlight incident per unit area at the top of the atmosphere over a day is determined by (Peixoto, 1992) So (, t) = 86 400 S(dm /d)2 sin sin(H - tanH)  (7.2)
+
+where S is the solar input (1 362 W/m2 ), dm is the mean distance of the Earth to the sun,d is the distance to the sun at a particular time,  is the latitude,  is the solar declination, and H is the length of the day. Note that parameters such as d and  are functions of the season. Integrating equation 7.2 over the year gives the mean solar irradiance per unit area per unit time at a particular latitude. It should be noted that this function does not give a symmetrical result about . This is caused by the Earth being closer to the sun during the southern hemisphere summer. Thus the southern hemisphere receives on average slightly more sunlight annually than the northern hemisphere. Determining the value for re is more difficult as it is made up of many individual components such as the amount of land, water, ice and snow on the Earth's surface. Indeed, land can be sand, or dark loamy soil, or have vegetation, for example, each of which have different albedo values. For this simple model it is assumed that land and sea cover is uniform by latitude and has no dependence upon latitude. For each band of latitude, if the surface temperature is above 273 K then re is determined to be 0.1175. If the surface temperature is below 273 K, then re is determined to be 0.3500. Using the nominal set of values for the three layer model as determined in chapter 4 and allowing So and re to be dependant on latitude and surface temperature respectively, the model was run and the results depicted in figure 7.1. As expected the equatorial temperature is higher than that observed and the polar temperatures are lower than has been observed. This is because
+
+7.3 Albedo Feedback by latitude
+
+87
+
+Figure 7.1: Surface temperature by latitude using a three layer model with a simple albedo by temperature function
+
+heat transport by the atmosphere or the oceans has not been included in this model. What is in the graph is a high temperature at the equator and low temperatures at the poles. There is a marked drop in temperature, at latitudes 50 N and 50 S, that demarcates the beginning of deglaciation, i.e. the albedo boundary. This change is sharp as we have modelled an all or nothing scenario for glaciation, Using these figures as a norm, it is possible to retest the three scenarios. The changes in temperature caused by an increase in greenhouse gases of 1% for the troposphere and 0.5% for the stratosphere are given in figure 7.2. At all latitudes the temperature has increased with a maximum change of 0.45 K at the equator to 0.45 K at the poles. Also of note is that the line of glaciation has in both hemispheres has retreated towards the poles. On the right panel is the plot of change in temperature by latitude. From this it is seen that the warming at the equator is greater than the warming at the poles. The two prominent features are the sudden increases in temperature at around 50 of latitude in both the northern and southern hemisphere. This is the change in temperature caused by the change in albedo from an ice regime
+
+88 to an ocean/land regime.
+
+Extending the Three Layer Model
+
+Figure 7.2: Surface temperature by latitude and change in temperature by latitude caused by a 1% increase in greenhouse gases. Left panel, the solid line is the original temperature, the dashed line is the final temperature. The right panel shows the change in temperature by latitude. Maximum values 19 K For a 1% increase of solar irradiance, as shown in figure 7.3, there is a warming at all latitudes with a maximum warming of 0.75 K at the equator and a minimum of 0.55 K occurring at the poles. Also there is the shift in glaciation producing dramatic changes in temperature where they occur. Again the general warming trend is that the equator warms more than the poles as this is the location largest solar input. Modelling the decrease in ozone is more difficult as this decrease is not consistent across the whole planet. Ozone concentrations are traditionally highest in the polar regions; these regions also have the highest relative change in ozone. The Antarctic Ozone hole is much larger than the Arctic hole both in size and relative loss of ozone. To model this the parameter fs of the three layer model was made to vary as a function of latitude, according to  0.06 1 - 0.01 fs = 0.45
+ 4
+
+45 S <  < 90 N otherwise
+
+(7.3)
+
+7.3 Albedo Feedback by latitude
+
+89
+
+Figure 7.3: Surface temperature by latitude and change in temperature by latitude caused by a 1% increase in solar radiation. Left panel, the solid line is the original temperature, the dashed line is the final temperature. The right panel shows the change in temperature by latitude. Maximum values 19 K This gives 0.0465 at the North Pole ranging to 0.6 at the equator. For all regions south of 45 S fs is set to 0.45, to represent the mean effect of the ozone hole. The results of simulation with the inclusion of equation 7.3 are shown in figure 7.4. Again the ozone depletion scenario shows an increase in temperature at all latitudes and the glaciation line shifts towards the poles, nevertheless there are differences compared to the other two scenarios that are significant. In the case of ozone depletion the least warming is at the equator with 0 K increase. The warming increases as one travels towards the poles with a maximum increase of 0.25 K at 50 S. With a decrease of warming over the glaciated areas. The northern polar region continues this warming trend towards the pole. In the southern hemisphere the change in ozone was fixed from 45 S, and in the graph the warming remains uniform with . In all three scenarios the line of glaciation retreats to the poles thus producing a marked increase in temperature. In the case of greenhouse gases and solar irradiance the greatest warming occurred at the equator and the least
+
+90
+
+Extending the Three Layer Model
+
+Figure 7.4: Surface temperature by latitude and change in temperature by latitude caused by a 1% increase in solar radiation. Left panel, the solid line is the original temperature, the dashed line is the final temperature. The right panel shows the change in temperature by latitude. Maximum values 19 K
+
+warming occurred in the polar regions. In the case of ozone depletion this trend was noticeably reversed.
+
+7.4
+
+Further extensions to the three layer model
+
+The original purpose of developing a three layer model is to create a simple analytical model for determining the effects of atmospheric changes upon the Earth. With the development of feedback mechanisms it is necessary to use iterative schemes of relaxation to steady state. While it is possible to factor extra factors such as land cover by latitude and vegetation cover, this is at the cost of increased complexity. When dealing with this amount of detail it is a question as to whether to extend the model to this level of complexity or whether to transfer to a full global circulation model and modify it to include the effect of ozone depletion.
+
+7.5 Conclusion
+
+91
+
+7.5
+
+Conclusion
+
+With the addition of a simple albedo feedback mechanism, the warming of the atmosphere was dramatically amplified. With this feedback both solar variation and ozone depletion produced larger effects than that observed in chapter 5. Indeed. the effects become much more likely to explain observed warming of the atmosphere. This implies that special consideration should be given to these factors and that they are worthy of further study by the scientific community. Extending the model further shows that the temperature increase varies with latitude, the largest increase being caused by a decrease in the area of the ice. This supports the view that the decreases in observed Northern and Southern hemisphere sea ice should be having an effect on the amount of energy in the Earth climate system. As large amounts of sea-ice and glaciers have melted and there is a reduction in snow cover in many parts of the world, the snow-ice reduction should produce a feedback effect which is yet to be quantified. In the actual world this melt off takes time to happen and thus the world is currently not in steady state. As the snow cover can be considered to have been in a quasi-stable state in the past, then some external event must have caused the snow-ice reduction. This event seems likely to have occurred in the late 1960s and early 1970s. An ozone depletion model of global warming shows that ozone depletion may be a significant contributory factor.
+
+Chapter 8 Conclusion
+8.1 Summary of the Main Results from this Thesis
+The goal of this thesis is to determine if the ozone depletion in the stratosphere is a plausible explanation of all or part of any observed changes in climate. Chapter 2 presented the known evidence that there has been an increase in the surface temperature of the Earth, a warming of the troposphere, a cooling of the stratosphere and a net melting of the Earth's cryosphere, since the late 1960s/early 1970s. As increase of temperature in a system is related to energy in the system, a first order energy budget was carried out to determine the total increase in energy the Earth energy system had experienced due to the observed thermal effects. The total increase in energy was estimated to be of the order of 2×1020 J. This is the equivalent of an increase of solar input by 0.2 W/m2 or an increase of sunlight by 0.06% over the period of heating. This amount of extra energy incident upon the Earth is within one factor of the increase of solar input required for the solar variation theory to be valid and is an order of magnitude smaller than that required for the greenhouse gases theory of global warming. It was noted that the extent of the Earth's cryosphere has reduced in surface area. The Earth's cryosphere is a highly reflective surface, consequently sunlight incident on the cryosphere is predominantly reflected into space. With the melting of the snow and ice the exposed surface of the Earth absorbs a much larger proportion of the incident sunlight. When averaged over the surface of the Earth was estimated to increase the effective solar input by 93
+
+94
+
+Conclusion
+
+0.25 W/m2 . This is also within an order of magnitude of the solar input increase as determined using the first order approximation energy budget. In Chapter 3 it was shown that in the 1960s and from the 1970s onwards there has been a decrease in stratospheric ozone. The greatest decrease in ozone has been observed to occur near the poles of the Earth, with the largest decrease being the Antarctic ozone hole that occurs in late winter and spring. It is observed that with a decrease of stratospheric ozone there is an increase in UV-B incident upon the surface of the Earth. The greatest depletion in the ozone layer also occurs where there is the greatest melting of the Earth's cryosphere, hence where there is the largest change in albedo. To determine if these events are linked, a model of the Earth was developed. A known simple two layer model of the Earth was extended, in chapter 4, to create a third layer to more closely examine the behaviour of the observed atmospheric layers. A set of values for the parameters was determined and in chapter 5 the three layer model was used to model the scenarios of greenhouse gases, solar irradiance, snow-ice albedo feedback and ozone depletion. Of these four models, using observed values of change for the various scenarios, the change in temperature was determined. Compared with the observed surface warming of 0.55 K, the greenhouse gas scenario demonstrated the largest change with an increase in temperature of 0.47 K. The temperature increase for solar variability was 0.098 K, for ozone depletion, 0.087 K and for albedo decrease, 0.087 K. It is of note that the ozone depletion scenario was the only scenario that demonstrated a cooling of the stratosphere. In Chapter 6, these results of the three layer model were compared to other climate models. The importance of including a snow-ice albedo feedback mechanism into the three layer model was established. It was therefore decided to alter the three layer model to include this mechanism. Two different snowice albedo feedback mechanisms were tested using the three layer model in Chapter 7. The first, simple mechanism acted as an amplification factor and increased the model change in temperature for the greenhouse gas, solar irradiance and ozone depletion scenarios. This increase demonstrated that any of the three scenarios could be responsible for a significant change in the Earth's observed temperature with an increase in temperature caused by greenhouses of 1.40 K, by solar variation of 0.30 K and by ozone depletion of 0.12 K. The second albedo mechanism was used and this showed an increase of temperature in all scenarios and a receding of glaciations towards the poles.
+
+8.2 Final Conclusion on Ozone Depletion and Global Warming
+
+95
+
+8.2
+
+Final Conclusion on Ozone Depletion and Global Warming
+
+The aim of this thesis is to determine if ozone depletion is plausibly a contributory factor to modern global warming. While it is observed that ozone depletion and global warming have occurred concurrently, this in itself is not enough to determine any causative link. A scenario was determined where ozone depletion causes a reduction of UV-B absorption in the stratosphere. This was then modelled using a three layer model of the Earth's atmosphere. This determined that the greenhouse gas, the solar variability and the ozone depletion scenarios all produced warming of the surface atmosphere. Of these scenarios, only the ozone depletion produced the observed cooling of the stratosphere. It is the conclusion of this thesis that no one of the three scenarios presented can be ruled out as a cause of global warming either as a sole explanation or in combination with other mechanisms. A mechanism was shown which demonstrated that ozone depletion produces an increase of surface temperature by an increase of absorbed UV-B and a decrease in stratospheric temperature by a decrease in absorption of UV-B by the stratosphere. It was further demonstrated that a further mechanism, snow-ice albedo feedback, amplified by reinforcement the effects of surface temperature increase due to ozone depletion. It is therefore concluded that ozone depletion is a likely cause of at least a reasonable part of observed global warming. It is a component that we expect will be essential to include to achieve a complete understanding of the mechanics of global warming.
+
+8.3
+
+Further Study
+
+Topics that warrant further investigation include: A more complete modelling of the increase of energy caused by the SnowIce Albedo Feedback Mechanism. While this mechanism is understood, it has not been fully explored, especially with relation to real world values. A more complete modelling of the increase of UV-B at the surface of the Earth. The modification of an existing GCM model would be of use. This would require major modifications to allow the modelling of varying amounts of ozone at varying latitudes at various times of year. Both the modelling of ozone by location and season and modifying a Global Climate Model to produce meaningful results incorporating this information will be of use in
+
+96
+
+Conclusion
+
+determining a more rigorous model of the Earth atmosphere climate system. It is important to keep observing and collecting better data on snow, ice, sea-ice and Antarctic temperatures. And it is of great importance that we increase the data known about the southern oceans.
+
+References
+Allen, P. A. Earth Surface Processes. Blackwell Science, Oxford (1997). Angell, J. K. Comparison of surface and tropospheric temperature trends estimated from a 63-station radiosonde network, 1958-1998. Geophysical Research Letters, 26, pp. 2761­2764 (1999). Antonov, J., S. Levitus, and T. Boyer. Thermosteric seal level rise, 1955-2003. Geophysical Research Letters, 32, p. L12602 (2005). Arrhenius, S. On the influence of carbonic acid in the air upon the temperature of the ground. The London, Edinburgh and Dublin Philosophical Magazine and Journal of Science, 41, pp. 237­276 (1896). Barker, J. R. and M. H. Ross. An introduction to global warming. American journal of Physics, 67, pp. 1216­1226 (1999). Beltrami, H., J. E. Smerdon, H. N. Pollack, and S. Huang. Continental heat gain in the global climate system. Geophysical Research Letters, 29, pp. 8­ 1­3 (2002). Bougher, S. W., J. M. Bell, J. R. Murphy, M. A. Lopez-Valverde, and P. G. Withers. Polar warming in the Mars thermosphere: Seasonal variations owing to changing insolation and dust distributions. Geophysical Research Letters, 33(2), pp. 2203­2203 (2006). Budyko, M. I. The effect of solar radiation variations on the climate of the earth. Tellus, 21, pp. 611­619 (1969). Buratti, B. J., M. D. Hicks, and R. L. Newburn. Does global warming make Triton blush? Nature, 397(6716), pp. 219­219 (1999). Carroll, R. T. Occam's razor (2006). http://skepdic.com/occam.html, accessed June 2006. 97
+
+98
+
+References
+
+Cavalieri, D. J. and C. L. Parkinson. 30 year satellte record record reveals contrasting Arctic and Antarctic decadal sea ice variability. Geophysical Research Letters, 30, pp. CRY 4­1­4­4 (2003). Centre for Atmospheric Research. UVB radiation underneath an ozone hole (2006). http://www.atm.damtp.cam.ac.uk/people/mgb/ozonehole. html, accessed June 2006. Centre of Atmospheric Research. Ozone hole tour - part II (2006). http: //www.atm.ch.cam.ac.uk/tour/part2.html, accessed June 2006. Climatic Research Unit. Tiempo climate portal ­ global surface air temperature (2006). http://www.tiempocyberclimate.org/portal/datagltemp. htm, accessed June 2006. Elliot, J. L., H. B. Hammel, L. H. Wasserman, O. G. Franz, S. W. McDonald, M. J. Person, C. B. Olkin, E. W. Dunham, J. R. Spencer, J. A. Stansberry, M. W. Buie, J. M. Pasachoff, B. A. Babcock, and T. H. McConnochie. Global warming on Triton. Nature, 393(6687), pp. 765­767 (1998). Ennis, C. A., editor. Scientific assessment of ozone depletion: 2002. World Meteorlogical Organistation, Geneva (1994). Farman, J. C., B. G. Gardener, and J. D. Shanklin. Large losses of total ozone in Antartica reveal seasonal ClOx /NOx interaction. Nature, 315, pp. 207­ 210 (1985). Frederick, J. E. and H. E. Snell. Ultraviolet radiation levels during the Antarctic spring. Science, 241, pp. 438­440 (1988). Garrison, T., editor. Oceanography: Wadsworth, Belmont, CA (1999). An invitation to Marine Science.
+
+Global Monitoring for Environment and Security Services. Dobson unit (2006). http://www.gse-promote.org/services/ozone_nrt/ dobsonunit.html, accessed June 2006. Goddard Institute of Space Studies. Datasets and images (2006). http:// data.giss.nasa.gov/gistemp/graphs/, accessed June 2006. Halliday, D., R. Resnick, and J. Walker. Fundamentals of Physics. Wiley, New York, NY, fifth edition (1997).
+
+99 Hansen, J., G. Russell, D. Rind, P. Stone, A. Lacis, S. Lebedee, R. Ruedy, and L. Travis. Efficient three-dimensional models for climate studies: Models I and II. Monthly Weather Review, 3, pp. 609­662 (1983). Houghton, J. T., editor. Climate Change 2001: The Scientific Basis. CUP, Cambridge, UK (2001). Houghton, J. T. Global warming: the complete briefing. CUP, Cambridge, UK, third edition (2004). Hunter, M. Pluto's warming. New Scientist, 176(2371), pp. 25­25 (2002). Johannessen, O., E. V. Shalina, and M. W. Miles. Satellite evidence for an arctic sea ice cover in transformation. Science, 286, pp. 1937­1939 (1999). Joshi, M., K. Shine, M. Ponater, R. Stuber, and L. L. Sausen. A comparison of climate response to different radiative forcings in three general circulation models: towards and improved metric of climate change. Climate Dynamics, 20, pp. 843­854 (2003). Karentz, D. Ecological considerations of Antarctic ozone depletion. Antarctic Sciences, 3, pp. 3­11 (1991). Kiehl, J. T. and K. E. Trenberth. Earth's annual global mean energy budget. Bulletin of the American Meteorological Society, 78, pp. 197­208 (1997). Kirkpatrick, L. D. and G. F. Wheeler. Physics: A World View. Saunders, Philadelphia, PA, second edition (1995). Kittel, C. and H. Kroemer. Thermal Physics. Freeman, San Fransisco, second edition (1980). Knox, R. S. Physical aspects of the greenhouse effect and global warming. American Journal of Physics, 67, pp. 1227­1238 (1999). Kondratyev, K. Y., V. I. K. amd V. V. Mukhenberg, and L. N. Dyachenko. In: Land surface processes in atmospheric general circulation models, edited by P. S. Eagleson. CUP, Cambridge, UK (1981). Kuo, C., C. Lindberg, and D. J. Thomson. Coherence established between atmospheric carbon dioxide and global temperature. Nature, 343, pp. 709­ 714 (1990).
+
+100
+
+References
+
+Levitus, S., J. I. Antonov, and T. P. Boyer. Warming of the world ocean. Geophysical Research Letters (2006). Submitted. Levitus, S., J. I. Antonov, T. P. Boyer, and C. Stephens. Warming of the world ocean. Science, 287, pp. 2225­2229 (2000). Lide, D. R., editor. CRC Handbook of Chemistry and Physics. CRC, Boca Raton, FL., 84th edition (2003). Liu, J., J. A. Curry, and D. G. Martinson. Interpretation of recent Antarctic sea ice variability. Geophysical Research Letters, 31, p. L02205 (2004). de Mora, S., S. Demers, and M. Vernet, editors. The effects of marine radiation in the marine environment. CUP, Cambridge, UK (2000). Mueller, D. R. and W. F. Vincent. Break-up of the largest Arctic ice shelf and associated loss of an epishelf lake. Geophysical Research Letters, 30, pp. CRY 1­1­1­4 (2003). National Snow Ice Data Center. State of the cryosphere (2005). http:// Nsidc.org, accessed October 2005. Park, D., C. Folland, and M. Jackson. Marine surface temperature: Observed variations and data requirements. Climate Change, 31, pp. 429­469 (1995). Parkinson, C., D. Cavalieri, P. Gloersen, H. J. Zwally, and J. C. Cosimo. Arctic sea ice extents, areas and trends, 1978 ­ 1996. Journal of Geophysical Research, 104, pp. 20837­20856 (1999). Peixoto, J. P. Physics of Climate. American Institute of Physics, New York (1992). Petit, J. R., J. Jouzel, N. I. Barkov, J. M. BArnola, I. Basile, M. Bender, J. Chappellaz, M. Davis, G. Delaygue, M. Delmotte, V. M. Kotlyakov, M. Legrand, V. Y. Lipenkov, C. Lorius, L. Pe´in, c. Ritz, E. Saltzman, and p M. Stievenard. Climate and atmosphere history of the past 420,000 years from the Vostok ice core, Antarctica. Nature, 399, pp. 429­436 (1999). Pollack, H., S. Huang, and Po-Yu Shen. Climate change record in subsurface temperatures: A global perspective. Science, 282, pp. 279­281 (1998). Ramaswamy, V., M. L. Chanin, J. Angell, J. Barnett, D. Gaffen, M. Gelman, P. Keckhut, Y. Koshelkov, K. Labitzke, J. J. R. Lin, A. O'Neill, J. Nash,
+
+101 W. Randel, R. Rood, K. Shine, M. Shiotani, and R. Swinbank. Stratospheric temperature trends: Observations and model simulations. Reviews of Geophysics, 39, pp. 71­122 (2001). Rothrock, D., Y. Yu, and G. Maykut. Thinning of the Arctic sea-ice cover. Geophysical Research Letters, 26, pp. 3469­3472 (1999). Rowland, F. S. Stratospheric ozone depletion. Annual Review of Physical Chemistry, 42, pp. 731­768 (1991). Roy, C. R. Ozone depletion. Nature, 347, pp. 235­236 (1990). Savijarviand, H., D. Crisp, and A. Harri. Effects of CO2 and dust on presentday solar radiation and climate on Mars. Quarterly Journal of the Royal Meteorological Society, 131(611), pp. 2907­2922 (2005). Sellers, W. D. A global climatic model based on the energy balance of the earth-atmosphere system. Journal of Applied Meteorolgy, 8, pp. 392­400 (1969). Soon, W., S. L. Baliunas, A. B. Robinson, and Z. W. Robinson. Environmental effects of increased atmospherics carbon dioxide. Climate Research, 13, pp. 149­164 (1999). Stolarski, R., R. Bojkov, L. Bishop, C. Zerefos, J. Staehelin, and J. Zawodny. Measured trends in stratospheric ozone. Science, 256, pp. 342­349 (1992). Stuber, N., M. Ponater, and R. Sausen. Why radiative forcing might fail as a predictor of climate change. Climate Dynamics, 24, pp. 497­510 (2005). Tipler, P. A. Physics for Scientists and Engineers. Worth, New York, NY, third edition (1991). University of Leeds. Solar effects on the climate (2005). http: //www.env.leeds.ac.uk/envi2150/oldnotes/lecture9/lecture9.html, accessed June. Vaughan, D. G. and C. S. M. Doake. Recent atmospheric warming and retreat of ice shelves on the Antarctic Peninsula. Nature, 379, pp. 328­331 (1996). Watkins, T. Mikhail i. budyko's ice-albedo feedback model (2006). http: //www.applet-magic.com/budyko.htm, accessed June 2006.
+
+102
+
+References
+
+White, W. B., D. R. Cayan, and J. Lean. Global upper ocean heats storage response to radiative forcing from changing solar irradiance and increasing greenhouse gas/aerosol concentrations. Journal of Geophysical Research, 103, pp. 21355­21366 (1998). Woodruff, S. D., R. J. Slutz, R. L. Jenne, and P. M. Steurer. A comprehensive ocean-atmosphere data set. Bulletin American Meteorlogical Society, 10, pp. 1239­1250 (1987). World Meteorological Organisation, editor. Environmental effects of ozone depletion: 1994. World Meteorlogical Organistation, Geneva (1994a). World Meteorological Organisation, editor. Scientific assessment of ozone depletion: 1994. World Meteorlogical Organistation, Geneva (1994b).
+
+

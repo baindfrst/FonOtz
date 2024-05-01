@@ -1,0 +1,988 @@
+1
+
+Chapter 1 Literature Review
+1.1 Introduction
+
+To understand why an animal learns it is often necessary to look at how they learn. My research explores a relatively neglected area of animal learning: whether the social and/or genetic relationship as well as the sex of a "teacher" influences the learning success of a "student". By identifying how these factors influence learning, we may be able to gain insight into both the mechanisms of learning behaviour and the issues that are most important in animal learning.
+
+This research involves the amalgamation of three main research topics: observational learning, kin recognition, and the influence of gender on learning. This introduction reviews literature on each area, examining possible mechanisms, hypotheses and studies relevant to each area in turn. The background material will familiarise the reader with observational learning theory, before explaining the significance of kin recognition in the learning context. Some of the important differences shown
+
+between males and females in terms of learning and behaviour will then be explained, followed by background information on the study species. The chapter ends with the aims, hypotheses, and format of my thesis.
+
+2 1.2 Observational Learning
+
+Observational learning is a type of social learning where one animal learns from another (Clarke, Nicol, Jones, & McGreevy, 1996). This broad definition however has been modified many times over the last century as scientists have argued whether observational learning differs from other social learning processes such as social facilitation, imitation or stimulus enhancement (Galef, Manzig, & Field, 1986; Nicol, 1995; Zentall & Akins, 2001). Trying to tease apart the differences between these learning categories has been an ongoing process. I have taken Bennett Galef's stance on the subject and will "ignore... the elaborate taxonomies developed during the last decade" (Galef, 1996 pg 7), focusing instead on the possible functions of observational learning and studies investigating its mechanisms. Because my focus will be on laboratory-based studies and not wild or naturally occurring instances of observational learning, I have chosen the following definition to represent the view I am taking:
+
+In an experimental situation, observational learning occurs when a naive animal (the observer) watches a trained conspecific (the demonstrator) carrying out a task, causing the observer to learn the appropriate response more quickly or more effectively than controls not exposed to a demonstrator (Lindberg, Kelland & Nicol, 1999, p188).
+
+Literature on observational learning is plentiful, and studies on this phenomenon occur across a range of species in a number of animal groups including birds
+
+3 (Biederman & Vanayan, 1988), mammals (Collins, 1988; Johns, Chesler, Bartlett, & Victor, 1968), and fish (Kieffer & Colgan, 1992).
+
+In social species that live communally it is predicted that if one member of the group is unable to find food, another member of the group may assist (Galef, 1990). The reason for helping a conspecific has been much debated and depends on the genetic relationship and history of the two individuals in question. Helping may involve providing an unsuccessful individual with food through sharing one's own meal (Wilkinson, 1984), exchanging information on the location of a food source (Richter & Waddington, 1993) or allowing the unsuccessful individual to follow on subsequent foraging trips (Galef, 1990). Furthermore, one member of a group may learn of a new food source or way to access a food source and this information can be passed on to others within the group (Byrne & Russon, 1998). Observational
+
+learning can also reduce the amount of time it takes to learn about a situation by gaining information from a conspecific that already has knowledge (Choleris & Kavaliers, 1999). Capitalising on a conspecific's existing knowledge base can not only reduce the time taken in learning a task but also helps an animal cope with dangerous situations such as exposure to toxic foods or predators (Choleris & Kavaliers, 1999; Galef, 1990; Galef & Iliffe, 1994).
+
+Rodents have been shown to learn through observation when performing a variety of tasks (Galef, Mischinger, & Malenfant, 1987; Heyes & Dawson, 1990). A common paradigm involves the pressing of a lever or similar manipulandum in some way that gives the demonstrating animal access to food while allowing another animal to
+
+4 watch the process (Heyes & Dawson, 1990). Using this technique, observers can often acquire the target behaviour faster in comparison to control animals (Simons & Lejeune, 1997). In addition to increased speeds, other aspects of the task are also learnt. For example, directionality of a joystick push (to the left or right) has been used to determine if rats are capable of learning through observation (Heyes & Dawson, 1990; Heyes, Dawson, & Nokes, 1992; Heyes, Jaldow, Nokes, & Dawson, 1994). It was found that observers not only learnt the task quicker, they learnt to press the joystick in the same direction as their demonstrator (Heyes & Dawson, 1990). To ensure this directionality was due to the presence of a trained conspecific and not just the movement of the joystick itself, a further experiment was conducted during which the joystick was automatically moved consistently in one direction in the absence of a demonstrator. Observers that watched a demonstrator displayed the same direction response, whereas those that observed the joystick moving alone showed no consistent bias in direction (Heyes et al., 1994).
+
+The ability to learn which direction to perform a task using observational learning has also been assessed in mice (Collins, 1988). A trained demonstrator mouse opened a door to gain access to food while five mice observed from a "gallery". The gallery mice were either observers (could see the demonstrator) or non-observers (had their view blocked by opaque white Plexiglas). Observers took less time to open the door on their first trial than non-observers (2.1min for observers, 3.5min for nonobservers); furthermore observers were more likely to open the door in the direction demonstrated to them (Collins, 1988).
+
+5 Maze learning has also been used to examine observational learning (Groesbeck & Duerfeldt, 1971; Leggio et al., 2003). In a Y maze, animals with access to a
+
+demonstrator correctly identified which arm of a maze to enter with a higher accuracy than control animals (Groesbeck & Duerfeldt, 1971).
+
+Leggio et al. (2003) made important contributions to understanding observational learning by studying hemicerebellectomized rats in a Morris water maze. Ten rats were placed in small individual chambers above a maze and allowed to observe 200 trials of trained conspecifics searching for hidden platforms in the water (approximately 6h of observation). Half of the rats were then hemicerebellectomized, a process that blocks further acquisition of new behaviour, thereby reducing the possibility that observer rats could learn through trial and error. Observers were then tested 40 times. During their initial tests, non-hemicerebellectomized rats showed similar patterns in searching as the demonstrator they had observed. With further tests, these intact rats did change their searching strategies to show the use of trial and error. Hemicerebellectomized animals displayed similar searching pattern to the demonstrators throughout the trials, indicating no new behaviours were acquired and that the platform location was from observational learning alone (Leggio et al., 2003).
+
+1.3
+
+Kin Recognition and Discrimination
+
+The ability of an animal to recognize another conspecific as kin has been documented in a range of species (Gerlach & Lysiak, 2005; Holmes & Sherman, 1983; Nakagawa, Waas, & Miyazaki, 2001; Pfennig, Collins, & Ziemba, 1999; Porter, Matochik & Makin, 1986) even when the individual in question is unfamiliar (Galef, 1996;
+
+6 Hepper, 1991). Recognition therefore allows an animal to distinguish kin from nonkin, potentially leading to the differential treatment of a conspecific, by modifying one's behaviour on the basis of relatedness (Busquet & Baudoin, 2005; Byers & Beckoff, 1986; Holmes & Sherman, 1983; Todrank, Heth, & Johnston, 1999). This ability provides reproductive advantages through improvements in individual reproductive success by incest avoidance or optimal in- or out-breeding, and genetic success through inclusive fitness (Hamilton, 1964; Holmes & Sherman, 1983; Pusey & Wolf, 1996). The mechanisms by which animals recognize kin are not always clear. I have chosen to follow Nakagawa and Waas (2004) in presenting two classes of recognition: recognition by indirect familiarisation and recognition by direct familiarisation. Direct familiarisation is the mechanism widely referred to as
+
+phenotype matching, while indirect familiarisation is recognition by association (Holmes & Sherman, 1983; Nakagawa & Waas, 2004; Porter, 1988).
+
+1.3.1
+
+Benefits of Kin Recognition and Discrimination
+
+It is widely known that mating with closely related individuals often results in reduced fitness (Bateson, 1983), with offspring from such pairings having a higher incidence of recessive alleles which can express themselves in the form of mutations and lower survival rates (Keller, Grant, Grant, & Petren, 2002; Pusey & Wolf, 1996). It is therefore beneficial for animals to avoid incestuous matings and thereby avoid inbreeding depression. It is also suggested that breeding with individuals that are too different genetically can reduce an animal's reproductive fitness, suggesting an optimum level of inbreeding may be maintained (Barnard & Aldhous, 1991; Bateson, 1983). In Japanese quail (Coturnix japonica) it was found that birds of either sex
+
+7 preferred to mate with unfamiliar first cousins, choosing their relatives over unrelated individuals (Bateson, 1982).
+
+Hamilton (1964) proposed the theory of inclusive fitness: helping non-descendent kin (such as siblings or cousins) is beneficial because it helps to propagate the common genes shared between them. The lekking behaviour in peacocks (Pavo cristatus) may be example of inclusive fitness (Petrie, Krupa, & Burke, 1999). Through multi-locus DNA finger-printing it was found that related male peacocks in a park displayed closer to each other than non-related birds (Petrie et al., 1999). Eggs were
+
+experimentally removed from natal nests and reared in mixed broods of differing parentage before reintroducing the young animals back into the park. The released males joined leks with related birds. While displaying near a relative did not increase the individual's chance of mating, Petrie et al (1999) proposed that displaying near kin would increase the number of females being attracted to the area increasing the chance of a successful mating for at least some of the birds in the lek. This would therefore increase the inclusive fitness of all related individuals (Hamilton, 1964).
+
+1.3.2
+
+Indirect Familiarisation ­ Phenotype Matching
+
+Indirect familiarisation is a type of recognition that involves an actor and a recipient (Hauber & Sherman, 2001). The actor uses a cue (such as plumage or odour) possessed by the recipient in order to decide if the recipient is a relative. The theory posits that an actor can ascertain the degree of relatedness from an unknown recipient based on some kind of physical cue that the actor identifies as a shared trait (Gerlach & Lysiak, 2005; Halpin, 1991; Hauber & Sherman, 2001; Sun & Müller-Schwarze,
+
+8 1997; Tang-Martinez, 2001). An actor is able to learn about familial cues either from itself (self-referent matching) or from previous experience with other members of its family (Halpin, 1991; Hauber & Sherman, 2001; Tang-Martinez, 2001). It may be an individual trait that is specific to their family, or a grouping of characteristics that essentially allows the actor to recognise the recipient as belonging to the same family (Halpin, 1991). An actor is able to assess the degree of relatedness (parent, sibling, cousin etc.) by uses a number of traits and comparing the level of similarity (Halpin, 1991). Based on assessing the length of time spent investigating a conspecific or a conspecific's cage, rats have been shown to differentiate between siblings, half siblings, first cousins and unrelated individuals (Hepper, 1987). Rats that were
+
+closely related spent less time investigating each other or their cages. A linear trend was found showing that as relatedness decreased, investigative behaviour increased (Hepper, 1987).
+
+Indirect familiarisation is advantageous because it does not require an actor to have any prior interactions or encounters with the recipient. This gives an immediate benefit when it comes to mating or sharing resources as kin can be given differential treatment (Hauber & Sherman, 2001; Waldman, 1987). Indirect familiarisation
+
+would be favoured when other identification methods are not possible or rearing conditions may lead to inaccurate decisions (see table 1.1) (Holmes & Sherman, 1983).
+
+It is usually assumed that for reliable indirect familiarisation to occur, there must be some heritable component allowing for the expression of shared traits to be
+
+9 identifiable within families (Holmes & Sherman, 1983). This expression can be
+
+visual (e.g. plumage or body appearance), auditory (e.g. song recognition), in the form of odours or other sensory modalities (Halpin, 1991).
+
+Table 1.1 Conditions favouring indirect familiarisation ____________________________________________________________________ Condition Description ____________________________________________________________________ Parental polygamy When there are multiple matings, paternal half siblings may not share the natal sites, or full and half siblings may be reared together Inter-brood aggregation Multiple offspring from different parents are reared together in a crèche situation Brood parasitism Animals subject to inter- or intra-species brood parasitism can result in nest-mates that are not siblings Dispersal Young that disperse at an early age may not have a chance to learn identities of parents or siblings ____________________________________________________________________ (Adapted from Holmes & Sherman, 1983)
+
+Genetic components of odour recognition include the major histocompatibility complex (MHC) and major urinary proteins (MUPs) (Busquet & Baudoin, 2005). MHC is a group of genes involved in immune function found in all vertebrates (Boyse, Beauchamp, Yamazaki, & Bard, 1991). There are different alleles for each gene in the complex creating multiple classes (and subclasses) of MHC for a given
+
+10 species. The class of MHC an animal has can be detected by animals of the same and different species mainly through urine but also through other secretions (Beauchamp et al., 1985; Brown & Eklund, 1994). In mice the MHC has been studied extensively (Beauchamp et al., 1985; Yamazaki et al., 1976; Yamazaki, Yamaguchi, Andrews, Peake, & Boyse, 1978). Early research by Yamazaki et al (1976) showed that mice could recognise other mice that shared or differed in the class of complex, with males preferring to mate with females that had a different MHC to themselves. However, it was later found that if housed together the preference was not expressed suggesting that communal living amalgamated odours (Yamazaki et al., 1978).
+
+Animals that are more closely related should smell similar reflecting their shared genotype, a phenomenon called odour-gene covariance (Busquet & Baudoin, 2005). This odour-gene covariance has been experimentally assessed in mice: male mice were able to determine subtle differences in relatedness, distinguishing for example cousins (related through a single parent) from double cousins (related through both parents) using odour alone (Busquet & Baudoin, 2005; Heth, Todrank, Busquet, & Baudoin, 2001).
+
+It has been suggested that indirect familiarisation can occur in the absence of a heritable "relatedness cue" (Halpin, 1991; Holmes & Sherman, 1983). Tadpoles from the species Bufo americanus are able to recognise kin reared apart and it has been suggested there is a maternal factor that is found in the jelly of the developing eggs that conveys a post-embryonic referent (Waldman, 1982).
+
+11 What an animal eats influences how they smell. This is well documented in species such as rats (Galef, 1977; Galef & Iliffe, 1994), Mongolian gerbils (Meriones unguiculatus) (Skeen & Thiessen, 1977), spiny mice (Acomys cahirinus) (Porter, 1988; Porter & Doane, 1979) as well as invertebrates such as wasps (Jaisson, 1991). Recognition based on dietary odour cues are obviously problematic as unrelated animal living in the same area may consume food from the same sources.
+
+Another environmental process influencing odour that has been suggested is the "fermentation hypothesis" (Albone & Perry, 1975; Svendsen & Jollick, 1977). The bacterial flora present on an animal can influence an animal's scent. Animals living in close proximity to one another are more likely to share bacterial flora and therefore may have similar odours. Animals that are related to each other and interact with each other would therefore exchange bacterial flora in proportion to their number of interactions, because related animals interact more than unrelated or distantly related animals. Close relatives should smell more similar according to the fermentation hypothesis (Albone & Perry, 1975; Svendsen & Jollick, 1977).
+
+Both dietary and fermentation processes in relation to kin recognition rely on previous association with relatives; neither process would help in the identification of unfamiliar relatives.
+
+1.3.3
+
+Direct Familiarisation - Association
+
+In direct familiarisation the actor makes a decision about the recipient being kin based on previous associations (i.e. some interaction between the individuals has occurred
+
+12 in the past that reliably indicates an animal as being related or not) (Halpin & Hoffman, 1987; Holmes & Sherman, 1983; Nakagawa & Waas, 2004; Paz y Miño & Tang-Martinez, 1999). It is thought that association may be the most common
+
+method used for kin recognition throughout the animal kingdom, especially in altricial species where parent-offspring and sibling-sibling interactions will occur (Hepper, 1991; Holmes & Sherman, 1983). Animals reared in a natal nest can therefore assume that others in their direct vicinity are relatives (providing the breeding system does not involve communal rearing). Therefore in later life when encountering those individuals once more, they can be recognised as kin because of the prior association (Holmes & Sherman, 1983).
+
+When prairie voles (Microtus ochrogaster) were separated from their siblings at 1-2 days of age and cross-fostered, the cross-fostered animals treated their genetic siblings as strangers when placed together again after around 40 days (Paz y Miño & Tang-Martinez, 1999). The animals that were reared together were treated as
+
+siblings, providing evidence that recognition by association was the primary mechanism for sibling recognition in prairie voles. Prairie voles are monogamous and young are reared to form a communal group and display philopatry. This
+
+lifestyle allows for association to be a reliable mechanism for kin recognition (Holmes & Sherman, 1983; Paz y Miño & Tang-Martinez, 1999). Similar results were found in white-footed mice (Peromyscus leucopus); a test mouse preferred familiar non-siblings over unfamiliar siblings (Halpin & Hoffman, 1987). These mice remain together until weaning and are generally not exposed to any other animals until weaning has occurred, again, a lifestyle that supports recognition by
+
+13 association. Halpin and Hoffman (1987), when comparing their own findings with that of Grau (1982), suggested that there may be a critical period in which associative recognition learning takes place. Critical or sensitive periods are well recognised as periods of time during which certain stimuli must be encountered in order for the proper development of a behaviour to occur (Hensch, 2003). Association may be a type of learning that must occur during a sensitive period, occurring at time before young are exposed to non-relatives (Halpin & Hoffman, 1987).
+
+1.3.4
+
+Recognition by Spatial Distribution
+
+Kin recognition by spatial distribution relies on the occurrence of animals that are close to or sharing a natal will be relatives, and will therefore be treated differentially to those encountered elsewhere (Elwood, 1991; Hepper, 1991; Holmes & Sherman, 1983). Recognition by spatial distribution may rely not only on the recognition of kin, but on the recognition of the site itself. Kittiwake gulls (Rissa tridactyla) nest on narrow cliff ledges, and the young kittiwakes remain in the nest until they fledge at around five weeks of age (Cullen, 1957). Adult kittiwakes will accept unrelated chicks placed into their nests until their own chicks reach five weeks of age; thereafter, they will reject unrelated chicks. The early acceptance of non-kin
+
+indicates that they recognise their nest site and not their own offspring; however recognition of kin does occur once the young start to leave the nest suggesting that there is another mechanism of recognition occurring (Cullen, 1957; Holmes & Sherman, 1983).
+
+14 1.4 Sex Differences in Spatial and Observational Learning
+
+In spatial tasks such as navigating mazes, males often perform better than females across a range of mammalian species including humans, mice, rats and voles (Microtus pennsylvanicus) (Berger-Sweeney, Arnold, Gabeau, & Mills, 1995; Jonasson, 2005; Jones, Braithwaite, & Healy, 2003). Male mice can not only find objects faster than females but also remember and identify objects better than females (Frick & Gresack, 2003). In a meta-analysis of sex differences in rodents, it was shown that for both the Morris water and radial-arm mazes, male rats consistently out-performed females, indicating males have an advantage in both working and reference memories (Jonasson, 2005). However, this difference was not found in mice where females were found to do better in water mazes, suggesting an improved reference memory over males. Conversely males had a better working memory (i.e. they did better in radial-arm mazes) (Jonasson, 2005).
+
+Pre-training occurs when an animal is given access to a maze prior to actual testing. The animal performs a number of test runs through the maze with each run occurring in a set time period. If the animal has not reached the required end-point (usually
+
+locating a platform) before a set time period is over, the animal is then guided there and usually allowed a brief rest before being returned to the start of maze (PerrotSinal, Kostenuik, Ossenkopp, & Kavaliers, 1996). Pre-training may reduce the sex differences in the capacity to perform spatial tasks, suggesting components other than sex are playing a part in cases where males out-perform females (Perrot-Sinal et al., 1996). Female rats that received pre-training in a Morris water maze initially spent longer in the water than males, supporting the hypothesis that males learnt spatial
+
+15 tasks quicker. However, after the pre-training phase, there was little difference between the sexes in the time taken to reach a platform and their spatial distribution in the water showed no significant sex differences (Perrot-Sinal et al., 1996).
+
+Many studies on rodents fail to take into account possible sex differences in learning (Choleris & Kavaliers, 1999). They either do not include an analysis of how sex may have affected the data obtained or they only use single sexes (Choleris & Kavaliers, 1999). In observational learning single sexes are predominately used resulting in male-male or female-female pairs for the observer/demonstrator relationship. In an interesting study performed by Collins (1988), a female mouse demonstrator was used to teach both males and females a behavioural task. The demonstrator pushed a door open and gained access to food. Both sexes of observers acquired the task faster than "non-observer" controls, however, males learnt to press the door in the same direction as the demonstrator while females did not (Collins, 1988). This suggests that males are able to acquire a directionality component to a task better than females (Choleris & Kavaliers, 1999). The cause of this sex difference may have a
+
+physiological basis with differences in the mesostriatal dopamine activity and levels of gonadal steroid hormones being suggested (Choleris & Kavaliers, 1999).
+
+1.5
+
+Study Species - The Norway rat (Rattus norvegicus)
+
+The Norwegian, or brown rat, is a medium-sized rodent (males weigh up to 800g and females 400g) that is thought to have originated in China and now resides on all continents of the world (Nowak, 1999; Pass & Freeth, 1993). Rats are predominately nocturnal and are most active between sunset and midnight (Calhoun, 1962; Nowak,
+
+16 1999). They have a well developed sense of hearing and an excellent sense of smell although their vision is poor, especially in many of the laboratory-bred strains that are either albino or bred from albino rats (Calhoun, 1962; Pass & Freeth, 1993). Rats are social animals that live communally in burrows; female colony members may share parental care for offspring that are not their own (Galef, 1990; Nowak, 1999). They are omnivorous foragers that generally eat away from the burrow before returning (Galef, 1990; Nowak, 1999).
+
+While considered a pest species by most, rats have been kept in captivity since the early 1800s and are thought to be the first animal that was domesticated for scientific purposes (Calhoun, 1962; Pass & Freeth, 1993). This domestication saw a range of strains being bred, most of which originated from the Wistar Institute in Philadelphia, United States (see figure 1.1).
+
+Females generally live longer than males (3.6 and 2.7 years respectively) although strain has an influence on longevity, with inbred strains having shorter life spans (Pass & Freeth, 1993). Sexual maturity occurs around 6 weeks of age in females and 8 weeks in males, although some rats may not reach maturity until 16 weeks of age (Calhoun, 1962; Pass & Freeth, 1993). Females are polyoestrus with a 4-5 day cycle, the actual stage of oestrus (when the female is receptive to the male) lasts for 12 hours (Korol et al., 2004; Pass & Freeth, 1993; Warren & Juraska, 1997). Gestation lasts for 21-22 days and litter sizes average 6-14 pups (Pass & Freeth, 1993).
+
+17
+
+Figure 1.1. Genealogy of outbreed rat strains originating from the Wistar Institute since 1906. Note that Long-Evans, Wistar, Sprague-Dawley (SD) and Lewis (LEW) are all strains used in this study along with Brown Norway (which is considered to be the closest lab bred strain to the Wild Norway). (Figure from Pass & Freeth, 1993)
+
+1.6
+
+Aims and Hypotheses
+
+In this thesis I examine how social and genetic relationships between observers and demonstrators impact on an animal's capability and/or aptitude to learn. I also
+
+determine if the sex of an animal impacts the teaching and learning of an observational task. Observer rats fell into one of four treatment groups in regards to their relationship with their demonstrator: related and familiar, related and unfamiliar, unrelated and familiar, unrelated and unfamiliar (see Chapter 2 methods section for definitions). Demonstrators were given the chance to learn a task that
+
+18 required them to press a joystick to the left or right. Based on the latency to first push, the total number of presses made and the number of sniffs directed at the joystick I determined if being related or unrelated, and familiar or unfamiliar, were important for observational learning and if either gender performed better.
+
+1.6.1
+
+Hypotheses
+
+Rats both recognise kin and treat them differently from non-kin (Hepper, 1987). Kin recognition by spatial distribution suggests that rats that have lived together and are familiar will view each other as kin regardless of genetic relatedness (Holmes & Sherman, 1983). In addition, rats sharing the same home environment will have similar odours from eating the same food (Galef, 1977), and sharing bacterial flora (Albone & Perry, 1975). The theory of inclusive fitness suggests that it is beneficial for related animals to help each other in order to increase their combined reproductive success (Hamilton, 1964). This assistance may extend to teaching relatives the
+
+location of food sources (Galef, 1990). I therefore hypothesised that learning would occur sooner and with greater accuracy when learning from a related and familiar rat than learning from an unrelated and unfamiliar rat. I expect that learning from
+
+familiar and unrelated rat, or unfamiliar and related rat will result in mixed results, slower and less accurate than related and familiar, but faster and more accurate than unrelated and unfamiliar.
+
+In observational learning, males and females have similar rates of task acquisition. However, when it comes to learning some aspects of a task there may be gender differences as suggested by Collins (1998) study with observational learning in mice
+
+19 and supported by the apparent sexual differences in spatial learning (Berger-Sweeney, Arnold, Gabeau, & Mills, 1995; Jonasson, 2005; Jones, Braithwaite, & Healy, 2003). Based on these previous findings it is hypothesised that males with their apparent better spatial abilities will show a greater aptitude in learning the directional component of an observational task but both sexes will have equal acquisition rates.
+
+1.6.2
+
+Format
+
+This thesis is presented in three chapters. The first chapter presents a literature review introducing the reader to background research supporting my thesis. The second chapter presents the research itself and is formatted as a paper for publication. The third chapter is a general discussion in which I summarise my finding and discuss future research potential. Because chapter two is designed as a stand alone piece, there will be some inevitable overlap in information presented.
+
+20 1.7 References Albone, E. S., & Perry, G. C. (1975). Anal sac secretion of the red fox, Vulpes vulpes; volatile fatty acids and diamines: Implications for a fermentation hypothesis of chemical recognition. Journal of Chemical Ecology, 2, 101-111.
+
+Barnard, C. J., & Aldhous, P. (1991). Kinship, kin discrimination and mate choice. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Bateson, P. P. G. (1982). Preferences for cousins in Japanese quail. Nature, 295, 236-237.
+
+Bateson, P. P. G. (1983). Optimal out breeding. In P. P. G. Bateson (Ed.), Mate Choice. Great Britain: Cambridge University Press.
+
+Beauchamp, G. K., Yamazaki, K., Wysocki, C. J., Slotnik, B. M., Thomas, L., & Boyse, E. A. (1985). Chemosensory recognition of mouse major histocompatibility types by another species. Proceedings of the National Academy of Sciences of the United States of America, 82, 4186-4188.
+
+Berger-Sweeney, J., Arnold, A., Gabeau, D., & Mills, J. (1995). Sex differences in learning and memory in mice: effects of sequence of testing and cholinergic blockade. Behavioural Neuroscience, 5, 859-873.
+
+21 Biederman, G. B., & Vanayan, M. (1988). Observational learning in pigeons: The function of quality of observed performances in simultaneous discrimination. Learning and Motivation, 19, 31-43.
+
+Boyse, E. A., Beauchamp, G. K., Yamazaki, K., & Bard, J. (1991). Genetic components of kin recognition in mammals. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Brown, J. L., & Eklund, A. (1994). Kin recognition and the major histocompatibility complex: An integrative review. American Naturalist, 143, 436461.
+
+Busquet, N., & Baudoin, C. (2005). Odour similarities as a basis of discriminating degrees of kinship in rodents: evidence from Mus spicilegus. Animal Behaviour, 70, 997-1002.
+
+Byers, J. A., & Beckoff, M. (1986). What does "kin recognition" mean? Ethology, 72, 342-345.
+
+Byrne, R. W., & Russon, A. E. (1998). Learning by imitation: A hierarchical approach. Behavioural and Brain Sciences, 21, 667-721.
+
+Calhoun, J. B. (1962). The Ecology and Sociology of the Norway Rat. Bethesda, MD: U.S. Department of Health, Education and Welfare.
+
+22
+
+Choleris, E., & Kavaliers, M. (1999). Social learning in animals: sex differences and neurobiological analysis. Pharmacology Biochemistry and Behavior, 64, 767-776.
+
+Clarke, J. V., Nicol, C. J., Jones, R., & McGreevy, P. D. (1996). Effects of observational learning on food selection in horses. Applied Animal Behaviour Science, 50, 177-184.
+
+Collins, R. J. (1988). Observational learning of a left-right behavioral asymmetry in mice (Mus musculus). Journal of Comparative Psychology, 102, 222224.
+
+Cullen, E. (1957). Adaptations in the Kittiwake to cliff nesting. Ibis, 99, 275­ 302.
+
+Elwood, R. W. (1991). Parental states as mechanism for kinship recognition and deception about relatedness. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Flannelly, K. J., Flannelly, L., & Lore, R. (1986). Post partum aggression against intruding male conspecifics in Sprague-Dawley rats. Behavioural Processes, 13, 279-286.
+
+23 Frick, K. M., & Gresack, J. E. (2003). Sex differences in the behavioral response to spatial and object novelty in adult C 57 BL/6 mice. Behavioural Neuroscience, 117, 1283-1291.
+
+Galea, L. A. M., Kavaliers, M., Ossenkopp, K. P., & Hampson, E. (1995). Gonadal hormone levels and spatial learning performance in the Morris water maze in male and female meadow voles, Microtus pennsylvanicus. Hormones and Behavior, 29, 106-125.
+
+Galef, B. G. J. (1977). The social transmission of food preferences: An adaptation for weaning in rats. Journal of Comparative and Physiological Psychology, 91, 1136-1140.
+
+Galef, B. G. J. (1990). An adaptionist perspective on social learning, social feeding, and social foraging in Norway rats. In D. A. Dewsbury (Ed.), Contemporary Issues in Comparative Psychology. Sunderland, MA: Sinauer Associates.
+
+Galef, B. G. J. (1996). Introduction. In B. G. J. Galef & C. M. Heyes (Eds.), Social Learning in Animals. London: Academic Press.
+
+Galef, B. G. J., & Iliffe, C. P. (1994). Social enhancement of odor preference in rats: Is there something special about odors associated with foods? Journal of Comparative Psychology, 108, 266-273.
+
+24 Galef, B. G. J., Manzig, L. A., & Field, R. M. (1986). Imitation learning in budgerigars: Dawson and Foss (1965) revisited. Behavioural Processes, 13, 191-202.
+
+Galef, B. G. J., Mischinger, A., & Malenfant, S. A. (1987). Hungry rats' following of conspecifics to food depends on the diets eaten by potential leaders. Animal Behaviour, 35, 1234-1239.
+
+Gerlach, G., & Lysiak, N. (2005). Kin recognition and inbreeding avoidance in zebrafish, Danio rerio, is based on phenotype matching. Animal Behaviour, 71, 1371-1377.
+
+Grau, H.J. (1982). Kin recognition in white-footed deermice (Peromyscus leucopus). Animal Behaviour, 30, 497-505.
+
+Groesbeck, R. W., & Duerfeldt, P. H. (1971). Some relevant variables in observational learning of the rat. Psychonomic Science, 22, 41-43.
+
+Halpin, Z. T. (1991). Kin recognition cues in vertebrates. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Halpin, Z. T., & Hoffman, M. D. (1987). Sibling recognition in the whitefooted mouse, Peromyscus leucopus: association or phenotype matching? Animal Behaviour, 35, 563-570.
+
+25 Hamilton, W. D. (1964). The genetic evolution of social behavior. Journal of Theoretical Biology, 7, 1-52.
+
+Hauber, M. E., & Sherman, P. W. (2001). Self referent phenotype matching: theoretical considerations and empirical evidence. Trends in Neuroscience, 24, 609616.
+
+Hensch, T. K. (2003). Controlling the critical period. Neuroscience Research, 47, 17-22.
+
+Hepper, P. G. (1987). The discrimination of different degrees of relatedness in the rat: evidence for a genetic identifier. Animal Behaviour, 35, 549-554.
+
+Hepper, P. G. (1991). Recognizing kin: ontogeny and classification. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Heth, G., Todrank, J., Busquet, N., & Baudoin, C. (2001). Odour-genes covariance and differential investigation of individual odours in Mus species complex. Biological Journal of the Linnean Society, 73, 213-220.
+
+Heyes, C. M., & Dawson, G. R. (1990). A demonstration of observational learning in rats using a bidirectional control. The Quarterly Journal of Experimental Psychology, 42B, 59-71.
+
+26 Heyes, C. M., Dawson, G. R., & Nokes, T. (1992). Imitation in rats: initial responding and transfer evidence. The Quarterly Journal of Experimental Psychology, 42B, 229-240.
+
+Heyes, C. M., Jaldow, E., Nokes, T., & Dawson, G. R. (1994). Imitation in rats: The role of demonstrator action. Behavioural Processes, 32, 173-182.
+
+Holmes, W. G., & Sherman, P. W. (1983). Kin recognition in animals. American Scientist, 71, 46-55.
+
+Jaisson, P. (1991). Kinship and fellowship in ants and social wasps. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Johns, E. R., Chesler, P., Bartlett, F., & Victor, I. (1968). Observation learning in cats. Science 159, 1489-1491.
+
+Jonasson, Z. (2005). Meta-analysis of sex differences in rodent models of learning and memory: a review of behavioral and biological data. Neuroscience and Biobehavioral Reviews, 28, 811-825.
+
+Jones, C. M., Braithwaite, V. A., & Healy, S. D. (2003). The evolution of sex differences in spatial ability. Behavioural Neuroscience, 117, 403-411.
+
+27 Keller, L. F., Grant, P. R., Grant, B. R., & Petren, K. (2002). Environmental conditions affect the magnitude of inbreeding depression in survival of Darwin's finches. Evolution, 56, 1229­1239.
+
+Kieffer, K. D., & Colgan, P. W. (1992). The role of learning in fish behaviour. Reviews in Fish Biology and Fisheries, 2, 125-143.
+
+Korol, D. L., Malin, E. L., Borden, K. A., Busby, R. A., & Couper-Leo, J. (2004). Shifts in preferred learning strategy across the estrous cycle in female rats. Hormones and Behavior, 45, 330-338.
+
+Leggio, M. G., Graziano, A., Mandolesi, L., Molinari, M., Neri, P., & Petrosini, L. (2003). A new paradigm to analyze observational learning in rats. Brain Research Protocols, 12, 83-90.
+
+Lindberg, A.C., Kelland, A., & Nicol, C.J. (1999). Effects of observational learning on acquisition of an operant response in horses, Applied Animal Behaviour Science, 61, 187-199
+
+Markus, E. J., & Zecevic, M. (1997). Sex differences and estrous cycle changes in hippocampus-dependent fear conditioning. Psychobiology, 25, 246-252.
+
+28 Nakagawa, S., & Waas, J. R. (2004). 'O sibling, where are thou?' - a review of avian sibling recognition with respect to the mammalian literature. Biological Reviews, 79, 101-119.
+
+Nakagawa, S., Waas, J. R., & Miyazaki, M. (2001). Heart rate changes reveal that little blue penguin chicks (Eudyptula minor) can use vocal signatures to discriminate familiar from unfamiliar chicks. Behavioral Ecology & Sociobiology, 50, 180-188.
+
+Nicol, C. J. (1995). The social transmission of information and behavior. Applied Animal Behaviour Science, 44, 79-98.
+
+Nowak, R. M. (1999). Walker's mammals of the world volume I. Baltimore: Johns Hopkins University Press.
+
+Packard, M. G. (1998). Posttraining estrogen and memory modulation. Hormones and Behavior, 34, 126-139.
+
+Pass, D., & Freeth, G. (1993). The Rat. ANZCCART News, 6, 1-4.
+
+Paz y Miño, C. G., & Tang-Martinez, Z. (1999). Social interactions, crossfostering, and sibling recognition in prairie voles, Microtus ochrogaster. Canadian Journal of Zoology, 77, 1631-1637.
+
+29 Perrot-Sinal, T. S., Kostenuik, M. A., Ossenkopp, K. P., & Kavaliers, M. (1996). Sex differences in performance in the Morris water maze and the effects of initial non stationary hidden platform training. Behavioural Neuroscience, 110, 13091320.
+
+Petrie, M., Krupa, A., & Burke, T. (1999). Peacocks lek with relatives even in the absence of social and environmental cues. Nature, 401, 155-157
+
+Pfennig, D. W., Collins, J. P., & Ziemba, R. E. (1999). A test of alternative hypotheses for kin recognition in cannibalistic tiger salamanders. Behavioral Ecology, 10, 436-443.
+
+Porter, R. H. (1988). The ontogeny of sibling recognition in rodents: the superfamily Muroidea. Behaviour Genetics, 18, 483-494.
+
+Porter, R. H., & Doane, H. M. (1979). Dietary-dependent cross-species similarities in maternal chemical cues. Physiology and Behavior, 19, 129-131.
+
+Porter, R. H., Matochik, J. A., & Makin, J. W. (1986). Discrimination between full-sibling spiny mice (Acomys cahirinus) by olfactory signatures. Animal Behaviour, 34, 1182-1188.
+
+Pusey, A., & Wolf, M. (1996). Inbreeding avoidance in animals. Trends in Ecology and Evolution, 11, 210-206
+
+30 Richter, M. R., & Waddington, K. D. (1993). Past foraging experience influences honey bee dance behaviour. Animal Behaviour, 46, 123-128.
+
+Simons, F., & Lejeune, H. (1997). Observational learning of duration discrimination in rats (Rattus norvegicus). Behavioural Processes, 41, 97-105.
+
+Skeen, J. T., & Thiessen, D. D. (1977). Scent of gerbil cuisine. Physiological Behavior, 10, 463-466.
+
+Squire, L. R. (1992). Memory and the hippocampus: A synthesis from findings with rats, monkeys and humans. Psychological Review, 99, 195-231.
+
+Sun, L., & Müller-Schwarze, D. (1997). Sibling recognition in the beaver: a field test for phenotype matching. Animal Behaviour, 54, 493-502.
+
+Svendsen, G. E., & Jollick, J. D. (1977). Bacterial contents of the anal and castor glands of the beaver (Castor canadensis). Journal of Chemical Ecology, 4, 563-569.
+
+Tang-Martinez, Z. (2001). The mechanisms of kin discrimination and the evolution of kin recognition in vertebrates: a critical re-evaluation. Behavioural Processes, 53, 21-40.
+
+31 Todrank, J., Heth, G., & Johnston, R. E. (1999). Social interaction is necessary for discrimination between and memory for odours of close relatives in golden hamsters. Ethology, 105, 771-782.
+
+Waldman, B. (1982). Sibling association among school toad tadpoles: Field evidence and implications. Animal Behaviour, 30, 700-713.
+
+Waldman, B. (1987). Mechanisms of kin recognition. Journal of Theoretical Biology, 128, 159-185.
+
+Warren, S. G., & Juraska, J. M. (1997). Spatial and nonspatial learning across the rat estrous cycle. Behavioural Neuroscience, 111, 259-266.
+
+Wilkinson, G. S. (1984). Reciprocal food sharing in the vampire bat. Nature, 308, 181 - 184.
+
+Yamazaki, K., Boyse, E. A., Mike, V., Thaler, H. T., Mathieson, B. J., Abbott, J., et al. (1976). Control of mating preferences in mice by genes in the major histocompatibility complex. Journal of Experimental Medicine, 144, 1324-1335.
+
+Yamazaki, K., Yamaguchi, M., Andrews, P. W., Peake, B., & Boyse, E. A. (1978). Mating preferences of F2 segregants of crosses between MHC-congenic mouse strains. Immunogenetics, 6, 253-259.
+
+32 Zentall, T., & Akins, C. (2001). Imitation in animals: Evidence, function and mechanisms. In R. G. Cook (Ed.), Avian visual cognition [On-line]. Available: www.pigeon.psy.tufts.edu/avc/zentall/.
+
+33
+
+Chapter 2 The effects of relatedness, social contact, and sex on observational learning in rats (Rattus norvegicus)
+2.1 Abstract
+
+Some animals are able to learn new behaviour patterns from knowledgeable conspecifics, allowing them to by-pass lengthy and potentially costly trial and error experiences. Based on the premise of inclusive fitness, it is expected that helping kin to learn will be more beneficial to an individual than helping non-kin, a process that should promote reliable kin recognition abilities. In this study I examined if rats (Rattus norvegicus) learn better from relatives (siblings) that are either familiar or unfamiliar, or from non-relatives that are familiar or unfamiliar. Observers watched a trained demonstrator press a joystick to the left or right, after which they were given access to the joystick. The latency to first press the joystick, the number of sniffs of the joystick and the total number of presses were recorded. Related observers
+
+produced more total presses and sniffs of the joystick while having the lower latencies than unrelated rats. This same pattern was found for familiarity, with rats that were familiar with their demonstrator also producing more total presses and joystick sniffs and having latencies that were lower than unfamiliar observers. Rats that were both related and familiar with the demonstrator were found to have the highest number of successful presses and learnt the task faster than all other
+
+34 combinations. Male observers learnt better than females regardless of the
+
+demonstrator sex, with related and familiar males producing nearly twice as many joystick presses than any other treatment group. This research supports the idea that it is a combination of genetics and social contact that may mediate kin recognition and, ultimately, kin discrimination. Furthermore it is hypothesised that the gender asymmetry in learning is due to males having a larger home range than females. Males are more likely to encounter unrelated conspecifics as they move further from their burrows encountering a wider range of conspecifics; therefore, males would benefit more than females from a well developed kin recognition system.
+
+Key words: Rats; kin recognition; kin discrimination; observational learning; sex differences; direct familiarisation; indirect familiarisation; spatial recognition
+
+35
+
+2.2
+
+Introduction
+
+When faced with new situations, animals improve their chances of survival by learning to quickly modify their behaviour to their own benefit. Often the only way to do this is to investigate by trial and error; animals may explore new environments or try new foods as a way of learning and developing appropriate responses (Choleris et al., 1998). Trial and error learning can be both time consuming and potentially costly with a high incidence of danger (Galef, 1990). By co-operating with or learning from a knowledgeable conspecific, a naïve animal is able to forgo the potential costs associated with adapting to a new situation (Galef, 1990; Galef, Mischinger, & Malenfant, 1987). Who an animal chooses to interact with and therefore learn from is usually dependent on things such as social status (Galef et al., 1987), previous encounters (Halpin, 1991; Trivers, 1971) and kinship (Holmes & Sherman, 1983).
+
+"Kin recognition" is the ability to detect some aspect of a conspecific to identify that animal as a relative (Hepper, 1991; Nakagawa & Waas, 2004). "Kin discrimination" involves using this recognition process to treat kin differentially from non-kin (Holmes & Sherman, 1983; Nakagawa & Waas, 2004). Kin recognition can occur without kin discrimination but the reverse is not true (Barnard & Aldhous, 1991): recognition must occur in order for an animal to display kin discrimination (Barnard & Aldhous, 1991). It is discrimination however that is empirically measured and from this it is inferred that kin recognition has occurred (Byers & Beckoff, 1986; Mateo, 2002).
+
+36 That some animals have the ability to recognise kin is not questioned, as studies demonstrating kin recognition are numerous with a surge in research occurring after the publication of Hamilton's (1964) inclusive fitness theory (Tang-Martinez, 2001; Waldman, Frumhoff, & Sherman, 1988). For kin recognition to occur, an animal must phenotypically express character traits that are distinct and recognisable by others; individuals must also possess the neurological capacity to detect and interpret these phenotypic traits in order to recognise an individual as kin (Todrank, Busquet, Baudoin, & Heth, 2005). Commonly suggested mechanisms for kin recognition are recognition by direct familiarisation (previous associations between conspecifics are required in order to later recognise them as kin), recognition by indirect familiarisation (association with other kin or self is required in order to learn about phenotypic cues that can be reliably used to identify kin) and recognition by spatial distribution (the greater the proximity to a natal site the higher the likelihood of kinship) (Elwood, 1991; Hepper, 1991; Nakagawa & Waas, 2004; Tang-Martinez, 2001; Todrank et al., 2005).
+
+It may be that genetic relatedness is not the most important aspect in determining how an animal treats a conspecific. Familiarity with another animal may be more significant than the degree of shared genes (Halpin & Hoffman, 1987; Porter, 1987). Certainly the common occurrence of indirect familiarisation and spatial distribution recognition mechanisms support the idea that it is not genetic similarity that necessarily is the most important factor determining how animals treat one another.
+
+Sibling animals usually show greater affiliative behaviour such as huddling and less
+
+37 aggression towards each other than non-siblings (D'amato, 1994; Porter, Wyrick, & Pankey, 1978). In a range of experiments using spiny mice (Acomys cahirinus), familiarity was shown to be most important in kin recognition and discrimination (Porter, Matochik, & Makin, 1983, 1984; Porter, Tepper, & White, 1981; Porter & Wyrick, 1979; Porter et al., 1978). In one study of particular note, a cross-fostering design was used with single pups being placed into unrelated family groups when the pups were either 0, 10 or 20 days old (Porter et al., 1981). Kin recognition tests
+
+then took place when the pups were approximately 30 days old. Fostered pups, placed together in a group with a foster-sibling, a biological sibling and an unfamiliar, unrelated pup preferred to huddle with their foster-sibling regardless of the age at fostering. Huddling between separated biological siblings was rare, as was huddling unrelated, unfamiliar pups. Thus recent association with an animal may mediate the recognition process (Porter et al., 1981)
+
+Learning is influenced by a multitude of factors like genetics, prior experience, environment, physiology, and neurology. All of these factors must be considered when examining how an animal learns from another. The sex of an animal can impact its ability to learn (Berger-Sweeney, Arnold, Gabeau, & Mills, 1995; Gaulin, FitzGerald, & Wartell, 1990). Sex differences have been reported in a range of species (humans - Galea & Kimura, 1994; mice - Frick & Gresack, 2003; rats Warren & Juraska, 1997; meadow voles [Microtus ochrogaster] - Gaulin, Fitzgerald & Wartell, 1990) and learning tasks (route learning - Galea & Kimura, 1994; mazes Kavaliers, et al, 1996; cue learning - Warren & Juraska, 1997; food preferences Choleris et al, 1998). When requiring the use of spatial processing it has been
+
+38 repeatedly reported that males out perform females across a range of species (see Jones, Braithwaite, & Healy, 2003 for review). Unfortunately there is relatively little reported data on sex differences for the performance of observational learning tasks (Choleris & Kavaliers, 1999). One study of note examined male and female mice who watched a trained female demonstrator open a door (Collins, 1988). Both males and females learnt the pushing task equally well, however males learnt to press the door in the same direction as the demonstrator, an aspect of the task that the females failed to learn.
+
+In the present study I ask if rats learn more efficiently from relatives (siblings) that they are familiar or unfamiliar with, or from non-relatives they are familiar or unfamiliar with. To examine this, four groups of rats were tested with an
+
+observational learning task. I hypothesised that rats that were both related and familiar with demonstrator rats would learn the best because siblings living together will have greater opportunities to detect a range of kinship cues than any other treatment group. I predict that it is a combination of genetic factors and familiarity that facilitates precise kin recognition and, ultimately, kin discrimination during observational learning. Rats that are familiar but carry no genetic cues, or
+
+conversely are unfamiliar but display features suggesting kinship are expected to have reduced abilities. Unfamiliar animals that lack any genetic cues indicate total strangers; as a result, observation learning is predicted to be weakest between these animals. If my predictions are supported then I would expect to see higher response rates, more rapid learning and greater interest in the task when the demonstrator is related and familiar to the observer. I further examine if males or females learn the
+
+39 task better with the expectation that males will out perform females due to males having better spatial cognition abilities.
+
+2.3
+
+Methods 2.3.1 Subjects
+
+Eight experimentally naïve rats sourced from different locations in New Zealand (see below) were used to breed a study population of 88 rats. Using rats of different strains and from different locations ensured a wide genetic base for the breeding population. The eight rats allowed me to compose four breeding pairs and each pair were provided a letter assignment: (A) Long-Evans female (source: Hercus Taieri Resource Unit, Dunedin) mated with a Sprague-Dawley male (source: Ruakura Small Animal Colony, Hamilton). (B) Lewis female (source: Hercus Taieri Resource Unit, Dunedin) mated with a domestic bred champagne hooded male (source: Pet Corner, Hamilton) (C) Brown Norway female (source: Hercus Taieri Resource Unit, Dunedin) mated with a domestic bred champagne male (source: Pet City, Hamilton). (D) Wistar female (source: Auckland University, Auckland) mated with a domestic bred grey male (source: Pet Stop, Cambridge).
+
+The breeding pairs were housed in two isolated rooms in the animal behaviour facility at the University of Waikato (pairs A and B in room one, and pairs C and D in room two). The rooms were kept at 22°C with a 14:10 light:dark cycle, with lights coming
+
+40 on at 0600 hours. Each pair had their own cage (40x50x50cm high) with: a litter base of wood shavings litter, sticks for climbing, boxes and cardboard tubes to play with (see figure 2.1). Shredded paper was also supplied as nest material approximately one week before parturition was expected.
+
+Figure 2.1. Breeding pair B climbing on sticks in their cage with nesting material present
+
+Males and females were kept together until the female showed obvious signs of pregnancy, judged by weight gain (i.e. male and female rats were weighed twice weekly and a weight gain of over 50g in one week for the female was used as an indicator of pregnancy) and body appearance such as the swelling of the stomach. Males were then removed from the enclosure and either housed by themselves or with the male from the other cage in the room; however the males always remained in the same room as their partners and were always visible to the females. Males were kept from their respective females until at least five days after birth for the safety of the
+
+41 pups (as males sometimes kill young pups) and to avoid mating occurring during the post-parturition oestrus (Flannelly, Flannelly, & Lore, 1986). Males were then
+
+returned to the cage and allowed to mate with their partners a second time.
+
+Pups were kept with their parents until four weeks of age. They were then separated into single sex and single litter cages within their parents' room. Each litter was assigned a colour and all rats of a given litter had their tails marked with that colour using a permanent marker (Sharpie® fine point markers). The young rats remained in their single sex and single litter groups for one week before being mixed so that cages consisted of the two litters but still only a single sex in each cage. Offspring cages were then kept in their parent's room for a final week before being moved to their own room, with young from pairs A and B moving into a third room and young from pairs C and D moving into a forth.
+
+The second litters were treated in the same way with pups staying with their parents until four weeks of age before being separated. This time the young of pairs A and B were moved into the room containing rats from the first C and D litters, and rats from the second C and D litters were put into the room containing rats from the first A and B litters. At this stage two rooms contained breeding pairs and two rooms contained litters from all four pairs. A reverse light cycle with lights on at 1800 hours was then applied; this allowed me to study the rats during their dark period while maintaining a regular work schedule.
+
+A week after the second litters were introduced to their new rooms, the rats were
+
+42 mixed again within their rooms. This resulted in cages of rats from two, three or four different litters, allowing animals to become familiar with both non-relatives and relatives. Males were housed in groups of three per cage; females were housed in groups of three or four animals per cage. For example, a male cage may have contained two brothers from parent pair A and one unrelated male from parent pair B. As figure 2.2 shows, the cages were situated on a shelving unit and placed in such a way that rats from different cages could see each other. The placement of the cages was changed with each cleaning (described below) to allow rats to occupy all levels of the shelves as well as experiencing different neighbours. This was especially important as males and females could not interact directly for the purpose of the experiment; however, the rotation ensured that all rats spent time living next to each other.
+
+43
+
+Figure 2.2. One of the rooms with cages of mixed litters; males are to the left of the picture and females on the right
+
+2.3.2
+
+Treatment Groups
+
+Of the 88 rats, eight were designated as `demonstrators' that would teach a task to the other rats (the demonstrator group was composed of one male and one female from each breeding pair). The other 80 animals were all `observers', composed of 10 males and 10 females from each breeding pair. The observers were assigned a demonstrator and were divided into treatment groups as follows:
+
+44
+
+Related and Familiar (R/F): Demonstrators and observers were from the same litter and always housed in the same room/cage (n=10 males and 10 females). Related and Unfamiliar (R/UF): Demonstrators and observers were from different litters but from the same parents and housed in separate rooms (n=10 males and 10 females). Unrelated and Familiar (UR/F): Demonstrators and observers were from different litters but were housed in the same room/cage (n=10 males and 10 females). Unrelated and Unfamiliar (UR/UF): Demonstrators and observers were from different litters and housed in separate rooms (n=10 males and 10 females).
+
+2.3.3
+
+Husbandry
+
+The rats were feed on a diet of pelleted food (diet 86: lucerne, pollard/wheat by products, barley, meatmeal, wheat, fishmeal, soya bean extract, rabbit premix supplement, milk powder and salt) available ad libitum to all rats. However, rats (both observers and demonstrators) involved in tests were deprived of food for six (males) or ten (females) hours prior to testing. The deprivation difference occurred because after six hours without food the females showed no interest in the task, after 8 hours there was still little interest but after 10 they were sufficiently hungry enough to participate in the task. Water was available at all times from bottles attached to the side of each cage. Pregnant and lactating females were fed Whiskas® single serve kitten jelly meat (Masterfoods, 19 Lambie Drive, Manukau, Auckland), a teaspoon a day if females were by themselves, or two to three teaspoons if males or feeding pups
+
+45 were present. `Treats' (mainly peanuts, sun flower seeds, almonds, fresh apple and dried apricots) were provided at least once a week to all rats. This kept the rats friendly to the human carer and willing to come to the front of the cage making them easy to handle.
+
+To avoid cross contamination of odours or other substances between rooms, several precautions were taken. Movement between rooms was kept to a minimum and lab coats changed when traveling between rooms; also, hands were washed before moving between rooms. Rooms one and three were cleaned on odd days of the month while rooms two and four were cleaned on even days. Each room had a set of spare cages allowing me to easily transfer the rats into clean cages; the soiled cages were then cleaned with bleach and dish washing detergent in a separate cleaning area and rinsed well before being returned to their respective rooms. This ensured that cages were always associated with the appropriate room and were never used in another room. Each room included its own broom, dish pan and brush for cleaning the floor; dishwashing brushes for cleaning cages were also specific to each room and new rubbish bags were always used for cleaning.
+
+2.3.4
+
+Chamber Design
+
+The experimental chamber was 50x20x20cm high (see figure 2.3). All surfaces except the front wall were constructed from 1cm thick plywood that had been painted white. The front wall was made from clear colourless Perspex and the chamber itself was divided into two smaller chambers by another sheet of Perspex that had nine holes (5mm is diameter) drilled through it (figure 2.3).
+
+46
+
+Figure 2.3. Top down view of the experimental chamber showing the extended magazine arm on which peanut butter was placed (left)
+
+The joystick was constructed from 5mm diameter doweling that was encased in a clear plastic drinking straw; the 13cm long joystick hung down from the roof of the chamber, 5cm into the demonstrators' chamber from the Perspex divider. It was bidirectional only, with a 5cm left/right displacement. Pushing the joystick triggered a micro-switch that activated a 1 sec tone (through a 3-14V mini PC mount buzzer that was mounted to the roof of the demonstrator chamber) and activated a solenoid that pushed an aluminum arm into the demonstrator chamber (the magazine; figure 2.3). The joystick sent a signal to a data acquisition device which was connected to a laptop to record both the time of the press and the direction.
+
+The chamber was kept in a fifth room within the facility; the room was lit by a single
+
+47 reading lamp (60W) shone into a corner to keep the room semi-dark.
+
+2.3.5
+
+Magazine Training
+
+All 88 rats underwent magazine training. To avoid cross contamination of odour or substances across rooms, all rats in room one were trained first; the chamber was then cleaned with water and bleach and then repainted and dried before rats in room two were trained. Between each tested rat the wood shavings were also changed.
+
+The procedure initially involved placing a demonstrator rat in the demonstration side of the testing chamber (with no joystick present) and allowing it time to settle (c. five minutes). Peanut butter was in place on a small metal arm that extended 1.5cm through the magazine opening on the chamber wall (see figure 2.3). During the settling period, all rats adjusted to the chamber to the point where they would investigate and eat the peanut butter. While they were eating, the arm was slowly retracted until only the tip was inside the chamber; however, the rats were still able to lick a small amount of the peanut butter that was on the tip of the arm. At this point the magazine arm loaded with peanut butter was manually triggered by the experimenter, resulting in a 1sec tone and the arm sliding into the chamber to its full 1.5cm extension. The arm then automatically retracted after 3sec. This step was repeated several times depending upon the reaction of the rat; some individuals showed a strong startle response and took a long time to return to the arm, while others continued to eat each time peanut butter was presented.
+
+After the first few presentations (described above), peanut butter was placed further
+
+48 back on the arm so that it was no longer available to the rats except when the arm was activated and fully extended inside the chamber. Each time the arm was activated, the tone occurred followed by the arm extending for 3sec into the chamber.
+
+Because the rats tended to keep their heads down near the hole in which the arm entered the chamber, I decided to wait until they lifted their head or moved away from the magazine before again rewarding the animals with peanut butter. Following the successful modification of this behaviour, I trained them to move completely away from the wall until they were returning to eat from all points of the chamber at the sound of the tone.
+
+After a day spent away from the chamber, the magazine-trained rats were returned to the apparatus to ensure that they were responding to the tone. They were considered reliably taught when they responded to 20 tones in a row with no failures. Not all rats achieved this level when they returned to the chamber so further training sometimes occurred followed by another day off until the task was satisfactorily met (19% of subjects).
+
+2.3.6
+
+Joystick Training
+
+Only the eight demonstrator rats were trained with a joystick. Each demonstrator rat was placed in the demonstration side of the chamber with the joystick in place. After allowing a five minute adjustment period, training began. The rats were trained using successive approximation, and so were rewarded for actions that were closer to the final goal of pressing the joystick. The first of these steps involved moving away
+
+49 from the magazine to the other end of the chamber; this meant they had to turn around to return to the magazine at the sound of the tone. The next step involved showing attention to the joystick; this was facilitated by placing a very small dab of peanut butter on the straw (once they licked the straw clean the magazine was activated). Peanut butter was placed on the straw no more than five times. At this stage the rats were regularly sniffing or licking the joystick. The next step involved rewarding animals that moved the joystick in any direction with their teeth or paws; then only paw movements of the joystick in either direction would receive reinforcement, followed by joystick movement in the desired left or right direction only. The last stage required animals to displace the joystick 5cm from its resting position to activate the magazine automatically.
+
+On average it took three 30 min sessions to train the rats and the task was considered reliably learned when 50 joystick pushes (i.e. that actually activated the magazine) were achieved within 30 min. The demonstrators were then given a 2-3 day break between meeting the criteria and re-testing to ensure the task was retained. One rat did not perform successfully on re-testing and was given another 30 min training session followed by a two day break and another re-testing. On the second test the animal met the criteria.
+
+2.3.7
+
+Testing
+
+Observer rats were placed into the observer side of the chamber (figure 2.3) and given a five minute acclimatization period. After this time, the demonstrator rat was placed into the demonstration chamber and the test started. For every correct joystick press
+
+50 the demonstrator was rewarded with 3 seconds of access to 1g peanut butter (see figure 2.4). After a total of 50 presses (c. 10min), the observer and demonstrator were removed from the chamber and returned to their home cages.
+
+On
+
+the
+
+following
+
+day
+
+the
+
+procedure
+
+was
+
+repeated
+
+(using
+
+the
+
+same
+
+demonstrator/observer pairs); however once 50 presses were observed, the demonstrators were returned to their home cages while the observers were transferred into the demonstration side of the chamber and the session deemed started. I
+
+recorded "sniffs" (nose touching the joystick), "full pushes" (a displacement of the joystick by 5cm resulting in triggering the magazine), latency to first push and the direction of the push (correct or incorrect in relation to observed direction). Each observer spent 20 min in total within the demonstrator chamber before being returned to their home cage.
+
+Figure 2.4 Demonstrator rat (left), after pressing the joystick, moving to get the peanut butter food reward with observer rat (right) watching.
+
+51 2.3.8 Statistical Analysis
+
+The data was analysed with GenStat for Windows, Release 9.1 (VSN International, Hemel Hemstead, UK). GenStat uses Anderson-Darling, Cramer-von Mises &
+
+Watson EDF tests to analyse normality and homogeneity of variance was analysed using Bartlett's test.
+
+Total number of presses and latency to first press the joystick were analysed using the linear regression procedure. Due to mean-related non-homogeneity of variance, the number of sniffs directed at the joystick was analysed using the generalized linear regression procedure set for over-dispersed Poisson data.
+
+2.3.9
+
+Ethical Statement
+
+Work was undertaken with ethical approval from the University of Waikato Animal Ethics Committee (protocol number 625).
+
+52 2.4 Results
+
+Preliminary tests gave significance probability values well above 0.10 for blocking effects associated with demonstrator rats (effects of demonstrator gender, age and breed group, plus observer rat age, litter, and demonstrator vs. observer age or gender difference). Effects are therefore obtained from a 2*2*2 factorial model with
+
+relatedness, familiarity and observer gender as the main effects.
+
+Three measures were examined: 1) total presses (TP) which were all presses made on the joystick regardless of direction; 2) latency in seconds from the time the observer's feet touched the floor of the chamber to the time of the first press and 3) number of sniffs (NoS) which involved sniffing the joystick (with the nose making contact). TP was chosen over the number over correct presses due to the low error rate (pressing in a direction different to that of the demonstrator occurred 34 times in 574 TP). Probabilities were calculated using t-tests and for TP and NoS the degrees of freedom was 72, for latency the degrees of freedom was 52 (see below).
+
+Due to 16 non-responders (13:3 female:male) estimates for the `missing' latency values were obtained by plotting the observed data against the expected values of the normal order statistics within each of the four treatment by sex groups. A FisherIrwin test resulted in a probability of 0.010 giving no evidence of unequal distribution over any other factor (e.g. breed, age, related/familiar treatment group). Statistical analysis was therefore carried out on responders only.
+
+Overall, males made more TP, with familiar treatment groups having higher response
+
+53 rates than unfamiliar treatment groups (see figure 2.5a). Females had relatively similar TP rates across all groups although as figure 2.5a shows related treatment groups responded slightly more than unrelated groups. The greatest mean female response rate was 12.8 ± 3.79 for R/F, approximately half that of the highest male response (24.3 ± 2.29 R/F; see figure 2.5a).
+
+The lowest latency occurred in the male R/F group with an overall mean of 378.8 ± 67.8sec (see figure 2.5b). All other treatment groups had latencies around 600sec with a range from 572.3 ± 59.7sec (male R/UF) to 718.5 ± 93.5sec (female R/UF). Again, the fastest male mean latency was almost half that of the fastest female latency (UR/F 603.3 ± 70.0sec).
+
+Mean NoS for both males and female was highest for R/F followed by R/UF, UR/F and lastly UR/UF (see figure 2.5c). This was the only measure in which males and females showed the same pattern. Males that were R/F exhibited the highest NoS (15.0 ± 2.7), for females the highest NoS was 10.9 ± 2.3.
+
+54 FEMALES
+30
+
+MALES
+30
+
+Mean number of presses ...1..
+
+(a)
+
+25
+
+25
+
+20
+
+20
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+
+0 R /F R F /U U /F R U /U R F
+
+0 R /F R F /U U /F R U /U R F
+
+900 800 700
+
+900 800 700 600 500 400 300 200 100 0
+
+(b)
+
+Mean (sec) 1.
+
+600 500 400 300 200 100 0 R /F R F /U U /F R U /U R F
+
+R /F
+
+R F /U
+
+UR /F
+
+U /U R F
+
+20
+
+20
+
+Mean number of sniffs 1....
+
+15
+
+15
+
+(c)
+
+10
+
+10
+
+5
+
+5
+
+0 R /F R F /U U /F R U /U R F
+
+0 R /F R F /U U /F R U /U R F
+
+Figure 2.5. Mean (±SEM): (a) total presses (TP), (b) latency (in seconds to first joystick press), and (c) number of sniffs (NoS) by females and males in each treatment group (R/F=Related and Familiar, R/UF=Related and Unfamiliar, UR/F=Unrelated and Unfamiliar, UR/UF=Unrelated and Unfamiliar)
+
+55 2.4.1 Effect of Observer Sex
+
+Males had a significantly higher response rate for the task with a mean TP rate of 15.4 ± 1.3 in the 20 minute test period compared to the female mean of 10.2 ± 1.3 (p=0.005) (see figure 2.6a). Males also
+
+(a)
+
+appeared to perform the task faster than females although the effect did not quite reach the 5% probability level (males=561.1 ± 30.6 sec, females=646.2 ± 35.9 sec, p=0.077) (see figure 2.6b). number of sniffs For the total
+
+(b)
+
+(c) made, males slightly out performed females but this was not statistically significant (males=9.95 ± 0.9, females=8.11 ± 0.8, p=0.130) (see figure 2.6c). Figure 2.6. From top to bottom: (a) mean TP, (b) latency, and (c) NoS made by observer females (F) and males (M)
+
+56 2.4.2 Effect of Familiarity
+
+When examining the influence of familiarity it was found that familiar rats both had higher mean TP and NoS rates while also achieving lower latencies than unfamiliar rats (see figure 2.7). Familiar rats averaged
+
+(a)
+
+15.19 ± 1.27 TP compared to the unfamiliar rat mean of 10.27 ± 1.30 TP (p=0.008). The difference between the familiar and unfamliar latencies was 101.5 ± 46.7 sec (p=0.034) with familiar rats having a mean latency of 549.4 ± 31.9 sec and unfamiliar rats having a latency of 650.9 ± 34.0 sec. Finally, familiar rats directed an average of 10.1 ± 0.9 sniffs towards the joystick in contrast to 7.9 ± 0.8 sniffs made by unfamiliar rats (p=0.066).
+
+(b)
+
+(c)
+
+Figure 2.7. From top to bottom: (a) mean TP, (b) latency, and (c) NoS made by familiar (F) and unfamiliar (UF) rats
+
+57 2.4.3 Effect of Relatedness (a)
+
+When the demonstrators and observers were related, the observers produced more TP and sniffs while having a lower latency to the first joystick press (see figure 2.8). A mean of 15.84 ± 1.28 presses were made when the demonstrator was related to the
+
+(b) observer, nearly one third more than the average was displayed unrelated when to the the
+
+observer
+
+demonstrator (9.7 ± 6.1, p=0.001). This one third difference was also apparent in the number of sniffs made, with related observers producing a mean of 11.4 ± 1.0 sniffs and unrelated animals only 6.6 ± 0.7 (p=<0.001). The latencies were similar across the two groups although related animals were on average 80.5 seconds faster to first press (p=0.089), with the related latency being 556.7 ± 32.9 and unrelated animals 637.2 ± 32.9. Figure 2.8. From top to bottom: (a) mean TP, (b) latency, and (c) NoS made by related (R) and unrelated (UR) rats (c)
+
+58 2.4.4 Familiarity and Observer Sex (a)
+
+Familiar males made nearly twice as many TP as unfamiliar males, and familiar or unfamiliar females (see figure 2.9a). significant There was a highly difference found for
+
+familiarity in males (9.28 ± 2.57, p=0.001) but no difference was found for females (0.55 ± 2.56, p=0.831, interaction p=0.019). There was no significant difference in latency between the sexes for (b)
+
+familiarity (interaction p=0.377), but familiar males had the lowest latency (496.9 ± 41.6) and unfamiliar (c)
+
+females had the greatest (674.3 ± 51.7) (see figure 2.9b). The NoS did not vary significantly (males: 3.5 ± 1.8, p=0.054, females: 1.0 ± 1.6, p=0.534, interaction p=0.305) (see figure 2.9c). Figure 2.9. From top to bottom: (a) mean TP, (b) latency, and (c) NoS made by familiar (F) and unfamiliar (UF) males and females
+
+59 2.4.5 Relatedness and Observer Sex
+
+Related males, followed by related females, produced more presses than unrelated males or females (males: 7.1 ± 2.6, p=0.007; females: 5.0 ± 2.6, p=0.053, interaction p=0.558) (figure 2.10a). Related males were the fastest at first pushing the joystick followed by unrelated 2.10b). There females (see figure was a significant
+
+(a)
+
+(b)
+
+difference (p=0.013) between males and females for learning from a related rat for latency to first push (males: -183.2 ± 61.2, p=0.004; females: 60.2 (c) ± 71.7, p=0.405). Related animals also sniffed the joystick more, with males sniffling slightly more than females (males: 5.1 ± 1.8, p=0.005; females: 4.5 ± 1.6, p=0.006; interaction:
+
+p=0.793) (see figure 2.10c).
+
+Figure 2.10. From top to bottom: (a) mean TP, (b) latency, and (c) NoS made by related (R) and unrelated (UR) males and females
+
+60 2.4.6 Relatedness and Familiarity Rats made more presses on the joystick when learning from a relative that they were familiar with (familiar: 6.7 ± 2.5, p=0.01; unfamiliar: 5.6 ± 2.5, p=0.039) (see figure 2.11a). Latency was similar for all treatment groups with no significant differences (p=0.35) between learning from (b) (a)
+
+related or unrelated and familiar or unfamiliar demonstrators being found (see figure 2.11b). Observers that (c)
+
+were familiar with their demonstrator displayed more NoS than unfamiliar observers (familiar: 5.7 ± 1.8, p=0.002; unfamiliar: 3.9 ± 1.6, p=0.016) with related and familiar observer sniffing the most (13.0 ± 1.43) (see figure 2.11c). Figure 2.11. From top to bottom: (a) mean
+
+TP, (b) latency, and (c) NoS made by related (R) and unrelated (UR), familiar or
+
+unfamiliar rats
+
+61 2.5 Discussion
+
+This study examined how kinship and social contact between an observer and demonstrator, as well as gender affected how quickly a task was performed (latency), interest in the task (number of sniffs) and how often the task was performed (total number of presses). Related rats produced more TP and NoS and had the lowest latencies when learning from a familiar demonstrator. In addition, related rats that were unfamiliar performed better than unrelated rats that were unfamiliar for both TP and NoS. Related and familiar male rats out-performed all other treatment groups performing the most joystick presses, showing the lowest latency to first press and the highest number of sniffs. Female rats showed far less variation across the treatment groups than males in all aspects measured.
+
+2.5.1
+
+Relatedness Versus Familiarity
+
+These results indicate that the relevance of relatedness or familiarity differ depending upon the aspect of the task (i.e. TP, latency or NoS) as well as the sex of the animal. My predictions that R/F animals would have the highest response rate (TP), fastest first push (latency) and show the greatest interest in the task (NoS) were supported. Learning from a related animal appeared to be better than learning from an unrelated animal. Also, learning from a familiar animal appeared to be better than learning from an unfamiliar animal. Neither of these last two findings are surprising given that several previous studies show an animal will prefer to interact with and learn from relatives over non-relatives (Galef et al., 1998; Halpin & Hoffman, 1987;
+
+62 Palestis & Burger, 1999) and familiar conspecifics over unfamiliar (Galef et al., 1998; Halpin & Hoffman, 1987; Hepper, 1991).
+
+Prolonged cohabitation has been found to reduce differences of kin recognition between related and familiar animals (D'amato, 1994; Halpin & Hoffman, 1987). In the white footed mouse (Peromyscus leucopus), cross-fostered siblings showed no preference for R/F over UR/F conspecifics, nor for R/UF over UR/UF (Halpin & Hoffman, 1987); from this it was suggested that direct familiarisation was the most important kin recognition mechanism in this species. A similar lack of preference was not found in my study, as it is clear that in nearly every instance the task was learned best in R/F groups over UR/F, and R/UF over UR/UF groups. While this shows the importance of familiarity with the individual, it is clear that genetics also plays a crucial role in kin recognition and kin discrimination in rats. The two combined factors may allow for a more precise kin recognition process.
+
+Cross-fostering is the common method used for studying kin recognition (e.g. Holmes & Sherman, 1982; Todrank, Heth & Johnston, 1999). Cross-fostering
+
+designs attempt to separate the effects of relatedness and familiarity by removing young animals from their parents and siblings and raising them with unrelated foster families (Mateo & Holmes, 2004). One of the pitfalls with cross-fostering is that in removing young animals that are a day old, the animal may have already learnt something about their parents and siblings. Young and parents often learn one
+
+another's odour signatures, demonstrated by researches investigating maternal
+
+63 recognition in goats (Gubernick, Jones & Klopfer, 1979). A mother goat will lick its offspring soon after birth; her saliva effectively labels that goat as her own and will be used for recognition. Any cross-fostering design lends itself to the possibility that the young will learn something about its family prior to its removal to foster kin. As a result it is hard to say whether observered effects are a result of relatedness or prior association. By using sibling groups of different litters, I was able to ensure that the observer and demonstrator rats had never encountered one another. While this did result in an average one month age difference between the related and unfamiliar siblings, previous work by Porter et al. (1981) showed that age of fostering had no effect on kin recognition results in spiny mice. Furthermore, age was not a
+
+significant factor in my statistical analysis. Using a separate litter design to ensure that siblings have never encounter one another is a viable alternative to traditional cross-fostering designs.
+
+2.5.2
+
+Observer Sex
+
+While demonstrator sex had no significant influence on the results there was an obvious difference between male and female observers. Males performed the task faster and produced more TP than females (the NoS made by both sexes were relatively similar). These differences could be attributed to the "laterality" of the task (Choleris & Kavaliers, 1999); learning to press the joystick sideways may prove to be more difficult for females. There were 13 females that did not learn the task at all (in contrast to three males) making up a third of the female sample size. However, both males and females did learn the directional component equally well, with both sexes
+
+64 consistently pressing the joystick in the same direction as their observed demonstrator. This contrasts Collins (1988) findings with mice where it was found that only males learnt to push a door in the same direction as a demonstrator. Whether this contrast is a result of a species difference or another factor, it suggests that more research on sex differences in observational learning tasks should be conducted.
+
+My results suggest males show kin discrimination more than females or that females are less able to recognise kin. Males showed much greater variation across the treatment groups with related and familiar animals producing the greatest responses; in contrast females showed very little variation regardless of treatment group. One hypothesis for the sex differences that has received empirical support relates to range size (Galea et al., 1994; Gaulin & Hoffman, 1998; Jones, Braithwaite, & Healy, 2003). When home range size differs between the sexes we expect to see a difference in spatial learning. Male rats have larger home ranges than females, because females tend to remain close to their natal burrows (Calhoun, 1962). Also, females dispersing at sexual maturity remain closer to the original natal site than males (Calhoun, 1962). This range size asymmetry may explain why males tended to perform the tasks more efficiently than females. Furthermore, it makes sense that males would display
+
+greater kin recognition abilities if their home ranges were bigger. In traveling further from their burrows, males are likely to meet more non-kin and need a mechanism to distinguish their relationship with any conspecifics they encounter. The lack of discrimination or recognition in females could be due to low non-kin encounter rates;
+
+65 they may be more likely to treat all animals they encounter as kin.
+
+2.5.3
+
+Observational Learning
+
+By using an observational learning task I was able to show that the relationship (be it genetic or social) between observer and demonstrator, as well as the sex of the animal played a role in an observer's learning. My study was modeled on an observational learning experiment developed by Heyes and Dawson (1990). One criticism of their experiment was the possibility of stimulus enhancement facilitated by odour deposits on the joystick (Heyes & Dawson, 1990). I altered their design by using a clean joystick between demonstrators and observers. This means there can be no deposited odours on the joystick, eliminating any salient odour cues and avoiding the possibility that the learning was a result of stimulus enhancement and not observational learning.
+
+2.5.4
+
+Conclusions
+
+While it was not possible to determine if familiarity or relatedness was most important in observational learning in rats, it was apparent that animals who are both familiar and related with a demonstrator perform best. Being unrelated and
+
+unfamiliar with a demonstrator clearly resulted in the poorest task performance. The combination of being familiar and related appears to allow for a more precise kin recognition process. The importance of being familiar or related to a conspecific appears to be more important for males than for females, perhaps due to the nature of rats' exploratory behaviours with males having greater home ranges than females and therefore a greater likelihood of encountering non-related animals.
+
+66 2.6 References
+
+Barnard, C. J., & Aldhous, P. (1991). Kinship, kin discrimination and mate choice. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Berger-Sweeney, J., Arnold, A., Gabeau, D., & Mills, J. (1995). Sex differences in learning and memory in mice: effects of sequence of testing and cholinergic blockade. Behavioural Neuroscience, 5, 859-873.
+
+Busquet, N., & Baudoin, C. (2005). Odour similarities as a basis of discriminating degrees of kinship in rodents: evidence from Mus spicilegus. Animal Behaviour, 70, 997-1002.
+
+Byers, J. A., & Beckoff, M. (1986). What does "kin recognition" mean? Ethology, 72, 342-345.
+
+Calhoun, J. B. (1962). The Ecology and Sociology of the Norway Rat. Bethesda, MD: U.S. Department of Health, Education and Welfare.
+
+Choleris, E., & Kavaliers, M. (1999). Social learning in animals: sex differences and neurobiological analysis. Pharmacology, Biochemistry and Behavior, 64, 767-776.
+
+67 Choleris, E., Valsecchi, P., Wang, Y., Ferrari, P., Kavaliers, M., & Mainardi, M. (1998). Social learning of a food preference in male and female Mongolian gerbils is facilitated by the anxiolytic, chlordiazepoxide. Pharmacology Biochemistry and Behavior, 60, 575-584.
+
+Collins, R. J. (1988). Observational learning of a left-right behavioral asymmetry in mice (Mus musculus). Journal of Comparative Psychology, 102, 222224.
+
+D'amato, F. R. (1994). Physiological evidence for genetically mediated sibling recognition in mice. Behavior Genetics, 24, 493-496.
+
+Elwood, R. W. (1991). Parental states as mechanism for kinship recognition and deception about relatedness. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Frick, K. M., & Gresack, J. E. (2003). Sex differences in the behavioral response to spatial and object novelty in adult C 57 BL/6 mice. Behavioural Neuroscience, 117, 1283-1291.
+
+Galea, L. A. M., and Kimura, D. (1993). Sex differences in route learning. Personality and Individual Differences, 14, 53-65.
+
+68 Galea, L.A.M., Kavaliers, M., Ossenjopp, K.-P., Innes, D., & Hargreaves, E.L. (1994). Sexually dimorphic spatial learning varies seasonally in two populations of deer mince. Brain Research, 635, 18-26
+
+Galef, B. G. J. (1990). An adaptionist perspective on social learning, social feeding, and social foraging in Norway rats. In D. A. Dewsbury (Ed.), Contemporary Issues in Comparative Psychology. Sunderland, MA: Sinauer Associates.
+
+Galef, B. G. J., Mischinger, A., & Malenfant, S. A. (1987). Hungry rats' following of conspecifics to food depends on the diets eaten by potential leaders. Animal Behaviour, 35, 1234-1239.
+
+Galef, B. G. J., Rudolf, B., Whiskin, E. E., Choleris, E., Mainardi, M., & Valsecchi, P. (1998). Familiarity and relatedness: Effects on social learning about food preferences by Norway rats and Mongolian gerbils. Animal Learning & Behaviour, 26, 448-454.
+
+Gaulin, S. J. C., FitzGerald, R. W., & Wartell, M. (1990). Sex differences in spatial ability and activity in two vole species (Microtus ochrogaster and M. pennsylvanicus). Journal of Comparative Psychology, 104, 88-93.
+
+Gaulin, S. J. C., & Hoffman, M. D. (1998). Evolution and the development of sex differences in spatial ability. In L. Betzig, M. Borgerhoff Mulder & P. Turke
+
+69 (Eds.), Human Reproductive Behavior: A Darwinian Perspective (pp. 129-152). Cambridge: Cambridge University Press.
+
+Halpin, Z. T. (1991). Kin recognition cues in vertebrates. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Halpin, Z. T., & Hoffman, M. D. (1987). Sibling recognition in the whitefooted mouse, Peromyscus leucopus: association or phenotype matching? Animal Behaviour, 35, 563-570.
+
+Hamilton, W. D. (1964). The genetic evolution of social behavior. Journal of Theoretical Biology, 7, 1-52.
+
+Hepper, P. G. (1991). Recognizing kin: ontogeny and classification. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Heyes, C. M., & Dawson, G. R. (1990). A demonstration of observational learning in rats using a bidirectional control. The Quarterly Journal of Experimental Psychology, 42B, 59-71.
+
+Holmes, W. G., & Sherman, P. W. (1983). Kin recognition in animals. American Scientist, 71, 46-55.
+
+70 Jones, C. M., Braithwaite, V. A., & Healy, S. D. (2003). The evolution of sex differences in spatial ability. Behavioural Neuroscience, 117, 403-411.
+
+Kavaliers, M., Ossenkopp, K -P., Prato, F. S, Innes, D.G.L., Galeas, L.A.M., Kinsella, D.M., & Perrot-Sinal, T.S. (1996) Spatial learning in deer mice: sex differences and the effects of endogenous opioids and 60 Hz magnetic fields. Journal of Comparative Physiology, 179, 715-724
+
+Mateo, J. M. (2002). Kin-recognition abilities and nepotism as a function of sociality. Proceedings of the Royal Society of London Series B(269), 721-727.
+
+Nakagawa, S., & Waas, J. R. (2004). 'O sibling, where are thou?' - a review of avian sibling recognition with respect to the mammalian literature. Biological Reviews, 79, 101-119.
+
+Palestis, B. G., & Burger, J. (1999). Individual sibling recognition in experimental broods of common tern chicks. Animal Behaviour, 58, 375-381.
+
+Porter, R. H. (1987). Kin recognition: functions and mediating mechanisms. In C. Crawford, M. Smith & D. Krebs (Eds.), Sociobiology and Psychology: Ideas, Issues and Applications (pp. 175-203). Hillsdale: Lawrence Erlbaum Associates.
+
+71 Porter, R. H., Matochik, J. A., & Makin, J. W. (1983). Evidence for phenotype matching in spiny mice (Acomys cahirinus). Animal Behaviour, 31, 978984.
+
+Porter, R. H., Matochik, J. A., & Makin, J. W. (1984). The role of familiarity in the development of social preferences in spiny mice. Behavioural Processes, 9, 241-254.
+
+Porter, R. H., Tepper, V. J., & White, D. M. (1981). Experiential influences on the development of huddling preferences and "sibling" recognition in spiny mice. Developmental Psychobiology, 14, 375-382.
+
+Porter, R. H., & Wyrick, M. (1979). Sibling recognition in spiny mice (Acomys cahirinus): Influence of age and isolation. Animal Behaviour, 27, 761-766.
+
+Porter, R. H., Wyrick, M., & Pankey, J. (1978). Sibling recognition in spiny mice (Acomys cahirinus). Behavioural Ecology and Sociobiology, 3, 61-68.
+
+Tang-Martinez, Z. (2001). The mechanisms of kin discrimination and the evolution of kin recognition in vertebrates: a critical re-evaluation. Behavioural Processes, 53, 21-40.
+
+72 Todrank, J., Busquet, N., Baudoin, C., & Heth, G. (2005). Preferences of newborn mice for odours indicating closer genetic relatedness: is experience necessary? Proceedings of the Royal Society B: Biological Sciences, 272(1576), 2083 - 2088.
+
+Trivers, R. L. (1971). The evolution of reciprocal altruism. Quarterly Review of Biology, 46, 35-57.
+
+Waldman, B., Frumhoff, P. C., & Sherman, P. W. (1988). Problems of kin recognition. Trends in Ecology and Evolution, 3, 8-13.
+
+73
+
+Chapter 3 General Discussion
+The aim of this study was to examine if kinship and social contact between observers and demonstrators influenced how well rats performed an observational learning task and if gender influenced learning efficiency. This last chapter outlines the
+
+implications of the study and highlights areas of future research.
+
+3.1
+
+Kin Recognition and Discrimination
+
+Kin recognition is an internal process that involves identifying an individual as related or not (Mateo & Holmes, 2004). As such, investigators are unable to be sure if kin recognition is occurring in the absence of kin discrimination (Byers & Beckoff, 1986; Mateo & Holmes, 2004). I found that rats reacted differentially to kin,
+
+indicating that kin recognition occurred. However, there was also a strong influence of familiarity, with related and familiar individuals learning with the greatest efficiency. That familiarity did influence the results suggests that kin recognition maybe mediated by a composite of processes; recognition by direct familiarisation and indirect familiarisation maybe required for precise recognition. Indirect
+
+familiarisation is likely to play an important role in kin recognition as rats react differently to related but unfamiliar rats than to unrelated and unfamiliar rats (this study; Todrank & Heth, 2001). This suggests that the observer has learnt phenotypic
+
+74 cues that reliably correlate to cues they themselves (self-referent recognition) or their relatives possess; the cues are then used to identify unfamiliar individuals (Hepper, 1991). Recognition by direct familiarisation was also important in my study because observers learned better from familiar demonstrators than from unfamiliar (Porter, 1988; Todrank & Heth, 2001). Previous interactions through living together gave unrelated rats a chance to learn about specific cage-mates and observers may have used this knowledge to assess relatedness.
+
+The results from this study highlight the complexities of trying to separate the influences of genetics and familiarity. Whereas some studies have found evidence to suggest genetic cues (such as odour) were responsible for kin recognition (e.g. Busquet & Baudoin, 2005; D'amato, 1994), others have found that familiarity plays the most important role (e.g. Halpin & Hoffman, 1987; Porter, 1987). As Mateo and
+
+Holmes (2004) point out, experiments showing either a lack of kin discrimination or a preference for familiar/unrelated kin over unfamiliar/unrelated individuals may be the result of the experimental design and not actually a lack of kin recognition. Where familiarity has found to be most important (e.g. spiny mice, Acomys cahirinus Porter, Matochik & Makin, 1984; Porter, 1987), Mateo and Holmes (2204) suggest that changing the test design may result in different results. I suggest that using observational learning may be another alternative method to kin recognition testing. At present very little research in kin recognition has been done using an observational learning technique, what has been done has mainly focused on social transmission of food preferences (e.g. Galef et al., 1998). To truly provide evidence for kin
+
+75 recognition, to show if relatedness or familiarity is the most important testing a given species in a number of ways would add validity to any conclusions providing the same results are achieved.
+
+3.2
+
+Sex Effects
+
+There were clear gender differences in learning found in this study, with male rats having shortest latencies to first joystick press and higher response rates. Males also showed greater variation across the treatment groups; more specifically, the difference between learning from R/F and UR/UF demonstrators was much greater in males than in females. Male rats out-perform females in maze learning (Jones, Braithwaite, & Healy, 2003), object location (Frick & Gresack, 2003) and observational learning (this study). .
+
+I used previous studies in spatial learning to develop my hypothesis that sex differences would occur in this study (Frick & Gresack, 2003; Jones, Braithwaite, & Healy, 2003; Perrot-Sinal, Kostenuik, Ossenkopp, & Kavaliers, 1996). The difficulty in using spatial studies is that pressing a joystick may not actually be a spatial task; it did not require the rats to learn the joystick location as it was never hidden and the chamber was relatively small. Sex differences in spatial learning are usually
+
+attributed to differences in mate choice, fertility and parental care, foraging, and differences in home range territory size (Gaulin & Hoffman, 1998; Jones, Braithwaite, & Healy, 2003). Of these hypotheses, home range size differences has received the most empirical support and I think that it is differences in home ranges
+
+76 that could account for the differences seen in my study although the reasoning is different. In spatial research, it is argued that males of many species need to be able
+
+to remember more locations because they travel further and therefore require enhanced spatial abilities (Gaulin & Hoffman, 1998; Jones, Braithwaite, & Healy, 2003). While my research neither supports nor refutes this spatial hypothesis, I believe that in this study sex differences are the result of males traveling further and encountering more unfamiliar rats; thus, they require better kin recognition abilities.
+
+3.3
+
+Future Research
+
+Having shown familiarity, relatedness and gender all influence learning, it must be asked in what other types of tasks do these factors play a role? Observational learning can be assessed in many ways (e.g. Bugnyar & Huber, 1997; Galef, 1990; Lindberg & Nicol, 1999). Using a different method from the joystick design I used would be help to determine if the task itself caused the differences I detected. Changing the task (such as to a co-operative tasks in which one animal is rewarded contingent on the response of another animal [Hake & Vukelich, 1972]) could be an effective way to assess the importance of relatedness and familiarity in another context.
+
+The importance of smell and the use of olfactory cues for kin recognition is widely reported (Albone & Perry, 1975; Beauchamp et al., 1985; Busquet & Baudoin, 2005; Ehman & Scott, 2001; Galef & Iliffe, 1994; Holmes & Sherman, 1983; Porter & Doane, 1979; Skeen & Thiessen, 1977). In the present study it is impossible to
+
+77 determine how much odour transfer occurred between observer and demonstrator rats. If kin recognition in rats is largely based on odour similarity (Hepper, 1987) we would expect that eliminating the ability to smell the demonstrator would have a significant impact on the observer's learning capacity. A way to test this would be to use anosmic animals. This would have the benefit of ensuring that there were no other means by which animals were assessing odour cues. This method has shown to work in spiny mice, where mice rendered anosmic with the use of zinc sulphate were unable to display kin recognition while unaffected mice showed sibling discrimination (Porter, Matochik, & Makin, 1986). This would allow us to assess what other cues are involved in kin recognition (specifically it would give more focus to visual cues).
+
+Another variable that may cause differences in learning is an animal's oestrus cycle (Jonasson, 2005). By monitoring and recording the stage of oestrus, differences in how females perform may be accounted for, especially if there is a great deal of variation between females' results. Warren and Juraska (1997) cite a range of
+
+activities that change in the female rat over an oestrus cycle (wheel activity - Finger 1969; open field locomotion - Burke & Archer 1975; active avoidance - Diaze-Veliz, Soto, Dussaubat, & Mora 1989, Sfikakis, Spyraki, Sitaris & Varonos, 1978; object exploration - Birke, 1979). During oestrus, as estrogen levels fluctuate, so too do physiological aspects of the brain, with proestrus (high estrogen) showing a higher level of synapses in the hippocampus and oestrus (low estrogen) showing a lower level of synapses (Warren & Juraska, 1997). The hippocampal region of the brain
+
+78 plays an important role in memory and learning, with lesions in the hippocampus in rats resulting in impaired performances in some types of learning tasks including spatial and odour-discrimination tasks (Squire, 1992). With odour being an important cue for kin recognition and gender differences in spatial abilities being regularly reported, anything that may effect an animal's ability should be accounted for and oestrus testing could provide an insight to observed differences.
+
+If oestrus is to be assessed, I would recommend using the approach of monitoring oestrus cycles for two weeks prior to experimental testing to ensure that rats are cycling regularly and increased confidence as to the stage of oestrus a rat is in (rats have a five day oestrus cycle with the actual stage of oestrus lasting 12h) (Calhoun, 1962; Warren & Juraska, 1997).
+
+3.4
+
+Conclusions
+
+Kin recognition gives an animal the ability to identify a conspecific as related even when unfamiliar with the individual (Halpin, 1991). Animals use a variety of cues to assess relatedness including genetic components (e.g. odour and physical appearance) as well as social experience (previous encounters) (Holmes & Sherman, 1983). In my thesis I found that observer rats that were both related and familiar to a demonstrator learned the fastest and most efficiently. Many species show sexual differences across a range of tasks (Choleris & Kavaliers, 1999; Jonasson, 2005) and this study has added to that list showing that using an observational learning test male rats showed great kin discrimination than females.
+
+79 3.6 References Albone, E. S., & Perry, G. C. (1975). Anal sac secretion of the red fox, Vulpes vulpes; volatile fatty acids and diamines: Implications for a fermentation hypothesis of chemical recognition. Journal of Chemical Ecology, 2(1), 101-111.
+
+Beauchamp, G. K., Yamazaki, K., Wysocki, C. J., Slotnik, B. M., Thomas, L., & Boyse, E. A. (1985). Chemosensory recognition of mouse major histocompatibility types by another species. Proceedings of the National Academy of Sciences of the United States of America, 82(12), 4186-4188.
+
+Bugnyar, T., & Huber, L. (1997). Push or pull: an experimental study on imitation in marmosets. Animal Behaviour, 54, 817-831.
+
+Busquet, N., & Baudoin, C. (2005). Odour similarities as a basis of discriminating degrees of kinship in rodents: evidence from Mus spicilegus. Animal Behaviour, 70, 997-1002.
+
+Byers, J. A., & Beckoff, M. (1986). What does "kin recognition" mean? Ethology, 72, 342-345.
+
+Calhoun, J. B. (1962). The Ecology and Sociology of the Norway Rat. Bethesda, MD: U.S. Department of Health, Education and Welfare.
+
+80 Choleris, E., & Kavaliers, M. (1999). Social learning in animals: sex differences and neurobiological analysis. Pharmacology, Biochemistry and Behavior, 64(4), 767-776.
+
+Ehman, K. D., & Scott, M. E. (2001). Urinary odour preferences of MHC congenic female mice, Mus domesticus: implication for kin recognition and detection of parasitized males. Animal Behaviour, 62, 781-789.
+
+Frick, K. M., & Gresack, J. E. (2003). Sex differences in the behavioral response to spatial and object novelty in adult C 57 BL/6 mice. Behavioural Neuroscience, 117, 1283-1291.
+
+Galef, B. G. J. (1990). An adaptionist perspective on social learning, social feeding, and social foraging in Norway rats. In D. A. Dewsbury (Ed.), Contemporary Issues in Comparative Psychology. Sunderland, MA: Sinauer Associates.
+
+Galef, B. G. J., & Iliffe, C. P. (1994). Social enhancement of odor preference in rats: Is there something special about odors associated with foods? Journal of Comparative Psychology, 108, 266-273.
+
+Galef, B. G. J., Rudolf, B., Whiskin, E. E., Choleris, E., Mainardi, M., & Valsecchi, P. (1998). Familiarity and relatedness: Effects on social learning about food preferences by Norway rats and Mongolian gerbils. Animal Learning &
+
+81 Behaviour, 26(4), 448-454.
+
+Gaulin, S. J. C., & Hoffman, M. D. (1998). Evolution and the development of sex differences in spatial ability. In L. Betzig, M. Borgerhoff Mulder & P. Turke (Eds.), Human Reproductive Behavior: A Darwinian Perspective (pp. 129-152). Cambridge: Cambridge University Press.
+
+Gubernick, D.J., Jones, K.C., & Klopfer, P.H. (1979). Maternal 'imprinting' in goats. Animal Behaviour, 27, 314-315
+
+Hake, D. F., & Vukelich, R. (1972). A classification and review of cooperation procedures. Journal of the Experimental Analysis of Behavior, 18, 333343.
+
+Halpin, Z. T. (1991). Kin recognition cues in vertebrates. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Halpin, Z. T., & Hoffman, M. D. (1987). Sibling recognition in the whitefooted mouse, Peromyscus leucopus: association or phenotype matching? Animal Behaviour, 35, 563-570.
+
+Hamilton, W. D. (1964). The genetic evolution of social behavior. Journal of Theoretical Biology, 7, 1-52.
+
+82 Hepper, P. G. (1987). The discrimination of different degrees of relatedness in the rat: evidence for a genetic identifier. Animal Behaviour, 35, 549-554.
+
+Hepper, P. G. (1991). Recognizing kin: ontogeny and classification. In P. G. Hepper (Ed.), Kin Recognition. Great Britain: Cambridge University Press.
+
+Holmes, W. G., & Sherman, P. W. (1982). The ontogeny of kin recognition in two species of ground squirrels. American Zoologist, 22, 491-517.
+
+Holmes, W. G., & Sherman, P. W. (1983). Kin recognition in animals. American Scientist, 71, 46-55.
+
+Jonasson, Z. (2005). Meta-analysis of sex differences in rodent models of learning and memory: a review of behavioral and biological data. Neuroscience and Biobehavioral Reviews, 28, 811-825.
+
+Jones, C. M., Braithwaite, V. A., & Healy, S. D. (2003). The evolution of sex differences in spatial ability. Behavioural Neuroscience, 117, 403-411.
+
+Lindberg, A. C., Kelland, A., & Nicol, C. J. (1999). Effects of observational learning in acquisition of an operant response in horses. Applied Animal Behaviour Sciences, 61, 187-199.
+
+83 Mateo, J. M. (2002). Kin-recognition abilities and nepotism as a function of sociality. Proceedings of the Royal Society of London Series B(269), 721-727.
+
+Mateo, J. M., & Holmes, W. G. (2004). Cross-fostering as a means to study kin recognition. Animal Behaviour, 68, 1451-15459.
+
+Perrot-Sinal, T. S., Kostenuik, M. A., Ossenkopp, K. P., & Kavaliers, M. (1996). Sex differences in performance in the Morris water maze and the effects of initial non stationary hidden platform training. Behavioural Neuroscience, 110(6), 1309-1320.
+
+Porter, R. H. (1987). Kin recognition: functions and mediating mechanisms. In C. Crawford, M. Smith & D. Krebs (Eds.), Sociobiology and Psychology: Ideas, Issues and Applications (pp. 175-203). Hillsdale: Lawrence Erlbaum Associates.
+
+Porter, R. H. (1988). The ontogeny of sibling recognition in rodents: the superfamily Muroidea. Behaviour Genetics, 18, 483-494.
+
+Porter, R. H., & Doane, H. M. (1979). Dietary-dependent cross-species similarities in maternal chemical cues. Physiology and Behavior, 19, 129-131.
+
+Porter, R. H., Tepper, V. J., & White, D. M. (1981). Experiential influences on the development of huddling preferences and "sibling" recognition in spiny mice.
+
+84 Developmental Psychobiology, 14, 375-382.
+
+Porter, R. H., Matochik, J. A., & Makin, J. W. (1984). The role of familiarity in the development of social preferences in spiny mice. Behavioral Processes, 9, 241-254
+
+Porter, R. H., Matochik, J. A., & Makin, J. W. (1986). Discrimination between full-sibling spiny mice (Acomys cahirinus) by olfactory signatures. Animal Behaviour, 34, 1182-1188.
+
+Skeen, J. T., & Thiessen, D. D. (1977). Scent of gerbil cuisine. Physiological Behavior, 10, 463-466.
+
+Squire, L. R. (1992). Memory and the hippocampus: A synthesis from findings with rats, monkeys and humans. Psychological Review, 99(2), 195-231.
+
+Tang-Martinez, Z. (2001). The mechanisms of kin discrimination and the evolution of kin recognition in vertebrates: a critical re-evaluation. Behavioural Processes, 53, 21-40.
+
+Todrank, J., Heth, G., & Johnston, R.R.
+
+(1999). Social interaction is
+
+necessary for discrimination between and memory for odours of close relatives in golden hamsters. Ethology, 105, 771-782
+
+85
+
+Todrank, J., & Heth, G. (2001). Rethinking cross-fostering designs for studying kin recognition mechanisms. Animal Behaviour, 61, 503-505.
+
+Warren, S. G., & Juraska, J. M. (1997). Spatial and nonspatial learning across the rat estrous cycle. Behavioural Neuroscience, 111(2), 259-266.
+
+

@@ -1,0 +1,2509 @@
+8
+
+2.
+
+Literature Review
+
+2.1
+
+Legislation
+
+There are two approaches to addressing the problem of alcohol and drug use while driving; the impairment and per se approaches [1,2]. Table 1 describes these different approaches.
+
+Table 1. Description of the possible approaches to the legislation on alcohol and drugs and driving [1,2]
+Approach Description Advantages Disadvantages
+
+No research on the effects of individual drugs is necessary as it applies for general drug use Based on Driver performance as determined by field impairment tests. The concentration of drugs in blood is irrelevant in this case. It was the first legislation applied to alcohol use. Blood or urine analysis only confirms the presence of drugs and provides a possible explanation for the impairment. Legally, this approach does not obstruct constitutional rights.
+
+Impairment
+
+Convictions can become difficult since the assessment of impairment depends on the ability of Police officers and/or doctors to identify impaired drivers (subjective determination of impairment even though criteria are used). Development of tolerance in drivers becomes a problem (drivers might not look impaired but their driving performance might be affected). Hospitalised drivers can not be tested for impairment
+
+9 Table 1 continued
+Approach Description Advantages Disadvantages
+
+An offence is committed if drugs are detected above the legal limit. Driving performance is irrelevant in this case. In the case of the zero-limit approach, chosen by countries that do not believe that drug concentrations reflect impairment (as for alcohol), just the presence of substances is enough for a conviction to be entered. There is no legal limit.
+
+Concentrations of alcohol and/or drugs are easier to prove than impairment and therefore, convictions are easier to bring. Its execution is easy and it is simple to apply. Under zero-limit legislation, the driver is encouraged to avoid drug use prior to driving.
+
+Concentration limits (as for alcohol) do not relate to individual impairment levels. Analytical cut-offs are usually set. For zero-limit approaches, a scientific proof of the deleterious effects of drugs on driving skills, even at small concentrations might be needed. Generally concentration limits are imposed for only a small number of (illicit) drugs.
+
+Per se
+
+There are two possible ways to execute these regulations: under the administrative or the criminal (prosecution by the order of courts) laws [1].
+
+2.1.1
+
+International legislation
+
+Table 2 lists details of the laws adopted by some European countries (from the European Monitoring Centre for Drugs and Drugs addiction) [2], Table 3 lists the legal blood alcohol limits for various countries (from the World Health Organization).
+
+10 Table 2. Driving Under the Influence of Drugs Legislation in Europe [2]
+Execution of law Administrative Criminal Criminal Criminal Criminal Criminal Administrative Criminal Criminal Criminal Criminal Criminal Criminal Administrative Criminal Criminal Criminal 360-1800 302-602 Day fines 7000 Fine
+
+Country Austria Belgium Finland France Germany Ireland Italy Netherlands Norway Portugal Spain Sweden United Kingdom
+
+Approach Impairment Per se Impairment Per se Impairment Per se Per se Impairment Impairment Impairment Impairment Impairment Impairment Per se Impairment Per se Impairment
+
+C
+581-3633 100010000 fine 60 days fine 4500 250 fine 1270 260-1030 Injur. 11250 Fatal 450
+
+Prison (days)
+
+License withdrawal (months) 1
+
+15-180 182 700 730 3651825 180 30 10953285 365 365 8-12we arrests 730 180
+
+Possible Max. 60 36 1 1-3 24 0.5-3 60 12 2-24 3 12-48 1-36 12
+
+Table 3.
+
+Legal blood alcohol limits set in different countries [3]
+Driver Vehicle Commercial vehicle Novice Any Vehicle Vehicle Vehicle Vehicle Any Vehicle Any Any BAC limit (mg /100mL) 50 50 10 50 50 50 50 50 60 50 Totally forbidden Totally forbidden
+
+Country Austria Belgium France Germany Italy Argentina Brazil Chile Oman Qatar
+
+11 Table 3 continued
+Country United Arab Emirates Malaysia Thailand Driver Any Vehicle Commercial vehicle Vehicle BAC limit (mg/100 mL) Totally forbidden 80 80 50
+
+2.1.2
+
+Legislation in New Zealand
+
+Presently, there is no specific legislation for the use of individual drugs (other than alcohol) and driving in this country. The current legislation on this matter textually states [4]: "A person commits an offence if the person drives or attempts to drive a motor vehicle on a road while under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle." "If a person is convicted of a first or second offence against subsection 1 (previous point), the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more." "If a person commits a third or subsequent offence against subsection 1... the person commits an indictable offence and on conviction. The maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year."
+
+12 "A person commits an indictable offence if the person is in charge of a motor vehicle ... and causes bodily injury to or the death of a person while the person in charge is under the influence of drink or a drug, or both, to such an extent as to be incapable of having proper control of the vehicle... The maximum penalty is imprisonment for a term not exceeding 5 years or a fine not exceeding $20,000; and the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more in the case of a first or second offence." "A person may not drive or attempt to drive a motor vehicle ... while the proportion of alcohol in the person's breath, as ascertained by an evidential breath test ... exceeds 400 micrograms of alcohol per litre of breath; or the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen... exceeds 80 milligrams of alcohol per 100 millilitres of blood; or If the person is younger than 20, the proportion of alcohol in the person's breath, as ascertained by an evidential breath test... exceeds 150 micrograms of alcohol per litre of breath; or the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen... exceeds 30 milligrams of alcohol per 100 millilitres of blood."
+
+Some of the most important and relevant traffic legislation, enacted in New Zealand is shown in Table 4.
+
+13 Table 4. Relevant Legislation on drugs and driving in New Zealand [5]
+
+Year 1969 1978
+
+Legislation Introduction of breath and blood alcohol tests Introduction of evidential breath testing Lowering of permissible blood alcohol level from 100 mg/100 mL blood to 80 mg/100 mL blood. Lowering the legal breath alcohol level from 500 g/L to 400 g/L Removal of the officers' right to require a blood sample in certain circumstances. Traffic enforcement officers given power of entry onto private property for the purposes of undertaking drink driving procedures Compulsory breath testing commenced April 1993 Roadside license suspension for driving with a blood alcohol level above 160 mg/ 100 mL or a breath alcohol level above 800 g/L or for refusing a blood test. The Land Transport amendment Act 2001 removed legal impediments to the operation of breath devices Under the Act, no matter the result of a breath test, a driver has the right to request a blood sample (previously limited to drivers with alcohol levels of 600 g/L or below).
+
+1988
+
+1989 1993 1999
+
+2001
+
+2.2
+
+Drug Use
+
+Information on the prevalence of drugs in different sectors of the population can be collected through the use of different methodologies. Data collection might involve surveys (questionnaires or interviews) applied to the general population or subsets of the population. 2.2.1 Efforts International from countries worldwide have lead to a better
+
+understanding of their drug situation in terms of prevalence. The United Nations, reported in 2004 some statistics related to drug use in different countries [6]. A summary of a selection of
+
+14 these is shown in Table 5, giving the percentage of the population between 15 and 64 years old using these drugs.
+
+Table 5.
+Drug
+
+Summary of the statistics on The World Drug Report 2004 [6]
+Region Country Russian Federation (2001) Estonia (2001) Czech Republic (2001) Bulgaria (2001) Luxemburg (2000) United Kingdom (2000) Spain (1999) France (1999) Belgium (1997) Germany (2000) Oceania New Zealand (2001) Australia (2001) Russian Federation (1999) Eastern Europe Estonia (1998) Czech Republic (2002) Bulgaria (2001) United Kingdom (2003) Spain (2001) France (2002) Belgium (2001) Germany (2000) Papua New Guinea (1995) Australia (2001) Oceania New Zealand (2001) Fiji (1996) Percentage* 2.1 1.2 0.5 0.5 1.0 0.7 0.5 0.4 0.4 0.3 0.7 0.6 3.9 2.0 10.9 1.2 10.6 9.7 9.8 6.1 6.0 29.5 15.0 13.4 0.2
+
+Eastern Europe
+
+Opiates Western Europe
+
+Cannabis
+
+Western Europe
+
+15 Table 5 continued
+Drug Region Country Thailand (2001) East and south Asia Amphetamines Philippines (2000) China (2001)* Japan (2001) Oceania Australia (2001) New Zealand (2001) Canada (18+ years old) (2002) USA (12+ years old) (2002) Colombia (2001) Ecstasy South America Chile (2002) Venezuela (2002) Australia (2001) Oceania
+*
+
+Percentage* 5.6 2.8 1.2 0.3 4.0 3.4 1.8 1.3 0.3 0.1 0.1 3.4 2.2
+
+North America
+
+New Zealand (2001)
+
+Taiwan province
+
+Other organisations and programs such as the Global Road Safety Partnership (GRSP), The Transport Research Laboratory (TRL Limited) in the United Kingdom, The ROSITA (RoadSide Testing Assessment) project organised by the European Union, The European Observatory of Drugs and Toxicomany, among others, are also involved in collecting, analysing and presenting data in relation to this issue. Results of studies on drug use in relation to the driving population in some European countries, developing countries, Australia and Canada are as follows: The prevalence of illicit drugs in Europe in the general driving population is 1-5% and in drivers involved in collisions is 10-25%. The prevalence of licit drugs in the first group is higher, 5-15%, than illicit drug use and licit
+
+16 drug use in drivers involved in collisions is reported as 621% [1,7]. Two hundred and ninety three drivers stopped on the road in The Netherlands (1997-1998), showed an incidence of alcohol use of 12.3%. Cannabis was present in 5.1% of the drivers, amphetamines and opiates in the same proportion (1.4%) and cocaine in 0.68% [1]. In Belgium, 2053 samples collected from injured or deceased drivers from 1995 to 1996, showed a high occurrence of alcohol (27%), followed by benzodiazepines (8.5%), opiates (7.5%), cannabinoids (6.0%) and amphetamines (3.0%) [1]. A study of 9772 drivers involved in fatal crashes in France, revealed 2096 positive cases for alcohol use (21.4%), 681 positive cases for cannabis in a concentration higher or equal to 1 ng/mL (7.0%) and 285 positive cases for the combination alcohol-cannabis (2.9%) [8]. In Norway (1994), 2529 blood samples from drivers suspected of driving under the influence of drugs were tested for drugs. Of these, 59% were positive for drugs use with 30% alcohol only. The most prevalent drugs were benzodiazepines (30.6%), cannabinoids (26.1%) and amphetamines (21.1%) [2]. Prevalence of drugs in 3398 fatally injured drivers in Australia (Victoria, Western Australia and New South Wales) was studied overa period of nine years (19901999). Important findings were: 26.7% positive cases for
+
+17 drug use (other than alcohol), 13.5% of which correspond to cannabis, 4.9% to opioids, 4.1% equally to stimulants and benzodiazepines [9]. Roadside surveys conducted in Quebec in 1999 and 2000 indicated that 11.8% of the urine samples taken had drugs other then alcohol. The most prevalent drug was cannabis (6.7%), followed by benzodiazepines (3.6%), opiates (1.2%) and cocaine (1.1%) [7]. Very few studies on drugs and driving have been carried out in Africa, however a roadside survey conducted in Kenya (1997), in which 479 drivers were tested for alcohol by breath devices showed 19.9% of the cases as being positive for alcohol (8.3% > 0.5g/L and 4% > 0.8 g/L); all drunk drivers were male older than 25 years old [10]. Likewise, there is not much information on the drugs and driving situation in South America. Colombia reported 34% of fatally injured drivers had used alcohol. In Argentina, 83% of drivers surveyed self-reported that they drove under the influence of alcohol [10]. 2.2.2 In New Zealand
+
+A chronological account of studies conducted in New Zealand, reflecting different aspects of the drugs situation in the country is presented below. Table 5 also shows some comparative statistics of drug use in New Zealand in relation to other countries in the world. The first study performed in this country intending to analyse the role of drugs (other than alcohol) in car accidents, was the
+
+18 Waikato Hospital Road Accident Survey (1979/80) [11]. Some results of this survey are: Of the 822 injured drivers tested for cannabis, 7.2% were positive for it (radioimmunoassay). However there was no proof of impairment by cannabis at the moment of the accidents. Confirmation techniques were not carried out. Only one driver of the 901 included in the survey was said to be impaired with a prescription drug (single use). In two other drivers, the prescribed drugs might have increased the adverse effects of alcohol. 17% of the drivers tested positive for alcohol at a concentration higher than 80 mg/100mL. A research paper published in 1995 about alcohol and fatal road crashes that occurred between 1991 and 1993 [12], used data sources including ESR's post-mortem and blood alcohol data, and Coroners' reports. Important findings are as follows: Of the total number of cases studied, 450 were positive for alcohol and 757 negative. 60% of the drivers (positive for alcohol) had blood alcohol levels higher than 150 mg/ 100 mL. Fatal accidents involving alcohol occurred more often from 9.00 pm to 5.00 am.
+
+19 The role of cannabis in fatal road accidents was studied in a sample of 386 fatally injured drivers, over a two year period [13]. Important results and conclusions were reached: 41% of the drivers were positive for alcohol and 21% for THC. About 67% of the drivers who tested positive for cannabis also had alcohol in blood. This combination was more prevalent than cannabis use alone. There seems to be a clear relationship between cannabis use and excessive use of alcohol. The blood levels of alcohol found in drivers who used the combination of drugs were on average higher than the levels of drivers who used alcohol alone. Therefore, a pattern of social behaviour can be suggested. An article published by the New Zealand Medical Journal in 1998 [14], mentions some anecdotal and research evidence related to the cultivation and production of cannabis. The climate and geographic conditions of this country have permitted the easy cultivation of the marijuana plant to the point that the importations are minimal. the supply of cannabis It is also said that in-house became a means of economical hydroponic cultivations are camouflaged in legal businesses, and subsistence for some Maori communities living in rural areas. Several birth cohorts have been studied in New Zealand [15]. One of the most recent ones, aimed at linking cannabis use and risk of car accidents [16], gathered data from 907 young New Zealanders (born in Christchurch) aged 21 who had driven
+
+20 vehicles since age 18. A statistically significant association between reported car accidents and cannabis use was found. The risk rate was 1.6 times higher for cannabis users than for nonusers, the risk was related to the behavioural characteristics of young cannabis users rather than impairment due to cannabis use itself. The New Zealand drug statistics published in 2001, collected data from surveys and event-based statistics (like hospital records of drug use). The report showed alcohol as the most used recreational drug in the country followed by tobacco and cannabis [17]. The most recent statistics on this topic were reported in the 2002/03 New Zealand Health Survey [18]: 83.5% of the people surveyed had drunk an alcoholic beverage in the preceding 12 months. 19.1% of the people aged 15 years old or more had a drinking pattern that represented risk of physical or mental damage in the future (hazardous drinking). Of these, 27.1% were men and 11.7% women. One in seven adults surveyed, admitted having use marijuana (smoked) the year previous to the survey. 1 in 19 smoked it on a regular basis. In 2004, 12% of injury crashes and 30% of fatal crashes involved alcohol and/or drug use [5].
+
+21 2.3 Studies
+
+The worldwide problem of drugs use has lead to governments developing laws that attempt to reduce the incidence of drugrelated road crashes. These laws are most of the time based on studies that reveal the prevalence and effects of legal and illegal drugs, and their combinations, and the responsibility of these drugs in road crashes. There are two possible situations in which the studies can be conducted: In the field (epidemiological studies involving culpability analysis, prevalence of drugs in crashes, case-control studies) and in the laboratory (experimental studies involving driving simulators, on-the-road driving tests and psychomotor tests) [19,20]. The approaches used by researchers who aim to establish a possible relationship (in terms of responsibility) between cannabis or other psychoactive drugs and the risk of motor vehicle accidents, are reviewed below.
+
+2.3.1
+
+Driving approach
+
+simulator
+
+and
+
+On-the-road
+
+studies
+
+Analysis of the skills necessary for a good standard of driving performance (vigilance, perception of speed and risks, etc.) can be executed through psychomotor tests, the use of a simulator or real driving studies [21]. In the case of the simulator, the computer generates a setting imitating real driving conditions with the possibility for researchers to include sudden situations or obstacles [21]. A
+
+22 problem associated with this kind of test is the lack of realism present in actual driving circumstances [20]. Some irregularities have been reported when analysing cannabis use in driving simulators: increase of the lateral position variability, as well as reaction time, decision taking, and traffic signs and navigational information are ignored [20,21]. However, manifestations that partially compensate for the impairment have also been observed: a longer distance is maintained when following cars and a general tendency to drive slowly [20]. On-the-road studies can be performed on closed circuits or controlled driving on public roads. Problems related to this kind of study are generally ethical; the quantities of cannabis (or other drugs of interest) given to the participants are controlled and might not represent real use cases. The average dose to get a "high" with this drug oscillates in the order of 300 g/Kg [20,21]. Researches have shown that severe driving impairment was present when cannabis was combined with low doses of alcohol (BAC < 50 mg / 100 mL) in "road tracking tests", "car following" and "city driving" tests [20]. 2.3.2 Case-control study approach
+
+Case-control studies are epidemiological studies that tend to involve a demonstrative and comparable control group [20], that will match the case group (injured or fatally injured drivers) in terms of time and location (same place, same day of the week, hour, etc, weeks after the accident) [22].
+
+23 A problem found with this kind of study (at least for cannabis analysis) is the lack of devices for the easy identification of drugs at the roadside. Ethical issues associated with the sample (blood) collection arise for the control group [22]. A good example would be a prospective case-control study performed in The Netherlands (May 2000 ­ August 2001), intended to evaluate the association between the use of psychoactive drugs and car crashes where hospitalisation was required [23]. Details and results (statistically significant) of this study are presented below. The case group was car or van drivers involved in a vehicle accident, from whom blood and/or urine samples were taken at the hospital. The control group was drivers randomly chosen from public roads at different times of the day and days of the week and who voluntarily gave a urine or blood sample and responded to an interview. The risk for car accidents after single use of
+
+benzodiazepines was 5.1 times higher than for the control group. In the case of alcohol the odds ratio was O.R: 5.5 (BAC= 50-79 mg/100 mL) and O.R: 15.5 (BAC  80 mg/100 mL). Cases when a combination of drugs (other than alcohol) were involved, gave a high odds ratio of 6.1. Drivers who used a combination of alcohol and other drugs had an extremely high odds ratio of 112.2.
+
+24 No increased risk of car accidents was found for drivers who used cannabis. 2.3.3 Culpability or Responsibility study approach
+
+Culpability studies are epidemiological studies, that can be considered as case-case studies (both groups have been involved in motor vehicle crashes) [22]. After evaluation of the responsibility for the drivers on the accident (without prior knowledge of the involvement of drugs), the not culpable group is assigned as the equivalent to the control group (for calculations). The odds ratio of drivers with no evidence of drug use is assumed 1.0 [20]. Problems related to this approach arise from the lack of statistical power associated to the size of the sample under study [20]. Drummer et al carried out an important 10-year responsibility study in three Australian states [9]. Details and results of this study are shown below. All possible factors that might contribute to car accidents were taken into account for culpability scoring purposes. Drivers were divided into three groups, depending on the culpability score: culpable, contributory and non-culpable (a more detailed description of the methodology used can be found in Chapter 4, Study 2). model. Of the 3398 fatally injured drivers, 1704 were drugs-free (control group) and 1694 were positive for drugs (case Statistically significant interactions were analysed by using a logistic regression
+
+25 group). Of the control group, 1214 drivers were culpable of the accident and 376 were not culpable (114 contributory), likewise, 1487 drivers from the case group were culpable and 133 not culpable (74 contributory). Cannabis use was found to be associated with culpability. The risk of having a car accident after using cannabis was 2.7 times higher than for the control group. Results also suggested that cannabis enhanced the
+
+impairment caused by alcohol. The culpability odds of drivers with THC and alcohol ( 50 mg/100 mL) was 2.9 times the odds of drivers who had the same alcohol levels alone.
+
+2.4
+
+Drugs
+
+A summary of the most relevant effects, exhibited by the drugs of interest for this work (alcohol, cannabis, amphetamines, benzodiazepines and opiates), is presented in Table 6.
+
+Table 6.
+
+Uses and effects of the drugs considered in the thesis
+Drug class Uses General effects
+At low concentrations alc. helps people to lose some inhibitions.  Intellectual performance, speed and accuracy of reaction to visual and auditory stimuli.
+
+Ref.
+
+Drug
+
+Effects on driving
+
+[19, 24,25]
+
+Alcohol (alc.)
+
+CNS depressant
+
+Currently, alcohol is used in social occasions
+
+Alters concentration, reaction time, tracking.  risk taking behaviour, impulsiveness.
+
+26 Table 6 continued
+Ref. Drug Drug class Uses General effects
+Typically, interactions occur with other CNS depressants.
+
+Effects on driving
+ risk of having a car accident and the responsibility for it.  reaction time. Alters estimation of distance, speed variability. Inability to keep lateral position. Motor incoordination and impaired vigilance. Impaired steering, decision making and concentration. Affects motor reactions, vigilance and concentration  reaction time Slow driving, deficient vehicle control, weaving, late reactions, bad coordination and slow response to stimuli.
+
+[19, 24,25]
+
+Alcohol (alc.)
+
+CNS depressant
+
+For example in parties, reunions, etc.
+
+[26]
+
+Cannabis
+
+Because of its unique pattern of effects, classification of this drug as either sedative, stimulant or hallucinogen is difficult
+
+Used medically for the treatment of anorexia in patients with AIDS and for the treatment of nausea and vomiting related to cancer therapy
+
+Effects depend on the dose, the administration route, the experience of the user, between others. General effects include: euphoria, relaxation, sense of well being, lack of expression, altered memory and learning, sedation, panic, and paranoia.
+
+[26]
+
+Morphine
+
+Narcotic analgesic
+
+It is clinically used for the treatment of pain (moderate to severe) It is also used as sedative before surgery helping with the induction of anesthesia
+
+The effects are closely related to the dose, administration route and prior experience. Typical physical effects are: dry mouth, heavy extremities. Euphoria, relaxation, sedation, delirium and a sensation of well-being, are examples of psychological effects.
+
+27 Table 6 continued
+Ref. Drug Drug class Uses General effects
+Two phases can be identified after the use of MA. 1st stage involves euphoria, fast-talking, hallucinations,  fatigue,  attentiveness. 2nd stage involves dysphoria, restlessness, violence, aggression and psychosis. Relaxation, euphoria, well-being sensation. Affects perception and empathy.  response to tactile stimuli. Higher doses produce panic attacks, hallucinations and agitation. Sedation, poor coordination, drunken-like state. Benzodiazepines (BD) e.g diazepam Tranquilizers, sedatives, CNS depressants Treatment of insomnia and anxiety, epilepsy, convulsive disorders Can induce disinhibition.  alertness impairs perception of time, space and distance It seems that not all BD produce impairment. Some studies did not find differences between BD positive and negative drivers [19].  lateral deviation  multitasking and attention
+
+Effects on driving
+Failure to stop, impatience, speeding, risky driving behaviour, erratic driving. Due to distraction, hyperactive reflexes, disorientation and motor excitation, between others.
+
+[26]
+
+Methamphetamine (MA)
+
+CNS stimulant
+
+Medicinal uses include the treatment of narcolepsy, ADHD (Attention Deficit Hyperactivity Disorder and ADD (Attention Deficit Disorder)
+
+[26]
+
+MDMA
+
+Mild CNS depressant, hallucinogen and psychedelic
+
+Currently there are no legal medical uses for MDMA in several countries. Originally was used as appetite suppressant.
+
+Speeding, failure to respect traffic lights. Effects in vehicle control. Impaired tracking ability, slow reactions
+
+[24, 26]
+
+Conventions:  increases,  decreases.
+
+28 2.5 References
+
+1. Board, Austrian Road Safety, Preventive measures to prevent driving while under the influence of alcohol / drugs. 2003, Literature Study for the Swedish Road Administration: Vienna, Austria. 2. Sponsored by: The Counterdrug Technology Assessment Center at The Office of National Drug Control Policy, Executive Office of the President, The international Association of Forensic Toxicologists, The National Institute on Drug Abuse, The International Council on Alcohol, Drugs and Traffic Safety, Developing Global Strategies For Identifying, Prosecuting, and Treating Drug-Impaired Drivers, The Walsh Group, Editor. 2004: Huachuca, USA. 3. World Health Organization, Road Safety Legislation Database, Available online: http://www.who.int/violence_injury_prevention/roadsafety /roadsafety.aspx (12/04/2006). 4. B. Bruckton, V. Powell, P. W. Graham, Law of transportation, in Brooker's criminal library, Thomson Brookers. Available online: www.brookersonline.co.nz (30/07/06). 5. Ministry of Transport, Safety and Security, Motor Vehicle crashes in New Zealand 2004. 2005, Ministry of Transport. 6. United Nations, Office on Drugs and Crime, World Drug Report, United Nations publications, Editor. 2004: Vienna, Austria. 7. J. M. Walsh, J. J. De Gier, A. S. Christopherson, A. G. Verstraete, Drugs and Driving. Traffic Injury Prevention, 2004. 5: p. 241-253. 8. B. Laumon, B. Gadegbeku, J-L Martin, M-B Biecheler, the SAM group, Cannabis intoxication and fatal road crashes in France: population based case-control study, in BMJ. 2005, BMJ publishing group Ltd. Available online: bmj.com. p. 1-6.
+
+29 9. O. H. Drummer, J. Gerostamoulos, H. Batziris, M. Chu, John Caplehorn, M. D. Robertson, P Swann, The involvement of drugs in drivers of motor vehicles killed in Australian road traffic crashes. Accident analysis and prevention, 2004. 36: p. 239-248. 10. (GRSP), Global Road Safety Partnership, Impaired driving in developing countries. 2004: Geneva. 11. E. R. Cairns, K. E. Wardill, A. W. Missen, Waikato Hospital Road Accident Survey, in Report CD 2349. 1984, Waikato Hospital / Chemistry division of the Department of Scientific and industrial Research: Hamilton / Petone. 12. J. Bailey, Alcohol and fatal road crashes. The New Zealand Public Health Report, 1995. 2(9): p. 73-74. 13. J. Bailey, H. Poulsen, S. Russell, D. Watts, A study of the role of cannabis in fatal road accidents. 1998, Bailey Partnership Ltd., The Institute of Environmental, Science and Research Ltd.: Wellington. 14. S. Abel, S. Casswell, Cannabis policy: issues and options. New Zealand Medical Journal, 1998. 111: p. 367370. 15. R. G. Poulton, M. Brooke, T. E. Moffitt, W. R. Stanton, P. A. Silva, Prevalence and correlates of cannabis use and dependence in young New Zealanders. New Zealand Medical Journal, 1997. 110: p. 68-70. 16. D. M. Fergusson, L. J. Horwood, Cannabis use and traffic accidents in a birth cohort of young adults. Accident analysis and prevention, 2001. 33: p. 703-711. 17. New Zealand Health Information service, New Zealand Drug statistics. 2001, Ministry of Health: Wellington. 18. Ministry of Health, A Portrait of Health: Key results of the 2002/03 New Zealand Health Survey, in Public Health Intelligence Occasional Bulletin No 21. 2004, Ministry of Health. Available online: http://www.moh.govt.nz (01/08/2006). 19. E. Kelly, S. Darke and J. Ross, A review of drug use and driving: epidemiology, impairment, risk factors and
+
+30 risk perceptions. Drug and Alcohol Review, 2004. 23: p. 319-344. 20. J. G. Ramaekers, G. Berghaus, M. Van Laar, O. H. Drummer, Dose related risk of motor vehicle crashes after cannabis use. Drug and Alcohol Dependence, 2004. 73: p. 109-119. 21. C. J. O'Kane, D. C. Tutt and L. A. Bauer, Cannabis and driving: A new perspective. Emergency medicine, 2002. 14: p. 296-303. 22. M. N. Bates, T. A. Blakely, Role of cannabis in motor vehicle crashes. Epidemiological Reviews, 1999. 21(2): p. 1-11. 23. K. L. L. Movig, M. P. M. Mathijssen, P. H. A. Nagel, T. Van Egmond, J. J. de Gier, H. G. M. Leufkens, A. C. G. Egberts, Psychoactive substance use and the risk of motor vehicle accidents. Accident analysis and prevention, 2004. 36: p. 631-636. 24. C. E. Hunter, R. J. Lokan, M. C. Longo, J. M. White, M. A. White, The Prevalence and role of alcohol, cannabinoids, benzodiazepines and stimulants in non-fatal crashes. Report, Forensic Science Department for Administrative and Information services South Australia, Editor. 1998, Department of Clinical and experimental pharmacology. University of Adelaide. 25. Stockley, I. H., Drug Interactions. A source book of adverse interactions, their mechanisms, clinical importance and management. second ed. 1991, Oxford: Blackwell Scientific Publications. 26. F. J. Couper, B. K. Logan, Drugs and Human performance fact sheets. Report. 2004, Washington State Patrol Forensic Laboratory Services Bureau, National Highway Traffic Safety Administration: Seattle.
+
+31
+
+3.
+
+Study 1
+
+Study 1 is intended to determine the proportion of drinking drivers that test positive for drugs other than alcohol. Under the current legislation for drink-driving in New Zealand, drivers are asked to undertake alcohol breath tests (passive breath test, breath screening test and evidential breath test). These tests are performed through different devices that screen and confirm the presence of alcohol and the concentrations; evidential breath test results are used in court as evidence. Drivers also have the option to submit a blood sample for testing or not. Blood tests are conclusive proof of alcohol intake in levels exceeding the legal limits 3 [1]. Therefore, not all drivers found to have high levels of alcohol (compared to the limits) submit a blood sample.
+
+3.1 Materials
+3.1.1 The Population population studied was drivers stopped for roadside
+
+screening of alcohol who had breath alcohol concentrations above the legal limit and provided evidential blood alcohol samples. This population does not completely represent the general driving cluster (approx. 2,997,494 licensed drivers 4 [2]) but the uninjured drink driving population who were apprehended and provided a blood sample.
+" No matter what the result of a breath test, a driver has the right to request a blood sample". The Land Transport Amendment Act, 2001 [1]. 4 Current and limited licence holders (30/04/2006) not including drivers with international licenses [2].
+3
+
+32
+
+In the fiscal year 2004-2005, there were approximately 26,036 positive cases of breath screening tests and 26,519 charges for alcohol offences [3]. 3.1.2 Samples
+
+A set of 2000 blood samples was randomly selected from the pool of roadside samples taken by the police in a time period of about 1 year. Acceptance criteria for the inclusion of samples in this study are: Circumstances: drivers (uninjured) who gave positive test results and opted for a blood test.
+
+3.2 Methodology
+3.2.1 Analytical methodology
+
+The blood samples were screened for the possible presence of drugs. The screening technique used was ELISA, where the analyte in the sample, competes with the enzyme labeled antigen (drug derivative) for a limited and constant number of antibody units attached to the polystyrene micro-plates. The colour that develops after the addition of the chromogenic substrate is monitored at 450 nm. This screening method has been widely used in forensic science and other sciences since the 1970s [4]. It is consider sensitive, very simple and useful in terms of cost-effectivity [5,6]. Crossreactivity, although an issue in immunoassays, does not prevent their broaden use, as long as it is determined and known.
+
+33
+
+The alcohol concentration was determined in duplicate by an ESR staff member using GC-FID headspace chromatography. Table 7 lists the drug tests performed and relevant parameters of the kits according to the manufacturer [7-10]. The cut-off standard used in the laboratory is also included in this Table. The reagents, equipment and methodology used are shown in detail in Appendices 2 and 3. In this study, only preliminary test results (positive or negative) were used to give an idea of the incidence of drugs within the drink-driver population. No confirmatory techniques were involved since only group of drugs were target (confirmatory techniques are used to verify the presence of specific drugs and/or metabolites).
+
+Table 7.
+
+Drugs screened in study 1 and performance parameters of the ELISA kits
+Accuracy* Precision c.v. MA 5.4% (o ng/mL) 12.2% (25 ng/mL) morphine 9.5% (0 ng/mL) 12.83% (25 ng/mL) Sensitivity** Cut-off level
+
+Drugs
+
+d-methamphetamine
+
+100% (50 ng/mL cutt-off)
+
+1 ng/mL of methamphetamine
+
+MA 25 ng/mL
+
+morphine
+
+100% (25 ng/mL cutt-off)
+
+1 ng/mL of morphine
+
+morphine 20 ng/mL
+
+34 Table 7 continued
+Drugs Accuracy* Precision c.v. oxazepam 5.3% (0 ng/mL) 9.1% (25 ng/mL) CTHC 7.3% (0 ng/mL) 7.7% (10 ng/mL) Sensitivity** Cut-off level
+
+Benzodiazepines
+
+100% (50 ng/mL cutt-off)
+
+2 ng/mL of oxazepam
+
+oxacepam 1 ng/mL
+
+cannabis
+
+100% (20 ng/mL cutt-off)
+
+1 ng/mL of THCA
+
+THC 10 ng/mL
+
+*
+**
+
+Accuracy determined in terms of percentage of positive and negative samples (confirmed by other technique) that tested positive and negative respectively by ELISA. Based on the minimum amount to produce a deviation of 4 sd (standard deviations) [9].
+
+In terms of specificity of the kits used, cross-reactivity with related drugs permitted the determination of the groups of drugs targeted: D-L-methamphetamine, important cross-reactivity is seen with D,L-MDMA. For morphine, the kit detects codeine in addition to morphine. In the group of benzodiazepines, alprazolam, estazolam, diazepam, nordiazepam and -OH alprazolam are detected, however, low doses of some benzodiazepines might not be detected and so underestimation of the total amount of positive cases (for individual and multiple drug use) might occur. The cannabis kit detects 11-nor-9-carboxy-8-THC, 9-THC and 8-THC. On the other hand, none unrelated drugs (acetaminophen, acetylsalicylic acid, caffeine, ibuprofen and some other drugs of
+
+35 abuse or prescription such as cocaine, methadone) give results greater or equal to the sensitivity value.
+
+3.2.2
+
+Statistical methodology
+
+A framework (Figure 1) for the collection of the sample was set at the beginning of the study, as the main objective of this part of the project was to gather information about the occurrence of drivers who in addition to alcohol consumption, use single or multiple drugs. The database provided by the Police, which included basic information such as self-reported occupation data (drivers, courier drivers, bus drivers etc.), age and gender, was crosscorrelated with the toxicology results from ESR (Table 8) by the project statistician to obtain statistical inferences on drug and alcohol use within driver categories. The analysis was performed using the Statistical Analysis Software System (SAS version 9.1). The incidence of drugs and alcohol within the driver population was then evaluated in terms of age range (15-19, 20-24, 25-34, 35-44, 45-64, 65+ and unknown), gender (male, female, unknown), type of drugs, blood alcohol concentration ( 30 mg/100mL, 31-80 mg/100mL, 81-160 mg/100mL and  160 mg/mL) and commercial drivers. The percentage of drivers for each category was calculated from the total number of relevant cases (Appendix 4).
+
+36
+
+Figure 1. Framework for study 1
+Population in New Zealand
+
+Driver population
+
+Non-driver population
+
+Drinking driver Population (uninjured)
+(breath alcohol level for under 20 y.o > 150 g/L or for adults > 400 g/L of breath)
+
+Non-drinking driver Population
+or breath alcohol levels below legal limit
+
+(2000 drivers requesting a blood test)
+
+Random sample
+
+Descriptive analysis
+
+Categories analysed Age Gender Alcohol concentration Commercial drivers
+
+Negative for drugs
+
+Positive for drugs Single Multiple
+
+-
+
+All the alcohol concentration results were statistically adjusted to take into account the uncertainty of the measure, in order to do this, six (three standard deviations) are always deducted from every concentration determined. This practice is especially important when concentrations fall within the legal limits, preventing false positives to occur and providing drivers with the benefit of the doubt.
+
+37
+
+Table 8. Databases and relevant information
+Source Police General
+name** age on date sampled date of birth gender driver category*: (bus, courier, commercial, taxi, truck drivers) date sampled date reported
+
+ESR Laboratory data
+name** ESR ID number** ethanol methanol*** acetone*** isopropanol*** cannabis methamphetamine morphine benzodiazepines date sampled date reported
+
+*
+
+Information
+
+Self reported,
+
+**
+
+Confidential,
+
+***
+
+Not used in this work but part of the general project.
+
+The ESR database will be destroyed at the end of the study. Police will not have access to drug results associated with the identification of the drivers
+
+3.3 Discussion and Results
+General descriptive statistics of the 2000 samples analysed, led to important inferences about road users in New Zealand. The results however, are not completely representative of the general driving population, represent the uninjured drink driving population. 37% (741) of the 2000 cases tested positive for drugs (one or more). From these, 95% (705) screened positive for individual drug use in addition to alcohol and the remaining 5% (36) had multiple drugs in their blood.
+
+38
+
+3.3.1
+
+General findings
+
+Amongst drivers who had used a single drug (other than alcohol), cannabis was by far the most prevalent at 89.2% (661/741) of the positive cases. Important combinations of drugs seen were: and cannabis cannabis ­ ­
+
+benzodiazepines
+
+(2.8%,
+
+21/741)
+
+methamphetamines (1.6%, 12/741). Multiple drug consumption is dangerous, especially when experienced with alcohol. Strong adverse effects in terms of driving skills have been reported [1116]. A better picture of this problem might be reflected in the study of casualties and culpability analysis; Study 2 (Chapter 4). Out of the 2000 drivers who tested positive for alcohol, 35% (696) also had consumed cannabis, 2.9% (58) benzodiazepines, 1.1% (22) used methamphetamines and 0.15% (3) had used morphine or heroin. Figure 2 and 3 present the data for study 1 in a graphical way and the breakdown table summarizes it (Appendix 4). Despite the common belief that cannabis use is generally not combined with alcohol and driving activities, cannabis is the most popular non-alcoholic drug found in the drinking driver group of people. This is consistent to drug abuse statistics in New Zealand [17], international trends [18-20] and the results obtained in Study 2. Compared to cannabis, the sum of all the positive cases for the use of the other drugs was small (4%).
+
+39
+
+Figure 2. Breakdown of results in the general drinking driver population
+
+100% Percentage of drivers 63% 80% 60% 40% 20% 0% drug positive drug negative Screen result 37%
+
+95% 100% 80% 60% 40% 20% 0% Percentage of drivers
+
+5% multiple drug consumption single drug consumption
+
+Multiple drug use 3.0% 2.4% Percentage of drivers 1.8% 1.2% 0.6% 0.0% 2.80%
+1. cannabis + BD 2. cannabis + MA 1.60% 3. morphine + BD 4. cannabis 0.10% 0.10% + morphine 0.10% + MA 5. cannabis 1 2 3 4 5 + morphine Drugs com bination + BD
+
+Drug use
+
+Single drug use 100.0% Percentage of drivers 80.0% 60.0% 40.0% 20.0% 0.0% cannabis BD Drugs MA 4.70% 1.10% 89.20%
+
+0.10% morphine
+
+40 Figure 3. Percentage of drinking drivers with and without drugs*
+
+33.05% cannabis
+
+62.95% No drugs
+
+0.05% morphine
+
+0.15% other combinations
+*
+
+0.4% MA 1.75% BD 0.6% cannabis + MA
+
+Not at scale
+
+1.05% cannabis + BD
+
+3.3.2
+
+Age and gender parameters
+
+The variables age and gender related to drug and alcohol consumption gave important information on tendencies of the selected portion of the driver population. For example it seems that there are more male drivers (about six times) using drugs as well as alcohol while driving than the equivalent female sample. However consideration must be given to the fact that more male drivers (about 5 times) were tested in comparison to the female sample 4 and that there are about the same amount of male and female licensed drivers in the country 5 [2] (considering that only licensed drivers are allow to drive in New Zealand). This might be due to the fact that blood samples are provided optionally and the random nature of the sampling is affected.
+4 5
+
+For different reasons, gender was unknown for 17 drivers Current and limited licence holders (30/04/2006) not including drivers with international licenses [2].
+
+41
+
+Over-representation
+
+of
+
+the
+
+male
+
+sample
+
+might
+
+lead
+
+to
+
+underestimation of the results for the female counterpart (in terms of prevalence). In other words, it is more realistic to state that drug consumption is, to some extent, more prevalent in the male than in the female drink-driving population rather than present figures. Even though there is not an equal number of cases for each age range (comparisons between age groups are not really possible), some assumptions and conclusions can be made: Single drug use The alcohol limit for drivers under 20 years old is 30mg/100mL of blood. 48% (116/241) of the drivers in the earliest age (15-19 years old) tested positive for drugs. A large proportion of drivers consumed cannabis (47%, 114/241), of this figure, 83% (95/114) were male drivers. There was not multiple drug use in this group. A high prevalence of cannabis was found in the group of drivers between 20 and 24 years of age (second youngest group) and the 25 to 34 group, where 23% (150/161) and 28% (188/161) of the total positive cases for cannabis respectively fell. 92% (138/150) of drivers in the first age group were men as well as 86% (162/188) of the second group.
+
+42 The use of methamphetamine or MDMA was evenly spread over drivers aged 20-44 (25% of all positive cases for every subgroup of age). Benzodiazepines were found mainly in the older drivers groups. 31% (11/35) and 34% (12/35) of the drivers with benzodiazepines at 35-44 and 45-64 years old respectively, reflecting possibly that this is the age group more commonly prescribed with this kind of drugs (legitimate use). It is important also to consider the development of tolerance on these drivers.
+
+Multiple drug use Multiple drug use was more prevalent in the 25-34 and the 35-44 years old groups, 6.3% (13/207) and 6% (11/166) of the total number of drivers (positive for drugs) at each age range. Cannabis + methamphetamine combined use was most evident in drivers from 25-44 years old and cannabis + benzodiazepines use arose mainly in the older population. The breakdown of the previous results can be seen in Appendix 4, the general results are summarized in Table 9.
+
+43 Table 9. Number and percentage of drivers with and without drugs by gender and age categories for Study 1
+Drug use Age groups (years old) 15-19
+97 (13%)
+
+Gender 65 +
+5 (1%)
+
+20-24
+146 (20%)
+
+25-34
+179 (24%)
+
+35-44
+141 (19%)
+
+45-64
+60 (8%)
+
+UK*
+-
+
+Total
+628 (85%) 107 (14%)
+
+Male
+
+19 (3%)
+
+14 (2%)
+
+28 (4%)
+
+25 (3%)
+
+19 (3%)
+
+1
+
+1
+
+female
+
+Positive
+6 (1%) 7 (1%)
+
+6 (1%)
+
+UK*
+
+116 (16%)
+
+160 (22%) 157 (12%)
+
+207 (28%) 200 (16%)
+
+166 (22%) 235 (19%)
+
+79 (11%) 299 (24%)
+
+6 (1%) 31 (2%)
+
+741
+
+Total
+
+98 (8%)
+
+1
+
+1021 (81%) 226 (18%) 12 (1%)
+
+Male
+
+27 (2%)
+
+34 (3%)
+
+59 (5%)
+
+46 (4%)
+
+56 (4%)
+
+4
+
+-
+
+Female
+
+Negative
+1 11 (1%) 12 (1%) 19
+
+UK*
+
+125 (10%)
+
+191 (15%) 351
+
+259 (21%) 466
+
+281 (22%) 447
+
+356 (28%) 435
+
+35 (3%) 41
+
+1259
+
+Total Total
+
+Total
+*
+
+241
+
+2000
+
+Unknown
+
+3.3.3
+
+Alcohol levels
+
+To analyse the relationship between alcohol concentrations and drug consumption, the ranges of alcohol concentration were set taking into account the legal limits. Table 10 shows this relationship, Appendix 5 shows the breakdown of positive cases by age and alcohol concentrations, and Figure 4 presents the number of cannabis and alcohol users throughout the different age ranges and alcohol levels. Important observations derived from these results are as follows:
+
+44 Drivers at all levels of alcohol consumption, used cannabis. The most significant figures (Figure 4) were seen at 81160 mg/100 mL (55%, 362/661) and  161 mg/100mL (31%, 203/661). However, it is important to consider that the number of drivers tested for each age range was not the same, which makes comparisons difficult. In the group of 25 to 34 year old drivers, the highest use of cannabis was seen in combination with alcohol levels of 81-160 mg/100mL (23% of the total number of drivers at this age range (107/466) and 16% of the total number of positive cases at this alcohol level). Cannabis use was more prevalent within the male driver population at all alcohol levels (86%, 567/661) in comparison to the female population (13%, 88/661). Six cases fell in the unknown gender category. This fact was most evident at the alcohol level of 81-160 mg/100mL where 89% (324/362) of the positive results for cannabis was found in male drivers. Consideration must be given to the different number of individuals tested for each gender group. Most benzodiazepine use was found at higher levels of alcohol, 60% (21/35) of the total number of drivers with benzodiazepines at  161 mg/100mL. Of this, 76% fell in the age ranges of 35-44 and 45-64 years old. There was no significant difference in the use of
+
+methamphetamines in relation to age ranges.
+
+45 Table 10. Number and percentage of drivers with and without drugs at different alcohol levels
+Alcohol level (mg/100mL blood)  30 21 (54%) 18 (46%) 39 (2%) 31-80 84 (47%) 94 (53%) 178 (9%) 81-160 399 (36%) 715 (64%) 1114 (56%)  161 237 (35%) 432 (65%) 669 (33%) Total 741 1259 2000
+
+Drug use (single and multiple) Positive Negative Total
+
+Figure 4. Incidence of cannabis and alcohol use in relation to the alcohol levels and age range
+
+120 Number of drivers 100 80 60 40 20 0 15-19 20-24 25-34 35-44 45-64 65+ Age range
+31 - 80 81 - 160  161
+
+3.3.4
+
+Driver category / Commercial drivers drivers (information taken from self reported
+
+2.6% (52) of the 2000 samples studied were catalogued as commercial occupations). Two of the 52 commercial drivers were women and neither showed evidence of drug use. 23% (12/52) of male drivers were found to have used drugs. There were no positive results for
+
+46 methamphetamines or morphine but 11 of the drivers tested positive for cannabis. The incidence of drugs in the commercial drivers is lower than in the general sample of male drivers. The number of commercial drivers tested is small and might not represent this population adequately. There was no information on whether these drivers were working when apprehended. Table 11 presents the results in terms of the number of commercial drivers with and without drugs by age. Table 11. Number and percentage of commercial drivers with and without drugs by age category
+Age (years old) 15-19
+1 (3%) 1 (2%)
+
+General drug use Positive Negative Total Individual use Cannabis Benzodiazepines Total
+
+20-24
+3 (25%) 3 (8%) 6 (11.5%) 3 (27%) 3 (25%)
+
+25-34
+6 (50%) 6 (15%) 12 (23%) 6 (54.5%) 6 (50%)
+
+35-44
+2 (17%) 10 (25%) 12 (23%) 2 (18%) 2 (17%)
+
+45-64
+1 (8%) 20 (48%) 21 (40%)
+
+Total
+12 (23%) 40 (77%) 52
+
+-
+
+1 1 (8%)
+
+11 (92%) 1 (8%) 12
+
+47
+
+3.4
+
+References
+
+1. Ministry of Transport, Safety and Security, Motor Vehicle crashes in New Zealand 2004. 2005, Ministry of Transport. 2. Personal communication with Land Transport New Zealand, Currently licensed vehicles in New Zealand as at 30/04/2006 and breakdown of all current and limited license holders by age and gender as at 30/04/2006. 2006, Information Management Systems (22/05/2006). 3. Personal communication with The New Zealand Police, Alcohol offences and positive breath screening tests in the period 2004-2005. 2006, The Road Policing Support Office. Strategic Intelligence. 4. L. D. Koller, A perspective on the progression of immunotoxicology. Toxicology, 2001. 160: p. 105-110. 5. K. Aoki, T. Yoshida, Y. Kuroiwa, Forensic Immunochemistry. Forensic Science International, 1996. 80: p. 163-173. 6. J. W. A Findley, W. C Smith, J. W. Lee, G. D. Nordblom, I. Das, B. S. Desilva, M. N. Khan, R. R. Bowsher, Validation of immunoassays for bioanalysis: a pharmaceutical industry perspective. Journal of Pharmaceutical and Biomedical Analysis, 2000. 21: p. 1249-1273. 7. Immunalysis corporation, Benzodiazepines direct ELISA kit, in Catalog number 214-0480, ver:06/2001. 2001, Immunalysis corporation: Pomona, Ca. 8. Immunalysis corporation, Morphine specific direct ELISA kit, in Catalog number 213-0480, ver:06/2001. 2001, Immunalysis corporation: Pomona, Ca. 9. Immunalysis corporation, Methamphetamine direct ELISA kit, in Catalog number 211-0480, ver:05/2001. 2001, Immunalysis corporation: Pomona, Ca. 10. Immunalysis corporation, Cannabinoids (THCA/CTHC) direct ELISA kit, in Catalog number 205-0480, ver:05/2001. 2001, Immunalysis corporation: Pomona, Ca.
+
+48 11. L. R. Sutton, The effects of alcohol, marihuana and their combination on driving activity. Journal of Studies on Alcohol, 1983. 44(3): p. 438-445. 12. C. J. O'Kane, D. C. Tutt and L. A. Bauer, Cannabis and driving: A new perspective. Emergency medicine, 2002. 14: p. 296-303. 13. L. D. Chait, J. L. Perry, Acute and residual effects of alcohol and marijuana, alone and in combination, on mood and performance. Psychopharmacology, 1994. 115: p. 340349. 14. G. A. Starmer, K. D. Bird, Investigating drug-ethanol interactions. Br. J. Clin. Pharmac., 1984. 18: p. 27S-35S. 15. Stockley, I. H., Drug Interactions. A source book of adverse interactions, their mechanisms, clinical importance and management. second ed. 1991, Oxford: Blackwell Scientific Publications. 16. E. Kelly, S. Darke and J. Ross, A review of drug use and driving: epidemiology, impairment, risk factors and risk perceptions. Drug and Alcohol Review, 2004. 23: p. 319-344. 17. New Zealand Health Information service, New Zealand Drug statistics. 2001, Ministry of Health: Wellington. 18. R. Norton, J. Colliver, Prevalence and patterns of combined alcohol and marijuana use. Journal of Studies on Alcohol, 1988. 49(4): p. 378-380. 19. B. Laumon, B. Gadegbeku, J-L Martin, M-B Biecheler, the SAM group, Cannabis intoxication and fatal road crashes in France: population based case-control study, in BMJ. 2005, BMJ publishing group Ltd. Available online: bmj.com. p. 1-6. 20. M. C. Longo, C. E. Hunter, R. J. Lokan, J. M. White, M. A. White, The prevalence of alcohol, cannabinoids, benzodiazepines and stimulants amongst injured drivers and their role in driver culpability. Part I: the prevalence of drug use in drivers, and characteristics of the drug-positive group. Accident analysis and prevention, 2000. 32: p. 613-622.
+
+49
+
+4.
+
+Study 2
+
+Police officers attending serious car crashes are required to register details of the circumstances related to the event in a standarised form (Police crash report. Appendix 1). In the case of fatal cases (Coroner cases), a post-mortem evaluation is completed by a certified pathologist in order to determine if the cause of the death was natural or due to external factors (the accident itself for example). The information conveyed is then used as evidence in court. Study 2 is intended to determine the proportion of drivers who have died in a car accident and have used drugs and/or alcohol.
+
+4.1
+4.1.1
+
+Materials
+Population
+
+The population studied was deceased drivers involved in single or multiple car crashes (Coroner cases). 4.1.2 Samples
+
+Blood samples from two hundred and forty coronial cases collected over a one year period (July 2004 - June 2005) were analysed. Acceptance criteria for the inclusion of samples in the study are:
+
+50 Specimen: blood (enough volume for drug identification and confirmation / quantitation assays). Sometimes, depending on the conditions of the body, only small volumes of blood are able to be collected. Circumstances: drivers, fatal victims of car crashes on the road (intercity, inner-city and rural roads).
+
+4.2 Methodology
+4.2.1 Analytical methodology for alcohol, cannabis, methamphetamine, MDMA,
+
+The blood samples taken from drivers, killed in car crashes were screened morphine and commonly prescribed medicinal drugs that may affect driving ability. One of the screening techniques used to determine the general presence of drugs was ELISA (as described for Study 1, Appendix 3). Unlike Study 1 however, ELISA was only used to screen for methamphetamines, morphine and cannabinoids. Benzodiazepines were analysed by another technique. All positive drug indications from the ELISA screening technique were drugs. Liquid-liquid extraction followed by GC-ECD chromatography was used for the screening and confirmation of a range of benzodiazepines and zopiclone. Liquid-liquid extraction and subsequent GC-MS-NPD chromatography was used for the subsequently submitted to confirmatory analysis to conclusively establish the presence or absence of indicated
+
+51 screening and confirmation of basic and neutral medicinal drugs. A full description of the methodologies applied is given in Appendix 6 and examples of the substances detected in each of them are shown in Table 12. The alcohol determination, as for Study 1, was carried out by GC-FID headspace.
+
+Table 12. Example of drugs detected with the liquidliquid screening techniques in Study 2
+Technique Drugs
+diazepam / nordiazepam clonazepam triazolam temazepam oxazepam nitrazepam alprazolam phenobarbital zopiclone kavain chlorpheniramine diphenhydramine promethazine pheniramine codeine dihydocodeine methadone tramadol dextropropoxyphene pethidine amitriptyline nortriptyline doxepin imipramine venlafaxine ketamine olanzapine carbamazepine chlorpromazine
+
+benzodiazepines Liquid-liquid / GC-ECD
+
+other drugs
+
+antihistamines
+
+narcotic analgesics Liquid-liquid / GC-MSNPD Basic and neutral drugs antidepressants
+
+other drugs
+
+52 Details of the confirmation and quantitation assays are shown in Table 13, the reagents, equipment and the methods used are shown in Appendices 2 and 6. Table 13. Analytical techniques used for the confirmation and quantitation assays of study 2
+Drug
+Methamphetamine and MDMA
+
+Technique
+
+Equipment
+
+Detection limit
+
+Accuracy
+
+Precision interday CV (%)
+12.2 (at 25 ng/mL)
+
+Gas chromatography
+
+GC/MSD
+
+25 ng/mL
+
+-
+
+morphine
+
+Gas chromatography
+
+GC/MSD
+
+< 20 ng/mL
+
+-
+
+< 10 (at 20250 ng/mL) 8 (at 2 ng/mL)
+
+THC
+
+Liquid chromatography
+
+HPLCTurboionspray source
+
+< 0.1 ng/mL
+
+Within 5% (at 2 ng/mL)
+
+Screening
+
+and
+
+semi-quantitation
+
+of
+
+benzodiazepines
+
+were
+
+performed by GC-ECD. A preliminary study on the therapeutic levels of different groups of drugs and their detectability (through the methodology and equipment followed and used by ESR) was performed. A wide range of prescription drugs could be detected at therapeutic levels [1,2]. The results are shown in Appendix 7.
+
+4.2.2
+
+Statistical methodology
+
+The general project, of which this thesis is a part, is intended to analyse 2000 blood samples. It is expected that this number of cases will allow statistically robust inferences to be drawn about the significance of drug use in crashes.
+
+53 Of the 240 samples that were collected and analysed during the research period, only 229 met the requirements for the culpability study and were included in this work. The reason for the exclusion of 11 cases was to avoid possible bias due to: the location of the accident (4 cases did not occur on the road) and drivers who were hospitalised (7 cases of drivers who received different drugs at the hospital). Selection bias was eliminated by including all drivers who died as a consequence of a car accident (the study frame consisted of deceased drivers). General descriptive statistics were performed in relation to: prevalence of drugs, age and gender. Culpable and not culpable groups were analysed in respect to the presence of alcohol alone (alcohol levels), cannabis alone and the combination of alcoholcannabis, time of accident and type of accident (single or multiple). Percentages were calculated from the total number of relevant cases (for every category). An approach to the responsibility analysis of cannabis use on driving impairment was carried out in this study. Cannabis was selected for this analysis due to its high incidence within the New Zealand population and its well known (Chapter 2) complexity in terms of concentration ­ effect relationship, which makes responsibility assessment through conventional methods (driving simulators and controlled driving areas studies) difficult. No power calculation was performed to evaluate the significance of the sample size since there was no background information supporting it (pilot study). However, at this stage in the study, the number of cases analysed is insufficient to enable statistically
+
+54 robust conclusions and so only suggestions of risk and
+
+responsibility associated to drug use are possible. Odds ratio calculations were also done for alcohol and alcoholcannabis. The effect of alcohol on driving skills is well documented [3-6]. However, culpability analysis for other drugs was not possible due to the low number of positive cases at the completion of this thesis. The method used was designed by Drummer et al [7,8] and in this study was applied to New Zealand conditions. The design of such responsibility or culpability analysis is shown below (Table 14) as are some practical examples. Categories and factors used in the assessment of the driver's responsibility are known to be potentially contributory to a crash [9] and were selected on the basis of the information provided by the Police in the Police crash reports. The culpability assessment was conducted without knowledge of the toxicology results. Cross-correlation to the absence or presence of drugs and/or alcohol was completed subsequently. This arrangement is intended to avoid possible bias of the conclusions.
+
+The statistical test applied for the calculation of confidence intervals and p values, was Fisher's exact probability test.
+
+55
+
+Table 14. Design of the culpability study [7,8]
+Crash data analysis The analysis is based on information submitted by the Police including the post-mortem report from the pathologist. Information related to the circumstances of the car crash was extracted from the Police Fatal Crash report (Appendix 1).
+
+Factual data relevant to the culpability assessment was classified in categories: Condition of the road Condition of the vehicle Driving conditions Type of accident Witness observations Road law obedience Difficulty of task involved Level of fatigue Every category was subdivided into factors, that had assigned a rank value depending on how contributory to the accident they are (Appendix 8 [7]) Every relevant factor was scored for each category. The scoring numbers range from 1 to 4, with 1 being not contributory and 4 contributory or mitigating factor for the category. The scores were then added and the result was multiplied by the total number of categories (8) and divided by the number of categories scored. In some cases not enough information was recorded in the Police report to allow scoring for each category. If less than 5 categories were able to be scored, the case was excluded from the analysis in order to prevent bias.
+
+56 Table 14 continued
+Culpability or Responsibility analysis A blind analysis in relation to the presence of drugs was performed (unawareness of drug positive cases). Three groups of drivers were established depending on the following range of scores: 8 ­12: Culpable group (fatality due to driver performance) 13 ­ 15: Contributory group (fatality due in part to driving conditions) > 15: Not culpable group (fatality due to factors other than driver performance) Risk evaluation Results from the toxicological analysis and results from the culpability analysis were cross-correlated in order to determine the responsibility of drug use in the causation of the accident. Calculation of the culpability ratio (CR) allows for the risk assessment of car accidents, based on the odds ratio (OR) method of Terhune [7,8,10] (culpable drivers/not culpable drivers, in relation to the presence and absence of drugs). OR > 1: higher risk of car accident, the significance of this association depends on the confidence intervals and p values. The confidence percentage assumed was 95%
+
+OR =
+
+CR CR
+
+(drug+) (drug-)
+
+CR
+
+(drug+)
+
+=
+
+# of culpable drivers (drug positive) # of not culpable drivers (drug positive) # of culpable drivers (drug negative) # of not culpable drivers (drug negative)
+
+CR
+
+(drug-)
+
+=
+
+Drug negative, indicates the absence of any drugs including alcohol.
+
+57 To illustrate the application of this methodology, some examples are given bellow: Fragments of the report (not originals) have been modified to preserve the confidentiality of the cases, however the information stated is true copy of the original. As in Study 1, identification details of the drivers included in Study 2 remained confidential.
+
+Not culpable case example: Relevant details of the report are shown in Figure 5 and the score calculation in Table 15. Cannabis was detected in the blood sample of the deceased driver at a concentration of 4.6 ng/mL. This is a case of a multiple vehicle crash in which the deceased driver was found not culpable for the accident.
+
+Figure 5. Report details (fragments) for the not culpable case example
+
+58 Figure 5 continued
+
+59 Table 15. Score calculation for the not culpable case example Category Condition of the road Condition of the vehicle Driving conditions Type of accident Witness observation Road law obedience Difficulty of task involved Level of fatigue Factor Sealed- two or more lanes and smooth Roadworthy Day- clear and/or cloudy Multiple- striking vehicle attempting to avoid Driver not to blame* Yes Avoiding unexpected traffic or object Total 15 x 8 / 7 Score 1 1 1 2 4 3 3 15 17
+
+Culpability score
+*
+
+Driver of the truck stated he did not see the motorcyclist when he pulled out.
+
+Culpable case example: Relevant details of the report are shown in Figure 6 and the score calculation in Table 16. Cannabis was detected in the blood sample of the deceased driver at a concentration of 30 ng/mL. This case corresponds to a multiple car crash in which the deceased driver was found culpable for the accident.
+
+60 Figure 6. Report details (fragments) for the culpable case example
+
+61 Figure 6 continued
+
+Table 16. Score calculation for the culpable case example Category Condition of the road Condition of the vehicle Driving conditions Type of accident Witness observation Road law obedience Difficulty of task involved Level of fatigue Factor Sealed- two or more lanes and smooth Night- street no lighted Multiple- Striking vehicle not attempting to avoid No Straight road or sweeping bend Total Culpability score 6x8/5 Score 1 2 1 1 1 6 10
+
+Contributory case example: Relevant details of the report are shown in Figure 7 and the score calculation in Table 17. Cannabis (2.3 ng/mL) and alcohol (80 mg/100mL) were detected in the blood sample of the driver.
+
+62 This case corresponds to a single car crash in which the unfavorable driving conditions were found to have contributed partly to the accident.
+
+Figure 7. Report details (fragments) for the contributory case example
+
+No crash diagram (drawing) was provided.
+
+63 Figure 7 continued
+
+Table 17. Score calculation for the contributory case example Category Factor Score Condition of the road Condition of the vehicle Driving conditions Type of accident Witness observation Road law obedience Difficulty of task involved Level of fatigue Sealed- two or more lanes and smooth Unroadworthy (contributing to accident) Night- cloudy- road not lighted Single- No influence from other vehicles No Straight road or sweeping bend Total Culpability score 11 x 8 / 6 1 4 3 1 1 1 11 15
+
+4.3 Discussion and Results
+4.3.1 General findings
+
+64 Descriptive statistics of the 229 driver fatalities are shown next and a summary of the results is shown in Table 18. A high proportion of male drivers, compared to the female group (about 3.5 times more) died on the road as a consequence of car crashes. Of the 229 samples analysed, 78% (178) were from male drivers and 22% (51) were taken from female drivers. Over half of the samples analysed, 55 % (125), gave positive results for drugs use (including alcohol) and 45% (104) tested negative. These figures show a high prevalence of drugs and alcohol use within the fatally injured drivers group. The total number of positive drug cases (including alcohol) was 125, 82% (102) of which were male drivers and 18% (23) their female counterparts. This ratio is similar to the gender ratio for all fatally injured drivers. Out of the 178 male, fatally injured drivers, 102 (57%) tested positive for drugs, of which 60 used single drugs and 42 consumed multiple drugs. Of the fatally injured drivers aged 20-44, more had used drugs than had not. For the under 20 and over 45 year age groups drug use was less common (Table 19). Of the 51 female fatally injured drivers, 23 (45%) tested positive for drugs. Similar figures were found for single and multiple drug consumption: 11 (48%) used single drugs and 12 (52%) a combination of drugs.
+
+65 Single drug use Of the 71 drivers who had used a single drug, alcohol was the most common drug being found in 45% (32) of the deceased drivers. A similar proportion of the male and female drivers had consumed alcohol. Cannabis was the second most commonly detected drug being found in 38% (27) of the 71 drivers. Cannabis use was more prevalent in male drivers (93%, 25 drivers) than in female drivers (7%, 2 drivers). Interestingly, methamphetamine was not detected in this group.
+
+Multiple drug use The combination cannabis-alcohol was highly prevalent within the population analysed with 63% (34) of the 54 cases. Also important was the wide range of drug combinations that included legal and illegal substances. There was no information as to whether the legal drugs or medicines were prescribed or used for recreational purposes. A breakdown of the results by age and gender is shown in Appendix 9, general results are listed in Table 19 and the main findings are:
+
+66 Twenty six percent (33) of the 125 total positive cases fell in the group of drivers aged 25-34 years old. The incidence of drug use was significantly higher in this range of age (26/102 male and 7/23 female) with only 7 drivers not using drugs. When alcohol or cannabis was used alone, it was equally distributed over drivers aged 15 ­ 64, oscillating between 12 and 25% for alcohol and 15 and 22% for cannabis (Appendix 9). Single usage of other drugs, such as paroxetine or fluoxetine was seen in the oldest group of drivers (4565+). It is very possible that they were medically prescribed. Benzodiazepines use was observed in drivers aged 25-44 years old. The combination alcohol ­ cannabis was mainly seen within drivers in the range of 25-34 (35%, 12 cases) and 35-44 years old (29%, 10 cases), in a lower proportion for drivers in the age of 15-24 years old (32%, 11 cases) and almost non-existent for drivers older than 45 years old (3%, 1 case). Another important combination was cannabis + alcohol + methamphetamine, found in the range of 25-34 years old for female drivers (2 drivers each aged 31 years old), and 20-44 in the case of male drivers (1 driver aged 23 and 1 driver 40 years old).
+
+67 Table 18. Drug use by gender for Study 2
+Drugs
+Cannabis Alcohol Benzodiazepines Morphine Methamphetamine Other drugs* Total
+
+Gender Male
+25 (93%) 27 (84%) 2 (100%) 1 (100%) 5 (56%) 60 (84.5%) 26 (76.5%) 1 (100%) 1 (100%) 14 (78%) 42 (78%) 102
+
+Female
+2 (7%) 5 (16%) 4 (44%) 11 (15.5%) 8 (23.5%) -
+
+Total
+27 (38%) 32 (45%) 2 (3%) 1 (1%) 9 (13%) 71 34 (63%) 1 (2%) 1 (2%) 18 (33%) 54 125
+
+Single use
+
+Cannabis + alcohol
+
+Multiple use
+
+Cannabis + benzodiazepines
+
+Cannabis + methamphetamine Other combinations** Total
+
+4 (22%) 12 (22%) 23
+
+Drug positive
+
+(82%)
+
+(18%)
+
+(55%)
+
+Drug negative
+
+(43%)
+
+76
+
+(55%)
+
+28
+
+(45%)
+
+104
+
+Total
+
+178
+(78%)
+
+51
+(22%)
+
+229
+
+* pseudoephedrine, paroxetine, fluoxetine, phenobarbital, solvents, dextropropoxyphen and ketamine. ** alcohol+orphenadrine, methadone+THC, methadone+alcohol, valproate+THC, lignocaine+THC, BZP+THC, methadone+morphine+THC valproate+BD+alcohol, alcohol+THC+MA, morphine+THC+BD, MA+BD+THC, citalopram+THC+alcohol+MA, lignocaine+morphine+alcohol+THC and methadone+fluoxetine+THC+BD.
+
+68 Table 19. Number and percentage of drivers with and without drugs by gender and age categories for Study 2
+Drug use Age groups (years old) 15-19
+13 (10%)
+
+20-24
+18 (14%) 4 (3%) 22 (18%) 9 (9%) 4 (4%) 13 (12.5%) 35 (15%)
+
+25-34
+26 (21%) 7 (6%) 33 (26%) 6 (6%) 1 (1%) 7 (7%) 40 (17.5%)
+
+35-44
+24 (19%) 4 (3%) 28 (22%) 12 (11.5%) 2 (2%) 14 (13%) 42 (18%)
+
+45-64
+16 (13%) 5 (4%) 21 (17%) 29 (28%) 14 (13%) 43 (41%) 64 (28%)
+
+65 +
+5 (4%) 2 (2%) 7 (6%) 9 (9%) 1 (1%) 10 (10%) 17 (7%)
+
+Total
+102 (82%) 23 (18%) 125 76 (73%) 28 (27%) 104
+
+Gender
+
+Male Female Total Male Female
+
+Positive
+
+1 (1%) 14 (11%) 11 (10.5%)
+
+Negative
+
+6 (6%) 17 (16%)
+
+Total
+
+Total
+
+31 (13.5%)
+
+229
+
+Total
+
+Other statistical information related to the type of crash (multiple or single) and the time of the accident, in the presence or absence of alcohol, cannabis and the combination alcoholcannabis was extracted from this study and is summarized in Appendix 10. The general results are shown below: Most of the accidents, where alcohol was involved, were single vehicle that often occurred against immobile objects (72%, 23 cases). A high number of these accidents took place in the early hours of the morning (37%, 12 cases between 12.01 and 6.00 am). In the cases where cannabis alone had been used, 67% (18) of the cases were multiple car crashes. These crashes occurred all through the day but more commonly during daylight hours, from 6.00 am to 6.00 pm (37%, 18 cases).
+
+69 Drivers who used the combination cannabis ­ alcohol had a similar occurrence of single and multiple car accidents, 41% (14) for multiple and 59% (20) for single crashes. Most of these accidents happen between 6.00 pm and 6.00 am (79%, 27 cases). 75% (78) of drivers with no evidence of drugs in their blood were involved in multiple car crashes. These collisions occurred all through the day with a slightly higher tendency (as for cannabis) at night time from 6.00 am to 6.00 p.m.
+
+4.3.2
+
+Culpability analysis
+
+The results obtained after the analysis of the information registered in each fatal crash report and the scoring of culpability for every category, are shown in Table 20 and Table 21.
+
+Table 20. General culpability results for alcohol, cannabis and their combination
+DRUG USE CULPABILITY Not culpable 2 1 3 5 1 6 2 0 2 11 15 6 21 32
+Contributory
+
+Culpable 24 4 28 20 1 21 23 7 30 79 56 19 75 154
+
+TOTAL 27 5 32 25 2 27 26 8 34 93 75 28 103 196
+
+GENDER
+
+Alcohol Total Cannabis Total Cannabis + alcohol Total Positive Total* Negative Negative Total TOTAL
+*
+
+1 0 1 0 0 0 1 1 2 3 4 3 7 10
+
+Male Female Total Male Female Total Male Female Total Positive Total Male Female Negative Total TOTAL
+
+For alcohol, cannabis and their combination
+
+70 Table 21. General culpability results for other drugs and combinations
+CULPABILITY DRUG USE Not culpable 1 0 1 0 3 5
+Contributory
+
+Culpable 1 1 7 4 12 25
+
+TOTAL 2 1 8 4 16 31
+
+Benzodiazepines Morphine Other drugs* Cannabis + alcohol + methamphetamine Other combinations** Positive Total***
+* **
+
+0 0 0 0 1 1
+
+pseudoephedrine, paroxetine, fluoxetine, phenobarbital, solvents, dextropropoxyphen and ketamine. alcohol+orphenadrine, methadone+THC, methadone+alcohol, valproate+THC, lignocaine+THC, BZP+THC, methadone+morphine+THC valproate+BD+alcohol, morphine+THC+BD, MA+BD+THC, citalopram+THC+alcohol+MA, lignocaine+morphine+alcohol+THC and methadone+fluoxetine+THC+BD. *** For the drugs in the table
+
+The results for the calculation of culpability ratios and odds ratios for cannabis, alcohol and their combination, as well as the confidence intervals and their p values are shown in Table 22. It was possible to assess the risk associated with different blood alcohol concentrations. However, there were not enough samples to do so for different blood THC levels in the cases of cannabis use.
+
+Risk and Responsibility Drivers who had a car accident after consuming alcohol (all levels) were 2.6 times more likely to be culpable, compared to the group of people driving without drugs. The risk is almost doubled when the intake of alcohol is higher than 161 mg/100 mL (OR: 4.2).
+
+71
+
+The use of cannabis alone does not seem to increase the risk of a car accident (OR: 0.98), it rather appears to be the same as for the negative drug use group (OR: 1.0). The use of alcohol combined with cannabis quadruples the risk of being culpable for a car crash. This result is consistent with previous studies that have shown important driving impairment caused by this combination and elevated crash risk rates [4,5,11,12].
+
+Significance Only the odd ratio for the concomitant use of cannabis and alcohol had a p value of less than 0.05 at which associations are considered statistically robust (Table 22). The odd ratio for the alcohol category (total use) showed some statistical meaning but not enough to reach the conventional value for significance (p< 0.05). Except in the case of the cannabis-alcohol category, the small sample size used for comparisons reflects lack of statistical significance (too small to represent the population and to give fair statistical significance). Therefore a larger statistical sample (like the 2000 samples originally set for Study 2) will reveal a better picture of the risk and responsibility of drug use prior driving.
+
+72
+
+Table 22. Culpability assessment for alcohol, cannabis and their combination
+CULPABILITY DRUG USE
+Culpable Not Culpable Culpability Ratio Odds Ratio Confidence interval p value*
+
+ 30 31 - 80 Alcohol (mg/ 100mL) 81 ­ 160  161 Total Cannabis Cannabis + alcohol Negative
+*
+
+6 7 15 28 21 30 75
+
+1 1 1 3 6 2 21
+
+6 7 15 9.3 3.5 15 3.6
+
+1.7 2.0 4.2 2.6 0.98 4.2 1.0
+
+0.25 ­ 11.08 0.29 ­ 12.73 0.66 ­ 25.97 0.77 ­ 8.81 0.36 ­ 2.66 1.02 ­ 17.0
+
+0.36 0.32 0.11 0.07 0.21 0.028**
+
+**
+
+Calculated using Fisher's exact probability test Statistically significant
+
+73
+
+4.4
+
+References
+
+1. Baselt, R.C., Disposition of Toxic Drugs and Chemicals in Man. seventh ed. 2004, Foster City, California: Biomedical publications. 2. Baselt, R.C., Drug Effects on Performance. 2001: Biomedical publications. Psychomotor
+
+3. J. Bailey, Alcohol and fatal road crashes. The New Zealand Public Health Report, 1995. 2(9): p. 73-74. 4. L. D. Chait, J. L. Perry, Acute and residual effects of alcohol and marijuana, alone and in combination, on mood and performance. Psychopharmacology, 1994. 115: p. 340-349. 5. L. R. Sutton, The effects of alcohol, marihuana and their combination on driving activity. Journal of Studies on Alcohol, 1983. 44(3): p. 438-445. 6. N. H. Mounce, O. J. Pendleton, The relationship between blood alcohol concentration and crash responsibility for fatally injured drivers. Accident analysis and prevention, 1992. 24(2): p. 201-210. 7. M. D. Robertson, O. H Drummer, Responsibility analysis: A methodology to study the effects of drugs in driving. Accident analysis and prevention, 1994. 26: p. 243-247. 8. Chu, M. H., Studies on the Toxicology of cannabis (dissertation for PhD), in Forensic Medicine. 2002, Monash University: Southbank, Victoria. Australia. 9. Ministry of Transport, Safety and Security, Motor Vehicle crashes in New Zealand 2004. 2005, Ministry of Transport. 10. K. W. Terhune, An evaluation of responsibility analysis for assessing alcohol and drug crash effects. Accident analysis and prevention, 1983. 15(3): p. 237246. 11. C. J. O'Kane, D. C. Tutt and L. A. Bauer, Cannabis and driving: A new perspective. Emergency medicine, 2002. 14: p. 296-303.
+
+74 12. J. G. Ramaekers, G. Berghaus, M. Van Laar, O. H. Drummer, Dose related risk of motor vehicle crashes after cannabis use. Drug and Alcohol Dependence, 2004. 73: p. 109-119.
+
+75
+
+5.
+
+Conclusions
+
+Cannabis is without doubts, the most used recreational drug, after alcohol in the driver population of New Zealand. This tendency is reflected worldwide as different statistics and studies show use of this drug to be widespread within the general and the driver populations. Cannabis is also the most used drug in combination with alcohol within the drinking driver population of New Zealand. The concomitant use of cannabis with alcohol has a higher incidence of use within the fatally injured drivers, in comparison to each substance alone and other drug combinations. High use of alcohol and drugs, especially cannabis, is evident in the youngest age group of drivers (uninjured drivers from fifteen to thirty four years old). More male drivers die as a consequence of car crashes in New Zealand than female drivers. Likewise, cannabis use is more prevalent in the male (injured and uninjured) driver population. At the moment, methamphetamine and MDMA use does not seem to be as significant, in terms of incidence within
+
+76 the driver population, as cannabis, alcohol, cannabis and alcohol combined and benzodiazepines use. Usage of other drugs (including morphine and heroin) individually or in combination does not seem to be substantial. However the wide range of combinations, including legal and illegal drugs, is important to be considered as represents a complex and dangerous menace on the roads. Accidents involving alcohol seem to occur in a higher percentage as single car accidents in the early hours of the morning (from midnight to 6.00 am). The culpability analysis approach shows an increased risk of accidents when alcohol (2.6 times) or the combination alcohol-cannabis (4.2 times) is present. However, only results for the latter (alcohol-cannabis) have statistical significance (p < 0.05). Cannabis use does not seem to increase the risk or car crash occurrence, as the odds ratio for the group of drivers who tested positive for the drug, is similar to the free-drug group's ratio. The lack of statistical significance for most of the results of the culpability analysis, indicates the need for a larger and more representative sample from the fatally injured driver group.
+
+77
+
+5.1 Suggestions
+A larger sample should be analysed to enable solid conclusions regarding the culpability or responsibility of drivers under the influence of drugs. The completion of Study 2 as part of the general project: "Drinking and drugged driver control: delineating the problem" will most probably allow for such reliable conclusions to be reached. The inclusion of the seriously injured driver population into this project or a similar one, will broaden the current knowledge on drugs incidence and effects on driving performance.
+
+78
+
+Appendix 1.
+
+Police traffic crash report form
+
+79
+
+Appendix 1 continued
+
+80
+
+Appendix 1 continued
+
+81
+
+Appendix 1 continued
+
+82
+
+Appendix 1 continued
+
+83
+
+Appendix 1 continued
+
+84
+
+Appendix 2. Analytical and pre-analytical equipment used in studies 1 and 2
+Equipment
+Autopipette (10-100 L)
+and (100-1000 L)
+
+Brand/Model
+Biohit 401640 and 4051761 Biohit 4033517 Brand Transferpettor Mettler AE160 Framo Geratetechick M 21/1 Beckman GS-GR Savant speed SVC-100H Symark 50000/14 and 50000/2 Tecan Columbus plus art FLU9211 Lab-line instruments 1291 Mistral lab-line 4600-1 Ratek RSM6 Cole-palmer 8850 Lab-line instruments 2050-1 Hewlett Packard 5890A with autoinjector 7673A Agilent 6890A series plus +, MS and NPD detector Agilent 5973, autoinjector Agilent 7683. Shimadzu QP2010 Shimadzu API 300 SCL 10AVP Tecan Sunrise remote F03Y300
+
+Autopipette multichannel
+(8 channels. 50-300 L)
+
+Micropipette Balance Nitrogen blowdown
+
+Pre-analytical
+
+Centrifuge Vacuum concentrator SPE work station Plate washer Autovortex mixer Multimixer Rotary mixer Ultrasonic bath Multi-block heater GC-ECD
+
+Analytical
+
+GC-MS/NPD
+
+GC-MS LC-MS Plate reader
+
+85
+
+Appendix 3.
+Reagents Blank blood Cut-off level standard Buffer diluent
+
+ELISA methodology
+
+Labelled enzyme: horseradish peroxidase ­ drug derived Chromogenic peroxidase Stop reagent: hydrochloric acid 1M substrate: tetramethylbenzidine + urea
+
+Equipment Ultrasonic bath Autopipette multichannel IMMUNALYSIS® direct ELISA kits: -methamphetamine kit catalog 211-0480 -Cannabinoids (THCA/CTHC) kit catalog 205-0480 -Benzodiazepines kit catalog 214-0480 -Morphine specific kit catalog 213-0480 Plate washer Micro-plate reader (450 nm).
+
+Methodology The methodology employed is shown in the scheme below. Every plate (96 wells) was set with a blank and a cut-off level standard every 22 samples.
+
+86
+
+Appendix 3 continued
+leave @ room T for 1h (storage in fridge)
+
+Sample
+
+Sonicate
+
+Dilute sample 1:1 buffer Dispense 40 L into the center of the well
+
+Add 100 L of labeled enzyme
+
+Incubate for 1h (30 min morphine) @ room T in the dark
+
+Wash wells thoroughly (plate washer) Add 100 L of chromogenic substrate
+
+Incubate for 5-10 min. (5 min only morphine) @ room T in the dark Add 100 L of stop reagent
+
+No change of colour (blue): negative
+
+development of yellow colour: positive
+
+Measure absorbance 450 nm
+
+87
+
+Appendix 4. Breakdown of positive cases by gender and age for study 1, is included in Appendices (second part)
+
+88
+
+Appendix 5. Breakdown of positive cases by age and alcohol levels for study 1
+DRUGS Alcohol level (mg/100mL)  30 31-80 Cannabis 81-160  161 Total  30 31-80 Benzodiazepines 81-160  161 Total  30 31-80 Methamphetamine 81-160  161 AGE (years old) 15­19 9
+1%
+
+20­ 24 4
+1%
+
+25­34 8
+1% 16%
+
+35­44 2
+0% 12%
+
+45­64 1
+0%
+
+65+ 2
+0%
+
+UK* 2
+0%
+
+Total 16
+2%
+
+47
+7% 7%
+
+18
+3% 14%
+
+1
+0% 6%
+
+4
+1% 0%
+
+80
+12% 55%
+
+44
+
+91 37
+
+107 73
+
+82 57
+
+37 20
+
+1 -
+
+362
+
+14
+2%
+
+203
+31%
+
+6%
+
+11%
+
+9%
+
+3%
+
+114
+17%
+
+150
+23%
+
+188
+28%
+
+141
+21%
+
+59
+9%
+
+2
+0%
+
+7
+1%
+
+661 1
+3% 3%
+
+1
+3%
+
+1
+3%
+
+3
+9%
+
+3%
+
+5
+14%
+
+2
+6%
+
+7
+1%
+
+2
+6% 9%
+
+1
+
+1
+
+1
+3%
+
+12
+34%
+
+Individual use
+
+3%
+
+1
+3% 11%
+
+9
+26% 31% 13%
+
+7
+20% 34%
+
+2
+6% 11%
+
+21
+60%
+
+1 -
+
+3 2
+
+4 -
+
+11 1 1
+
+12 -
+
+4 6
+
+35
+13%
+
+1
+
+1
+13%
+
+1
+13%
+
+1
+13%
+
+25%
+
+13%
+
+4
+50% 25%
+
+13%
+
+1
+13%
+
+2
+25%
+
+1
+
+2
+25%
+
+13%
+
+1
+
+2
+
+Total
+ 30 31-80 Morphine 81-160  161 Total  30 31-80 Cannabis + benzodiazepines 81-160  161 Total
+
+2
+25%
+
+1
+13%
+
+8 1
+100%
+
+116
+16%
+
+1
+5%
+
+5%
+
+1
+100%
+
+3
+14% 19%
+
+1
+100% 5%
+
+1
+10%
+
+1 1
+
+1 3
+
+2
+
+1
+5%
+
+5%
+
+3
+14% 10%
+
+10
+48% 38%
+
+14% 10%
+
+1
+5%
+
+2
+
+2 6
+
+4 7
+
+8
+
+7
+33%
+
+29%
+
+33%
+
+21 1
+8%
+
+Multiple Use
+
+ 30 31-80 Cannabis + methamphetamine 81-160  161 Total  30 Other combinations
+**
+
+1
+8%
+
+3
+25% 17%
+
+4
+33%
+
+79
+11%
+
+2
+17%
+
+9
+75% 17%
+
+3
+25%
+
+2
+
+4
+33%
+
+2
+
+5
+42%
+
+12 1
+33%
+
+1
+33%
+
+1
+33%
+
+1
+33%
+
+31-80 81-160  161 Total
+
+33%
+
+2
+67%
+
+33%
+
+33%
+
+3 741
+
+1
+
+1
+
+1
+
+Total
+*
+**
+
+160
+22%
+
+207
+28%
+
+166
+22%
+
+1%
+
+Unknown 1 driver with MA + BD, 1 driver with cannabis + morphine + MA and 1 driver with cannabis + morphine + BD
+
+89
+
+Appendix 6.
+
+Confirmatory methodologies for Study 2
+
+Benzodiazepines screening and confirmation Reagents Blank blood Internal standard (prazepam) Urea 8M n-Butyl chloride (redistilled) n-Butyl acetate (redistilled) Equipment Silanised glass tubes Ultrasonic bath Autopipette Autovortex mixer Centrifuge Vacuum concentrator Multimixer Autosampler vial with micro insert GC-ECD Methodology The methodology employed is shown in the scheme below. It is a liquid-liquid extraction procedure followed by evaporation and reconstitution of the extract. Every set of samples is run with: Standard (unextracted): mix of substances (triclosan, medazepam, oxazepam, diazepam, nordiazepam,
+
+flunitrazepam, nitrazepam, clonazepam and triazolam), used for evaluation of performance parameters (system suitability)
+
+90
+
+Appendix 6 continued
+of the equipment and retention times of commonly
+
+encountered benzodiazepines. Blank blood : spiked with IS, used to evaluate the extraction recovery of all benzodiazepines. Control (extracted): blood is spiked with zopiclone (0.10 g/mL) and used for evaluation of the extraction recovery of zopiclone.
+
+Sample 0.2 mL dispensed into a glass tube
+
+leave @ room To for 1h (storage in fridge)
+
+Sonicate Add 50 L of internal standard Mix for 10 min Add 0.2 mL of urea
+
+Add 4 mL of butyl chloride Mix for 15 min
+
+Centrifuge for 10 min
+
+Transfer butyl chloride layer to a clean tube
+
+Evaporate to dryness Add 50 L of n-butyl acetate
+
+91
+
+Appendix 6 continued
+
+mix
+
+Transfer to an autosampler vial with insert
+
+Inject GC-ECD
+
+92
+
+Appendix 6 continued
+Basic and neutral drugs screening and confirmation Reagents Blank blood Internal standard (proadifen) Ammonia 50% n-Butyl chloride (redistilled) Ethanol Equipment Silanised glass tubes Ultrasonic bath Autopipette Autovortex mixer Centrifuge Vacuum concentrator Multimixer Autosampler vials with micro insert GC-MS/NPD Methodology The methodology employed is shown in the scheme below. It is a liquid-liquid extraction procedure followed by evaporation and reconstitution of the extract. Every set of samples is run with: Three sets of standards (unextracted): used for evaluation of performance parameters (system suitability) of the equipment and references for commonly used drugs. 1) amphetamine, methyprylon, caffeine, clonidine,
+
+trimipramine, diazepam, amoxepine, papaverine,
+
+93
+
+Appendix 6 continued
+dextromoramide, triazolam, strychnine and I.S. (injected before starting any run and evaluated to ensure GC is operating up to specification) 2) fluoxetine, methadone, amitriptyline, nortriptyline,
+
+dothiepin, diazepam, paroxetine, thioridazine and I.S. (injected before the run and between samples) 3) cotinine, pethidine, lignocaine, carbamazepine, doxepin, citalopram and I.S. (injected at two concentrations after samples to provide reference standards). Control (extracted): blood is spiked with a mix of substances (codeine, diazepam, dothiepin, methadone, methamphetamine, paroxetine and thioridazine), and used for evaluation of the performance of the extraction in terms of recovery percentage.
+
+Sample 0.2 mL dispensed into a glass tube
+
+leave @ room T for 1h (storage in fridge)
+
+Add 50 L of internal standard
+
+Sonicate
+
+Mix for 10 min
+
+Add 0.2 mL of ammonia
+
+Add 4 mL of butyl chloride
+
+Mix for 15 min
+
+94
+
+Appendix 6 continued
+
+Centrifuge for 10 min
+
+Transfer butyl chloride layer to a clean tube
+
+Evaporate to dryness Add 50 L of ethanol
+
+mix
+
+Transfer to an autosampler vial with insert
+
+Inject GC-MS/NPD
+
+95
+
+Appendix 6 continued
+THC confirmation and quantitation
+
+Reagents Blank blood Internal standard (D3-9-THC) Standard D0-9-THC Urea 8M Pentane Methanol:water (80:20) Equipment Silanised glass tubes Ultrasonic bath Autopipette Rotatory mixer Centrifuge Nitrogen blowdown Autosampler vials with micro insert LC-MSMS Methodology The methodology employed is shown in the scheme below. It is a liquid-liquid extraction procedure followed by evaporation and reconstitution of the extract. Every set of samples is run in triplicate, one of the samples is free of I.S. and the other two are spiked with the I.S. Every run includes: Standard for the evaluation of the system suitability (D0-9THC + I.S.), injected before the samples are run.
+
+96
+
+Appendix 6 continued
+A set of unextracted standards of D0-9-THC and I.S. at 0, 0.5, 2.0, 5.0, 20.0 ng/mL, to build the calibration curve for quantitation Control (extracted): 2.0 and 20 ng/mL of D0-9-THC and I.S., used for evaluation of the performance of the extraction in terms of recovery percentage.
+
+Sample 1 or 0.5 mL* dispensed into a glass tube
+
+leave @ room T for 1h (storage in fridge)
+
+Sonicate
+
+Divide sample
+
+Add 5 L of internal standard
+
+Sample no I.S.
+
+Sample + I.S.
+
+Sample + I.S.
+
+Gently mix
+
+Cap and stand in the dark for 1h
+
+Add 1 mL of urea Add 6 mL of pentane
+
+Gently mix for 30 min
+
+*
+
+The volume dispensed will depend on the total amount of blood sample available
+
+97
+
+Appendix 6 continued
+
+Centrifuge for 15 min
+
+Transfer pentane layer to a clean tube
+
+Evaporate to dryness under nitrogen Add 50 L of methanol:water
+
+mix
+
+sonicate
+
+mix
+
+Transfer to an autosampler vial with insert
+
+Inject LC-MS-MS
+
+98
+
+Appendix 6 continued
+Morphine confirmation and quantitation
+
+Reagents Blank blood Internal standard (D3-morphine) Morphine standard Phosphate buffer (pH 3.3) Distilled water Methanol Acetic acid (0.01M) Ammonia in ethyl acetate (2%) Dry ethyl acetate Pentafluoropropionic anhydride (PFPA) Equipment Silanised glass tubes Ultrasonic bath Autopipette Centrifuge SPE columns SPE work station Vacuum concentrator Multi-block heater Autosampler vials with micro insert GC-MS Methodology The methodology employed is shown in the scheme below. It is a solid-liquid extraction (SPE) procedure followed by evaporation, derivatisation and reconstitution of the extract.
+
+99
+
+Appendix 6 continued
+Every set of samples is run in quadruplicate, one of the samples is free of I.S. and the other three are spiked with the I.S., every run includes: A set of unextracted standards of morphine and I.S. at 0, 20.0, 50.0, 100.0, 200.0 ng/mL, to build the calibration curve. Spiked blood controls (extracted): 20 and 50 ng/mL of morphine and I.S., used for evaluation of the performance of the extraction in terms of recovery percentage.
+
+Sample 0.2 mL dispensed into a glass tube
+
+leave @ room T for 1h (storage in fridge)
+
+Sonicate
+
+Divide sample
+
+Add 50 L of internal standard
+
+Sample no I.S.
+
+Sample + I.S.
+
+Sample + I.S.
+
+Sample + I.S.
+
+Gently mix
+
+Cap and allow to equilibrate for 10 min Add 3 mL of phosphate buffer
+
+Gently mix and sonicate for 15 min
+
+100
+
+Appendix 6 continued
+
+Centrifuge for 10 min
+
+Transfer to workstation tubes
+
+Elute through SPE columns in workstation
+
+Evaporate to dryness Add 50 L of dried ethyl acetate + 50 L of PFPA Heat at 90 0C for 15 min
+
+Evaporate to dryness under nitrogen Add 50 L of dried ethyl acetate
+
+mix
+
+Transfer to an autosampler vial with insert
+
+Inject GC-MS
+
+101
+
+Appendix 6 continued
+Methamphetamine confirmation and quantitation
+
+Reagents Blank blood Internal standard (D3-methamphetamine, D3-amphetamine, D3-MDMA) Methamphetamine, amphetamine and MDMA standards Sodium hydroxide (10%) Acid alcohol n-Butylchloride (redistilled) Dry ethyl acetate Pentafluoropropionic anhydride (PFPA) Equipment Silanised glass tubes Ultrasonic bath Autopipette Centrifuge Vacuum concentrator Multi-block heater Autosampler vials with micro insert GC-MS Methodology The methodology employed is shown in the scheme below. It is a liquid-liquid extraction procedure followed by evaporation, derivatisation and reconstitution of the extract. Every set of samples is run in quadruplicate, one of the samples is free of I.S. and the other three are spiked with the I.S., every run includes:
+
+102
+
+Appendix 6 continued
+Standards 10.0 g/mL. Calibration curve (extracted): methamphetamine and MDMA and I.S.(deuterated standards) at 0, 0.05, 0.125, 0.25, 0.5 and 0.75 g/mL. Spiked blood controls at approximately 0.05 and 0.2g/mL of methamphetamine and MDMA. (unextracted) of methamphetamine,
+
+amphetamine, MDMA, aphedrine and pseudoephedrine at
+
+Sample 0.2 mL dispensed into a glass tube
+
+leave @ room T for 1h (storage in fridge)
+
+Sonicate
+
+Divide sample
+
+Add 50 L of internal standard
+
+Sample no I.S.
+
+Sample + I.S.
+
+Sample + I.S.
+
+Sample + I.S.
+
+Gently mix
+
+Cap and allow to equilibrate for 15 min Add 50 L of NaOH
+
+mix Add 4 mL of n-Butylchloride
+
+103
+
+Appendix 6 continued
+
+mix
+
+Centrifuge for 10 min
+
+Transfer n-Butylchloride layer to a clean tube Add 50 L of acid alcohol mix
+
+Evaporate to dryness with no heat Add 50 L of dried ethyl acetate + 10 L of PFPA Heat at 70 0C for 15 min
+
+Evaporate to dryness under nitrogen at 400C
+
+Add 50 L of dried ethyl acetate
+
+mix
+
+Transfer to an autosampler vial with insert
+
+Inject GC-MS
+
+104
+
+Appendix 7.
+
+Prescription drugs detectability at therapeutic levels
+Therapeutic concentration*
+(g/mL blood)
+
+Drug Sedative-hypnotic Nitrazepam Temazepam Triazolam Zopiclone Lormetazepam Lorazepam Antipsychotic Chlorpromazine Prochlorperazine Olanzapine Thioridazine Clozapine Quetiapine Anxiolytic Diazepam Clobazam Alprazolam Oxazepam Medazepam Anticonvulsant Carbamazepine Phenytoin
+
+Detectability Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic May not detect Would not detect Detect at therapeutic Detect at therapeutic Detect at therapeutic May not detect Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic Would not detect
+**
+
+0.04 ­ 0.08 0.2 ­ 0.8 0.003 ­ 0.009 0.07 ­ 0.1 0.006 ­ 0.016 0.1 ­ 0.2 0.02 ­ 0.08 0.001 ­ 0.003 0.01 ­ 0.03 0.14 ­ 2.6 0.06 ­ 1.0 0.05 ­ 0.7 0.2 ­ 4.0 0.2 ­ 0.7 0.03 ­ 0.1 0.3 ­ 1.0 0.1 ­ 1.0
+
+4.0 ­ 8.0 10 ­ 20
+
+105
+
+Appendix 7 continued
+Drug Anticonvulsant Phenobarbital Primidone Lamotrigine Clonazepam Narcotic analgesic Dihydrocodeine Methadone D-propoxyphene Tramadol Pethidine (meperidine) Antidepressant Amitriptyline Imipramine Trimipramine Nortriptyline Dothiepin Doxepin Antidepressant Clomipramine Citalopram Maprotiline Mianserin Nefazadone 0.08 - 0.24 0.01 ­ 1.0 0.2 ­ 0.7 0.03 ­ 0.06 0.4 - 2 May not detect Detect at therapeutic Detect at therapeutic Would not detect Would not detect 0.07 ­ 0.2 0.08 ­ 0.8 0.2 ­ 1 0.05 ­ 2.5 0.1 ­ 0.5 Detect at therapeutic Detect at therapeutic May not detect Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic Detect at therapeutic 10 ­ 30 1 ­ 14 1­4 0.03 ­ 0.08 Would not detect Would not detect Would not detect Detect at therapeutic
+** ** **
+
+Therapeutic concentration*
+(g/mL blood)
+
+Detectability
+
+0.04 ­ 0.16 0.008 - 0.105 0.011 - 0.24 0.01 ­ 0.3 0.02 ­ 0.42 0.005 ­ 0.115
+
+106
+
+Appendix 7 continued
+Drug Antidepressant Paroxetine Sertraline Venlafaxine Fluoxetine Moclobemide Antihistamine Chlorpheniramine Diphenhydramine Cyclizine Pheniramine Promethazine Trimeprazine Anaesthetic Ketamine
+*
+
+Therapeutic concentration*
+(g/mL blood)
+
+Detectability
+
+0.01 ­ 0.06 0.02 ­ 0.05 0.2 0.02 ­ 0.4 0.1 ­ 3 0.05 ­ 0.02 0.04 ­ 0.1 0.05 ­ 0.1 0.01 ­ 0.2 0.006 ­ 0.1 0.01 ­ 0.24 0.05 ­ 0.2 ***
+
+May not detect May not detect Detect at therapeutic Detect at therapeutic Would not detect May not detect May not detect May not detect May not detect May not detect May not detect Detect at abuse levels
+
+Approximate range of expected peak blood or plasma concentrations from therapeutic use ** Would not detect these drugs using the methods used in this study *** Normal therapeutic levels mean patient is asleep Therapeutic levels from: Baselt, R.C., Disposition of Toxic Drugs and Chemicals in Man. seventh ed. 2004, Foster City, California: Biomedical publications, Baselt, R.C., Drug Effects on Psychomotor Performance. 2001: Biomedical publications.
+
+107
+
+Appendix 8. Scoring guidelines and contributory factors for the responsibility study of Study 2
+Category Factors
+Two or more lanes and smooth Divided road Two or more lanes and rough Unmarked, thin and smooth Unmarked, thin and rough Smooth Rough and/or corrugated
+
+Score
+1 1 2 2 3 2 3 1 2 4 1 2 2 3 1 2 3 1 3 2 1 1 3 1 1 1 1 1 3 4 3 1 1 2 1 2 2 3 2
+
+1. Condition of the road
+
+Sealed road*
+
+Unsealed road
+
+2. Condition of the vehicle
+
+3. Driving conditions
+
+4. Type of accident
+
+5. Witness observations
+
+6. Road law obedience 7. Difficulty of task involved#
+
+Roadworthy Unroadworthy (contribution unclear) Unroadworthy (contributory) Clear and/or cloudy Fog and/or mist, clear and windy** Day Visibility good and road wet** Showers and/or rain Clear**~ Cloudy~ Night Fog / mist / showers / rain / ice / wind No influence from other vehicles Single Influence from other vehicles or objects Striking vehicle attempting to avoid Striking vehicle not Multiple attempting to avoid Struck vehicle in the wrong Struck vehicle in the right No apparent reason Swerving Reckless Irregular driving Witnessed road Negligent infringement Lack of road sense Vehicle fault Driver not to blame Yes Obedience No Straight road or sweeping bend Heavy traffic Across lanes in Light traffic Winding road / sharp bend /U-turn Overtaking Avoiding unexpected traffic or object Level of fatigue If mentioned in Police reports
+
+8. Level of fatigue
+* ** ~ #
+
+1 point is added if the road has been recently resurfaced 1 point is added if in heavy traffic 1 point is added if road not lighted Score 1 if under the guidance of traffic signals
+
+108
+
+Appendix 9. Breakdown of positive cases by gender and age for study 2, is included in Appendices (second part)
+
+109
+
+Appendix 10. Additional information related to type and time of the accident for Study 2
+TYPE OF ACCIDENT
+Multiple Single 12.01 am ­ 6.00 am
+
+TIME OF THE ACCIDENT
+6.01 am ­ 12.00 pm 12.01 pm ­ 6.00 pm 6.01 pm ­ 12.00 am
+
+DRUG
+
+Alcohol Total Single use Cannabis Total Other drugs* Total Cannabis + alcohol Total Multiple use Cannabis + alcohol + MA Total Other combinations** Total Total
+
+9 (28%) 32 18 (67%) 27 9 (75%) 12 14 (41%) 34 4 8 (50%) 16 125 78 (75%) 104
+
+23 (72%)
+
+12 (37%)
+
+5 (16%) 32
+
+8 (25%)
+
+7 (22%)
+
+9 (33%)
+
+3 (11%)
+
+8 (30%) 27
+
+10 (37%)
+
+6 (22%)
+
+3 (25%)
+
+3 (25%)
+
+3 (25%) 12
+
+5 (42%)
+
+1 (8%)
+
+20 (59%)
+
+16 (47%)
+
+3 (9%) 34
+
+4 (12%)
+
+11 (32%)
+
+(100%)
+
+4
+
+2 (50%)
+
+4
+
+1 (25%)
+
+1 (25%)
+
+8 (50%)
+
+1 (6%)
+
+4 (25%) 16 125
+
+7 (44%)
+
+4 (25%)
+
+Negative Total
+
+26 (25%)
+
+12 (11.5%)
+
+33 (32%)
+
+38 (36.5%) 104
+
+21 (20%)
+
+* pseudoephedrine, paroxetine, fluoxetine, phenobarbital, solvents, dextropropoxyphen, ketamine, morphine and benzodiazepines ** alcohol+orphenadrine, methadone+THC, methadone+alcohol, valproate+THC, lignocaine+THC, BZP+THC, methadone+morphine+THC valproate+BD+alcohol, morphine+THC+BD, MA+BD+THC, citalopram+THC+alcohol+MA, lignocaine+morphine+alcohol+THC and methadone+fluoxetine+THC+BD.
+
+Appendix 4. Breakdown of positive cases by gender and age for study 1
+
+DRUGS
+15 ­ 19 Cannabis
+14%
+
+AGE (years old)
+20 ­ 24 138
+21% 2%
+
+25 ­ 34 162
+25% 4%
+
+35 ­44 124
+19% 3% 21%
+
+45 ­ 64
+7% 9%
+
+65+ 2
+0%
+
+Unknown 1% 3%
+
+Total 567
+86% 13%
+
+95
+
+3%
+
+19
+
+12
+
+26
+
+17
+
+46
+
+2%
+
+13
+
+1 7*
+
+88
+
+114
+17% 3% 3%
+
+150
+23%
+
+188
+28% 6%
+
+141
+3%
+
+59
+
+2
+
+661 63%
+
+1
+
+Single use
+
+Benzodiazepines
+
+1
+
+3% 9%
+
+1
+
+2
+
+9% 11%
+
+3
+
+1
+
+14% 31%
+
+5
+
+17%
+
+6
+
+26% 34%
+
+9
+
+9%
+
+3
+
+9% 11%
+
+3
+
+1
+
+-
+
+22
+
+37%
+
+13
+
+3
+
+4
+
+11
+
+12
+
+4
+
+35 75%
+
+Methamphetamine
+
+13% 13%
+
+1
+
+1
+
+25% 25%
+
+2
+
+2
+
+25% 25%
+
+2
+
+2
+
+13% 25%
+
+1
+
+13%
+
+1
+
+13%
+
+13%
+
+1
+
+-
+
+-
+
+-
+
+6
+
+25%
+
+2
+
+2
+
+1
+
+8 100%
+
+Morphine
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+100% 100%
+
+1
+
+1
+
+-
+
+-
+
+-
+
+-
+
+-
+
+1
+
+-
+
+1 81%
+
+Cannabis + benzodiazepines Multiple use
+
+13%
+
+-
+
+5% 5%
+
+1
+
+1
+
+29% 33%
+
+6
+
+5%
+
+1
+
+24% 29%
+
+5
+
+5%
+
+1
+
+24% 33%
+
+5
+
+10%
+
+2
+
+-
+
+-
+
+-
+
+17
+
+19%
+
+4
+
+7
+
+6
+
+7
+
+21 100%
+
+Cannabis + methamphetamine
+
+-
+
+25%
+
+3
+
+3
+
+42%
+
+5
+
+5
+42%
+
+33%
+
+4
+
+4
+33%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+12
+
+-
+
+25%
+
+12 100%
+
+Other combinations**
+
+-
+
+33%
+
+1
+
+1
+
+33%
+
+1
+
+1
+33%
+
+33%
+
+1
+
+1
+33%
+
+-
+
+-
+
+-
+
+-
+
+-
+
+3
+
+-
+
+33% 3%
+
+3 1 628
+85%
+
+Total
+
+97
+
+19
+
+146
+20%
+
+2%
+
+14
+
+179
+24%
+
+4%
+
+28
+
+141
+19% 22%
+
+3%
+
+25
+
+8%
+
+60
+
+3%
+
+19
+
+1%
+
+5
+
+1 6
+1%
+
+7*
+1%
+
+107
+14%
+
+116
+16%
+
+160
+22%
+
+207
+28%
+
+166
+
+79
+11%
+
+741
+
+Male Female
+
+Total
+
+* **
+
+6 unknown gender cases and 1 unknown age (female). 1 driver with MA + BD, 1 driver with cannabis + morphine + MA and 1 driver with cannabis + morphine + BD
+
+87
+
+Appendix 9. Breakdown of positive cases by gender and age for study 2 age for study 2
+
+DRUGS Alcohol
+
+15-19
+4 (12%) 4 (12%) -
+
+20-24
+4 (12%) 1 (3%)
+
+25-34
+5 (16%) 1 (3%)
+
+AGE 35-44
+4 (12%) 2 (6%)
+
+45-64
+7 (22%) 1 (3%) 1 (4%) 1 (12.5%) 11 (16%) 2 (25%) 4 (6%) -
+
+65+
+3 (9%) 3 (9%) 2 (22%) 2 (22%) -
+
+TOTAL
+27 (84%) 32 25 (93%) 27 2 (100%) 2 1 (100%) 1 5 (55.6%) 9 60 (84.5%) 71 26 (76%) 34 1 (100%) 1 1 (100%) 1 14 (78%) 18 42 (78%) 54 12 (22%) 4 (22%) 8 (24%) 11 (15.5%) 4 (44.4%) 2 (7%) 5 (16%)
+
+5 (16%) 6 (22%) 6 (22%) 1 (12.5%) 1 (12.5%) 11 (16%) -
+
+6 (19%) 6 (22%) 6 (22%) 1 (50%) 1 (50%) 1 (12.5%) 1 (12.5%) 13 (19%) 9 (26%) 1 (100%) 1 (100%) 3 (17%) 3 (17%) 6 (11%) 1 (1%) -
+
+6 (19%) 5 (18.5%) 5 (19%) 1 (50%) 1 (50%) 1 (100%) 1 (100%) -
+
+8 (25%) 3 (11%)
+
+Cannabis BD Morphine MA Other drugs*
+
+5 (18.5%) -
+
+1 (4%)
+
+6 (22%)
+
+4 (15%)
+
+Single use
+
+11 (16%) 2 (3%) 2 (6%) 1 (100%) 1 (100%) 4 (22%) 4 (22%) 13 (24%) 2 (4%) -
+
+3 (37.5%)
+
+4 (44.4%) 4 (6%) 2 (3%)
+
+TOTAL Cannabis + alcohol Multiple use Cannabis + MA Cannabis + BD Other** combinations TOTAL
+
+9 (13%)
+
+1 (1%)
+
+1 (1%) 3 (9%) -
+
+10 (14%) 3 (9%) 3 (9%) 1 (5.5%) 1 (5.5%) 4 (7%) 4 (7%)
+Male Total Female
+*
+
+12 (17%) 5 (15%)
+
+14 (20%) 3 (9%)
+
+13 (19%) 8 (24%)
+
+15 (21%) 1 (3%) 1 (3%) 4 (22%) 1 (5.5%) -
+
+6 (9%)
+
+8 (24%) 2 (11%) 2 (11%) 7 (13%) 3 (5%)
+
+12 (35%) -
+
+10 (29%) -
+
+-
+
+6 (33%) 13 (24%)
+
+5 (28%) 5 (9%) 1 (2%) -
+
+-
+
+10 (18%)
+
+19 (35%)
+
+15 (27%)
+
+6 (11%)
+
+-
+
+**
+
+pseudoephedrine, paroxetine, fluoxetine, phenobarbital, solvents, dextropropoxyphen and ketamine. alcohol+orphenadrine, methadone+THC, methadone+alcohol, valproate+THC, lignocaine+THC, BZP+THC, methadone+morphine+THC alcohol+THC+MA, morphine+THC+benzos, MA+benzos+THC, citalopram+THC+alcohol+MA, valproate+benzos+alcohol,
+
+108
+
+

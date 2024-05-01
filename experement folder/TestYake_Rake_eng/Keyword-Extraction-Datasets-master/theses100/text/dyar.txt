@@ -1,0 +1,1279 @@
+Characterisation of Mighty Expression during Skeletal Muscle Regeneration
+by
+
+Kelly Anne Dyer
+
+A thesis submitted in partial fulfilment of the requirements for the degree of
+
+Master of Science
+at the
+
+2006
+
+Abstract
+Satellite cells are a distinct lineage of myogenic precursors that are responsible for the growth of muscle during post-natal life and for its repair after damage. During muscle growth and regeneration satellite cells are activated in response to growth signals from the environment, which induces the expression of one or both of the two MRFs, Myf-5 or MyoD. Activated satellite cells migrate to the site of injury and proliferate before these transcription factors go on to activate transcription of myogenic genes. The myoblasts can then adopt one of two fates. Some myoblasts initiate terminal differentiation and are able to either fuse into existing myofibres to repair them, or fuse with other myoblasts to form new fibres. Other myoblasts do not differentiate but instead return to quiescence and adopt a satellite cell position on repaired or newly formed fibres.
+
+Mighty, a downstream target of myostatin that was discovered by the Functional Muscle Genomics Laboratory has recently been shown to induce cell hypertrophy in cell culture through enhanced differentiation and fusion of myoblasts. Myostatin-null mice have hypertrophic muscles and an improved muscle regeneration phenotype. These mice have also been shown to have higher basal levels of Mighty in skeletal muscle than wild-type mice. In this thesis the expression profile of Mighty during skeletal muscle regeneration was characterised in relation to MyoD.
+
+During regeneration Mighty gene expression was induced at day five post-injury in both wild-type and myostatin-null mice. In the myostatin-null mice Mighty gene expression remained elevated at day seven post injury in contrast to the
+
+ii
+
+levels in the wild-type, which had decreased at this time point. By day-14 and day-28 post-injury Mighty levels were decreased. The up-regulation of Mighty occurs at the time of peak myotube formation in regenerating skeletal muscle, consistent with a role for Mighty in enhancing differentiation and fusion of myoblasts. The extended up-regulation of Mighty in the myostatin-null muscle may be responsible for the enhanced regeneration phenotype of these mice.
+
+Analysis of the myotube and reserve cell populations, which are an in vitro model of satellite cells, from both C2C12 cells and Mighty over-expressing clones (Clone 7 and Clone 11) showed that Mighty expression down-regulates two satellite cell markers, CD34 and Sca-1. Both these molecules have been recently shown to be involved in myoblast fusion and reserve cell specification, although their exact role in these processes is not yet known. Expression of Sca-1 is associated with a slowly proliferating non-dividing state while CD34 is associated with the population of reserve cells that do not fuse when notch signalling is inhibited. The results of this thesis indicate that Mighty overexpression may cause the enhanced fusion phenotype by regulating these two molecules.
+
+In conclusion the data in this thesis supports a role for Mighty in the myotube formation phase of regeneration and may be able to enhance regeneration by recruiting more myoblasts to terminal differentiation by altering CD34 and Sca-1 expression.
+
+iii
+
+Acknowledgements
+Firstly I would like to thank the Functional Muscle Genomics Laboratory of AgResearch for giving me the opportunity to work in a great lab. To Dr Mridula Sharma: Thank you for your patience with all my questions and your help with all the problems that have cropped up during this thesis. Thank you for your time proof-reading, your red pen has helped me become a better writer. To Dr Nick Ling: Thank you for your help with the writing of this thesis, you made me think more about how I write things than I have done before. My thanks to Dr Ravi Kambadur for his suggestions and help with my experimental work. Thank you to Mark Thomas for all you did in cell culture for me, from limited trypsinisation to growing so many different cell lines for me to try transfections with. Thank you to the Ruakura Library who helped me to find many of the journal articles I needed. Thank you to Neil Cox for your help with the statistics. I may not know how you do it, but at least I know why now. Thanks to Todd for your help with Westerns and dissecting mice, and for putting up with my talking at our benches. Thanks to Leanne Platt and Monica Senna Salerno for your help with the notexin treatments and Mighty tissue ICCs. Thanks to Bridgette, Jen, Tesha, Rachel and Erin for putting up with me coming and bugging you when I was having procrastination issues.
+
+iv
+
+Thanks to everyone else in the lab for answering my numerous small questions and for all the fun that has been had while I've been here. Thanks to my family for your support and all the encouragement you gave me to follow my dreams. Thank you to all my friends from overseas, but especially Dallas, for your encouragement, the laughs at the weekends when I needed a break and for giving me a reason to try to get this done sooner. And last but certainly not least, thank you to my wonderful fiancé Mark. Thank you for your continual support, your encouragement and love and for picking up the pieces after I'd had bad days in the lab. I could not have done this without you. Wind to thy wings.
+
+v
+
+Contents
+Abstract ............................................................................................................ ii Acknowledgements......................................................................................... iv Contents .......................................................................................................... vi List of Figures ................................................................................................. ix List of Tables .................................................................................................. xi Abbreviations List.......................................................................................... xii Chapter One: Literature Review ...................................................................... 1 1.1 Muscle Structure and formation.............................................................. 1 1.1.1 Skeletal muscle physiology............................................................ 1 1.1.2 Myogenesis .................................................................................... 4 1.1.2.1 Formation of somites and myogenic precursors ................ 4 1.1.2.2 Migration to the limb bud .................................................. 4 1.1.2.3 Muscle formation in the limb bud...................................... 6 1.2 The Satellite Cell..................................................................................... 9 1.2.1 Satellite cell physiology................................................................. 9 1.2.2 Satellite cell function ................................................................... 14 1.2.3 Regulation of satellite cell activation, proliferation and differentiation..................................................................................... 16 1.2.4 Satellite cell heterogeneity........................................................... 22 1.2.5 Satellite cell self-renewal ............................................................. 23 1.2.6 Other sources of myogenic precursors......................................... 25 1.3 Mighty ................................................................................................ 27 1.3.1 Discovery and characterisation of Mighty................................... 27 1.3.2 Mighty cellular localisation ......................................................... 28
+
+vi
+
+1.3.3 Mighty over-expression ............................................................... 28 1.3.4 Mighty promoter regulation......................................................... 29 1.4 Aims and Objectives ............................................................................. 30 Chapter Two: Materials and Methods............................................................ 32 2.1 Materials ............................................................................................... 32 2.1.1 Oligonucleotide primers for PCR amplification .......................... 32 2.1.2 Mammalian cell lines................................................................... 32 2.1.3 Animals ........................................................................................ 33 2.1.4 Antibodies .................................................................................... 33 2.1.5 Solutions ...................................................................................... 33 2.2 Methods ................................................................................................ 34 2.2.1 Isolation of quiescent satellite cells using Percoll gradient ......... 34 2.2.2 Isolation of activated satellite cells by Matrigel adherence ......... 35 2.2.3 Notexin injection to induce muscle regeneration......................... 36 2.2.4 Isolation of reserve cell and myotube populations ...................... 36 2.2.5 RNA preparation.......................................................................... 37 2.2.6 First-strand cDNA synthesis ........................................................ 38 2.2.7 Polymerase chain reaction (PCR) ................................................ 39 2.2.8 RNA and DNA analysis............................................................... 40 2.2.9 Immunocytochemistry for Mighty on tissue sections.................. 40 2.2.10 Immunocytochemistry on satellite and C2C12 cells ................... 41 2.2.11 Haematoxylin and Eosin staining .............................................. 44 2.2.12 Western Blotting ........................................................................ 44 2.2.13 Statistical analyses ..................................................................... 46
+
+vii
+
+Chapter Three: Results................................................................................... 47 3.1 Characterisation of isolated satellite cells............................................. 47 3.2 Expression of Mighty in quiescent and activated satellite cells of wild-type and myostatin-null mice .......................................................... 49 3.3 Effect of muscle injury on body and muscle weights ........................... 51 3.4 Mighty was up-regulated during regeneration...................................... 55 3.5 MyoD levels were up-regulated during regeneration ........................... 60 3.6 Mighty localisation in reserve cell populations .................................... 63 3.7 Downstream targets of Mighty ............................................................. 65 3.7.1 Mighty decreased the levels of Sca1 when over-expressed......... 65 3.7.2 Mighty decreased the levels of CD34 when over-expressed ....... 68 Chapter Four: Discussion and Future Directions........................................... 72 4.1 Discussion ............................................................................................. 72 4.2 Future Directions .................................................................................. 81 4.2.1 Mighty and regeneration .............................................................. 81 4.2.2 Mighty and reserve cells .............................................................. 81 Appendix........................................................................................................ 83 References...................................................................................................... 89
+
+viii
+
+List of Figures
+Figure 1.1: Skeletal muscle structure............................................................... 3 Figure 1.2: Satellite cell position on myofibres ............................................. 13 Figure 1.3: Satellite cell function................................................................... 15 Figure 3.1: Characterisation of isolated satellite cells ................................... 48 Figure 3.2: Mighty RNA levels in quiescent and activated satellite cells ..... 50 Figure 3.3: Body weight changes during muscle regeneration following notexin injection............................................................................................. 52 Figure 3.4: Changes in weight of the tibialis anterior during regeneration following notexin injection ............................................................................ 53 Figure 3.5: Notexin-induced damage of mouse tibialis anterior muscle ...... 54 Figure 3.6: Mighty levels are increased during regeneration following notexin injection............................................................................................. 56 Figure 3.7: Mighty protein expression increased during early regeneration following notexin injection ............................................................................ 58 Figure 3.8: Mighty protein levels during late regeneration following notexin injection ......................................................................................................... 59 Figure 3.9: MyoD PCRs were linear between 24 and 28 cycles ................... 61 Figure 3.10: MyoD levels were up-regulated during early regeneration following notexin injection ............................................................................ 62 Figure 3.11: Mighty localisation in the reserve cell population .................... 64 Figure 3.12: Sca-1 PCRs were linear between 20 and 28 cycles................... 66 Figure 3.13: Sca-1 levels were decreased by Mighty over-expression.......... 67 Figure 3.14: CD34 PCRs were linear between 22 and 28 cycles .................. 69
+
+ix
+
+Figure 3.15: The truncated form of CD34 was decreased when Mighty was over-expressed ......................................................................................... 70 Figure 3.16: The full-length form of CD34 was decreased when Mighty was over-expressed ......................................................................................... 71
+
+x
+
+List of Tables
+Table 1: Oligonucleotide primers .................................................................. 32 Table 2: Antibodies........................................................................................ 33 Table 3: PCR cycle conditions....................................................................... 39 Table 4: Immunocytochemistry conditions ................................................... 43 Table 5: Immunocytochemistry conditions continued................................... 43
+
+xi
+
+List of Abbreviations
+alpha beta g l M U -gal BMP bp BSA
+o
+
+micrograms microlitres micromolar microunit beta galactosidase bone morphogenic protein base pair(s) bovine serum albumin degrees celsius carageenen lambda complementary DNA 4',6-diamidino-2-phenylingole dihydrochloride diethyl pyrocarbonate Dulbecco's modified eagle medium deoxyribonucleic acid embryonic day fibroblast growth factor gram(s) glyceraldehyde-3-phosphate dehydrogenase growth/differentiation factor-8 hour(s) hepatocyte growth factor
+
+C
+
+ccDNA DAPI DEPC DMEM DNA E FGF g GAPDH GDF-8 h HGF
+
+xii
+
+HPRT HRP HS ICC IGF LIF kDa MARs MHC ml MNF mm MRF NDS NGS NO NOS nm NSS O/N PBS PBS-T PCR PEG pI
+
+hydroxanthine guanine phosphoribosyl transferase horse radish peroxidase horse serum immunocytochemistry insulin-like growth factor leukaemia inhibitory factor kilo Daltons matrix attachment regions myosin heavy chain millilitres myocyte nuclear factor millimetre(s) myogenic regulatory factor normal donkey serum normal goat serum nitric oxide nitric oxide synthase nanometers normal sheep serum overnight phosphate buffered saline phosphate buffered saline + tween-20 polymerase chain reaction polyethylene glycol isoelectric point
+
+xiii
+
+PVP rcf RNA RT RT-PCR s Sca-1 SP TA TBS TBS-T TGFTNFtrunc VEGF x
+
+polyvinylpyrrolidone relative centrifugal force ribonucleic acid room temperature reverse transcription polymerase chain reaction second(s) stem cell antigen-1 side population tibialis anterior Tris buffered saline Tris buffered saline + Tween-20 transforming growth factor beta tumour necrosis factor alpha truncated vascular endothelial growth factor times
+
+xiv
+
+Chapter One
+Literature Review
+
+In this literature review, skeletal muscle structure and function will be discussed briefly, followed by a short review of the myogenic processes occurring during embryonic myogenensis. This will be followed by a review of the satellite cell, and its role in regeneration of skeletal muscle following injury. Finally the current knowledge about Mighty will be put forward.
+
+1.1 Muscle structure and formation
+
+1.1.1 Skeletal muscle physiology Skeletal muscle consists of three sheaths of connective tissue surrounding muscle cells, nerves and blood vessels. The epimysium surrounds the entire muscle, the perimysium divides the muscle up into bundles of muscle fibres called fascicles and the endomysium surrounds individual multinucleate muscle cells/fibres. Each muscle fibre is a single, multinucleate cell with a well defined internal structure. The internal structure of the myofibre is organised into bundles of myofilaments, which contain the proteins responsible for the contractile properties of the muscle organised into repeating units. These repeating units are called sarcomeres (Figure 1.1). Each sarcomere contains filaments of both thick and thin protein fibres. The major protein of the thick filaments is myosin, which is wrapped around a core of the protein titin. The major protein of the thin filament is actin, which is also associated with tropomyosin, troponin c and nebulin. The arrangement of these proteins within
+
+1
+
+the resting sarcomere allows three distinct regions to be described. The H zone is the central section of the sarcomere where only myosin filaments are present. The I band is the end zone where only actin filaments are present, and the A band is that area where the actin and myosin filaments overlap. The boundary of the sarcomere is defined by the Z lines, the part of the sarcomere where the thin filaments attach to connectins. The myosin filaments connect together at the M line, in the middle of the H zone. Contraction of the muscle involves action potentials from innervating neurons causing calcium release. Calcium floods into the myofibrils from the sarcoplasmic reticulum in response to the signal, and by binding to troponin C shifts the regulatory tropomyosin molecules away from the active site of the actin. The movement of the tropomyosin molecules allows the actin and myosin to interact, pulling the two Z lines at either end of the sarcomere towards each other, shortening the sarcomere length. Although each sarcomere only shortens a small amount, the combination of thousands of sarcomere shortenings results in a visible contraction of the muscle overall. Muscle contains three basic types of myofibres; fast, slow and intermediate fibres. Fast fibres, also known as Type II-B fibres can contract rapidly, and rely mainly on glycolysis for energy production. These fibres fatigue rapidly. Slow fibres, also known as Type I fibres, take three times as long to contract as fast fibres; however they can keep contracting for extended periods of time. As such muscle composed of slow fibres has more mitochondria and capillaries than muscle composed of fast fibres. Slow fibres also contain stores of oxygen bound to myoglobin, and can aerobically produce energy and thus contractions for long periods of time. The third kind of myofibres are intermediate fibres, also called Type II-A fibres. Intermediate fibres have characteristics in-between those of fast and slow fibres (Martini, 1998). 2
+
+Figure 1.1: Skeletal muscle structure. Muscle consists of bundles of cells called fascicles. Each multinucleate cell contains bundles of myofibrils which are composed of repeating units of sarcomeres. Each sarcomere is composed of highly ordered thick and thin filaments. Modified from Randall et al., 1997.
+
+3
+
+1.1.2 Myogenesis 1.1.2.1 Formation of somites and myogenic precursors During embryogenesis the somites form from the paraxial mesoderm as balls of epithelial cells. Somites are paired on either side of the neural tube and notochord and form in a rostral-caudal direction. As embryogenesis continues the somites differentiate dorsally to form dermomyotome and ventrally to form sclerotome. The dermomyotome is divisible into two segments, the epaxial domain which gives rise to the muscles of the back, and the hypaxial domain which form the muscles of the body walls and limbs (Brand-Saberi and Christ, 1999). Signals from the tissues surrounding the somite influence the formation of the dermomyotome. The neural tube, notochord and surface ectoderm all secrete factors that influence this process (Cossu et al., 1996). Bone morphogenetic protein 4 (BMP-4) secreted from the dorsal neural tube upregulates the expression of Wnt-1 and Wnt-3a in the neural tube. These Wnt's go on to activate expression of Wnt-11 in the medial lip of the dermomyotome, ultimately causing precursor cells to move to the myotome compartment of mature somites. Noggin, which inhibits BMP-4 signalling, is produced by the somite and prevents BMP-4 mediated inhibition of myotome formation. Sonic hedgehog (Shh) produced by the notochord inhibits Wnt-11 near the site of production, keeping Wnt-11 actions localised to the dorso-medial lip (Marcelle et al., 1997; Reshef et al., 1998).
+
+1.1.2.2 Migration to the limb bud The cells of the dermomyotome have been shown to be the precursors of the limb muscle. Cells from the somites migrate from the dermomyotome to the limb buds in a complicated and highly regulated process. Several factors must
+
+4
+
+be expressed correctly for migration to occur. Pax3, a paired domain transcription factor, has been shown to be essential for muscle precursor migration to the limb buds, as well as for the maintenance of the hypaxial dermomyotome (Relaix et al., 2004). In migratory cells Pax3 activates the expression of c-met (Epstein et al., 1996) which along with its ligand, scatter factor/HGF, is essential for precursor migration. In mice where either the c-met receptor or its ligand is knocked out, the development of the dermomyotome happens normally and migratory cells are formed but fail to delaminate and migrate away from the somites, resulting in loss of muscle masses formed by these cells (Dietrich et al, 1999). Lbx1 is a homeobox factor that has also been shown to influence migration of muscle precursors. In knock-out mice, cells delaminate and are able to migrate to form ventral muscle masses such as the diaphragm and tongue, but fail to respond to migration cues from the limb bud (Gross et al, 2000). Migration of muscle precursors also involves factors that are involved with cell adhesion and cytoskeletal organisation such as calpain (Dedieu et al, 2004) fibronectin (Brand-Saberi et al., 1993) and N-cadherin (Brand-Saberi et al., 1996). Cells that migrate to the limb bud are maintained in an undifferentiated state. Activation of Notch by Delta1 has been shown to inhibit differentiation in the chick limb, and may also act in this capacity during the migration phase (Delfini et al., 2000). BMP-4 has been shown to inhibit myogenesis during dermomyotome formation (Marcelle et al., 1997; Reshef et al., 1998) and is another candidate for inhibition of myogenesis during migration.
+
+5
+
+1.1.2.3 Muscle formation in the limb bud After migration to the limb bud, cells undergo a period of proliferation to increase cell numbers. Proliferation is associated with cells that are both Myf-5 and Pax3 positive in the chick limb bud (Delfini et al., 2000). Several factors have been implicated in this proliferative stage, including msx1, which is a homeobox factor (Houzelstein et al., 1999), hepatocyte growth factor (Yamane et al., 2004) and fibroblast growth factor (Itoh et al., 1996). The formation of skeletal muscle requires the induction of the myogenic regulatory factors (MRFs), which are members of the basic helix-loop-helix transcription factor family. They are induced and specify cells to the muscle lineage. Members of this family have a conserved DNA binding domain that recognises Ephrussiboxes (E-boxes) within the promoters of most myogenic genes. They also contain a heterodimerisation site that allows them to form dimers with other members of the E-protein family and bind to the consensus DNA binding site of CANNTG (Weintraub et al., 1991; Olson and Klein, 1994; Rudnicki and Jaenisch 1995). The first of these family members to appear in the mouse embryo limb bud is Myf-5, followed by myogenin and MyoD, then MRF4 (Hannon et al., 1992). MyoD and Myf-5 appear to be involved in the specification of myoblast precursors and have partially overlapping roles in myogenesis. Lack of either factor does not result in a loss of skeletal muscle although Myf-5-null mice die from rib defects (Braun et al., 1992; Rudnicki et al., 1992). Double MyoD/Myf-5 knock-out mice completely lack myoblasts and differentiated muscle fibres (Kablar et al., 2003), indicating that either factor is sufficient to specify cells to the myogenic lineage. Myogenin is required for terminal differentiation of myoblast cells. Mice that lack this factor form very little skeletal muscle yet still have myogenic cells in the limb buds (Nabeshima 6
+
+et al., 1993). The expression of MRF4 has an early peak in the embryo before it tapers off, only to be expressed again after myogenin (Lin-Jones and Hauschka, 1996). MRF4 expression in skeletal muscle continues to remain high from this point and is expressed throughout adult life (Hinterberger et al., 1991). MRF4 plays a role similar to myogenin during myogenesis. In myogenin-null mice muscle fibre formation can be restored by constitutively expressed MRF4 (Sumariwalla and Klein, 2001). More recently, two MRFs have been shown to interact with chromatin remodelling enzymes in the process of initiating myogenic gene transcription. Myogenin acts by cooperating with Mef2D and Brg1 chromatin remodelling enzymes to alter the chromatin around the promoters of myogenic genes, making transcription of these genes more likely (Ohkawa et al., 2006). MyoD also targets Brg1 chromatin remodelling enzymes to the promoters of approximately one third of MyoD induced genes. It has been theorised that MyoD activates myogenin by binding to Pbx sites in conjunction with Pbx1/Meis proteins. After chromatin structure is altered, MyoD is then capable of binding to the E-box sites of the promoter and inducing transcription (de la Serna et al., 2005).
+
+Once commitment to the myogenic lineage and terminal differentiation occurs, myoblasts fuse together in two waves to form primary and secondary fibres. Primary myotubes begin to form in the mouse extensor digitorum longus (EDL) by embryonic day-12 (E-12) (Ontell and Kozeka, 1984a), in the mouse soleus by E-14 (Ontell et al., 1988) and in the rat lumbrical muscle by E-15 (Ross et al., 1987). There is a lag time of two days after the formation of the primary myofibres before the formation of secondary fibres occurs. Secondary fibres initially form in close association with primary fibres and as they mature they 7
+
+disassociate from the primary fibre. A single primary fibre may have secondary fibres of varying maturity associated with it (Ontell and Kozeka, 1984a; Ontell and Kozeka, 1984b; Ross et al., 1987; Ontell et al., 1988).
+
+The association of myoblasts and their fusion to form myotubes requires several cell adhesion molecules. Neural cell adhesion molecule (NCAM) is up-regulated as myotubes begin to form and incubation of myoblasts with antibodies against this molecule prevents aggregation of fusion competent myoblasts. Both Ncadherin and M-cadherin are expressed in myoblasts and are up-regulated at the beginning of myoblast fusion. Other cell adhesion molecules, such as ADAM12 (a disintegrin and metalloproteinase) and the integrin VLA-4 are expressed on myoblasts at the time of myotube formation (Abmayr et al., 2003). Although animals that have had NCAM and N-cadherin knocked-out have been generated, these animals are normal and fertile, indicating that other molecules involved in the fusion process are capable of compensating for their loss (Abmayr et al., 2003). More recently other molecules involved in the fusion process have been identified. Myoferlin and dysferlin are required for myoblast fusion. In the case of myoferlin-null animals, myotube formation is impaired, although muscle still forms, indicating that other members of this family, or other adhesion molecules compensate for its loss (Doherty et al., 2005). Melanoma cell adhesion molecule (M-CAM) has also been shown to be involved in the fusion process. However, it is the down-regulation of this molecule that allows fusion to occur, not the upregulation as seen with other molecules (Cerletti et al., 2006).
+
+8
+
+1.2: The Satellite Cell
+Post-natal Muscle growth and regeneration
+
+1.2.1 Satellite cell physiology The satellite cell is a myogenic precursor cell that is responsible for the growth and repair of skeletal muscle during post-natal life. Satellite cells were first identified by Katz (1961) in frog muscle and have since been shown to exist in all vertebrate muscle. Quiescent satellite cells are mono-nuclear and are located at the outside edge of mature myofibres, between the fibre and the basal lamina (Figure 1.2). Other distinguishing anatomical features that identify the satellite cell are a high nuclear-to-cytoplasmic ratio, an increase in nuclear heterochromatin and a smaller nuclear size compared to myonuclei. As satellite cells activate they appear as swellings on the myofibre with cytoplasmic processes extending from the poles. They undergo an increase in the nuclear-tocytoplasm ratio and have more intracellular organelles (Schultz and McCormick, 1994). Satellite cells that are associated with muscle fibres appear at embryonic day-19 in the mouse (Cardasis and Cooper, 1975). The dorsal dermomyotome, which during embryogenesis provides the precursor cells for the limb musculature, also provides the cells that populate the satellite cell niche (Gros et al., 2005).
+
+Satellite cells can not be identified using phase contrast light microscopy. Immunocytochemistry allows for identification of these cells by the expression of several gene products. Two recently characterised markers for satellite cells are Sca-1 and CD34. Stem cell antigen-1 (Sca-1, also known as Ly-6A) was first identified in the haematopoietic system as an antigen that allowed for 9
+
+purification of stem cells from bone marrow (Spangrude et al., 1988). Sca-1 expression is also found within the spleen, thymus, kidney and within the vasculature of the brain, heart and liver (van de Rijn et al., 1989). More recently Sca-1 has been identified on cells from mouse carcinomas, sarcomas and melanomas (Lollini et al., 1992), on murine oesteoblasts (Horowitz et al., 1994) and liver sinusoidal endothelial cells (Luna et al., 2004). The gene family to which Sca-1 belongs (the Ly-6 family) is located on chromosome 15 (LeClair et al., 1987). Sca-1 is a membrane protein attached to the membrane via a glycosylphospha-idilinositol moiety. This attachment has been shown to be essential for Sca-1 to activate T-cells (Su et al., 1991).
+
+Sca-1 has also been identified in muscle. Jankowski et al. (2001) showed that Sca-1 is expressed on the surface of some muscle derived stem cells. Shen et al. (2003) identified Sca-1 as being up-regulated 19.5-fold at the beginning of C2C12 differentiation. Sca-1 was expressed by a sub-population of differentiating C2C12 cells at the time of cell cycle withdrawal. Blocking Sca-1 expression with antibodies resulted in cells that remained proliferative and did not form myotubes (Epting et al., 2004). Mitchell et al. (2005) also described two myoblast populations, one that was Sca-1 negative and proliferated rapidly and underwent differentiation, and one that was Sca-1 positive and proliferated slowly and did not readily differentiate. They hypothesised that Sca-1 allows a subset of cells to remain in an undifferentiated state much like that of the reserve cell population described by Yoshida et al. (1998).
+
+CD34 is a cell surface glycophosphoprotein member of the sialomucin family of surface molecules. It was discovered during the development of antibodies that 10
+
+recognise subsets of marrow cells but not mature blood or lymphoid cells. CD34 exists as a splice variant. The full length form is made from exons one through eight of the gene, and has a 73 amino acid intracellular domain. The truncated form is made when exon X is inserted between exons seven and eight, introducing a premature stop codon. The resulting truncated protein has only a 16 amino acid intracellular domain. Characterisation of the function of CD34 is not complete, but several roles have been theorised based on the homology CD34 has with other proteins. CD34 is thought to be involved in cell-cell adhesions and in haematopoietic cell differentiation. CD34 is expressed by early lymphohematopoietic stem and progenitor cells, small vessel endothelial cells and embryonic fibroblasts (Krause et al., 1996).
+
+More recently, CD34-positive cells have been found within adult tissues not of haematopoietic origin. CD34 positive cells have been identified as fibroblasts within human breast tissue (Yamazaki and Eyden, 1995) and as fibroblasts associated with the interstitial cells of Cajal in the human intestine (Vanderwinden et al., 1999). CD34 is used as a marker of muscle-derived stem cells. These cells are capable of participating in skeletal muscle repair, as shown by the expression of dystrophin in dystrophin-deficient (mdx) mice (Lee et al., 2000; Torrente et al., 2001). CD34-positive cells, isolated from mouse muscle by adherence characteristics, have a decreased fusion index compared to CD34negative cells yet are capable of restoring dystrophin expression in mdx muscle to a greater degree (Jankowski et al., 2002). CD34 has also been used as a marker of quiescent satellite cells. Beauchamp et al. (2000) showed that CD34 was expressed by quiescent satellite cells. These cells also expressed Myf-5, indicating that they were committed to the myogenic lineage, and m-cadherin, a 11
+
+known satellite cell marker. Thus CD34 is both a marker of satellite cells and of a population of muscle-derived stem cells.
+
+Other markers of satellite cells have been identified by several different groups. Cornelison and Wold (1997) showed that c-met receptor tyrosine kinase was expressed by both the quiescent and activated cells seen in fibre culture and in mononucleated muscle-derived cells. Syndecan 3 and 4 from the syndecan family of heparan sulphate proteoglycans are also expressed specifically in satellite cells (Cornelison et al., 2001). Satellite cells can be marked by the levels of lipid components in their plasma membranes. Nagata et al. (2006) showed that quiescent satellite cells bound lysenin to their plasma membrane, while activated satellite cells and myotubes did not. Garry et al. (1997) demonstrated that myocyte nuclear factor (MNF) was expressed persistently only in quiescent satellite cells and that as cells are activated, the expression declines. Sox8 has persistent expression in satellite cells and proliferating muscle precursor cells, before down-regulation during differentiation (Schmidt et al., 2003). Caveolin-1 has recently been identified on quiescent satellite cells, and its expression is down-regulated as they are activated (Volonte et al., 2005). M-cadherin, a member of the calcium dependent cell adhesion molecule family, has also been identified as a marker of satellite cells. Beauchamp et al. (2000) showed that 80% of quiescent satellite cells express M-cadherin, while Wernig et al. (2004) have demonstrated that up to 94% of cells occupying the satellite cell niche were positive for M-cadherin. Myf-5 has also been shown to be expressed by at least 80% of quiescent satellite cells (Beauchamp et al., 2000). In situ hybridisations have revealed that Pax7 localises to satellite cells and
+
+12
+
+Western blot analysis indicates that this protein is also expressed in proliferating muscle precursor cells (Seale et al., 2000).
+
+Figure 1.2: Satellite cell position on myofibres Satellite cells reside between the basal lamina and the myofibre membrane (sarcolemma). Hawke and Garry, 2001.
+
+13
+
+1.2.2 Satellite cell function Satellite cells are a distinct lineage of myogenic precursors that are responsible for the growth of muscle during post-natal life and for its repair after damage. During muscle growth and regeneration satellite cells are activated in response to growth signals from the environment, which induce the expression of one or both of the two MRFs, Myf-5 or MyoD. Proliferating satellite cells will all express MyoD and some maintain Myf-5 expression (Cooper et al., 1999). These transcription factors go on to activate transcription of myogenic genes. Activated satellite cells can migrate from different areas of muscle to proliferate and participate in repair. The myoblasts can then adopt one of two fates. Some myoblasts initiate terminal differentiation and are able to either fuse into existing myofibres to repair them, or fuse with other myoblasts to form new fibres. Other myoblasts do not differentiate but instead return to quiescence and adopt a satellite cell position on repaired or newly formed fibres (Hawke and Garry 2001). Figure 1.3 illustrates this process. The mechanisms controlling satellite cell activation, proliferation, differentiation and self-renewal are discussed in the following sections.
+
+14
+
+Figure 1.3: Satellite cell function In response to activating signals, such as myotrauma, satellite cells activate, proliferate and differentiate to repair muscle. Hawke and Garry, 2001.
+
+15
+
+1.2.3 Regulation of satellite cell activation, proliferation and differentiation For satellite cells to play a role in the post-natal growth and repair of muscle they must be activated, migrate to the site of growth or injury, and proliferate before entering terminal differentiation. Various growth factors play roles in these processes, both as positive and negative regulators. Injured fibres produce many of the factors involved.
+
+Hepatocyte growth factor (HGF), the ligand for the c-met receptor, is expressed during muscle injury. The expression of HGF is proportional to the extent of muscle damage and exogenous injection of HGF into undamaged muscle of rats activates satellite cells (Tatsumi et al., 1998). Addition of exogenous HGF to regenerating muscle increases the number of satellite cells present, but depending on the time of injection can delay the regeneration process by inhibition of differentiation (Miller et al., 2000). HGF-mediated increases in satellite cell proliferation are dose dependent (Gal-Levi et al., 1998). Caveolin-1 has recently been identified as a marker of quiescent satellite cells and is a downstream target of HGF signalling. HGF signalling down-regulates caveolin1 as a part of normal satellite cell activation (Volonte et al., 2005).
+
+Insulin-like growth factors (IGF) I and II both play a role in the activation of satellite cells. IGF-I is involved in activation of satellite cell proliferation via the IGF-I receptor (Yang and Goldspink, 2002). IGF-I stimulates proliferation and differentiation of myoblasts and can activate satellite cells, causing hypertrophy (Florini et al., 1996; Gal-Levi et al., 1998). More recently the IGF-I transcript has been shown to be alternately spliced into two different isoforms. One form, called mechano-growth factor, peaks one day after mechanical injury to muscle 16
+
+and activates satellite cells and enhances their proliferation. IGF-IEa, the canonical form of IGF-I, peaks seven days after injury and enhances both proliferation and differentiation of the activated satellite cells (Yang and Goldspink 2002; Hill and Goldspink, 2003). IGF-II has been shown to stimulate myoblast differentiation at low concentrations and inhibit differentiation at high concentrations (Florini et al., 1996). IGF-II also influences regeneration of skeletal muscle after injury. The first stages of regeneration after injury are delayed by IGF-II treatment. However, late regeneration, when fibre enlargement occurs, is enhanced by IGF-II treatment (Kirk et al., 2003).
+
+Fibroblast growth factor (FGF) isoforms 1, 2, 4, 6, and 9 all act to stimulate myoblast proliferation (Sheehan and Allen, 1999), while reducing satellite cell differentiation (Spizz et al., 1986). FGF-2, like HGF, is released during muscle injury in proportion to the extent of injury (Clarke et al., 1993). When FGF-2 is neutralised with antibodies, the number of regenerating fibres in damaged muscle is decreased (Lefaucher and Sebille, 1995).
+
+Nitric oxide (NO) may be a mediator of satellite cell activation. Inhibition of nitric oxide synthase (NOS) is capable of inhibiting injury induced satellite cell activation. NOS activity is reduced in dystrophic muscle (Anderson, 2000) and addition of an NO donor to dystrophic muscle that has been damaged with bupivacaine significantly improves the regeneration of the muscle (Marques et al., 2005).
+
+Vascular endothelial growth factor (VEGF) receptors Flk-1 and Flk-2 are predominantly expressed on quiescent satellite cells of normal muscle. After 17
+
+induction of muscle injury via ischemia they are present on activated satellite cells as well as newly formed myofibres, but very rarely on mature fibres. VEGF is a chemo-attractant for myoblasts and increases the differentiation of C2C12 cells in culture. VEGF is capable of reducing the number of apoptotic cells during differentiation, indicating that it acts as a survival factor for myoblasts (Germani et al., 2003).
+
+Leukaemia inhibitory factor (LIF) is a cytokine that belongs to the interleukin 6 family. It is capable of inhibiting myoblast differentiation in vitro (Jo et al., 2005) and administration to undamaged muscle is capable of increasing muscle fibre size (Gregorevic et al., 2002). LIF appears to act as a myoblast survival factor (White et al., 2001a). Addition of LIF to dystrophic mice that have received donor myoblasts results in an increase in donor derived dystrophin expression and improves the regeneration of the muscle (White et al., 2001b). LIF has also been shown to enhance regeneration in normal mice. Barnard et al. (1994) showed that administration of LIF to the site of a crush injury resulted in an increased regeneration rate and hypertrophy.
+
+Notch signalling plays a role in the regulation of satellite cell activation, proliferation and differentiation during muscle growth and repair. The repair of aged muscle can be restored to the levels seen in young mice by forced activation of the Notch receptor by antibodies against it (Conboy et al., 2003). Notch signalling inhibits MyoD expression and results in a population of cells that proliferate (Kopan et al., 1994). Inhibition of Notch signalling, by antagonists such as Numb, allows the myogenic program to be activated and commitment of the muscle precursors to occur (Nofziger et al., 1999; Conboy 18
+
+and Rando, 2002). Inhibition of Notch signalling influences the self-renewal of satellite cells, and is capable of inducing myotube hypertrophy in cell culture by recruiting a sub-population of reserve cells into committed myogenensis (Kitzmann et al., 2006).
+
+Macrophages play an important role in muscle regeneration after injury. After injury muscle releases chemo-attractant cytokines and growth factors for macrophage and polymorphonuclear leukocyte migration and proliferation (Robertson et al., 1993). One such chemo-attractant is TNF- , which has been shown by Chen et al. (2005) to be required for muscle regeneration. Although in some circumstances expression of TNF- can cause cachexia (Tracey et al., 1990), the expression of TNF- in muscle increases due to myofibre injury (Zador et al., 2001). Blockade of TNF- signalling by a double knock-out of the TNF- receptors resulted in regeneration defects due to a lack of p38-mediated signalling events.
+
+Both neutrophils (Kuipers et al., 1983) and macrophages expressing the ED1+ and ED2+ antigens are involved with phagocytosis of damaged myofibres and cellular debris (Honda et al., 1990; Massimino et al., 1997). Macrophages secrete several factors, including LIF and FGF, to attract satellite cells to the site of injury and enhance their proliferation and differentiation (Robertson et al., 1993; Massimino et al., 1997). Depletion of the macrophage population by irradiation prior to muscle transplants abolishes regeneration in the host (Lescaudron et al., 1999). Macrophages have also been proposed to provide structural support for muscle precursor cells which can aid their growth and
+
+19
+
+prevent susceptibility to apoptosis through secretion of soluble mitogenic factors and cell contact-mediated survival signals (Chazaud et al, 2003).
+
+Syndecan-3 and syndecan-4, which are co-receptors for tyrosine kinases, have been shown to be expressed by satellite cells. Syndecan-3-null mice display a dystrophic phenotype, and isolated satellite cells show defects in MyoD nuclear localisation and thus differentiation. Syndecan-4-null mice do not display an overt dystrophic phenotype but their satellite cells have an impaired ability to activate, proliferate, fuse and differentiate, and like the syndecan-3-null cells they have MyoD localisation defects. Thus signalling through these receptors is necessary for correct satellite cell behaviour (Cornelison et al., 2004).
+
+Transforming growth factor-beta (TGF- ), a member of the TGF- superfamily, is a regulator of myogenensis. Several groups have reported that TGF- is an inhibitor of myoblast differentiation in cell culture (Florini et al., 1986; Massague et al., 1986; Olson et al., 1986). TGF- is also capable of inhibiting satellite cell proliferation and satellite cell differentiation (Allen and Boxhorn, 1987). Allen and Boxhorn (1989) showed that TGFcannot reduce
+
+proliferation in the presence of mitogens such as IGF-I and FGF, although inhibition of differentiation was maintained. Thus the role of TGF- in postnatal myogenesis and regeneration is to enhance satellite cell accumulation by inhibition of premature differentiation. Bone morphogenic protein (BMP), another member of the TGF- super-family, also inhibits terminal differentiation of myoblasts, by decreasing the activity of MyoD and myogenin (Katagiri et al., 1997).
+
+20
+
+Myostatin, also known as growth/differentiation factor-8 (GDF-8), is also a member of the TGF- superfamily. Myostatin shares many characteristics with the TGF- family members. It has a hydrophobic amino acid core that acts as a secretion signal, conserved cysteine residues at the c-terminus, and a proteolytic processing site (Arnold et al., 2001; Sharma et al., 2001). The Belgian Blue and Peidmontese cattle breeds are characterised by heavy muscling and both have natural mutations in the myostatin gene (Kambadur et al., 1997; McPherron et al., 1997). Myostatin is synthesised as a precursor protein (52 kDa) and proteolytically processed to form a 26 kDa mature peptide in myoblasts. The mature myostatin protein is then secreted from the myoblasts (Thomas et al., 2000). In vitro myostatin negatively regulates both proliferation and differentiation of myoblasts through two mechanisms. Proliferation is inhibited by up-regulation of p21, a cyclin-CDK inhibitor, causing some of the myoblasts to arrest in the G1-phase of the cell cycle (Thomas et al., 2000). Inhibition of differentiation in myoblasts occurs through a Smad3 dependent down-regulation of MyoD (Langley et al., 2002).
+
+Myostatin is a negative regulator of satellite cells at many levels. Skeletal muscle of myostatin-null mice contains more satellite cells per fibre than wildtype mice. These satellite cells also have a greater propensity to activation and proliferation than cells isolated from wild-type mice (McCroskery et al., 2003). More recently McCroskery et al. (2005) have demonstrated in an ex vivo system that the presence of myostatin inhibits the activation of satellite cells on isolated muscle fibres, maintaining the quiescent state. Myostatin also prevents chemotaxis of satellite cells and macrophages, inhibiting their ability to participate in regeneration events after muscle damage. After muscle injury, 21
+
+myostatin-null mice have twice the number of myogenic cells, identified by MyoD at the site of injury than wild-type mice. Healing is more complete with less fibrosis and scar tissue when myostatin is absent (McCroskery et al., 2005).
+
+1.2.4 Satellite cell heterogeneity Studies of satellite cells on isolated fibres have shown that they can be divided into two populations based on the time taken to complete the cell cycle. The majority (80%) take 32 hours to complete the cell cycle, while the remaining cells divide much more slowly (Schultz, 1996). Satellite cells also display heterogeneity with respect to fusion ability. Highly proliferative satellite cells predominantly fuse with existing myofibres, while slowly proliferating satellite cells predominantly fuse together (Rouger et al., 2004). Distinct sub-populations of cells can be derived from satellite cell culture. When C2C12 cells are induced to differentiate a proportion of the cells commit to terminal differentiation, while a different population withdraw from the cell cycle and do not differentiate. Isolation and culture of undifferentiated cells results again in the formation of two populations of cells, one differentiated, one undifferentiated (Yoshida et al., 1998). Satellite cells also exhibit this heterogeneity with respect to proliferation (Barani et al., 2003) and fusion (Baroffio et al., 1996), indicating that the C2C12 culture is a good in vitro model of satellite cells. In addition to the heterogeneity seen with respect to cell cycle time, fusion and ability to terminally differentiate, satellite cells differentially express satellite cell markers such as CD34 and Myf5, as described in Section 1.2.1.
+
+22
+
+1.2.5 Satellite cell self-renewal To maintain the capability of muscle to repair during post-natal life the pool of cells responsible for this repair, the satellite cells, must be maintained. Satellite cells are persistent in degenerative myopathies such as muscular dystrophy, indicating an ability to self-renew (Bischoff, 1994). Pathways involved for selfrenewal of satellite cells are complex, as the cell must either withdraw from a proliferative state to G0 or undergo cell cycle arrest at the G1/S transition.
+
+Evidence for self-renewal has come from cell labelling studies. When cells expressing a nuclear localising LacZ gene are injected into dystrophic muscle, nuclei that stain positive for -Gal staining are derived from donor nuclei.
+
+Nuclei staining positive are found not only within existing myofibres, but within the satellite cell niche. Isolation and culture of these cells gives rise to further myoblasts, indicating that they are functional satellite cells (Blaveri et al., 1999; Heslop et al., 2001). Evidence for a role of the MRF's in self-renewal has come from studies of MyoD-null mice. MyoD-null cells have higher levels of Myf-5, display differentiation defects, and have an increased tendency towards selfrenewal than wild-type cells. One theory to account for this is that Myf-5 is involved in specification of the cells towards self-renewal (Megeney et al., 1996; Sabourin et al., 1999). Pax7 may also be involved in satellite cell selfrenewal or muscle-stem-cell specification. Pax7-null mice appear to completely lack satellite cells yet they still have a population of cells called side population cells (SP). SP cells from normal mice, when cultured under certain conditions, will give rise to cells from both the haematopoietic and the myogenic lineages. SP cells from the Pax7-null mice have an increased tendency towards forming haematopoietic colonies, indicating that Pax7 is involved in satellite cell 23
+
+specification
+
+(Asakura
+
+et
+
+al.,
+
+2002).
+
+Dedifferentiation
+
+of
+
+terminally
+
+differentiated cells may be another way in which the satellite cell niche is repopulated. Forced expression of msx1, a homeobox transcription factor, in C2C12 myoblast lines is capable of causing myotubes to cease expression of MRF's and give rise to proliferating mononuclear cells (Odelberg et al., 2000).
+
+Asymmetrical cell division, which results in one daughter cell adopting a differentiation committed state and the other returning to quiescence is proposed to be a mechanism allowing myoblasts to self renew. Zammit et al. (2004) have shown that the majority of satellite cells co-express Pax7 and MyoD after activation. Some of these cells will down-regulate Pax7 and differentiate, while others maintain Pax7, down-regulate MyoD and withdraw from differentiation, presumably to repopulate the quiescent satellite cell niche. Notch signalling is also coming to be understood as a regulator of satellite cell quiescence. Proliferative progeny of satellite cells localise Numb, an inhibitor of Notch signalling, asymmetrically during division, with one daughter cell becoming Numb+ and one becoming Numb-. Numb+ cells go on to express markers of myogenic commitment, such as Myf-5 and desmin, while Numb- cells retain Pax3 expression and may re-enter the quiescent state (Conboy and Rando, 2002). Self-renewal of satellite cells is negatively regulated by myostatin. Myostatin-null mice have a higher proportion of CD34-positive cells per unit fibre length than their wild-type counterparts, indicating that activated satellite cells have self-renewed to a greater extent than seen in wild-type mice (McCroskery et al., 2003).
+
+24
+
+1.2.6 Other sources of myogenic precursors Other possible sources of myogenic precursors that participate in muscle regeneration have been identified. Mouse neural tube (Tajbakhsh et al., 1994), the periventricular region of the mouse brain (Galli et al., 2000) and human adipose tissue (Zuk et al., 2001) all contain cells that are capable of expressing myogenic markers. The haematopoietic system is another possible source of myogenic cells. Circulating AC133+ cells isolated from blood can express the myogenic markers Myf-5, M-cadherin and Pax7, and will differentiate into muscle when co-cultured with committed myogenic cells (Torrente et al., 2004). Ferrari et al. (1998) reported that donor bone-marrow-derived nuclei that stained positive for -Gal were present within muscle fibres of regenerating TA of immune deficient mice, although at a lower frequency than that seen in control muscles injected with donor satellite cells. Recently, however, some doubt has been present as to the extent that bone-marrow derived cells can participate in functional restoration of muscle. Lapidos et al. (2004) demonstrated that bone marrow derived cells could fuse with existing myofibres, but their ability to produce muscle specific genes to alleviate a muscular dystrophy phenotype was impaired.
+
+A different source comes from a lineage of CD45+ cells that reside within the muscle. These cells, called side population (SP) cells for their ability to exclude Hoechst dye, are found in all muscle including that from Pax7-null mice which lack satellite cells. SP cells from normal mice will form haematopoietic colonies in cell culture when cultured alone, and differentiate into myotubes when cocultured with committed myogenic precursors (Asakura et al., 2002). SP cells are also able to undergo myogenic commitment during regeneration in response 25
+
+to Wnt signalling (Polesskaya et al., 2003). Induced muscle damage increases the number of CD45+ cells present, and a large number of these can acquire myogenic potential (Seale et al., 2003).
+
+26
+
+1.3 Mighty
+
+1.3.1 Discovery and characterisation of Mighty Novel downstream targets of myostatin have been identified by the Functional Muscle Genomics (FMG) Laboratory, AgResearch, Ruakura, in order to elucidate the mechanisms by which myostatin is able to negatively regulate muscle mass. One of the target genes, identified as being up-regulated 58% in myostatin-null mice by suppressive subtraction hybridisation, is a cDNA that has been called Mighty. At the time of discovery the protein encoded by this cDNA had no known function. Characterisation of the Mighty gene by homology searches, calculations of the theoretical size and pI of the protein, secondary structure predictions, protein domain homology searches, prediction of post-translational modifications and subcellular localisation predictions have all been carried out.
+
+Mighty has been shown by Northern analysis to be up-regulated specifically in mouse skeletal muscle, from a 48% increase in the m. gastrocnemius (the lowest increase seen) to a 106% increase in the m. masseter in mice. The mouse Mighty cDNA shares 96% and 89% homology and the protein shares a 98% and 93% homology with the rat and the human respectively. Conservation of the Mighty sequence is seen to some extent throughout the animal kingdom, implying that the function of Mighty is biologically important. Mouse Mighty has been located to chromosome four and contains five exons and four introns. The predicted protein size is 22 kDa and the protein should have a pI of 8.91. There is a high probability that the protein is localised to the nucleus, however, any DNA binding domains are yet to be characterised. Several possible 27
+
+phosphorylation sites exist within the protein, along with two possible myristoylation sites.
+
+The Mighty protein is predicted to have a secondary structure that consists of three -helices. Tertiary structure is difficult to predict as the sequence has little homology with proteins of known function. A possible forkhead domain is predicted for Mighty, but as it shares little homology with known proteins of this kind it is likely to be either a distantly related or a novel member of this family (Bishop, 2005).
+
+1.3.2 Mighty cellular localisation Results (unpublished) from the Functional Muscle Genomics Laboratory show that endogenous Mighty protein localises to speckles in the nucleus, to perinuclear regions and to the endoplasmic reticulum. Mighty has been shown to be co-localised with lamin, a protein of the nuclear lamina in the nuclear speckles. This localisation of Mighty with lamins, which have been shown to bind DNA at matrix attachment regions (MARs) (Luderus et al., 1992, 1994) of regulatory DNA sequences (Boulikas, 1994, 1995), may be a possible mechanism for Mighty to regulate gene expression.
+
+1.3.3 Mighty over-expression Over-expression of Mighty in the C2C12 cell line causes myoblast hypertrophy but does not affect the rate of cell proliferation as measured by methylene blue assay. Mighty over-expressing clones show an enhanced fusion phenotype and the resulting myotubes are hypertrophied. Regulatory molecules of
+
+differentiation, such as MyoD and Myogenin, are up-regulated earlier in the 28
+
+Mighty over-expressers. The differentiation marker myosin heavy chain (MHC) is seen earlier than in control cells. Conditioned media taken from Mighty clone cultures has the ability to alter the phenotype of normal C2C12 cells to one like that of the over-expressers (Bishop, 2005).
+
+1.3.4 Mighty promoter regulation The Mighty promoter region has been shown to extend -1963 to +129 bp around the transcription start site. Promoter activity analysis indicates that the minimal promoter required extends from -158 to +129. Activity of the promoter decreases as more upstream elements are added, indicating that repressive as well as enhancer elements are found in these regions. Prediction of transcription factor binding sites suggest that the promoter contains TATA sequences, Sp1 binding sites, AP-1 binding sites, E-box motifs, two of which are MyoD specific, GATA binding motifs, an E2F binding site, a NF B binding site, an E4BP binding site, an E47 binding site, MZF1 binding sites and AML-1a sites.
+
+As expected, myostatin treatment is able to down-regulate the Mighty promoter in a dose-dependent fashion. Treatment of truncated fragments of the promoter with myostatin indicated that very little (80 bp upstream of transcription initiation) is required for myostatin-regulated inhibition. Further studies have shown that one pathway through which myostatin down-regulates the Mighty promoter is by binding to the ActIIB and ALK5 receptors which causes formation of inhibitory Smad 2/3 complexes. Myostatin is also able to negatively regulate the Mighty promoter via the MEK and pI3K pathways (Bishop, 2005).
+
+29
+
+1.4: Aims and Objectives
+
+Satellite cells play an important role in post-natal growth and regeneration of muscle. Myofibre nuclei are post-mitotic and as such are unable to proliferate to meet an increase in muscle demand during growth and exercise-induced hypertrophy. Satellite cells are also activated after muscle injury, in response to various stimuli, to participate in the repair of damaged muscle fibres. Several factors regulate satellite cell activation. An important negative regulator of muscle satellite cells is myostatin. Lack of myostatin in myostatin-null mice results in larger muscles than their wild-type counterparts, with a larger pool of activated satellite cells that remain in the cell cycle longer before withdrawing for terminal differentiation. A genetic screen performed on myostatin-null and wild-type mouse muscle identified a novel gene `Mighty' which is up-regulated in the knock-out muscle.
+
+Mighty is a putative transcription factor that is up-regulated between 48% and 106% in the skeletal muscles of myostatin-null mice. Mighty is a putative transcription factor that has been shown to be involved in muscle hypertrophy. Over-expression of Mighty in C2C12 cells results in an enhanced fusion and hypertrophic phenotype (Bishop, 2005). Thus our hypothesis is that Mighty is a transcription factor involved in the activation of satellite cells for growth and regeneration, like MyoD and Myf-5. The aims of this thesis were to firstly characterise the expression of Mighty in both quiescent and activated satellite cells from wild-type and myostatin-null mice, secondly to characterise Mighty expression during muscle regeneration, and thirdly to look at the effect of
+
+30
+
+Mighty over-expression on the reserve cell population of C2C12 cells as an in vitro model of satellite cells.
+
+31
+
+Chapter Two
+Materials and Methods
+
+2.1 Materials
+2.1.1 Oligonucleotide primers for PCR amplification Oligonucleotide primers were designed for use in Polymerase Chain Reaction (PCR) amplifications to generate the respective gene products, and were obtained from Invitrogen. All oligonucleotides were re-suspended in 100 µl of sterile water and stored at -20oC. Primers were diluted to 10 µM with sterile water for use in PCR reaction. All diluted primer aliquots were stored at -20oC. The primers used are described in Table 1.
+
+Table 1: Oligonucleotide Primers Gene Primer Sequence (5` to 3`) Mighty Fwd: TGAAGCGGCCCATGGAGTTC CD34 Sca-1 MyoD Tubulin
+Rev: GGTGGGCTGGTCCTTCTTCA Fwd: AGCACAGAACTTCCCAGCAA Rev: CCTCCACCATTCTCCGTGTA Fwd: CGAGGGAGGGAGCTGTGAGGTT Rev: GAGGGCAGATGGGTAAGCAAAGAT Fwd: CGGCGGCAGAATGGCTACGA Rev: TGCAGTCGATCTCTCAAAGC Fwd: GCTTCTTGGTTTTCCACAGC Rev: CATGGTAGGCTTTCTCAGCA
+
+Primer source Designed in house Trunc:416 Ref 12 Full: 250 285 Ref 103 350 450 Ref 98 Designed in house
+
+Product size (bp) 350
+
+2.1.2 Mammalian cell lines C2C12 myoblasts (Yaffe and Saxel, 1977) were used for myotube and reserve cell enrichments and were sourced from the American Type Culture Collection (ATCC). C2C12 cell lines over-expressing a Mighty gene construct were made in house. All cells were grown in Dulbecco's modified eagle medium (DMEM) +
+
+32
+
+10% fetal bovine serum + 20% horse serum for proliferation and in DMEM + 2% horse serum for differentiation, at 37oC/5% CO2.
+
+2.1.3 Animals Female and male wild type mice, strain C57BL/10, used in these experiments were bred at the Ruakura Small Animal Colony. Male and female myostatinnull mice, originally sourced from Se-Jin Lee (Johns Hopkins University, Baltimore, USA), were also bred in the Ruakura Small Animal Colony. All mice used in the study were 4-6 weeks of age. Animals were kept at constant temperature (20-22oC) with a natural day/night cycle and food and water ad libitum. All animal manipulations were carried out according to the standard operating procedures approved by the Ruakura Animal Ethics Committee.
+
+2.1.4 Antibodies Antibodies used for immunocytochemisty (ICC) or Western blot in this thesis are described in Table 2.
+Table 2: Antibodies
+
+Antibody Mighty Mighty MyoD Desmin
+
+Source QED Biosciences QED Biosciences Santa Cruz Biotechnology Sigma Aldrich
+
+Use Western Cell ICC Tissue ICC Cell ICC Cell ICC
+
+Dilution 1:5000 1:200 1:100 1:100 1:200
+
+2.1.5 Solutions Common solutions used were made according to Ausubel et al. (1987), Sambrook et al. (1989) and/or Lillie (1965) and are listed in the Appendix.
+
+33
+
+2.2 Methods
+
+2.2.1 Isolation of satellite cells using Percoll gradients Quiescent satellite cells were isolated from hind-limb muscle of mice using a protocol adapted from Yablonka-Reuveni and Nameroff (1987).
+
+Four to five week old mice were euthanised by CO2 aspyhxiation and cervical dislocation. The entire hind limb muscle was dissected out and weighed. Approximately 2 g of muscle was used per Percoll (Sigma Aldrich) column as described below. The muscle was thoroughly minced using a scalpel in PBS then transferred to a 50 ml tube and centrifuged at 600 rcf at room temperature for five minutes before being digested in Dulbecco's modified eagle medium (DMEM) without serum and containing 0.2% collagenase Type 1A at 37oC and with constant shaking (70 rpm). After 90 minutes of digestion, 10 ml PBS was added to each digest followed by centrifugation at 1400 rcf. The supernatant, containing the collagenase, was removed and replaced with 10 ml PBS, and then the slurry was triturated for five minutes before being passed through a 70 µm filter. The filtered cells were centrifuged at 1400 rcf for ten minutes before resuspension in 3 ml PBS. During centrifugation, a 90% Percoll solution was made from 9 parts Percoll to 1 part 10x PBS. Percoll solutions of 40% and 70% were made from the 90% Percoll using sterile 1x PBS, then used to create a gradient by underlying 3 ml of 40% Percoll with 3 ml of 70% Percoll in a 15 ml tube. The cell suspension was laid on top of the gradient, and then the gradient was centrifuged in a Sorval RC-3B refrigerated centrifuge in a H2000B rotor at 1450 rcf for 20 minutes at 25oC without a brake. The top layer of the gradient containing fibroblasts and debris was discarded, and then the satellite cells from 34
+
+the 70%/40% interface were removed to a clean 15 ml tube. The cells were washed with PBS then centrifuged at 1700 rcf for ten minutes. This wash step was repeated two to three times. Cells were re-suspended either in protein lysis buffer for Western analysis or in Trizol (Invitrogen) for RNA extraction.
+
+2.2.2 Isolation of satellite cells by adherence to Matrigel coated plates Activated satellite cells (primary myoblasts) were isolated from hind limb muscle of mice using a protocol adapted from Allen et al. (1997) and Partridge (1997).
+
+Entire hind limb muscle was dissected out and thoroughly minced with a scalpel in phosphate buffered saline (PBS). The minced muscle was transferred to a 50 ml tube and centrifuged at 600 rcf at room temperature for five minutes before being digested in DMEM without serum and containing 0.2% collagenase Type 1A at 37oC and with constant shaking (70 rpm). After 90 minutes of digestion, the sample was centrifuged at 1400 rcf for 10 minutes. The supernatant, containing the collagenase, was removed and replaced with 10 ml PBS. The slurry was triturated for 5 minutes then passed through a 100 µm filter, then a 70 µm filter. The volume of the sample was made up to 35 ml with sterile PBS then centrifuged at 600 rcf for ten minutes. After centrifugation the supernatant was removed and the cells were re-suspended in 8 ml satellite cell proliferation media. The cells were pre-plated on uncoated 10 cm Nunc cell culture Petri dishes for two hours at 37oC/5% CO2 to allow fibroblasts to attach. After preplating, the cell suspension was plated onto Matrigel-coated Nunc plates and incubated at 37oC/5% CO2 for 48 hours. After 48 hours the cells were washed with sterile PBS then trypsinised and re-suspended in Trizol (Invitrogen) for
+
+35
+
+RNA extraction and cDNA synthesis or protein lysis buffer for Western analysis.
+
+2.2.3 Notexin injection to induce muscle regeneration Both wild-type and myostatin-null mice were used in this trial. Mice were anaesthetised by intraperitoneal injection of ketamine/rompun (ketamine hydrochloride 100mg/ml, xylazine hydrochloride 20 mg/ml) at 0.1 ml per 6 g body weight. Once anaesthetised, a small incision was made in the skin above the right tibialis anterior (TA) and 0.1 µg of notexin (Notechis scutatus, Venom Supplies Pty. Ltd., Tanunda, South Australia) was injected into the muscle. At time points of day 0, 1, 2, 3, 5, 7, 14 and 28, five mice were euthanised by CO2 asphyxiation and cervical dislocation and had both the treated and control (contra-lateral) TA removed. The muscles from three mice were frozen in liquid nitrogen for RNA extraction. The muscles from the remaining two mice were fixed for tissue sectioning. Tissues were coated in Tissue Tek O.C.T compound (Sakura) then frozen in liquid nitrogen-cooled iso-pentane (BDH) for ten seconds. Tissues were then moved to liquid nitrogen. All tissues, for both RNA and tissue sectioning, were stored at -80oC until use.
+
+2.2.4 Isolation of Reserve cell populations Reserve cells were isolated from cultures of both normal C2C12 cells and from stably-transfected cell lines expressing Mighty, according to the method of Kitzmann et al. 1998. Cell cultures were plated on 10 cm diameter Nunc culture dishes at a density of 25,000 cells/cm2 and allowed to attach for 16 hours. Differentiation media (DMEM + 2% horse serum) was added and the cultures were incubated at 37oC/5% CO2 for 72 to 96 hours. Following this a short 36
+
+trypsinisation was carried out (five minutes, 0.15 % trypsin) and the myotubes were removed with two PBS washes. The reserve cells, which remain attached during this procedure, were then removed by a ten minute incubation with 0.25% trypsin. Isolated myotube or reserve cell populations were stored at -80oC in Trizol (Invitrogen).
+
+2.2.5 RNA isolation From whole tissue: Total RNA was isolated from tissue samples using Trizol (Invitrogen) according to the manufacturer's protocol.
+
+TA muscles isolated from notexin-injected mice were homogenised with 1 ml Trizol per 50 mg of tissue. An initial spin at 12,000 rcf for ten minutes at 4oC was carried out to pellet cellular debris. 200 µl of chloroform per 1 ml Trizol was added and incubated for two to three minutes before centrifugation at 12,000 rcf for 15 minutes at 4oC. The upper aqueous phase was removed to a clean Eppendorf tube and had an equal volume of chloroform added. The samples were centrifuged at 12,000 rcf for 15 minutes at 4oC, and then the upper aqueous layer was removed to a clean tube. Total RNA was precipitated by adding 500 µl of isopropanol per 1 ml of Trizol to the aqueous phase. Samples were incubated at room temperature for ten minutes then centrifuged at 12,000 rcf for ten minutes at 4oC. The RNA pellet was washed with 1 ml 75% ethanol made with DEPC water, then centrifuged at 7,500 rcf for five minutes at 4oC. The RNA pellets were dried for five to ten minutes then re-suspended in DEPC water. Incubation at 55-60oC for ten minutes completed the re-suspension. RNA was stored at -80oC.
+
+37
+
+From cultured cells: Total RNA was isolated from cultured cells using Trizol (Invitrogen) according to the protocol mentioned above but with the changes outlined below.
+
+Media was removed from the plates and the cells were washed twice with PBS. 1 ml Trizol was added to each plate to lyse the cells. All cells were removed from the plates by pipetting the Trizol over the surface several times. The Trizol was removed to Eppendorf tubes and had 200 µl chloroform added. From this point on the protocol was essentially as described above.
+
+All RNA was quantified using a Nanodrop ND-1000 spectrophotometer (NanoDrop Technologies). 1 l of a 1:10 dilution of the RNA was pipetted onto the detector and the absorbance at 230, 260 and 280 nm was read and used to determine the quantity of RNA in the sample.
+
+2.2.6 First Strand cDNA Synthesis cDNA for use as a template in the PCR was generated using SuperScript FirstStrand Synthesis System for RT-PCR (Invitrogen) following the manufacturer's protocol.
+
+1-5 µg total RNA was added to 1 µl 10 mM dNTPs and 1 µl Oligo(dT)12-18 primer, then made up to 10 µl with DEPC-treated water. The RNA was incubated at 65oC for five minutes, then on ice for at least one minute. 9 µl of a reaction mix containing RT buffer, MgCl2, DTT and RNaseOUT, was added to the RNA and incubated at 42oC for two minutes. 1 µl of Superscript II reverse transcriptase was added to each reaction. The reactions were incubated at 42oC
+
+38
+
+for 50 minutes then at 70oC for 15 minutes. 1 µl RNaseH was added to each tube then incubated at 37oC for 20 minutes. All cDNA was stored at -20oC.
+
+2.2.7 Polymerase Chain Reaction (PCR) PCR amplifications were carried out using Taq DNA Polymerase (Roche). PCR reactions (50 µl) contained 1 x PCR buffer, varying concentrations of template, both sense and antisense primers at 0.2 µM, and dNTPs at 0.2 mM. A Hybaid MBS 0.5S PCR System (Hybaid) was used for the thermocycling of the PCR reactions. PCR amplifications for Mighty contained 1 x Q solution in addition to the reagents listed above.
+
+PCR amplifications were standardised on cDNA templates derived from either wild type mouse TA muscle or C2C12 cells differentiated for 72 hours. PCR primers are described in Table 1 and cycle conditions are described in Table 3.
+
+Table 3: PCR cycle conditions.
+Wt TA cDNA
+
+Product Mighty MyoD Mighty Sca1 CD34 Tubulin
+
+Denaturation 94oC, 20 s 94oC, 15 s 94oC, 20 s
+
+Annealing 60oC, 45 s 60oC, 40 s 60oC, 45 s 62oC, 45 s 58oC, 45 s 55oC, 30 s
+
+Extension 72oC, 1 min 72oC, 1 min 72oC, 1 min 72oC, 45 sec 72oC, 45 sec 72oC, 1 min
+
+72 hr differentiated C2C12
+
+94oC, 20 s 94oC, 20 s 94oC, 20 s
+
+To determine the linear increase during the amplification PCRs were carried out on the templates mentioned above. Cycle numbers of 20-30 were well 39
+
+standardised to determine the linear increase in product. The PCR products were then run on a 1% agarose gel and stained with ethidium bromide.
+
+2.2.8 RNA and DNA analysis 1.2% denaturing RNA gels were made according to the protocol in the Appendix. 0.5 to 1 µg of total RNA was mixed with an equal volume of 2 x RNA loading dye and incubated at 65oC for five minutes before loading. Gel visualisation was carried out on a BioRad Gel Doc 2000.
+
+DNA gels were made according to the protocol in the Appendix. To ensure the gels were consistent, the volume of agarose, the volume of ethidium bromide per gel and the same gel running conditions were used. To visualise the products of the PCR reactions, 5 µl of PCR product was combined with 1 µl of 10 x DNA loading dye and run on the gels. Agarose gels were exposed to UV light by a BioRad Gel Doc 2000, with the same exposure settings used each time. Pictures of the gels were saved for analysis using BioRad Quantity One 4.4.1 software.
+
+2.2.9 Immunocytochemistry for Mighty on tissue sections The tissues recovered from the regeneration trial described in Section 2.2.3 were sectioned using a Leica Cryocut 1800. Sections cut were 10 µm thick and stored unfixed on Esco POLYSINE microscope slides (Biolab Scientific) at -20oC until analysis. For Mighty detection, the sections were thawed in a humid chamber, then a circle was drawn around the edge of the tissue with a PAP pen (Zymed Laboratories Inc.). Sections were blocked in PBS-T + 0.2% BSA + 10% normal donkey serum (NDS) for 30 minutes at room temperature. Primary rabbit antiMighty antibody was added at 1:100 in PBS-T + 0.2% BSA + 5% NDS 40
+
+overnight at 4oC in a humid box. As a negative control, primary antibody was not added to one section. The next day the slides were washed three times in PBS for four minutes each wash. Sections were fixed in 10% formalin for five minutes at room temperature then washed three times in PBS for four minutes each wash. Secondary antibody was added at 1:300 in PBS-T + 0.2% BSA + 5% NDS for one hour at room temperature. The slides were then washed three times in PBS-T 0.2% for four minutes per wash. Tertiary antibody was added at 1:400 in PBS-T + 0.2% BSA in a dark humid box for one hour at room temperature. Slides were washed twice in PBS for four minutes per wash, and then had DAPI added at 1:1000 in PBS and were incubated for five minutes. Slides were again washed twice in PBS for four minutes each wash, then were dried and had cover slips mounted with DakoCytomation fluorescent mounting medium (Med-bio Ltd). Slides were stored wrapped in tinfoil and at 4oC. Slides were viewed using an Olympus BX50 Microscope (Olympus Optical Co., Germany) with an attached camera. Images were taken using Spot Basic software (Spotsoftware, Diagnostic Instruments Inc.). Comparisons of Mighty levels and of infiltrating nuclei numbers between the wild-type and myostatin-null tissues was done by simple visual estimation.
+
+2.2.10 Immunocytochemistry on satellite and C2C12 cells Immunocytochemisty (ICC) was carried out for MyoD on Percoll-isolated satellite cells, for Desmin on Matrigel-isolated satellite cells and for Mighty on reserve cells derived from C2C12 cells and Mighty over-expression clones.
+
+Satellite cells isolated by the Percoll method (Section 2.2.1) were aliquoted onto Lab-Tek 8-well chamber slides that had been pre-coated with poly-L-lysine 41
+
+(Sigma, 0.01% solution). After a 30 minute incubation to allow cells to attach to the slide, the excess suspension was removed and the cells were fixed, blocked and incubated with antibodies against MyoD as described in Table 4 and Table 5.
+
+Matrigel-isolated satellite cells (Section 2.2.2) were allowed to proliferate for 24 hours on a 10 cm Matrigel-coated plate. The cells were then trypsinised and plated onto a Matrigel-coated Lab-Tek 8-well chamber slide at a cell density of 15,000 cells/cm2 and allowed to attach and proliferate for a further 24 hours. Excess media was removed and the cells were fixed, blocked and incubated with antibodies against Desmin as described in Table 4 and Table 5.
+
+C2C12 cells and Mighty over-expressing clones were plated on Permanox slides (Invitrogen) and allowed to proliferate for 24 hours before being switched to differentiation media (DMEM + 2% HS). Cells were differentiated for 72 to 96 hours then subjected to a limited trypsinisation, as outlined in Section 2.2.4. The remaining reserve cells were then fixed, blocked and incubated with antibodies against Mighty as described in Table 4 and Table 5.
+
+42
+
+Table 4: Immunocytochemisty conditions. ICC Slide type Fixation Permeablisation Blocking MyoD 8-well, 30 s of 20:2:1 0.5% Triton X-100 0.35% Cpoly-l lysine fixative per well in PBS, 10 min at in PBS + coated RT 10% NDS, 1 h RT Desmin 8 well, 30 s of 20:2:1 0.5% Triton X-100 0.35% CMatrigel fixative per well in PBS, 10 min at in PBS + coated RT 10% NSS, 1 h RT Mighty Permanox 30 s of 20:2:1 0.5% Triton X-100 5% BSA in fixative per well in PBS, 10 min at PBS + 5% RT NGS, 4 h RT
+
+Table 5: Immunocytochemistry conditions continued ICC Primary Secondary MyoD 1:100 in 0.35% 1:300 in 0.35% CC- in PBS + 5% in PBS + 5% NDS, 1 h at RT NDS, O/N at 4oC Desmin 1:200 in 0.35% 1:300 in 0.35% CC- in PBS + 5% in PBS + 5% NSS, 1 NSS, O/N at 4oC h at RT Mighty 1:200 in 2.5% AF488 conjugated secondary at 1:300 in BSA in PBS + 2.5% BSA in PBS + 2.5% NGS, O/N 2.5% NGS, 1 h at RT at 4oC
+
+Tertiary 1:400 in 0.35% Cin PBS + 5% NDS, 1 h at RT in dark 1:400 in 0.35% Cin PBS + 5% NSS, 1 h at RT in dark. Not applicable
+
+In between each step the slides were washed in PBS-T (satellite cells) or TBS-T (C2C12) for three rounds of five minutes. After the tertiary antibody incubation, all slides were stained with DAPI (1mg/ml) at 1:1000 in PBS for five minutes. All slides had cover slips mounted with DakoCytomation fluorescent mounting medium (Med-bio Ltd). Slides were stored wrapped in tinfoil and at 4oC. Slides were viewed using an Olympus BX50 Microscope (Olympus Optical Co., Germany) with an attached camera. Images were taken using Spot Basic software (Spotsoftware, Diagnostic Instruments Inc.).
+
+To determine the percentage of myogenic cells from the Percoll and Matrigel isolations, random images were taken from both the positive and negative wells. 43
+
+All nuclei per image, as stained blue by DAPI, were counted, and then the number of cells that stained for MyoD or Desmin (green) were counted.
+
+2.2.11 Haematoxylin and eosin staining Sections on slides were submerged in Gill's haematoxylin stain for four minutes, then washed in tap water until the water ran clear. The slides were then submerged in Scott's tap water for three minutes then rinsed in tap water for two minutes. Slides were stained in eosin for two minutes then washed in tap water until the water ran clear then for a further two minutes. The sections were then dehydrated by 30 seconds in 50% ethanol, one minute in 70% ethanol, one minute in 95% ethanol, two minutes times two in 100% ethanol then five minutes times two in xylene. Cover slips were mounted using xylene-based DPX mounting for microscopy (BDH). Slides were viewed using an Olympus BX50 Microscope (Olympus Optical Co., Germany) with an attached camera. Images were taken using Spot Basic software (Spotsoftware, Diagnostic Instruments Inc.).
+
+2.2.12 Western Blotting Protein extraction from Percoll isolated satellite cells Total protein was extracted from satellite cells for analysis by Western Blotting. Harvesting of the cells was performed as described in Sections 2.2.1 and 2.2.2. The cell lysate was passed through a 0.45 mm gauge syringe needle ten times. The cell lysate was then centrifuged at 12000 rcf at room temperature for ten min. The supernatant was removed and the protein concentration was determined by mixing 1 µl of protein with 99 µl PBS and 1.2 ml of a 1:5 dilution of Bio-Rad protein assay Dye Reagent Concentrate, then reading the absorbance at 595 nm. The 44
+
+concentration was calculated from a standard curve of 0, 5, 10, 15 and 20 g BSA standard prepared from a 5 µg /µl stock of BSA solution.
+
+SDS polyacrylamide gel electrophoresis Separation of protein for Western blotting was achieved using NuPage 4-12% gradient Bis-Tris pre-cast polyacrylamide gels (Invitrogen) in a XCELL II Mini gel apparatus (Novex) with 1 x Nupage MES SDS running buffer (Invitrogen). Samples were mixed with 4 x NuPage Sample Buffer (Invitrogen) containing -
+
+mercaptoethanol before boiling for five minutes. The SeeBlue Plus2 Pre-Stained Standard (Invitrogen) was used as a molecular weight marker.
+
+Western Blotting Following electrophoresis, the acrylamide gels were removed from their pre-cast casing and washed in Western Blot Transfer Buffer. The protein was transferred to Trans-Blot (Bio-Rad) nitrocellulose membrane by electroblotting using the XCell II Blot Module (Invitrogen). The membranes were then stained with Ponceau S. solution for five minutes. Excess stain was washed off with MQ water and the blot scanned to show effective transfer of protein. After washing the membranes for five minutes in TBS-T, the membranes were blocked in BSA solution (0.3% BSA, 1% PVP, and 1% PEG in TBS-T) for three hours at room-temperature to block nonspecific antibody binding. Primary antibody incubation used rabbit anti-Mighty antibody 1:5000 dilution in BSA solution at 4°C overnight, with gentle shaking. Following the incubation, the membranes were washed (five times five minutes) with TBS-T. The membranes were then incubated with goat anti-rabbit conjugated to horseradish peroxidase (HRP) (Amersham) 1:2000 dilution in BSA solution for
+
+45
+
+one hour. HRP activity was detected with ECL reagent (Western Lightning Chemiluminescense Reagent Plus).
+
+2.2.13 Statistical analyses Regeneration trial: ANOVA was carried out to confirm that the differences over time were due to the treatment not random variation. Student's t-tests were carried out using the pooled standard deviation to determine significant differences in Mighty expression between wild-type and knock-out at each time point. Student's t-tests were also carried out to determine significant changes in Mighty expression within each genotype compared to the uninjured control values. For MyoD expression Student's t-tests were carried out to determine significant changes in expression levels within each genotype compared to the contra-lateral controls of the same time point.
+
+Satellite cell isolations: Student's t-test was carried out to determine if there was a significant change in Mighty expression between wild-type and myostatin-null quiescent satellite cells, and between wild-type and myostatin-null activated satellite cells. A MannWhitney test was also carried out on each data set.
+
+Reserve cell and myotube enrichments: Student's t-test was used to determine significance differences in gene expression between myotubes and reserve cells of the same cell type. Student's t-test was used to determine if there was a significant change in gene expression between control C2C12 cells and Mighty over-expressing clones of the same enrichment (e.g.: C2C12 myotubes compared to Clone 7 myotubes). 46
+
+Chapter Three
+Results
+
+3.1 Characterisation of isolated satellite cells To determine that the cells isolated by Percoll gradient (Section 2.2.1) were myogenic in origin, the isolated satellite cells were immediately fixed and then stained for MyoD. The immunocytochemistry showed that 92% of the cells were positive for MyoD. The negative control did not show any non-specific background staining; representative images are shown in Figure 3.1 A and E. The position of cell nuclei was determined by DAPI stain, as in Figure 3.1 B and F.
+
+To determine that the cells isolated by Matrigel adherence were myogenic in origin the protocol for isolation of activated satellite cells (Section 2.2.2) was followed. After the cells were allowed to attach and proliferate for a further 24 hours in an 8-well chamber slide, they were fixed and stained for desmin. The immunocytochemistry showed that desmin was expressed by the majority of cells in the culture as seen in Figure 3.1 C. The position of cell nuclei was determined by DAPI stain, as in Figure 3.1 D. The percentage of myogenic cells has been determined several times in the laboratory, and is usually 80-85%.
+
+47
+
+Figure 3.1: Characterisation of isolated satellite cells. Cells isolated by Percoll gradient were fixed and stained for MyoD (A) and DAPI (B). Cells isolated by Matrigel adherence were fixed and stained for Desmin (C) and DAPI (D). Negative control (E) and DAPI (F) were carried out by omission of the primary antibody to ensure that non-specific antibody binding was not present. Microscope magnification: 400x. 48
+
+3.2 Expression of Mighty in quiescent and activated satellite cells of wildtype and myostatin-null mice. To determine if Mighty was present in quiescent and activated satellite cells from wild-type and myostatin-null mice, a 35 cycle PCR for Mighty was carried out. The results indicated that Mighty was present in both quiescent and activated satellite cells from both wild-type and myostatin-null mice. A semiquantitative analysis of the levels of Mighty was carried out by decreasing the cycle number of the PCR. Decreasing the cycle number to 28 showed that the quiescent satellite cells from wild-type and myostatin-null mice expressed less Mighty than activated satellite cells from wild-type and myostatin-null mice. No difference in Mighty expression in quiescent cells of wild-type and myostatinnull mice was observed, as determined by Student's t-test and Mann-Whitney tests, as shown in Figure 3.2 A. Decreasing the PCR cycle number to 22 cycles allowed the levels in activated satellite cells from wild-type and myostatin-null to be measured. No difference in the expression of Mighty in wild-type and myostatin-null activated satellite cells was observed, as determined by Student's t-test and Mann-Whitney tests, as seen in Figure 3.2 B.
+
+Determination of Mighty levels in quiescent and activated satellite cells from wild-type mice was also carried out by Western Blot, as described in Section 2.2.11. Levels of Mighty protein in wild-type quiescent satellite cells were undetectable and increased dramatically as satellite cells became activated, as shown in Figure 3.2 C.
+
+49
+
+Figure 3.2: Mighty RNA levels in quiescent and activated satellite cells A) Mighty levels in quiescent satellite cells from wild-type (Wt) and myostatinnull (KO) mice. There was no significant expression difference between the two mouse types by Student's t-test and Mann-Whitney test. B) Mighty levels in activated satellite cells from wild-type (Wt) and myostatin-null (KO) mice. There was no significant difference in Mighty expression between the two genotypes as determined by Student's t-test and Mann-Whitney test. PCR was normalised to total RNA. Values represent the average of two PCRs. C) Mighty protein levels are up-regulated during activation in wild-type mice (normalised to total protein levels). 50
+
+3.3 Effect of muscle injury on body and muscle weights The weight of the mice that had notexin-induced damage of the tibialis anterior (TA) muscle was taken twice. An initial weight was taken on the day of injury and a final weight was taken on the day of euthanasia. As shown in Figure 3.3, a decrease in weight during the first three days of the trial was observed in both wild-type and myostatin knock-out mice. The wild-type mice lost more weight than the myostatin-null mice. The myostatin-null mice appeared to regain any weight lost more rapidly than the wild-type mice. By day 28 post-injury the myostatin-null mice were significantly heavier (p=0.003) than the wild-type mice.
+
+The weight of both the damaged TA and the contra-lateral control muscles were taken at the time of excision. The weight of the notexin-damaged TA of the wild-type mice increased during the early stages of regeneration, becoming significantly heavier at day-three post-injury (p=0.03), as illustrated in Figure 3.4 A. The weight of the notexin-damaged TA of the myostatin-null mice also increased during the first days of regeneration, and was significantly greater (p=0.04) at day-two post-injury, as seen in Figure 3.4, B. In both mouse models the weight of the damaged TA returned to normal by day-seven post-injury and mirrored the changes seen in the contra-lateral control until day-28 post-injury. The wild-type mice showed an increase in the damaged TA weight at day-28 post-injury, a change that was not seen in the myostatin-null mice.
+
+Haematoxylin and eosin staining of control TA sections showed that both wildtype (Figure 3.5 A) and myostatin-null (Figure 3.5 B) had healthy muscle with fibres surrounded by blue nuclei. Staining of tissue at day-one post-injury 51
+
+revealed large areas of damaged tissue in both the wild-type (Figure 3.5 C) and myostatin-null (Figure 3.5 D) muscle. The extent of muscle damage is similar between both wild-type muscle and myostatin-null muscle, indicating that notexin was an efficient inducer of necrotic damage in the muscle regardless of the genetic background of the mouse.
+
+Figure 3.3: Body weight changes during muscle regeneration following notexin injection Over the initial days of regeneration both wild-type (light bars) and myostatinnull mice (dark bars) lost body weight. By the end of the trial, the mice had regained this lost weight and had grown further. The myostatin-null mice grew to a greater extent than their wild-type counterparts. Values represent the mean of 5 animals ± SEM. Weight change is relative to the animal's weight at dayzero. **p<0.01 by Student's t-test.
+
+52
+
+Figure 3.4: Changes in weight of the tibialis anterior during regeneration following notexin injection A) Wild-type mice showed an increased weight of the injected TA by three days post-injury. The weight of the TA remained higher until day seven post-injury when it returned to be similar to the contra-lateral control. B) Myostatin-null mice showed an increased TA weight by day-two post-injury. As in wild-type mice, the weight of the myostatin-null TA returned to that of the contra-lateral control by day-seven post-injury. Each value represents the average of 5 animals ± SEM. *p<0.05, **p<0.01 by Student's t-test against the contra-lateral control at the same time point.
+
+53
+
+Figure 3.5: Notexin-induced damage of mouse tibialis anterior muscle Haemotoxylin and eosin staining of uninjured muscle from wild-type (A) and myostatin-null (B) mice showed healthy tissue. Staining of the TA tissue taken from wild-type (C) and myostatin-null (D) mice at day-one (D1) post-injury showed similar levels of damage had occurred in both mouse genotypes 54
+
+3.4 Mighty was up-regulated during regeneration Control and notexin-injected muscles were either frozen in liquid nitrogen (n=3) for RNA analysis or in Tissue Tek O.C.T Compound (Sakura) (n=2) for immunocytochemistry of Mighty (Section 2.2.9.). RNA extraction and cDNA synthesis was carried out as described (Sections 2.2.5 and 2.2.6)
+
+Short cycle PCRs for Mighty were carried out on wild-type TA cDNA template from an uninjured six week old wild-type mouse (Figure 3.6 A). Densitometric analysis showed that there was a linear increase in product density between 24 and 28 cycles (Figure 3.6 B), hence a PCR cycle number of 26 was used to analyse Mighty levels in the regenerating muscle.
+
+As seen in Figure 3.6 C, the levels of Mighty in undamaged TA were significantly higher (p=0.001) in the myostatin-null mice than in the wild-type mice. Mighty cDNA levels in both mouse models stayed fairly constant over the days immediately after injury. Mighty levels peaked in both mouse types at dayfive post-injury. At day-five post-injury significantly more Mighty was present in the myostatin-null than in the wild-type samples (p=0.002). At day-seven after injury the Mighty cDNA levels in the myostatin-null mice were still elevated and are again significantly increased when compared to the wild-type levels (p=0.00001). At day-seven post-injury Mighty levels had dropped in the wild-type samples, although they remain higher than at day-zero (p=0.028). By day-14 the levels of Mighty in the myostatin-null mice have also decreased. Both mouse models showed an increase in Mighty at day-28 post-injury when compared to the day-zero values (p=0.001).
+
+55
+
+Figure 3.6: Mighty levels were increased during regeneration following notexin injection A) Ethidium bromide stained PCR products of cycle numbers 24, 26 and 28. B) PCR product increased linearly as cycle numbers were increased, indicating that the PCR was in the linear amplification stage. C) Mighty levels were increased in the injured TA of both wild-type and myostatin-null mice. Myostatin-null mice had a higher starting level of Mighty than wild-type mice and had an extended peak of Mighty expression between day-five and day-seven post-injury that was not seen in wild-type mice. Each value represents the average Mighty level of three animals ± SEM. #p<0.001 by Student's t-test when compared to wild-type values. +p<0.05, *p<0.001 by Student's t-test when compared to day-zero of the same genotype. 56
+
+Immunocytochemistry for Mighty was carried on sections of tissue from damaged TA. Undamaged TA from myostatin-null mice had higher levels of Mighty than undamaged wild-type TA, determined visually, as seen in Figure 3.7, A and B. At day-one post-injury there was no major change in the levels of Mighty in either wild-type (Figure 3.7 C) or myostatin-null (Figure 3.7 D) tissue. By day-five post-injury there had been an increase in Mighty in the wildtype tissue (Figure 3.7 E) and in myostatin-null samples (Figure 3.7 F) there was an increase in the number of nuclei present within the muscle. At day-seven post-injury, wild-type muscle had a large increase in the number of nuclei present within the muscle and protein levels of Mighty appeared to remain high (Figure 3.8 A), though cDNA levels had decreased by this stage. The myostatinnull tissue still showed high levels of Mighty at day-seven post-injury (Figure 3.8 B). Tissues from day-14 post-injury (Figure 3.8 C and D) had reduced levels of Mighty. Wild-type tissue at this time had more nuclei present than the myostatin-null tissue. By day-28 post-injury the levels of Mighty protein had decreased in both the wild-type and the myostatin-null tissue, although levels remained higher than in the controls. Mighty levels in the myostatin-null tissue at day-28 post-injury (Figure 3.8 F) were higher than those seen in the wild-type tissue (Figure 3.8 E).
+
+57
+
+Figure 3.7: Mighty protein expression increased during early regeneration following notexin injection Uninjured muscle did not express high levels of Mighty. Myostatin-null (B) muscle showed higher levels of Mighty than wild-type (A). At day-one postinjury (C and D) there was little change in Mighty levels. By day-five postinjury myostatin-null muscle (F) showed greater numbers of infiltrating cells (indicated by an increase in blue nuclei, as determined visually) within the muscle than did the wild-type (E). By day-five post-injury both genotypes showed an increase in Mighty levels. Microscope magnification: 200x
+
+58
+
+Figure 3.8: Mighty protein expression during late regeneration following notexin injection At day-seven post injury both wild-type (A) and myostatin-null (B) tissue still had high levels of Mighty protein, determined visually. During the later stages of regeneration (day-14 and day-28 post injury) Mighty levels are still elevated in the myostatin-null mice (D and F) compared to the wild-type (C and E) at the same stage of regeneration. Microscope magnification: 200x
+
+59
+
+3.5 MyoD levels were up-regulated during regeneration MyoD is one of the MRFs which is up-regulated shortly after satellite cell activation in injured muscle (Cooper et al., 1999) and is responsible for the induction of transcription of many myogenic genes. Mighty expression in relation to this gene was analysed to determine where Mighty might fit in the hierarchy of transcription factor expression during regeneration.
+
+Short cycle PCRs for MyoD (24, 26, and 28 cycles) were carried out on wildtype TA cDNA template from an uninjured six-week-old mouse (Figure 3.9 A). Densitometric analysis showed that there was a linear increase in product density for MyoD between 24 and 28 cycles (Figure 3.9 B) and thus 26 cycles was chosen to use for MyoD analysis in the regenerating muscle.
+
+MyoD levels were up-regulated during early regeneration. In wild-type mice the levels began to increase at day-two post-injury and were significantly upregulated at day-five post-injury (p=0.02). By day-seven post-injury the MyoD levels in the damaged muscle had returned to those seen in the contra-lateral control muscle (Figure 3.10 A). In myostatin-null mice, the levels of MyoD in uninjured muscle are significantly higher than those in wild-type uninjured muscle (p=0.0004). MyoD levels in the damaged muscle did not increase over those in the contra-lateral control until day-three post-injury (p=0.03). The levels remain high at day five post-injury (p=0.03) before decreasing at dayseven post-injury to the levels seen in the contra-lateral controls (Figure 310, B).
+
+60
+
+Figure 3.9: MyoD PCRs were linear between 24 and 28 cycles Ethidium bromide staining of MyoD PCR products (A) between 24 and 28 cycles indicates that the PCR was in the linear amplification stage as seen in (B).
+
+61
+
+Figure 3.10: MyoD levels were up-regulated during early regeneration following notexin injection A) In wild-type mice MyoD levels in the injured muscle began to be upregulated at day-two post-injury, although the levels were not significantly increased until day-five post-injury. MyoD levels returned to those of the contra-lateral control at day-seven post-injury. B) In myostatin-null mice MyoD levels were higher in undamaged muscle than in the wild-type. MyoD levels were elevated at three days post-injury in the damaged muscle and remain high at day-five. By day-seven post-injury the levels of MyoD had decreased to those in the contra-lateral control. Each value represents the average MyoD level of 3 animals ± SEM. *p<0.05 by Student's t-test when compared to contra-lateral control of the same time point and genotype. 62
+
+3.6 Mighty localisation in reserve cell populations C2C12 and Mighty over-expressing clones (Clone 7 and Clone 11) were subjected to a limited trypsinisation as described in Section 2.2.4. Mighty ICCs were carried out on isolated reserve cell populations to determine how Mighty is localised in these cells. Negative controls, as seen in Figure 3.11 A were carried out by omitting the primary antibody to ensure that non-specific binding was not present.
+
+Mighty was localised primarily to the cytoplasm in the C2C12 reserve cells, as seen in Figure 3.11 B, although some cells did show some peri-nuclear staining. The Mighty over-expressing clones (Figure 3.11, C and D) both showed high levels of Mighty. Mighty was localised primarily to the peri-nuclear regions of these cells, although some cells, as indicated by asterisks, did show more cytoplasmic Mighty.
+
+63
+
+Figure 3.11: Mighty localisation in the reserve cell population A) Negative control. Microscope magnification for negative control: 200x Mighty localises mainly to the cytoplasm of C2C12 reserve cells (B) although some peri-nuclear staining is observed. In the Mighty over-expression clones (Clone 7 (C) and Clone 11 (D)), Mighty localised mainly to the peri-nuclear regions of the cells, although some cells only showed cytoplasmic staining (asterisks). Microscope magnification for B, C and D: 400x.
+
+64
+
+3.7 Downstream targets of Mighty Micro-array analysis of the gene expression of the Mighty clones in respect to the C2C12 cell line has been carried out to examine how Mighty influences gene expression. Several possible targets of Mighty have been identified. Two genes which are down-regulated are Sca-1 and CD34. As both CD34 and Sca-1 appear to play roles in myogenic differentiation (Epting et al., 2004; Mitchell et al., 2005), the down-regulation of their expression by Mighty was further investigated.
+
+3.7.1 Mighty decreased the levels of Sca-1 when over-expressed Short cycle PCRs for Sca-1 were carried out on mixed C2C12 cDNA template for 20, 22, 24, 26 and 28 cycles (Figure 3.12 A). Densitometric analysis showed that there was a linear increase in product density between 22 and 28 cycles as seen in Figure 3.12 B. Initially a 22 cycle PCR was carried out on the reserve cell and myotube cDNA, however no product was able to be visualised (results not shown). Thus 26 cycles, which is still within the linear amplification stage of the PCR, was used to analyse the Sca-1 levels of the reserve cell and myotube populations.
+
+In normal C2C12 cells, the expression of Sca-1 was greater in the reserve cell population than in the myotube population. This pattern of expression was also seen in the Mighty over-expressing clones (Clone 7 and Clone 11). Overall the levels of Sca-1 in the reserve cell and myotube populations were decreased compared to the C2C12 control line, as seen in Figure 3.13 A (p= 0.02). Within the myotube population of the Mighty over-expressing clones, the levels of Sca1 decreased by 60-70% (p=0.002 for Clone 7 and 0.005 for Clone 11). In the 65
+
+reserve cell population of the Mighty over-expressing clones, the levels of Sca-1 decreased by 40-50% (p=0.01), as seen in Figure 3.13 B.
+
+Figure 3.12: Sca-1 PCRs were linear between 20 and 28 cycles Ethidium bromide staining of Sca-1 PCR products between 22 and 28 cycles (A) indicated that the PCR was in the linear amplification stage (B).
+
+66
+
+Figure 3.13: Sca-1 levels were decreased by Mighty over-expression A) Levels of Sca-1 were greater in the C2C12 reserve cell population than in the myotube population. This pattern of expression was also seen in the Mighty over-expression clones, but the overall values are decreased compared to the C2C12 control. *p<0.05, **p<0.01 by Student's t-test when compared to myotubes of the same cell type. B) Sca-1 was decreased by 60-70% in the myotube population and by 40-50% in the reserve cell population of the Mighty clones. *p<0.05, *p<0.01 by Student's t-test when compared to C2C12 of the same cell population. Values represent the average of four PCRs ± SEM. 67
+
+3.7.2 Mighty decreased the levels of CD34 when over-expressed Short cycle PCRs for CD34 were carried out on mixed C2C12 cDNA template for 22, 24, 26 and 28 cycles (Figure 3.14 B). Densitometric analysis showed that there was a linear increase in product density between 22 and 28 cycles. Figure 3.14 B illustrates the linear change between 22 and 28 cycles. 24 cycles was used to analyse the reserve cell and myotube populations.
+
+The two forms of CD34, truncated and quiescent, are both detectable in the C2C12 myotube and reserve cell populations. The truncated form, which is expressed in quiescent satellite cells, was higher in the C2C12 reserve cells than in the myotubes. The truncated form of CD34 is also more highly expressed in the reserve cells of the two Mighty over-expression clones (Clone 7, p=0.008 and Clone 11, p=0.02) but the overall levels were dramatically reduced from those seen in the C2C12 reserve cells, as shown in Figure 3.15 A and B. Overexpression of Mighty caused a 95-98% decrease in truncated CD34 in the myotube population (Clone 7, p=0.0002 and Clone 11, p=0.0002) and a 80-90% decrease of truncated CD34 in the reserve cell population (Clone 7, p=7.8E-06 and Clone 11, p=6.2E-05).
+
+The full-length transcript of CD34 is expressed in activated satellite cells. More full-length transcript was observed in the reserve cell population than in the myotube population of the C2C12 cells. The same expression pattern was observed in Clone 7 (p=0.003) and Clone 11 (p=0.004) As with the truncated form, the overall levels of the full-length transcript were dramatically reduced in the Clone 7 and Clone 11 samples when compared to the C2C12 controls (Figure 3.16 A). Mighty caused a 90-95% decrease of the full form of CD34 in the 68
+
+myotube population (Clone 7, p=1.2E-05 and Clone 11, p=1.2E-05) and a 7085% decrease in the reserve cell population (Clone 7, p=0.0001 and Clone 11, p=0.0008) of the Mighty over-expression clones (Figure 3.16 B).
+
+Figure 3.14: CD34 PCRs were linear between 22 and 28 cycles. A) Ethidium bromide stained CD34 PCR products. B) CD34-truncated PCR product increased linearly as cycle numbers were increased, indicating that the PCR was in the linear amplification stage. C) CD34-full PCR product increased linearly as cycle numbers were increased, indicating that the PCR was in the linear amplification stage.
+
+69
+
+Figure 3.15: The truncated form of CD34 as decreased when Mighty was over-expressed. A) C2C12 reserve cell enrichment showed higher expression of the truncated form of CD34 than the myotube enrichment. This pattern was preserved in the Mighty over-expressing clones, but the overall values were decreased compared to the C2C12 control. *p<0.05, **p<0.01 by Student's t-test when compared to myotubes of the same cell type. B) The percent decrease of the truncated form of CD34 was 95-98% in the myotube enrichments and 80-90% in the reserve cell enrichments of the Mighty clones. **p<0.01 by Student's t-test when compared to C2C12 of the same cell population. Values represent the average of four PCRs ± SEM.
+
+70
+
+Figure 3.16: The full-length form of CD34 was decreased when Mighty was over-expressed. A) C2C12 reserve cell enrichment showed higher expression of the full form of CD34 than the myotube enrichment. This pattern was preserved in the Mighty over-expressing clones, but the overall values were decreased compared to the C2C12 control. **p<0.01 by Student's t-test when compared to myotubes of the same cell type. B) The percent decrease of the full form of CD34 was 90-95% in the myotube enrichment and 70-85% in the reserve cell enrichments of the Mighty over-expression clones. **p<0.01 by Student's t-test when compared to C2C12 of the same cell population. Values represent the average of four PCRs ± SEM.
+
+71
+
+Chapter Four
+Discussion and Future Directions
+
+4.1 Discussion Satellite cells are the major myogenic precursors that contribute to post natal muscle growth and repair and were first identified by Katz (1961). Satellite cells activate, proliferate and differentiate into new muscle fibres in response to signals from their environment. Satellite cells are also capable of self-renewal to replenish the satellite cell niche and provide nuclei for future growth/repair needs. The myostatin-null mouse model has been shown to contain more satellite cells per fibre than wild-type mice. These satellite cells also have a greater propensity to activation and proliferation than cells isolated from wildtype mice (McCroskery et al., 2003). After muscle injury, myostatin-null mice have twice the number of myogenic cells, identified by MyoD, at the site of injury than wild-type mice. Healing is more complete, with less fibrosis and scar tissue formation when myostatin is absent (McCroskery et al., 2005). This evidence implicates myostatin as a negative regulator of satellite cells. One downstream target of myostatin, the novel gene called Mighty, is up-regulated in myostatin-null mice. Mighty over-expression results in enhanced differentiation and fusion of C2C12 cells and a hypertrophy phenotype. The expression of Mighty during satellite cell activation and regeneration of skeletal muscle was investigated in this thesis.
+
+To first participate in muscle growth or regeneration, satellite cells must leave quiescence and activate. This activation in response to growth factors such as
+
+72
+
+IGF's (Hill and Goldspink, 2003) is an essential step in the regeneration and growth program. Myostatin-null mice, which express higher levels of Mighty than wild-type mice, have a greater number of satellite cells that have a greater propensity to activation (McCroskery et al., 2003). We hypothesised that Mighty acts as a regulatory factor during this process and thus expected that activated satellite cells from myostatin-null mice would have more Mighty than those from wild-type mice. As shown in Figure 3.2 A, Mighty was expressed at a low level in quiescent satellite cells of both wild-type and myostatin-null mice. As expected, activated satellite cells had more Mighty cDNA than quiescent cells. However, the levels of Mighty between wild-type and myostatin-null mice were not significantly different by Mann-Whitney and Student's t-test. If Mighty is involved in the activation of satellite cells it is likely that peak levels occur during the first activation events. The satellite cells used in this experiment had already been cultured for 48 hours and it is possible that the peak of Mighty expression has been missed. Single fibre cultures would be a more accurate way of determining when the peak of Mighty expression occurs in relation to markers of satellite cell activation in both wild-type and myostatin-null satellite cells.
+
+After activation, the regeneration of skeletal muscle requires migration of activated satellite cells to the site of injury, their proliferation, and then their commitment to terminal differentiation. Once committed, satellite cells will then fuse to other myoblasts or to existing fibres (Hawke and Garry, 2001). Myostatin-null mice show an improved regeneration phenotype, with less fibrosis and scar tissue formation (McCroskery et al., 2005). Mighty is hypothesised to enhance satellite cell commitment to the myogenic 73
+
+differentiation programme, which results in the enhanced regeneration phenotype. To characterise Mighty expression during regeneration, wild-type and myostatin-null mice were used for notexin injection. On days 0, 1, 2, 3, 5, 7, 14 and 28 five mice from each genetic background were euthanised. Notexin is a cardiotoxin that is commonly used to induce muscle damage and regeneration. Notexin injection to the TA results in localised muscle damage and overall faster healing than crush injury (Lefaucheur and Sebille, 1995). Histologically, notexin injection causes consistent patterns of muscle injury over time and between rats that have different genetic backgrounds (Kirk et al., 1996: Kirk et al., 2000). Figure 3.5 shows that notexin induced comparable levels of damage in both mouse genotypes used in this study.
+
+To determine the expression of Mighty during regeneration, a series of PCRs on undamaged wild-type mouse cDNA was carried out. The purpose of this was to determine the cycle numbers at which the PCR was in the linear phase of amplification. By analysing PCRs in the linear phase, the differences between samples can be semi-quantitatively determined. Levels of Mighty were significantly higher in the myostatin-null mice at day-zero (uninjured muscle) than in the wild-type mice. This difference was as expected and conforms to the differences seen in other experiments carried out. Mighty up-regulation at the messenger RNA level was not seen until day-five post-injury. Both wild-type and myostatin-null mice have significantly up-regulated Mighty cDNA at dayfive compared to the undamaged day-zero levels. Most importantly, Mighty remained significantly up-regulated in myostatin-null mice at day seven postinjury compared to the wild-type mice.
+
+74
+
+Immunocytochemistry on sections of damaged tissue also revealed differences in the regeneration response of the two mouse genotypes. As seen in Figure 3.7, undamaged myostatin-null TA showed higher levels of Mighty protein expression, consistent with the cDNA data. By day-five post-injury the myostatin-null mice showed a large increase in the number of infiltrating nuclei present within the tissue, as well as an increase in the levels of Mighty protein. At day-seven post-injury Mighty protein levels within the wild-type tissue remained elevated, despite the decrease in cDNA levels described earlier. Mighty protein was persistent in the muscle longer than the transcript was. It is possible that Mighty protein levels in the myostatin-null background also persist beyond the down-regulation of transcription, but time points that would allow this to be determined were not taken. By day-14 post-injury Mighty protein levels in both mouse models had decreased, and at day-28 they were decreased further, although they had not yet decreased back to the levels seen in the undamaged controls.
+
+MyoD is one of the four myogenic regulatory factors (MRFs) that are essential for myogenensis in the embryo. MyoD or Myf-5 are undetectable in the majority of quiescent satellite cells (Grounds et al., 1992). As these cells become activated in response to injury, they will express either MyoD or Myf-5 (Cooper et al., 1999). By 48-hours post-injury, activated satellite cells co-express MyoD and Myf-5 and most go on to express Myogenin and MRF4 (Cornelison and Wold, 1997). During the regeneration time-course studied here, MyoD levels in wild-type mice started to increase at day two post-injury but were not significantly increased until day-five post-injury. In the myostatin-null mice, a similar pattern of MyoD expression was observed. MyoD did not increase over 75
+
+the contra-lateral control values until day-three post-injury but the increase is significant at this stage. MyoD remains elevated until day seven post-injury, at which stage the levels decreased to those of the contra-lateral control.
+
+The results displayed for the change in Mighty and MyoD message levels throughout regeneration are indicative of trend. During the regeneration process we found that two commonly used housekeeping genes, tubulin (McCroskery et al., 2003) and HPRT (hydroxanthine guanine phosphoribosyl transferase) (Rios et al., 2002) were both up-regulated (data not shown). GAPDH expression is also altered during regeneration (McCroskery et al., 2005). Several studies have shown that these commonly used genes are variably expressed in different tissues and proliferation or differentiation states. GAPDH and -actin levels fluctuate during keratinocyte differentiation (Steele et al., 2002) and during arteriogenesis in the rabbit (Deindl et al., 2002), HPRT and -tubulin levels vary in differentiating embryonic stem cell culture (Murphy and Polak, 2002), GAPDH expression is altered during T helper cell differentiation (Hamalainen et al., 2001) and in breast cancers when compared to control tissue (Tricarico et al., 2002). There is little consensus as to which gene should be examined as a housekeeper during muscle regeneration (McKinnell et al., 2005). When considering the extensive nature of the notexin-induced damage to the muscle, as shown in Figure 3.5, it is hardly surprising that genes which under normal conditions act as housekeeping genes are not suitable as internal controls. Structural proteins such as tubulin are required during muscle rebuilding and the increased cellular activity required to regenerate the muscle would require an increase in the molecules involved with energy generation, such as GAPDH (Vascotto et al., 2005), and the metabolic salvage of nucleotides, such as HPRT 76
+
+(de Kok et al., 2005). To partially alleviate this problem, all cDNA synthesis reactions were carried out on equal amounts of total RNA as determined by spectroscopy using a Nanodrop ND-1000 spectrophotometer (NanoDrop Technologies).
+
+Analysis of the pattern of expression of the MRFs during regeneration revealed that MyoD is slowly up-regulated in the days following injury to a peak at daythree post-injury. Myogenin also peaks at day-three post-injury, with Myf-5 and MRF4 expression being maximal at day-five post-injury (Yan et al., 2003). Cornelison and Wold (1997) showed that by 48 hours post-injury activated satellite cells express both MyoD and Myf-5. Kirk et al. (2000) described two phases of regeneration, the damage phase which occurs in the first three days following injury, in which expression of myostatin peaks; and a regeneration phase from day-five post-injury. Day five post-injury was described as the time at which peak myotube formation was occurring. In vitro myostatin negatively regulates proliferation of myoblasts (Thomas et al., 2000) and its expression during the early phases of regeneration is consistent with a role in maintaining satellite cells in a non-proliferative state while necrotic tissue is removed by phagocytosis. Myostatin has been shown to negatively regulate the Mighty promoter (Bishop, 2005), and in the myostatin-null mice, the lack of myostatin resulted in an increase of Mighty expression in undamaged muscle compared to the wild-type mice. Mighty up-regulation in both wild-type and myostatin-null tissue during regeneration did not occur until day-five post-injury, the time when myotube formation is occurring. Events at this time involve fusion of myoblasts to each other and to existing myotubes, and Mighty up-regulation at this time point is consistent with a role for Mighty in inducing hypertrophy of 77
+
+muscle via enhanced myoblast fusion and of myostatin negatively regulating Mighty. Interestingly, Mighty up-regulation occurs at the same time in both wild-type and myostatin-null tissues. This indicates that myostatin is involved with maintaining a basal level of Mighty expression in normal muscle tissue, and that the up-regulation seen at day-five post-injury is in response to other factors. MyoD is one factor that is capable of increasing transcriptional activity of the Mighty promoter, although this increase is slight (2-fold; Bishop, 2005). Other transcription factors that have binding sites within the Mighty promoter, such as Sp1, may be responsible for the increase in Mighty expression seen at day-five post-injury. Mighty has also been shown to specifically up-regulate mediators of cell cycle withdrawal, such as p21 and p27 (Bishop, 2005), thus expression of Mighty at the time of myotube formation is consistent with Mighty playing a role in enhancing differentiation. Myostatin expression is seen in regenerating myotubes from day-five post-injury (Kirk et al., 2000) and this increase is likely to result in the down-regulation of the Mighty transcript in the wild-type tissue. Further results from the FMG Laboratory indicate that Mighty is down-regulated as commitment to terminal differentiation occurs, thus the decrease in Mighty expression seen in both the wild-type and myostatin-null genotypes could be due to terminal differentiation of the satellite cells.
+
+When C2C12 cells are induced to differentiate, a proportion of the cells commit to terminal differentiation, while a different population withdraw from the cell cycle and do not differentiate. Isolation and culture of undifferentiated cells results again in the formation of two populations of cells; one differentiated, one undifferentiated (Yoshida et al., 1998). This reserve cell population is akin to the satellite cell population seen in vivo. As such it can act as an in vitro model 78
+
+for the events occurring in vivo. Mighty, which is, as has been stated previously, a downstream target of myostatin, causes an enhanced fusion phenotype when over-expressed. Cultures of differentiated Mighty over-expression clones have larger myotubes and fewer reserve cells than are seen in normal C2C12 culture. This observation has lead to the hypothesis that Mighty is involved in hypertrophy by enabling the recruitment of more reserve cells into the differentiation pathway. Two possible down-stream targets of Mighty, stem cell antigen-1 (Sca-1) and CD34, may be involved in this process.
+
+Sca-1 was identified by micro-array analysis as being down-regulated in the Mighty over-expression clones. To further characterise this decrease, Sca-1 primers as described in Mitchell et al. (2005) were standardised on cDNA from C2C12 cells. Analysis of the myotube and reserve cell populations revealed that in C2C12 cells the level of Sca-1 was significantly higher in the reserve cell population than in the myotube population. This same pattern of expression was preserved in the Mighty over-expression clones. However the absolute levels were decreased from those seen in the C2C12 populations, as was expected based on the micro-array data. Levels of Sca-1 decreased by 60-70% in the myotube population and by 40-50% in the reserve cell population. Epting et al. (2004) and Mitchell et al. (2005) proposed that expression of Sca-1 acts to keep a population of myoblasts in a slowly proliferating non-dividing state that is capable of giving rise to reserve cells. Sca-1 decrease by Mighty may result in a larger proliferative and differentiation competent myoblast population during growth and differentiation. This could result in myotube hypertrophy and in a smaller reserve cell population that is a characteristic of Mighty overexpression. 79
+
+CD34 was also identified by micro-array analysis as being down-regulated by Mighty over-expression. To analyse this further, PCR primers as described by Beauchamp et al. (2000) were used. These particular primers give two PCR products, depending on the form of CD34 that is present. This allowed analysis of both truncated CD34 and full-length CD34 levels from the same PCR. Both the truncated form of CD34, which is expressed on quiescent satellite cells (Beauchamp et al., 2000), and the full-length form of the CD34 transcript were present in the reserve cell and myotube populations. Levels of both CD34 transcripts were significantly down-regulated in both the myotube and reserve cell populations by Mighty over-expression. These results for both CD34 full and CD34 truncated were as expected from the micro-array analysis.
+
+CD34 may function in muscle to keep a subpopulation of proliferative cells from differentiating. This theory is substantiated by the recent results of Kitzmann et al. (2006), who showed that the reserve cell population was heterogeneous for CD34 expression and that inhibition of notch was specifically able to increase the fusion of CD34-negative cells. Notch inhibition by its antagonist numb causes proliferating myoblasts to commit to terminal differentiation (Conboy and Rando, 2002). The inhibition of notch by overexpressing numb or by use of a -secretase inhibitor resulted in an enhanced fusion index of the myoblasts and increased differentiation (Kitzmann et al., 2006). Consistent with this, our results indicate that down-regulation of CD34 by Mighty could result in a population of cells that are more sensitive to fusion and differentiation signals and more sensitive to signalling through the notch pathway.
+
+80
+
+4.2 Future Directions 4.2.1 Mighty and regeneration. The results described in this thesis indicate that there is a large up-regulation of Mighty during the regeneration process. This up-regulation occurs after the induction of MyoD. Further characterisation of the major myogenic regulatory factors during regeneration needs to be carried out, so that Mighty's place in the hierarchy of regulatory factors can be determined. Once the timing of Mighty expression in relation to these other factors is known, the factors that are expressed before Mighty can be analysed to determine if they are capable of directly influencing the regulation of the Mighty promoter. It is already known that MyoD is capable of causing an increase in transcriptional activity of the Mighty promoter. Testing of the other transcription factors that have binding sites within the Mighty promoter to determine their ability to up-regulate or down-regulate Mighty during myogenensis and regeneration needs to be carried out. Furthermore, Mighty may be able to auto-regulate its own transcription, which is a possibility that also needs to be determined. Finally, the effect of positive regulators of satellite cell activation and proliferation such as HGF and IGF on Mighty transcription needs to be determined.
+
+4.2.2 Mighty and Reserve Cells Mighty has been shown in previous experiments to cause an increase in hypertrophy and myoblast fusion when over-expressed. This results in a smaller reserve cell population after complete differentiation than is seen in control C2C12 cultures. Over-expression of Mighty also causes a decrease in two molecules that are considered markers of less differentiated, stem cell-like cells, CD34 and Sca-1. Firstly, the mechanism by which Mighty is able to negatively 81
+
+regulate the promoters of these genes need to be determined. Secondly, the role of these molecules in causing the enhanced fusion phenotype needs to be resolved. Some possibilities have come to light from recent papers. If Sca-1 acts as a determining factor that allows cells to take the self-renewal pathway during differentiation, then a direct down-regulation of this factor may cause the phenotype seen in the Mighty over-expressers. CD34 has recently been shown to influence the sensitivity of cells to Notch signalling (Mitchell et al., 2005). It would be of interest to determine if the Notch signalling pathway is altered in the Mighty over-expression clones.
+
+82
+
+Appendix
+Agarose 0.5 g UltraPure agarose (Invitrogen) 50 ml 1 x TAE buffer Boiled until agarose is dissolved. 1 µl 10 mg/ml ethidium bromide per 50 ml Agarose. Assay Buffer (2 x) for -gal detection assay 2 ml 200 mM sodium phosphate buffer 20 µl 2 mM magnesium chloride 71.4 µl 100 mM -mercaptoethanol 3.33 ml 1.33 µg/µl ONPG MilliQ water to 10 ml Collagenase (0.2%) 30 ml DMEM (no serum) 0.06 g Collagenase Type 1A (Sigma) Dissolved then syringe filtered through a Millex GP 0.22 m filter (Millipore) Denaturing RNA agarose gel 0.6 g agarose 36 ml DEPC treated water Boil to dissolve agarose then cooled to ~60oC In fume hood add: 5 ml 10 x MOPS 9 ml formaldehyde DEPC (diethyl pyrocarbonate)-treated water 2 ml DEPC 2 l MilliQ water Mixed overnight then autoclaved.
+
+Differentiation medium Dulbecco's modified Eagle medium (DMEM) 2% horse serum 83
+
+DNA 1kb+ Ladder 90 µl 10 x DNA loading dye 810 µl MilliQ water 100 µl 1 µg/ml 1kb+ ladder DNA Loading Dye (10 x) 10 ml 50% glycerol 2 ml 50 x TAE Pinch of bromophenol blue Eosin (1% solution) 10 g Eosin Y 1 l MilliQ water 2.0 ml acetic acid (5% aqueous) 1 crystal of thymol Gill's Haematoxylin 4.0 g Haematoxylin 0.4 g sodium iodate 35.2 g aluminium sulphate 710 ml MilliQ water 250 ml ethylene glycol 40 ml glacial acetic acid Matrigel 200 l Matrigel 1800 l DMEM Bottom of plate is covered, excess is removed. Plate kept at 37oC to allow Matrigel to set. MOPS (10 x) Solution (3-[N-Morpholino]propane-sulfonic acid) 41.8% MOPS powder 50 mM sodium acetate 10 mM EDTA
+
+84
+
+PBS (Phosphate Buffered Saline) 1 PBS tablet (Oxoid) 100 ml MilliQ water PBS (10x) 1 PBS tablet 10 ml MilliQ water Percoll (90%) 9 parts Percoll solution 1 part 10 x PBS Percoll (70%) 2.33 ml 90% Percoll 0.67 ml 1 x PBS Percoll (40%) 1.33 ml 90% Percoll 1.67 ml 1 x PBS Ponceau S stain 0.1% Ponceau S 0.1% Acetic acid Make up to desired volume with MilliQ water Protein loading buffer 3 parts 4 x NuPage sample buffer 1 part -mercaptoethanol Protein lysis buffer 50 mM Tris (pH 7.5) 250 mM sodium chloride 5 mM EDTA 0.1% NP-40 1 x Protease inhibitor
+
+85
+
+RNA Loading Dye (2 x) 2 ml MOPS (10 x) 2 ml deionised formaldehyde 5 ml deionised formamide 40 µl of 10% bromophenol blue 1 ml glycerol 100 µl of 0.5 M EDTA (pH 8.0) 40 µl of 10 mg/ml ethidium bromide RNA running buffer 1 part 10 x MOPS 9 parts DEPC water Satellite cell proliferation media 50 ml DMEM (2x) 8 ml bicarbonate solution 1 ml penicillin/streptomycin 20 ml FBS 10 ml HS 1 ml chicken embryo extract Make up to 100 ml with MilliQ water Scott's tap-water 2.0 g sodium bicarbonate 20.0 g magnesium sulphate 1 l MilliQ water 1 crystal of thymol
+
+TAE (Tris-acetate EDTA) for DNA gels (50 x) 242 g Tris (base) 57.1 ml glacial acetic acid 100 ml 0.5 M EDTA (ph 8.0) Made up to 1 l with MilliQ water
+
+86
+
+TBS (Tris buffered saline) 50 ml 1 M Tris 30 ml 5 M Sodium chloride Made up to 1 l with MilliQ water TBS-T (Tris buffered saline + Tween-20) 999 ml TBS 1 ml Tween-20 Western blocking buffer 0.15 g BSA 0.5 g PVP 0.5 g PEG 50 ml TBS-T Western transfer buffer 25 mM Tris 190 mM glycine 20% methanol 20:2:1 fixative 20 parts 70% ethanol 2 parts 40% formaldehyde 1 part glacial acetic acid 75% ethanol 75 ml 100% ethanol 25 ml DEPC-treated water 0.35% Carageenen-lambda 0.175 g Carageenen from seaweed (Sigma) 50 ml PBS
+
+10% serum 20 l serum 1980 l PBS
+
+87
+
+0.5% Triton X-100 250 l Triton X-100 49.75 ml PBS
+
+88
+
+References
+1. Abmayr, S., Balagopalan, L., Galletta, B., and Hong, S. Cell and Molecular Biology of Myoblast Fusion. International Review of Cytology, 2003. 225: p. 33-89. 2. Allen, R. and Boxhorn, L. Inhibition of skeletal muscle satellite cell differentiation by transforming growth factor-beta. Journal of Cellular Physiology, 1987. 133(5): p. 567-572. 3. Allen, R. and Boxhorn, L. Regulation of skeletal muscle satellite cell proliferation and differentiation by transforming growth factor-beta, insulin-like growth factor I, and fibroblast growth factor. Journal of Cellular Physiology, 1989. 138(2): p. 311-315. 4. Allen, R., Temm-Grove, C., Sheehan, S., and Rice, G. Skeletal muscle satellite cell cultures. Methods in Cell Biology, 1997. 52: p. 155-176. 5. Anderson, J. A Role for Nitric Oxide in Muscle Repair; Nitric Oxidemediated Activation of Muscle Satellite Cells. Molecular Biology of the Cell, 2000. 11: p. 1859-1874. 6. Arnold, H., Della-Fera, M.A., and Baile, C.A. Review of myostatin history, physiology and applications. LifeXY, 2001. 1(1): p. 1014-1022. 7. Asakura, A., Seale, P., Girgis-Gabardo, A., and Rudnicki, M.A. Myogenic specification of side population cells in skeletal muscle. Journal of Cell Biology, 2002. 159(1): p. 123-34. 8. Ausubel, F., Brent, R., Kingston, R., Moore, D., Seidman, J., Smith, J., and Struhl, K. Current protocols in Molecular Biology. 1987, New York: Wiley Interscience. 9. Barani, A., Sabido, O., and Freyssenet, D. Mitotic activity of rat muscle satellite cells in response to serum stimulation: relation with cellular metabolism. Experimental Cell Research, 2003. 283: p. 196-205. 10. Barnard, W., Bower, J., Brown, M., Murphy, M., and Austin, L. Leukemia inhibitory factor (LIF) infusion stimulates skeletal muscle regeneration after injury, injured muscle expresses lif mRNA. Journal of the Neurological Sciences, 1994. 123(1-2): p. 108-13.
+
+89
+
+11.
+
+Baroffio, A., Hamann, M., Bernheim, L., Bochaton-Piallat, M., Gabbiani, G., and Bader, C. Identification of self-renewing myoblasts in the progeny of single human muscle satellite cells. Differentiation, 1996. 60: p. 47-57.
+
+12.
+
+Beauchamp, J.R., Heslop, L., Yu, D.S., Tajbakhsh, S., Kelly, R.G., Wernig, A., Buckingham, M.E., Partridge, T.A., and Zammit, P.S. Expression of CD34 and Myf5 defines the majority of quiescent adult skeletal muscle satellite cells. Journal of Cell Biology, 2000. 151(6): p. 1221-34.
+
+13.
+
+Bischoff, R. The satellite cell and muscle regeneration, in Myology: Basic and Clinical, A.G. Engel and C. Franzini-Armstrong, Editors. 1994, McGraw-Hill. p. 97-112.
+
+14.
+
+Bishop, A. Myostatin Signalling to the Novel Gene Mighty in Myogenesis. 2005, University of Auckland: Auckland. p. 325.
+
+15.
+
+Blaveri, K., Heslop, L., Yu, D., Rosenblatt, J., Gross, J., Partridge, T., and Morgan, J. Patterns of Repair of Dystrophic Mouse Muscle: Studies on Isolated Fibres. Developmental Dynamics, 1999. 216: p. 244-256.
+
+16.
+
+Boulikas, T. Transcription factor binding site in the matrix attachement region (MAR) of the chicken alpha-globin gene. Journal of Cellular Biochemistry, 1994. 55(4): p. 513-529.
+
+17.
+
+Boulikas, T. Chromatin domains and prediciton of MAR sequences. International Review of Cytology, 1995. 162A: p. 279-388.
+
+18.
+
+Brand-Saberi, B. and Christ, B. Genetic and epigenetic control of muscle development in vertebrates. Cell and Tissue Research, 1999. 296(1): p. 199-212.
+
+19.
+
+Brand-Saberi, B., Gamel, A., Krenn, V., Muller, T., Wilting, J., and Christ, B. N-Cadherin is Involved in Myoblast Migration and Muscle Differentiation in the Avian Limb Bud. Developmental Biology, 1996. 178: p. 160-173.
+
+20.
+
+Brand-Saberi, B., Krenn, V., Grim, M., and Christ, B. Differences in the fibronectin-dependence of migrating cell populations. Anatomy and Embryology (Berl), 1993. 187(1): p. 17-26.
+
+90
+
+21.
+
+Braun, T., Rudnicki, M.A., Arnold, H.H., and Jaenisch, R. Targeted inactivation of the muscle regulatory gene Myf-5 results in abnormal rib development and perinatal death. Cell, 1992. 71(3): p. 369-82.
+
+22.
+
+Cardasis, C.A. and Cooper, G.W. An analysis of nuclear numbers in individual muscle fibers during differentiation and growth: a satellite cell-muscle fiber growth unit. Journal of Experimantal Zoology, 1975. 191(3): p. 347-58.
+
+23.
+
+Cerletti, M., Molloy, M., Tomczak, K., Yoon, S., Ramoni, M., Kho, A., Beggs, A., and Gussoni, E. Melanoma cell adhesion molecule is a novel marker for human fetal myogenic cells and affects myoblast fusion. Journal of Cell Science, 2006. 119: p. 3117-3127.
+
+24.
+
+Chazaud, B., Sonnet, C., Lafuste, P., Bassez, G., Rimaniol, A., Poron, F., Authier, F., Dreyfus, P., and Gherardi, R. Satellite cells attract monocytes and use macrophages as a support to escape apoptosis and enhance muscle growth. The Journal of Cell Biology, 2003. 163(5): p. 1133-1143.
+
+25.
+
+Chen, S., Gerken, E., Zhang, Y., Zhan, M., Mohan, R., Li, A., Reid, M., and Li, Y. Role of TNFsignalling in regeneration of cardiotoxin-
+
+injured muscle. American Journal of Physiology. Cell Physiology, 2005. 289: p. C1179-C1187. 26. Clarke, M., Khakee, R., and McNeil, P. Loss of cytoplasmic basic fibroblast growth factor from physiologically wounded myofibers of normal and dystrophic muscle. Journal of Cell Science, 1993. 106(1): p. 121-133. 27. Conboy, I., Conboy, M., Smythe, G., and Rando, T. Notch-Mediated Restoration of Regenerative Potential to Aged Muscle. Science, 2003. 302: p. 1575-1577. 28. Conboy, I.M. and Rando, T.A. The regulation of Notch signaling controls satellite cell activation and cell fate determination in postnatal myogenesis. Developmental Cell, 2002. 3(3): p. 397-409. 29. Cooper, R., S, T., Mouly, V., Cossu, G., Buckingham, M., and ButlerBrowne, G. In vivo satellite cell activation via Myf5 and MyoD in regenerating mouse skeletal muscle. Journal of Cell Science, 1999. 112: p. 2895-2901.
+
+91
+
+30.
+
+Cornelison, D., Filla, M., Stanley, H., Rapraeger, A., and Olwin, B. Syndecan-3 and syndecan-4 specifically mark skeletal muscle satellite cells and are implicated in satellite cell maintenance and muscle regeneration. Developmental Biology, 2001. 239(1): p. 79-94.
+
+31.
+
+Cornelison, D., Wilcox-Adelman, S., Goetinck, P., Rauvala, H., AC, R., and Olwin, B. Essential and seperable roles for Syndecan-3 and Syndecan-4 in skeletal muscle development and regeneration. Genes and Development, 2004. 18: p. 2231-2236.
+
+32.
+
+Cornelison, D.D. and Wold, B.J. Single-cell analysis of regulatory gene expression in quiescent and activated mouse skeletal muscle satellite cells. Developmental Biology, 1997. 191(2): p. 270-83.
+
+33.
+
+Cossu, G., Tajbakhsh, S., and Buckingham, M. How is myogenesis initiated in the embryo? Trends in Genetics, 1996. 12(6): p. 218-23.
+
+34.
+
+de Kok, J., Roelofs, R., Giesendorf, B., Pennings, J., Waas, E., Feuth, T., Swinkels, D., and Span, P. Normalization of gene expression measurements in tumor tissues: comparison of 13 endogenous control genes. Laboratory Investigation, 2005. 85: p. 154-159.
+
+35.
+
+de la Serna, I., Ohkawa, Y., Berkes, C., Bergstrom, D., Dacwag, C., Tapscott, S., and Imbalzano, A. MyoD Targets Chromatin Remodelling Complexes to the Myogenin Locus Prior to Forming a Stable DNABound Complex. Molecular and Cellular Biology, 2005. 25(10): p. 3997-4009.
+
+36.
+
+Dedieu, S., Poussard, S., Mazeres, G., Grise, F., Dargelos, E., Cottin, P., and Brustis, J. Myoblast migration is regulated by calpain thorugh it's involvement in cell attachment and cytoskeletal organisation.
+
+Experimental Cell Research, 2004. 292: p. 187-200. 37. Deindl, E., Boengler, K., van Royen, N., and Schaper, W. Differential expression of GAPDH and -actin in growing collateral arteries.
+
+Molecular and Cellular Biochemistry, 2002. 236: p. 139-146. 38. Delfini, M., Heirsinger, E., Pourquie, O., and Duprez, D. Delta 1activated Notch inhibits muscle differentiation without affecting Myf5 and Pax3 expression in chick limb myogenesis. Development, 2000. 127: p. 5213-5224.
+
+92
+
+39.
+
+Dietrich, S., Abou-Rebyeh, F., Brohmann, H., Bladt, F., SonnenbergRiethmacher, E., Yamaai, T., Lumsden, A., Brand-Saberi, B., and Birchmeier, C. The role of SF/HGF and c-Met in the development of skeletal muscle. Development, 1999. 126(8): p. 1621-9.
+
+40.
+
+Doherty, K., Cave, A., Davis, D., Delmonte, A., Posey, A., Early, J., Hadhazy, M., and McNally, E. Normal myoblast fusion requires myoferlin. Development, 2005. 132(24): p. 5565-5575.
+
+41.
+
+Epstein, J., Shapiro, D., Cheng, J., Lam, P., and Maas, R. Pax3 modulates expression of the c-met receptor during limb muscle development. Proceedings of the National Academy of Sciences of the USA, 1996. 93: p. 4213-4218.
+
+42.
+
+Epting, C., Lopez, J., Shen, X., Liu, L., Bristow, J., and Bernstein, H. Stem cell antigen-1 is necessary for cell-cycle withdrawal and myoblast differentiation in C2C12 cells. Journal of Cell Science, 2004. 117: p. 6185-6195.
+
+43.
+
+Ferrari, G., Cusella-De Angelis, G., Coletta, M., Paolucci, E., Stornaiuolo, A., Cossu, G., and Mavilio, F. Muscle Regeneration by Bone Marrow-Derived Myogenic Progenitors. Science, 1998. 279: p. 1528-1530.
+
+44.
+
+Florini, J., Ewton, D., and Coolican, S. Growth hormone and the insulinlike growth factor system in myogenesis. Endocrine Reviews, 1996. 17(5): p. 481-517.
+
+45.
+
+Florini, J., Roberts, A., Ewton, D., Falen, S., Flanders, K., and Sporn, M. Transforming growth factor-beta. A very potent inhibitor of myoblast differentiation, identical to the differentiation inhibitor secreted by Buffalo rat liver cells. The Journal of Biological Chemistry, 1986. 261(35): p. 16509-1651.
+
+46.
+
+Gal-Levi, R., Lesham, Y., Aoki, S., Nakamura, T., and Halevy, O. Hepatocyte growth factor plays a dual role in regulating skeletal muscle satellite cell proliferation and differentiation. Biochimica et Biophysica Acta, 1998. 1402: p. 39-51.
+
+93
+
+47.
+
+Galli, R., Borello, U., Gritti, A., Minasi, M., Bjornson, C., Coletta, M., Mora, M., Cusella-De Angelis, M., Fiocco, R., Cossu, G., and Vescovi, A. Skeletal myogenic potential of human and mouse neural stem cells. Nature: neuroscience, 2000. 3(10): p. 986-991.
+
+48.
+
+Garry, D.J., Yang, Q., Bassel-Duby, R., and Williams, R.S. Persistent expression of MNF identifies myogenic stem cells in postnatal muscles. Developmental Biology, 1997. 188(2): p. 280-94.
+
+49.
+
+Germani, A., Di Carlo, A., Mangoni, A., Straino, S., Giacinti, C., Turrini, P., Biglioli, P., and Capogrossi, M. Vascular Endothelial Growth Factor Modulates Skeletal Myoblast Function. American Journal of Pathology, 2003. 163(4): p. 1417-1428.
+
+50.
+
+Gregorevic, P., Williams, D., and Lynch, G. Effects of leukemia inhibitory factor on rat skeletal muscles are modulated by clenbuterol. Muscle and Nerve, 2002. 25: p. 194-201.
+
+51.
+
+Gros, J., Manceau, M., Thome, V., and Marcelle, C. A common somitic origin for embryonic muscle progenitors and satellite cells. Nature, 2005. 435: p. 954-958.
+
+52.
+
+Gross, M.K., Moran-Rivard, L., Velasquez, T., Nakatsu, M.N., Jagla, K., and Goulding, M. Lbx1 is required for muscle precursor migration along a lateral pathway into the limb. Development, 2000. 127(2): p. 413-24.
+
+53.
+
+Grounds, M., Garrett, K., Lai, M., Wright, W., and Beilharz, M. Indentification of skeletal muscle precursor cells by in vivo use of MyoD1 and myogenin probes. Cell and Tissue Research, 1992. 267(1): p. 99-104.
+
+54.
+
+Hamalainen, H., Tubman, J., Vikman, S., Kyrola, T., Yilkoski, E., Warrington, J., and Lahesmaa, R. Identification and Validation of Endogenous Reference Genes for Expression Profiling of T Helper Cell Differentiation by Quantitative Real-Time PCR. Analytical
+
+Biochemistry, 2001. 299(63-70). 55. Hannon, K., Smith, C., Bales, K., and Santerre, R. Temporal and Quantitative Analysis of Myogenic Regulatory and Growth Factor Gene Expression in the Developing Mouse Embryo. Developmental Biology, 1992. 151: p. 137-144.
+
+94
+
+56.
+
+Hawke, T.J. and Garry, D.J. Myogenic satellite cells: physiology to molecular biology. Journal of Applied Physiology, 2001. 91(2): p. 53451.
+
+57.
+
+Heslop, L., Beauchamp, J.R., Tajbakhsh, S., Buckingham, M.E., Partridge, T.A., and Zammit, P.S. Transplanted primary neonatal myoblasts can give rise to functional satellite cells as identified using the Myf5nlacZl+ mouse. Gene Therapy, 2001. 8(10): p. 778-83.
+
+58.
+
+Hill, M. and Goldspink, G. Expression and splicing of the insulin-like growth factor gene in rodent muscle is associated with muscle satellite (stem) cell activaiton following local tissue damage. The Journal of Physiology, 2003. 549(2): p. 409-418.
+
+59.
+
+Hinterberger, T., Sassoon, D., Rhodes, S., and Konieczny, S. Expression of the muscle regulatory factor MRF4 during somite and skeletal myofibre development. Developmental Biology, 1991. 147(1): p. 144156.
+
+60.
+
+Honda, H., Kimura, H., and Rostami, A. Demonstration and phenotypic characterization of resident macrophages in rat skeletal muscle. . Immunology, 1990. 70: p. 272-277.
+
+61.
+
+Horowitz, M., Fileds, A., DeMeo, D., Qian, H., Bothwell, A., and Trepman, E. Expression and regulation of Ly-6 differentiation antigens by murine osteoblasts. Endocrinology, 1994. 135(3): p. 1032-1043.
+
+62.
+
+Houzelstein, D., Auda-Boucher, G., Cheraud, Y., Rouaud, T., Blanc, I., Tajbakhsh, S., Buckingham, M., Fontaine-Perus, J., and Robert, B. The homeobox gene Msx1 is expressed in a subset of somites, and in muscle progenitor cells migrating into the forelimb. Development, 1999. 126(12): p. 2689-2701.
+
+63.
+
+Itoh, H., Mima, T., and Mikawa, T. Loss of fibroblast growth factor receptors is necessary for terminal differentiation of embryonic limb muscle. Development, 1996. 122: p. 291-300.
+
+64.
+
+Jankowski, R., Deasy, B., Cao, B., Gates, C., and Huard, J. The role of CD34 expression and cellular fusion in the regeneration capacity of myogenic progenitor cells. Journal of Cell Science, 2002. 115: p. 43614374.
+
+95
+
+65.
+
+Jankowski, R., Haluszczak, C., Trucco, M., and Huard, J. Flow cytometric characterization of myogenic cell populations obtained via the preplate technique: potential for rapid isolation of muscle-derived stem cells. Human Gene Therapy, 2001. 12(6): p. 619-628.
+
+66.
+
+Jo, C., Kim, H., Jo, I., Choi, I., Jung, S., Kim, J., Kim, S., and Jo, S. Leukemia inhibitory factor blocks early differentiation of skeletal muscle cells by activating ERK. Biochimica et Biophysica Acta, 2005. 1743: p. 187-197.
+
+67.
+
+Kablar, B., Krastel, K., Tajbakhsh, S., and Rudnicki, M. Myf5 and MyoD activation define independent myogenic compartments during embryonic development. Developmental Biology, 2003. 258: p. 307-318.
+
+68.
+
+Kambadur, R., Sharma, M., Smith, T.P., and Bass, J.J. Mutations in myostatin (GDF8) in double-muscled Belgian Blue and Piedmontese cattle. Genome Research, 1997. 7(9): p. 910-6.
+
+69.
+
+Katagiri, T., Akiyama, S., Namiki, M., Komaki, M., Yamaguchi, A., Rosen, V., Wozney, J.M., Fujisawa-Sehara, A., and Suda, T. Bone morphogenetic protein-2 inhibits terminal differentiation of myogenic cells by suppressing the transcriptional activity of MyoD and myogenin. Experimental Cell Research, 1997. 230(2): p. 342-51.
+
+70.
+
+Katz, F. The termination of the afferent nerve fiber in the muslce spindle of the frog. Philosophical Transactions of the Royal Society of London, 1961. 243: p. 221-225.
+
+71.
+
+Kirk, S., Oldham, J., Jeanplong, F., and Bass, J. Insulin-like growth factor-II delays early but enhances late regeneration of skeletal muscle. The Journal of Histochemistry and Cytochemistry, 2003. 51(12): p. 1611-1620.
+
+72.
+
+Kirk, S., Oldham, J., Kambadur, R., Sharma, M., Dobbie, P., and Bass, J. Myostatin Regulation During Skeletal Muscle Regeneration. Journal of Cellular Physiology, 2000. 184: p. 356-363.
+
+73.
+
+Kirk, S., Whittle, M., Oldham, J., Dobbie, P., and Bass, J. GH regulation of the Type 2 IGF receptor in regenerating skeletal muscle of rats. Journal of Endocrinology, 1996. 149: p. 81-91.
+
+96
+
+74.
+
+Kitzmann, M., Bonnieu, A., Duret, C., Vernus, B., Barro, M., LaoudjChenivesse, D., Verdi, J., and Carnac, G. Inhibition of Notch Signalling Induces Myotube Hypertrophy by Recruiting a Subpopulation of Reserve Cells. Journal of Cellular Physiology, 2006. 208: p. 538-548.
+
+75.
+
+Kitzmann, M., Carnac, G., Vandromme, M., Primig, M., Lamb, N., and Fernandez, A. The muscle regulatory factors MyoD and myf-5 undergo distinct cell cycle-specific expression in muscle cells. Journal of Cell Biology, 1998. 142(6): p. 1447-1459.
+
+76.
+
+Kopan, R., Nye, J., and Weintraub, H. The intracellular domain of mouse Notch: a constitutively activated repressor of myogenesis directed at the basic helix-loop-helix region of MyoD. Development, 1994. 120: p. 2385-2396.
+
+77.
+
+Krause, D., Fackler, M., Civin, C., and Stratford May, W. CD34: Structure, Biology, and Clinical Utility. Blood, 1996. 87(1): p. 1-13.
+
+78.
+
+Kuipers, H., Drukker, J., Frederik, P., Geurton, P., and van Kranenburg, G. Muscle degeneration after exercise in rats. International Journal of Sports Medicine, 1983. 4: p. 45-51.
+
+79.
+
+Langley, B., Thomas, M., Bishop, A., Sharma, M., Gilmour, S., and Kambadur, R. Myostatin inhibits myoblast differentiation by downregulating MyoD expression. Journal of Biological Chemistry, 2002. 277(51): p. 49831-40.
+
+80.
+
+Lapidos, K., Chen, Y., Earley, J., Heydemann, A., Huber, J., Chien, M., Ma, A., and McNally, E. Transplanted hematopoietic stem cells demonstrate impaired sarcoglycan expression after engraftment into cardiac and skeletal muscle. The Journal of Clinical Investigation, 2004. 114(11): p. 1577-1585.
+
+81.
+
+LeClair, K., Rabin, M., Nesbitt, M., Pravtcheva, D., Ruddle, F., Palfree, R., and Bothwell, A. Murine Ly-6 multigene family is located on chromesome 15. Proceedings of the National Academy of Sciences of the USA, 1987. 84: p. 1638-1642.
+
+97
+
+82.
+
+Lee, J., Qu-Peterson, Z., Cao, B., Kimura, S., Jankowski, R., Cummins, J., Usas, A., Gates, C., Robbins, P., Wernig, A., and Huard, J. Clonal Isolation of Muscle-derived Cells Capable of Enhancing Muscle Regeneration and Bone Healing. Journal of Cell Biology, 2000. 150(5): p. 1085-1099.
+
+83.
+
+Lefaucheur, J. and Sebille, A. Muscle regeneration following injury can be modified in vivo by immune neutralisation of basic fibroblast growth factor, transforming growth factor 1 or insulin like growth factor I. Journal of Neuroimmunology, 1995.
+
+84.
+
+Lefaucheur, J.P. and Sebille, A. The cellular events of injured muscle regeneration depend on the nature of the injury. Neuromuscular Disorders, 1995. 5(6): p. 501-9.
+
+85.
+
+Lescaudron, L., Peltekian, E., Fontaine-Perus, J., Paulin, D., Zampieri, M., CGarcia, L., and Parrish, E. Blood borne macrophages are essential for the triggering of muscle regeneration following muscle transplant. Neuromuscular Disorders, 1999. 9: p. 72-80.
+
+86.
+
+Lillie, R. Histopathologic, technic and practical histochemistry. 1965, New York: McGraw-Hill.
+
+87.
+
+Lin-Jones, J. and Hauschka, S. Myogenic determination factor expression in the developing avian limb bud: an RT-PCR analysis. Developmental Biology, 1996. 174(2): p. 407-422.
+
+88.
+
+Lollini, P., Landuzzi, L., Nicoletti, G., de Giovarelli, M., Lalli, F., Facchini, A., and Nanni, P. Ly-6A/E gene is widely expresseed among transformed nonhematopoietic cells. Autocrine modulation by interferon. Anticancer Research, 1992. 12(6B): p. 2245-2252.
+
+89.
+
+Luderus, M., de Graaf, A., Mattia, E., den Blaauwen, J., Grande, M., de Jong, L., and van Driel, R. Binding of matrix attachment regions to lamin B1. Cell, 1992. 70(6): p. 949-959.
+
+90.
+
+Luderus, M., Den Blaauwen, J., de Smit, O., Compton, D., and van Driel, R. Binding of matrix attachment regions to lamin polymers involves single-stranded regions and the minor groove. Molecular and Cellular Biology, 1994. 14(9): p. 6297-6305.
+
+98
+
+91.
+
+Luna, G., Paez, J., and Cardier, J. Expression of the hematopoietic stem cell antigen Sca-1 (LY-6A/E) in liver sinusoidal endothelial cells: possible function of Sca-1 in endothelial cells. Stem Cells and Development, 2004. 13(5): p. 528-535.
+
+92.
+
+Marcelle, C., Stark, M.R., and Bronner-Fraser, M. Coordinate actions of BMPs, Wnts, Shh and noggin mediate patterning of the dorsal somite. Development, 1997. 124(20): p. 3955-63.
+
+93.
+
+Marques, M., Mendes Luz, M., Minatel, E., and Neto, H. Muscle regeneration in dystrophic mdx mice is enhanced by isosorbide dinitrate. Neuroscience Letters, 2005. 382: p. 342-345.
+
+94.
+
+Martini, F. Fundamentals of Anatomy and Physiology 4th Edition. 1998, New Jersey: Prentice Hall/Pearson Education.
+
+95.
+
+Massague, J., Cheifetz, S., Endo, T., and Nadal-Ginard, B. Type beta transforming growth factor is an inhibitor of myogenic differentiation. Proceedings of the National Academy of Sciences of the USA, 1986. 83(21): p. 8206-8210.
+
+96.
+
+Massimino, M., Rapizzi, E., Cantini, M., Libera, L., Mazzoleni, F., Arslan, P., and Carraro, U. ED2+ macrophages increase selectively myoblast proliferation in muscle cultures. Biochemical and biophysical research communications, 1997. 235(3): p. 754-759.
+
+97.
+
+McCroskery, S., Thomas, M., Maxwell, L., Sharma, M., and Kambadur, R. Myostatin negatively regulates satellite cell activation and selfrenewal. Journal of Cell Biology, 2003. 162(6): p. 1135-47.
+
+98.
+
+McCroskery, S., Thomas, M., Platt, L., Hennebry, A., Nishimura, T., McLeay, L., Sharma, M., and Kambadur, R. Improved muscle healing through enhanced regeneration and reduced fibrosis in myostatin-null mice. Journal of Cell Science, 2005. 118(15): p. 3531-3541.
+
+99.
+
+McKinnell, I., Parise, G., and Rudnicki, M. Muscle Stem Cells and Regenerative Myogenesis. Current Topics in Developmental Biology, 2005. 71: p. 113-130.
+
+100.
+
+McPherron, A.C., Lawler, A.M., and Lee, S.J. Regulation of skeletal muscle mass in mice by a new TGF-beta superfamily member. Nature, 1997. 387(6628): p. 83-90.
+
+99
+
+101.
+
+Megeney, L.A., Kablar, B., Garrett, K., Anderson, J.E., and Rudnicki, M.A. MyoD is required for myogenic stem cell function in adult skeletal muscle. Genes and Development, 1996. 10(10): p. 1173-83.
+
+102.
+
+Miller, K., Thaloor, D., Matteson, S., and Pavlath, G. Hepatocyte growth factor affects satellite cell activation and differentiation in regenerating skeletal muscle. American Journal of Physiology. Cell Physiology, 2000. 278: p. C174-C181.
+
+103.
+
+Mitchell, P., Mills, T., O'Connor, R., Graubert, T., Dzierzak, E., and Pavlath, G. Sca-1 negatively regulates proliferation nd differentiation of muscle cells. Developmental Biology, 2005. 283: p. 240-252.
+
+104.
+
+Murphy, C. and Polak, J. Differentiating embruonic stem cells: GAPDH, but neither HPRT nor beta-tubulin is suitable as an internal standard for measureing RNA levels. Tissue Engineering, 2002. 8(4): p. 551-559.
+
+105.
+
+Nabeshima, Y., Hanaoka, K., Hayasaka, M., Esumi, E., Li, S., and Nonaka, I. Myogenin gene disruption results in perinatal lethality because of severe muscle defects. Nature, 1993. 364(6437): p. 532-5.
+
+106.
+
+Nagata, Y., Kobayashi, H., Umeda, M., Ohta, N., Kawashima, S., Zammit, P., and Matsuda, R. Sphingomyelin Levels in the Plasma Membrane Correlate with the Activation State of Muscle Satellite Cells. The Journal of Histochemistry & Cytochemistry, 2006. 54(4): p. 375384.
+
+107.
+
+Nofziger, D., Miyamoto, A., Lyons, K.M., and Weinmaster, G. Notch signaling imposes two distinct blocks in the differentiation of C2C12 myoblasts. Development, 1999. 126(8): p. 1689-702.
+
+108.
+
+Odelberg, S.J., Kollhoff, A., and Keating, M.T. Dedifferentiation of mammalian myotubes induced by msx1. Cell, 2000. 103(7): p. 1099109.
+
+109.
+
+Ohkawa, Y., Marfella, C., and Imbalzano, A. Skeletal muscle specification by myogenin and Mef2D via the SWI/SNF ATPase Brg1. The EMBO Journal, 2006. 25: p. 490-501.
+
+110.
+
+Olson, E., Sternberg, E., Hu, J., Spizz, S., and Wilcox, C. Regulation of myogenic differentiaiton by type beta transforming growth factor. The Journal of Cell Biology, 1986. 103(5): p. 1799-1805.
+
+100
+
+111.
+
+Olson, E.N. and Klein, W.H. bHLH factors in muscle development: dead lines and commitments, what to leave in and what to leave out. Genes and Development, 1994. 8: p. 1-8.
+
+112.
+
+Ontell, M., Hughes, D., and Bourke, D. Morphometric analysis of the developing mouse soleus muscle. American Journal of Anatomy, 1988. 181(3): p. 279-288.
+
+113.
+
+Ontell, M. and Kozeka, K. The organogenesis of murine striated muscle: a cytoarchitectural study. American Journal of Anatomy, 1984a. 171(2): p. 133-148.
+
+114.
+
+Ontell, M. and Kozeka, K. Organogenesis of the mouse extensor digitorum logus muscle: a quantitative study. American Journal of Anatomy, 1984b. 171(2): p. 149-161.
+
+115.
+
+Partridge, T. Tissue culture of skeletal muscle. Methods in Molecular Biology, 1997. 75(131-144).
+
+116.
+
+Polesskaya, A., Seale, P., and Rudnicki, M. Wnt Signalling Induces the Myogenic Specification of Resident CD45+ Adult Stem Cells during Muscle Regeneration. Cell, 2003. 113: p. 841-852.
+
+117.
+
+Randall, D., Burggren, W., French, K., and Fernald, R. Eckert Animal Physiology, Mechanisms and Adaptations. 1997, New York: W. H. Freeman and Co.
+
+118.
+
+Relaix, F., Rocancourt, D., Mansouri, A., and Buckingham, M. Divergent functions of murine Pax3 and Pax7 in limb muscle development. Genes and Development, 2004. 18: p. 1088-1105.
+
+119.
+
+Reshef, R., Maroto, M., and Lassar, A.B. Regulation of dorsal somitic cell fates: BMPs and Noggin control the timing and pattern of myogenic regulator expression. Genes and Development, 1998. 12(3): p. 290-303.
+
+120.
+
+Rios, R., Carneiro, I., Arce, V.M., and Devesa, J. Myostatin is an inhibitor of myogenic differentiation. American Journal of Physiology. Cell Physiology, 2002. 282(5): p. C993-9.
+
+121.
+
+Robertson, T., Maley, M., Grounds, M., and Papadimitriou, J. The role of macrophages in skeletal muscle regeneration with particular reference to chemotaxis. Experimental Cell Research, 1993. 207(2): p. 321-331.
+
+101
+
+122.
+
+Ross, J., Duxson, M., and Harris, A. Formation of primary and secondary myotubes in rat lumbrical muscles. Development, 1987. 100: p. 383-394.
+
+123.
+
+Rouger, K., Brault, M., Daval, N., Leroux, I., Guigand, L., Lesour, J., Fernandez, B., and Cherel, Y. Muscle satellite cell heterogeneity: in vitro and in vivo evidences for populations that fuse differently. Cell and Tissue Research, 2004. 317(3): p. 319-326.
+
+124.
+
+Rudnicki, M., Braun, T., Hinuma, S., and Jaenisch, R. Inactivation of MyoD in mice leads to up-regulation of the myogenic HLH gene Myf-5 and results in apparently normal muscle development. Cell, 1992. 71(3): p. 383-390.
+
+125.
+
+Rudnicki, M. and Jaenisch, R. The MyoD family of transcription factors and skeletal myogenesis. Bioessays, 1995. 17: p. 203-209.
+
+126.
+
+Sabourin, L., Girgis-Gabardo, A., Seale, P., Asakura, A., and Rudnicki, M. Reduced Differentiation Potential of Primary MyoD-/- Myogenic Cells Derived from Adult Skeletal Muscle. The Journal of Cell Biology, 1999. 144(4): p. 631-643.
+
+127.
+
+Sambrook, J., Fritsch, E., and Maniatis, T. Molecular cloning: A laboratory manual, 2nd ed. 1989, New York: Cold Spring Harbour Laboratory Press.
+
+128.
+
+Schmidt, K., Glaser, G., Wernig, A., Wegner, M., and Rosorius, O. Sox8 Is a Specific Marker for Muscle Satellite Cells and Inhibits Myogenesis. The Journal of Biological Chemistry, 2003. 278(32): p. 29769-29775.
+
+129.
+
+Schultz, E. Satellite cell proliferative compartments in growing skeletal muscles. Developmental Biology, 1996. 175(1): p. 84-94.
+
+130.
+
+Schultz, E. and McCormick, K.M., Skeletal muscle satellite cells. Reviews of Physiology, Biochemistry and Pharmacology, 1994. 123: p. 213-57.
+
+131.
+
+Seale, P., Polesskaya, A., and Rudnicki, M. Adult Stem Cell Specification by Wnt Signalling in Muscle Regeneration. Cell Cycle, 2003. 2(5): p. 418-419.
+
+132.
+
+Seale, P., Sabourin, L.A., Girgis-Gabardo, A., Mansouri, A., Gruss, P., and Rudnicki, M.A. Pax7 is required for the specification of myogenic satellite cells. Cell, 2000. 102(6): p. 777-86.
+
+102
+
+133.
+
+Sharma, M., Langley, B., Bass, J., and Kambadur, R. Myostatin in muscle growth and repair. Exercise and Sport Sciences Reviews, 2001. 29(4): p. 155-8.
+
+134.
+
+Sheehan, S. and Allen, R. Skeletal muscle satellite cell proliferation in response to members of the fibroblast growth factor family and hepatocyte growth factor. Journal of Cellular Physiology, 1999. 181: p. 499-506.
+
+135.
+
+Shen, X., Collier, J.M., Hlaing, M., Zhang, L., Delshad, E.H., Bristow, J., and Bernstein, H.S. Genome-wide examination of myoblast cell cycle withdrawal during differentiation. Developmental Dynamics, 2003. 226(1): p. 128-38.
+
+136.
+
+Spangrude, G., Heimfeld, S., and Weissman, I. Purification and characterization of mouse hematopoietic stem cells. Science, 1988. 241(4861): p. 58-62.
+
+137.
+
+Spizz, G., Roman, D., Strauss, A., and Olson, E.N. Serum and fibroblast growth factor inhibit myogenic differentiation through a mechanism dependent on protein synthesis and independent of cell proliferation. Journal of Biological Chemistry, 1986. 261(20): p. 9483-8.
+
+138.
+
+Steele, B., Meyers, C., and Ozbun, M. Variable expression of some "housekeeping" genes during human keratinocyte differentiation. Analytical Biochemistry, 2002. 307: p. 341-347.
+
+139.
+
+Su, B., Wanek, G., Flavell, R., and Bothwell, A. The Glycosyl Phosphatidylinositol Anchor Is Critical for Ly-6A/E-mediated T Cell Activation. The Journal of Cell Biology, 1991. 112(3): p. 377-384.
+
+140.
+
+Sumariwalla, V. and Klein, W. Similar myogenic functions for myogenin and MRF4 but not MyoD in differentiated murine embryonic stem cells. Genesis, 2001. 30(4): p. 239-249.
+
+141.
+
+Tajbakhsh, S., Vivarelli, E., Cusella-De Angelis, G., Rocancourt, D., Buckingham, M., and Cossu, G. A Population of Myogenic Cells Derived from the Mouse Neural Tube. Neuron, 1994. 13: p. 813-821.
+
+142.
+
+Tatsumi, R., Anderson, J.E., Nevoret, C.J., Halevy, O., and Allen, R.E. HGF/SF is present in normal adult skeletal muscle and is capable of activating satellite cells. Developmental Biology, 1998. 194(1): p. 11428.
+
+103
+
+143.
+
+Thomas, M., Langley, B., Berry, C., Sharma, M., Kirk, S., Bass, J., and Kambadur, R. Myostatin, a negative regulator of muscle growth, functions by inhibiting myoblast proliferation. Journal of Biological Chemistry, 2000. 275(51): p. 40235-43.
+
+144.
+
+Torrente, Y., Belicchi, M., Sampaolesi, M., Pisati, F., Meregalli, M., D'Antona, G., Tonlorenzi, R., Porretti, L., Gavina, M., Mamchaoui, K., Pellegrino, M., Furling, D., Mouly, V., Butler-Browne, G., Bottinelli, R., Cossu, G., and Bresolin, N. Human circulating AC133+ stem cells restore dystrophin expression and ameliorate functionin dystrophic skeletal muscle. The Journal of Clinical Investigation, 2004. 114(2): p. 182-195.
+
+145.
+
+Torrente, Y., Tremblay, J., Pisati, F., Belicchi, M., Rossi, B., Sironi, M., Fortunato, F., El Fahime, M., D'Angelo, M., Caron, N., Constantin, G., Paulin, D., Scarlato, G., and Bresolin, N. Intraarterial Injection of Muscle-derived CD34+Sca-1+ Stem Cells Restores Dystrophin in mdx Mice. Journal of Cell Biology, 2001. 152(2): p. 335-348.
+
+146.
+
+Tracey, K., Morgello, S., Koplin, B., Fahey III, T., Fox, J., Aledo, A., Manogue, K., and Cerami, A. Metabolic Effects of Cachectin/Tumor Necrosis Factor are Modified by Site of Produciton. Cachectin/Tumor Necrosis Factor-secreting Tumor in Skeletal Muscle Induces Chronic Cachexia, While Implantation in Brain Induces Predominately Acute Anorexia. Journal of Clinical Investigation, 1990. 86: p. 2014-2024.
+
+147.
+
+Tricarrico, C., Pinzani, P., Bianchi, S., Paglierani, M., Distante, V., Pazzagli, M., Bustin, S., and Orlando, C. Quantitative real-time reverse transcription polymerase chin reaction: normalisation to rRNA or single housekeeping genes is inappropriate for human tissue biopsies. Analytical Biochemistry, 2002. 309: p. 293-300.
+
+148.
+
+van de Rijn, M., Heimfeld, S., Spangrude, G., and Weissman, I. Mouse hematopoietic stem-cell antigen Sca-1 is a member of the Ly-6 antigen family. Proceedings of the National Academy of Sciences of the USA, 1989. 86: p. 4634-4638.
+
+104
+
+149.
+
+Vanderwinden, J., Rumessen, J., De Laet, M., Vnaderhaeghen, J., and Schiffmann, S. CD34+ cells in human intestine are fibroblasts adjacent to, but distinct from, interstitial cells of Cajal. Laboratory Investigations, 1999. 79(1): p. 59-65.
+
+150.
+
+Vascotto, S., Beug, S., Liversage, R., and Tsilfidis, C. Nv -actin and NvGAPDH as normalization factors for gene expression analysis in lim regenerates and cultured blastema cells of the adult newt, Notophthalmus viridescens. The International Journal of Developmental Biology, 2005. 49: p. 833-842.
+
+151.
+
+Volonte, D., Liu, Y., and Galbiati, F. The modulation of caveolin-1 expression controls satellite cell activation during muscle repair. The FASEB Journal, 2005. 19(2): p. 237-239.
+
+152.
+
+Weintraub, H., Davis, R., Tapscott, S., Thayer, M., Krause, M., Benezra, R., Blackwell, T., Turner, D., Rupp, R., and Hollenberg, S. The MyoD gene family: nodal point during specification of the muscle cell lineage. Science, 1991. 251: p. 761-766.
+
+153.
+
+Wernig, A., Bone, M., Irintchev, A., Schafer, R., and Cullen, M. M-cadherin is a Reliable Marker of Quiescent Satellite Cells in Mouse Skeletal Muscle. Basic and Applied Myology, 2004. 14(3): p. 161-168.
+
+154.
+
+White, J., Bower, J., Kurek, J., and Austin, L. Leukemia inhibitory factor enhances regeneration in skeletal muscles after myoblast transplant. Muscle and Nerve, 2001b. 24: p. 695-697.
+
+155.
+
+White, J., Davies, M., and Grounds, M, Leukaemia inhibitory factor increases myoblast replication and survival and affects extracellular matrix production: combined in vivo and in vitro studies in post-natal skeletal muscle. Cell and Tissue Research, 2001a. 306: p. 129-141.
+
+156.
+
+Yablonka-Reuveni, Z. and Nameroff, M. Skeletal muscle cell populations. Separation and partial characterisation of fibroblast-like cells from embryonic tissue using density centrifugation. Histochemistry, 1987. 87: p. 27-38.
+
+157.
+
+Yaffe, D. and Saxel, O. Serial passaging and differentiation of myogenic cells isolated from dystrophic mouse muscle. Nature, 1977. 270: p. 725727.
+
+105
+
+158.
+
+Yamane, A., Amano, O., Urushiyama, T., Nagata, J., Akutsu, S., Fukui, T., and Deikwisch, T. Exogenous hepatocyte growth factor inhibits myoblast differentiation by inducing myf5 and supressing myoD expression in an organ culture system of embryonic mouse tongue. European Journal of Oral Sciences, 2004. 112: p. 177-181.
+
+159.
+
+Yamazaki, K. and Eyden, B. Ultrastructural and immunohistochemical observations on intralobular fibroblasts of human breast, with observations on the CD34 antigen. Journal of Submicroscopic Cytology and Pathology, 1995. 27(3): p. 309-323.
+
+160.
+
+Yan, Z., Choi, S., Liu, X., Zhang, M., Schageman, J., Lee, S., Hart, R., Lin, L., Thurmond, F., and Williams, R. Highly Coordinated Gene Regulation in Mouse Skeletal Muscle Regeneration. The Journal of Biological Chemistry, 2003. 78(10): p. 8826-8836.
+
+161.
+
+Yang, S. and Goldspink, G. Different roles of the IGF-1 Ec peptide (MGF) and mature IGF-1 in myoblast proliferation and differentiation. FEBS Letters, 2002. 522: p. 156-60.
+
+162.
+
+Yoshida, N., Yoshida, S.K., K, Masuda, K., and Nabeshima, Y. Cell heterogeneity upon myogenic differentiation: down-regulation of MyoD and Myf-5 generates 'reserve cells'. Journal of Cell Science, 1998. 111(6): p. 769-779.
+
+163.
+
+Zador, E., Mendler, L., Takacs, V., de Bleecker, J., and Wuytack, F. Regenerating soleus and extensor digitorum longus muscles of the rat show elevated levels of TNF- and its receptors. Muscle and Nerve, 2001. 24: p. 1058-1067.
+
+164.
+
+Zammit, P., Golding, J., Nagata, Y., Hudon, V., Partridge, T., and Beauchamp, J. Muscle satellite cells adopt divergent fates: a mechanism for self renewal? The Journal of Cell Biology, 2004. 166(3): p. 347-357.
+
+165.
+
+Zuk, P., Zhu, M., Mizumo, H., Huang, J., Futrell, J., Katz, A., Benhaim, P., Lorenz, H., and Hedrick, M. Multilineage cells from human adipose tissue: implications for cell-based therapies. Tissue Engineering, 2001. 7(2): p. 211-228.
+
+106
+
+

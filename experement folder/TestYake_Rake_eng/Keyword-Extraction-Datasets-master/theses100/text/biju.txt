@@ -1,0 +1,1099 @@
+Drying characteristics of New Zealand chestnuts
+
+A thesis submitted in partial fulfilment of the requirements for the degree of Master of Science in Materials and Process Engineering at The University of Waikato by
+
+ANILA BIJU CLETUS
+
+2007
+
+Dedicated to Biju & Belcita
+
+ii
+
+Abstract
+Chestnut is a relatively new nut crop to New Zealand and they do grow well in New Zealand conditions. Research to date in New Zealand indicated that New Zealand chestnuts present some unique features compared to chestnuts world wide. The two main unique problems with New Zealand chestnuts are the susceptibility to fungal disease Phomopsis (accounting for 40% loss of nuts at the wholesale markets) and the difficulty in the removal of the inner skin called the pellicle. No systematic drying trials had been performed on New Zealand chestnuts and therefore this research investigated the drying characteristics of New Zealand chestnuts to establish optimum drying conditions. The study also investigated the influence of the shell and pellicle on the drying process and the efficacy of shell and pellicle removal of New Zealand chestnuts under a range of moisture contents since the moisture content is a key factor which determines this efficiency. The drying trials were carried out at a temperature of 30°C because preliminary studies indicated that higher temperatures resulted in extensive surface deterioration. Experimental drying curves are considered the only adequate preliminary step for determination of drying characteristics of a food material and the curves clearly indicated that there are two distinct falling rate periods. It was concluded that the first falling rate period corresponded to the period during which the surface of the nut reaches equilibrium moisture content and the second falling rate period occurred as the moisture movement from interior of the nut to the surface was the rate limiting factor. Hence a diffusion based model was used to estimate the apparent moisture diffusivity in chestnuts. The average apparent moisture diffusivity in chestnuts obtained at 30°C was 6.21x 10-11m2s-1. The study revealed that the pellicle is the most significant barrier to mass transfer; considerably more so than the shell. The shelling and peeling efficiency of New Zealand chestnuts were carried out at various moisture contents using a custom-made mechanical shelling machine. The mechanical shell removal of New Zealand chestnuts was accomplished with an efficiency of 94% at the desired storage moisture content of 40%. However mechanical pellicle removal of New Zealand chestnuts proved practically impossible although American varieties (Carolina and Revival) exhibited 100% peeling efficiency.
+
+iii
+
+Acknowledgements
+I am greatly indebted to my supervisor Dr James Carson for your guidance, neverending encouragement and enthusiasm. I am grateful for your extraordinary kindness, support and above all for imparting so much knowledge. You were more than a supervisor right from the very beginning, helping me with harvesting chestnuts to the very little things that I was unaware of. I could not have wished for a better supervisor. The Department of engineering is gratefully acknowledged for providing me with a scholarship to undertake this research. I am grateful to Professor Janis Swan, for your constant encouragement, support and kindness you have always shown me. My sincere thanks to Dr David Klinac for all the knowledge you passed on with chestnuts. To Stuart Rentoul at Waikato Research Orchard we thank you for providing chestnuts. My thanks also go to Ray Knowles for all your valuable information on chestnuts. To all the technicians at the Department of Engineering, I thank you all for providing the necessary help at the required time especially Brett Nichol, Yuanji Zhang, Paul Ewart and Indar Singh. To all my friends at LSL, thanks for all the support and encouragement you have given me. Your friendship and assistance are much appreciated. Finally, to my family: To my parents and in-laws, thank you for your love, support and prayers throughout the years. To my dearest daughter Belcita, thank you for your big smiles and words of warmth that kept me cheerful throughout this work and my husband, you always stood beside me with love and respect that have lead me to where I am.
+
+iv
+
+Contents
+Abstract Acknowledgements Contents List of Figures List of Tables List of Nomenclatures List of Abbreviations Chapter 1 ­ Introduction
+1.1 1.2 1.3 1.4 Chestnuts Chestnuts in New Zealand New Zealand chestnut industry History of New Zealand chestnut research iii iv v viii xi xii xiii 15 15 16 16 17 20 20 21 21
+
+Chapter 2 ­ Literature Review
+2.1 2.2 Introduction Chestnut drying 2.2.1 2.2.2 Processed chestnut products Drying kinetics of different chestnut varieties and influence of temperature, air velocity and relative humidity 2.2.3 Osmotic dehydration 2.2.4 2.2.5 2.2.6 2.2.7 Influence of the natural chestnut shells on drying Isotherms Mathematical modelling Effect of temperature on the physical and chemical properties of chestnuts 2.3 Unique features of New Zealand chestnuts 2.3.1 Varieties in New Zealand v
+
+22 23 23 24 24
+
+25 26 27
+
+2.3.2 2.3.3
+
+Harvest in New Zealand Yields and returns
+
+27 28 28 30 31 33 33 33 33 34 34 35 37 38 38 39 40 41 41 41 41 41 42 43 47 47 47 48 51
+
+2.3.4 Diseases and pests 2.3.5 Difficulty in shelling and peeling 2.4 Summary
+
+Chapter 3 ­ Materials and Methods
+3.1 3.2 3.3 3.4 Introduction Overview of experiments Floatation grading Determination of moisture content 3.4.1 3.4.2 3.5 Standard procedure for moisture content determination Initial moisture content of freshly harvested chestnuts
+
+Preliminary Drying Trials 3.5.1 3.5.2 Drying at different temperatures Test for texture (120 hour duration)
+
+3.5.3 Test for texture 240 hour duration 3.6 Drying trials at 30°C 3.6.1 Individual chestnut drying trials 3.6.1.1 3.6.1.2 3.6.1.3 3.6.2 3.6.3 3.7 Trials 4&5 Trials 6&7 Trial 8
+
+Influence of the shell and pellicle on the drying process Bulk drying trials
+
+Shelling trials
+
+Chapter 4 ­ Results and Analysis
+4.1 4.2 4.3 4.4 Introduction Moisture content of floaters and sinkers Measurement of initial moisture content of chestnuts Influence of temperature on nut quality and drying process
+
+vi
+
+4.5 4.6
+
+Change of texture during drying ­Qualitative Assessment Drying curves 4.6.1
+
+53 57
+
+Influence of the chestnut shell, pellicle and edible kernel on drying Kinetics 60 Comparison of bulk drying curves with individual chestnut drying curves 62 64
+
+4.6.2
+
+4.7 4.8
+
+Determination of apparent moisture diffusivity
+
+Shelling efficiency of New Zealand chestnuts using customised mechanical shelling machine 69
+
+4.9
+
+Shelling and peeling efficiency of New Zealand chestnuts and other exotic varieties ­ A comparison 72 78 78
+
+Chapter 5 ­ Discussion
+5.1 5.2 Introduction Comparison of drying characteristics of New Zealand chestnuts with other cultivars 5.3 5.4 5.5 Analysis of drying curves Analysis of shelling trials Implications for New Zealand chestnut processors
+
+78 80 80 81 84 84 85 88
+
+Chapter 6 ­ Conclusions and Recommendations
+6.1 6.2 Conclusions Recommendations for future research
+
+References Appendix Appendix 1 2
+Raw Drying Data Time Temperature Profiles
+
+97 99
+
+vii
+
+List of figures
+Figure 3.1: Figure 3.2: Figure 3.3: Figure 3.4: Figure 3.5: Figure 3.6: Figure 3.7: Figure 3.8: Figure 4.1: Figure 4.2: Figure 4.3: Figure 4.4: Figure 4.5: Figure 4.6: Chestnuts with burr opened Chestnuts from the ground without burr Arrangements of groups A, B, C & D for initial moisture content Chestnuts arranged for 120 ­hour trial Chestnuts arranged for 240 ­hour trial Chestnuts with shell, without shell and without shell & pellicle Chestnuts arranged for bulk drying trials Custom-made mechanical shelling machine Moisture content (dry basis) of floaters and sinkers Initial moisture content for the four groups of the variety 1015 Relative Drying rate as a function of time at 20, 30 & 40° C Chestnuts dried at 40° C Chestnuts dried at 30° C Chestnuts after 24 hours of drying at 30° C with average moisture content of approximately 47 % (wet basis) Figure 4.7: Chestnuts after 60 hours of drying at 30°C with average moisture content of approximately 36 % (wet basis) Figure 4.8: Chestnuts after 120 hours of drying at 30°C with average moisture content of approximately 25 % (wet basis) Figure 4.9: Chestnuts after 192 hours of drying at 30°C with average moisture content of approximately 18 % (wet basis) Figure 4.10: Chestnuts after 216 hours of drying at 30°C with average moisture content of approximately 13 % (wet basis) 56 55 55 54 54 36 36 37 39 40 42 43 45 48 50 51 52 52
+
+viii
+
+Figure 4.11: Chestnuts after 240 hours of drying at 30°C with average moisture content of approximately 12 % (wet basis) Figure 4.12: Relative Drying rate as a function of drying time at 30°C for Individual trials Figure 4.13: Relative Drying rate as a function of time at 30°C 58 59 56
+
+Figure 4.14: Relative Drying rate as a function of moisture content at 30°C Figure 4.15: Drying rate as function of time for chestnuts with shell, without shell and without shell and pellicle Figure 4.16: Drying rate as a function of moisture content for chestnuts with shell, without shell and without shell and pellicle Figure 4.17: Drying rate as a function of time for Individual and Bulk trials Figure 4.18: Drying rate as a function of moisture content for bulk trials and individual trials Figure 4.19: Moisture ratio as a function of drying time Figure 4.20: Chestnuts shelled at 53% moisture content (wet basis) Figure 4.21: Chestnuts shelled at 45% moisture content (wet basis) Figure 4.22: Chestnuts shelled at 40% moisture content (wet basis) Figure 4.23: Chestnuts shelled at 36% moisture content (wet basis) Figure 4.24: Carolina-4 at 41.17% moisture content (wet basis)
+
+59
+
+61
+
+62 63
+
+63 67 70 70 71 71 74
+
+ix
+
+Figure 4.25: Revival m.hybrid at 40.79% moisture content (wet basis)
+
+74
+
+Figure 4.26: 1015 at 42.23% moisture content (wet basis)
+
+75
+
+Figure 4.27: Buffalo Queen at 38.72% moisture content (wet basis) Figure A2.1: Continuous temperature monitored during bulk trials
+
+75 99
+
+Figure A2.2: Continuous temperature monitored during individual drying trials 100
+
+x
+
+List of Tables
+Table 4.1: Mean moisture content and standard deviation for the four groups of the variety 1015 Table 4.2: Table 4.3: Table 4.4: ANOVA results for the variety 1015 Average radius of individual chestnuts Apparent moisture diffusivity for chestnuts under various drying conditions Table 4.5: Table 4.6: Shelling efficiency for chestnut variety 1015 Shelling and peeling efficiency of 23 different varieties of chestnuts Table A1.1: Raw data of "individual" trials (1-4) performed at 30°C 76 97 67 72 49 50 66
+
+Table A1.2:
+
+Raw data for individual trial 5 performed at 30°C
+
+97
+
+Table A1.3:
+
+Raw data of all "bulk trials" performed at 30°C
+
+98
+
+Table A1.4:
+
+Raw data of trials performed at 20°C
+
+98
+
+Table A1.5: Raw data of trials performed at 40°C
+
+98
+
+xi
+
+List of Nomenclature
+M M0 Me Mdb Mwb Dapp D r t a, b, c Moisture content (dry basis) Initial moisture content (dry basis) Equilibrium moisture content (dry basis) Moisture content dry basis Moisture content wet basis Apparent moisture diffusivity (m2s-1) Moisture diffusivity (m2s-1) radius of chestnut (m) time (hours, seconds) Lengths of the three semi axes in chestnuts Confidence interval Mass Biot number Heat transfer coefficient (Wm-2 K-1) Mass transfer coefficient (kg m-2 s-1) mass of chestnuts at any time Initial mass of chestnuts
+
+
+BiM h km m m0
+
+xii
+
+List of abbreviations
+ANOVA NZCC MAF DSIR CENZ SS DF MS Analysis Of Variance New Zealand Chestnut Council Ministry of Agriculture and Fisheries Department of Scientific and Industrial Research Chestnuts Exports New Zealand Limited Sum of Squares Degree of Freedom Mean Squares
+
+xiii
+
+Chapter 1: Introduction
+
+Chapter 1
+Introduction
+1.1 Chestnuts
+
+Chestnuts are a widely accepted food throughout Europe, America and some parts of Asia. They have quite a remarkable nutritional composition that sets them apart from all other nuts and makes them an outstanding nutrition source which can be a dietary staple [38]. Freshly harvested chestnuts contain approximately fifty per cent water and the remainder is mainly carbohydrates with traces of fat and protein. They are often referred to as "grain growing on a tree" [72]. Unfortunately the high carbohydrate and water content makes long-term storage difficult. In practice, chestnuts store more like a vegetable or fruit than a typical nut. Chestnuts belong to the family Fagaceae and the genus Castanea. There are mainly four commercial chestnut species used for human consumption [72]. They are: 1. Castanea mollissima (Chinese origin) 2. Castanea crenata (Japanese origin) 3. Castanea sativa (European origin) 4. Castanea dentata (American origin) The main chestnut-producing countries, world-wide, are China, Japan, Korea, Spain, Portugal, France, and Italy. The new chestnut growing countries are New Zealand, Australia and Chile. Worldwide, demand exceeds supply and therefore there is much potential for New Zealand chestnut industry to fill the gap because New Zealand chestnuts are relatively pest and disease free, with fast growth rates and high yields [37].
+
+15
+
+Chapter 1: Introduction
+
+1.2
+
+Chestnuts in New Zealand
+
+The information in this section about New Zealand chestnuts and the industry is based upon that provided by New Zealand chestnut council (NZCC) through unofficial reports and personal communication. Chestnuts were first introduced to New Zealand by some of the earliest European settlers in the 1800s and planted throughout New Zealand, mostly as specimen and ornamental trees. Most of the New Zealand chestnuts are hybrids of Japanese and European varieties. Chestnuts grow well in New Zealand conditions, but they present certain processing difficulties. New Zealand chestnuts are highly susceptible to fungal rots and the pellicle (an "inner skin") is very difficult to remove.
+
+1.3
+
+New Zealand Chestnut Industry
+
+Commercial chestnut orchards came into existence in New Zealand during the late 1970s and the early 1980s, with chestnut enthusiasts rediscovering and evaluating some of the old trees, propagating the best and growing grafted trees for sale. Most of this early work was done by the New Zealand Tree Crops Association. Later, regional chestnut growers association and chestnut marketing associations were set up throughout New Zealand, as a spin-off from the New Zealand Tree Crops Association. As chestnut growing became more widespread, the various regional chestnut growing associations amalgamated into a single national body, the New Zealand Chestnut Council (NZCC), which was established in the early 1980s. This has remained the national chestnut body ever since, publishing newsletters, running field days and seminars, setting national grade standards, funding research etc. The stated aim of the NZCC was to promote the growing of chestnuts throughout New Zealand and to support the establishment of a successful commercial industry.
+
+16
+
+Chapter 1: Introduction The New Zealand chestnut industry was at its height during the 1990s with 200300 grower members. Good profits were made in the early years and the demand was high. Despite Australia having a larger chestnut industry of its own, and often better varieties, New Zealand was consistently able to provide better quality chestnuts earlier and at a cheaper price. The main limitation was the shortage of dedicated chestnut handling, grading, sorting and exporting facilities. NZCC addressed this problem by forming Chestnut Exports New Zealand Ltd (CENZ), which was a single-desk selling and marketing operation, based in Hamilton. All growers supplied to this single pack house where nuts were graded, sorted, stored, packed and exported. Each year CENZ provided standardized packing materials, handling instructions, chemicals (for surface sterilization) etc. and they stored all nuts in its own cool stores. At the end of the year all supplying growers in the CENZ pool were paid according to tonnages submitted and prices received. All suppliers had to be members of the NZCC and follow their guidelines and CENZ therefore acted as the commercial arm of NZCC. CENZ was generally very successful, but there were problems. The main problem was the rise of independent, competing pack-houses and exporters which often exported an inferior product, undercutting CENZ, discouraging overseas customers and giving New Zealand chestnuts a bad reputation. Moreover the export of fresh chestnuts was, and still is a complicated process, due to the susceptibility of chestnuts to fungal rots. This eventually forced the closure of CENZ in the late 1990s and prompted a major change in direction away from fresh exports towards processed value-added products. This made good commercial sense, but the change from fresh export to processing has proven a slow and difficult process, not yet successfully resolved.
+
+1.4
+
+History of New Zealand Chestnut Research
+
+Initial research in 1970s concentrated on evaluation of new cultivars and focussed on nut size, tree yield, growth rate etc. Several attempts have also been made to breed an easy peel cultivar which has proven unsuccessful so far. During the 1980s, as the first commercial orchards were established, the first problems
+
+17
+
+Chapter 1: Introduction appeared with pollination, pests and diseases. However there is a lot more to be studied about chestnut pollination in New Zealand. Pests and diseases are mild in New Zealand compared to most of the world, but there are still problems with Phytopthora root-rot, graft incompatibility and nut rots. None of these problems have yet been adequately studied in New Zealand. During the 1990s when nut rot became more serious, much work has been done into fungicide spraying, post harvest chemical dips, modified and controlled atmosphere storage, cool storage, hot water treatment, novel packaging materials and so on. Later on when fresh exports gave way to processed nuts, difficulty with pellicle removal and fungal rots during storage became the serious issues and are still the most serious problems. Chestnut moisture content has a very significant effect on the two major obstacles to New Zealand chestnut processing (susceptibility to fungal rots and difficulty with pellicle removal). In general, the drier the chestnuts are the lower the incidence of fungal rots and greater the ability to shell them. They undergo loss of moisture either actively as part of a drying operation or passively under storage. However New Zealand chestnuts are susceptible to fungal rots under cold storage and therefore have to be dried to a certain moisture content of 40%. This research embraces the following objectives: 1. To determine the drying characteristics of New Zealand chestnuts. 2. To estimate apparent moisture diffusivity at optimum drying temperature, so that drying times may be predicted using diffusion based models. 3. To establish guidelines for effective shelling of New Zealand chestnuts using the customised shelling machine.
+
+18
+
+Chapter 2: Literature review
+
+Chapter 2
+Literature review
+2.1 Introduction
+
+Drying as a means of preserving the safety and quality of foods has been at the forefront of technological advancements in the food industry. It has greatly extended the consumer-acceptable shelf life of commodities from a few days and weeks to months and years. The lower storage and transportation costs associated with the reduction of weight and volume due to water removal have provided additional economic incentives for widespread use of dehydration processes. The expanding variety of commercial dehydrated foods available today has stimulated unprecedented competition to maximise their quality attributes [56]. Dehydration involves simultaneous transfer of heat, mass and momentum in which heat penetrates into the product and moisture is removed by evaporation into an unsaturated gas phase. Owing to the complexity of the process, no generalised theory yet exists to explain the mechanism of internal moisture movement [56]. The drying process depends on many factors such as the initial moisture content, desired final moisture content, temperature, relative humidity of drying air, and the air velocity [2]. Knowledge of temperature and moisture distribution in the product is vital for equipment and process design, quality control, choice of appropriate storage and handling practices [51]. The moisture removal processes and their dependence on the process variables are expressed in terms of the drying kinetics, and therefore the determination of the drying rate is an essential factor for development of reliable process models [31]. Chestnuts are generally characterized by high temperature sensitivity (colour, texture), and shrinkage during drying. Chestnut moisture content has an extremely significant effect on several very important aspects of New Zealand chestnut commercial handling, storage and value-added processes. The moisture content has a direct effect on chestnut taste, susceptibility to fungal rots and is a major
+
+20
+
+Chapter 2: Literature review determinant of storage life. Once they are too dry, they can be very hard and brittle and no longer rehydrate adequately [37]. Moreover the moisture content of the shell is a key determinant of shelling efficiency and the extent of drying determines the peelability. This review of literature is comprised of two sections: firstly a brief discussion of the various studies conducted on chestnut drying and secondly, the unique features of New Zealand chestnuts.
+
+2.2
+
+Chestnut Drying
+
+In Southern Europe, chestnuts were traditionally, sun-dried or kiln-dried over a wood fire. Drying was considered complete when the shells were easily separated from the kernels. The draw-back of this method was the often disagreeable smoky flavour the nuts acquired [17]. Forced convection by hot, dry air is now the most common industrial technique to perform food drying [47]. This is an energy intensive operation, and a greater understanding of the drying process is important if drying efficiency is to be increased while maintaining product quality [24]. 2.2.1 Processed chestnut products
+
+With fully processed chestnut products there is greater control over disease and spoilage aspects, and there is a possibility for added nutritional supplements. The consumer appeal of the product may be enhanced by changes to the colour, flavour and texture by use of additives. The simplest processed products are whole peeled, frozen, roasted or canned chestnuts. In processed form, the main usages are in the confectionery and salting trade [36]. Chestnut flour is an ideal alternative in the preparation of soups and cakes for people with intolerance to cereal gluten. The knowledge of nutritional properties of chestnuts could open new opportunities to increase the demand of chestnuts [5]. Processing of chestnuts is a very important activity in France where chestnuts are also known as `marrons'. They are processed as confectionery, whole preserved marrons, frozen peeled marrons, creams and purees [6]. Chestnuts preserved in sugar or syrup known as `marron glace' is a very popular French sweet [32].
+
+21
+
+Chapter 2: Literature review Chestnut flour is an end-product that is still important in Corsica and Italy, which allows the small-sized chestnuts to be preserved and used [6]. The processed chestnut products that are known to have been experimented within New Zealand are canned chestnut paste, puree, sandwich spread, chestnut liquor, vodka, juice, beer, flour and confectionery. Of these the sandwich spread and liquor still remain in production and are New Zealand's most long-lived successful commercial chestnut product [37]. The extrusion behaviour of chestnut flour mixed with rice flour has been studied by Sachetti et al. [58] which showed the negative effect of extrusion temperature on flour colour. Fresh and cured chestnuts showed a structure breakdown upon sterilization while dried and roasted nuts retained their wholeness [57]. In another study by Sachetti et al. [60] a ready-to-eat breakfast cereal was obtained through extrusion cooking of chestnut flour based blend. On the basis of the chemicophysical and organoleptic properties obtained by Pinnavaia et al. [55] it was possible to identify that chestnuts in syrup could be another processed commercial product. 2.2.2 Drying kinetics of different chestnut varieties and influence of
+
+temperature, air velocity and relative humidity The drying characteristics of chestnuts studied by Koyuncu et al. [44] identified that the air temperature was the most important factor that influenced the total drying time. On the other hand, the effect of the drying air velocity had minor influence on the total drying time but significantly influenced the total energy requirement for drying. On analysing the effect of the operating variables several review articles Moreira et al. [50], Chenlo et al. [14] & Kashaninenjad et al. [34] concluded that the velocity and relative humidity of the hot air showed lesser influences on the drying kinetics than temperature. The dehydration behaviour of three different varieties of chestnuts (Longal, Martainha and Viana) was carried out by Guine et al. [30] under isothermal conditions, using ventilated driers at 70, 80 and 90°C. The influence of temperature on the drying rates was again evidenced, with higher drying temperatures corresponding to faster processes. Longal and Martainha showed
+
+22
+
+Chapter 2: Literature review better drying features than the variety Viana, and thus seem to be more suitable for industrial purposes. In contrast, Moreira et al. [50] & Chenlo et al. [14] revealed that the use of different varieties of chestnuts (Famosa, Judia and Longal) did not show significant differences in the drying kinetics of chestnuts. Also the rehydration kinetics of three different Italian chestnut varieties (Marrone di Zocca, Marrone di Alfero and Marrone di Castel del Rio) studied by Sachetti et al. [59] did not differ amongst them for rehydration rate. 2.2.3 Osmotic dehydration
+
+Osmotic dehydration is a pre-treatment used in order to reduce the initial water content, reducing the total processing and air-drying time. It is a very useful technique that involves product immersion in a hypertonic aqueous solution leading to loss of water through the cell membranes of the product and subsequent flow along the inter-cellular space before diffusing into the solution [63]. A number of osmotic dehydration studies have been carried out with chestnuts by Chenlo et al. [10, 11, 12 & 13] and Vazquez et al. [70] using hypertonic solutions of sugar (glucose and sucrose), salt (sodium chloride) and also ternary mixtures with both compounds. However, this research does not focus on the concept of osmotic dehydration and therefore the studies on osmotic dehydration are not discussed in detail. 2.2.4 Influence of the natural chestnut shells on drying
+
+The natural skins of chestnuts (shell and pellicle) protect the fruit from the external environment, but also reduce the water removal rates during drying [50]. These skins prevent the direct contact between the parenchymatic tissue and the air when drying process take place, generating a low water loss-rate [14]. The influence of these barriers on drying kinetics has been studied in detail by Moreira et al. [50] and the study revealed that each chestnut barrier has an effect on the drying kinetics, but the presence of the pellicle causes a significant decrease on water removal rate, being the main resistance for mass transfer. In addition to its physical presence, it has a chemical composition with high quantities of adhesive substances which increase the resistance to water transport and allow it to remain
+
+23
+
+Chapter 2: Literature review adhered to the rough chestnut surface during practically all the drying process [14]. 2.2.5 Isotherms
+
+Each food has a unique set of sorption isotherms at different temperatures. The precise shape of the sorption isotherms is caused by differences in the physical structure, chemical composition and extent of water binding within the food. The sorption isotherm indicates the water activity at which a food is stable and allows predictions of the effect of changes in moisture content on water activity and hence on storage stability. It is used to determine the rate and extent of drying and the optimum storage temperatures. The rate of change in water activity on a sorption isotherm differs according to whether moisture is removed from a food (desorption) or whether it is added to dry food (absorption). The changes occurring during storage strongly affect the design, modelling and optimisation of processing of foods. Therefore, sorption characteristics have to be examined and proper models need to be established, in order to improve the processing quality of the foods [54]. The desorption isotherms of chestnuts was determined by Vazquez et al. [69] in the range of temperatures between 5 and 50°C. The effect of temperature showed a cross over of the desorption isotherms at water activity 0.6. The safe storage moisture content of chestnuts appeared to be 0.06 kg water/kg dry solid which indicated a low water activity to preserve chestnuts. In another study by Demet et al. [20], the safe storage moisture content of raw hazelnuts was found to be 0.048 kg water/ kg dry solid. 2.2.6 Mathematical modelling
+
+Mathematical modelling of chestnut drying kinetics has been reported by some researchers, who consider the phenomenon of water diffusion as the main mechanism of internal moisture transfer. A diffusion based model considering shrinkage of the chestnuts was successfully applied to model the drying kinetics of chestnuts [50]. The consideration of a diffusional model with a constant coefficient of diffusion gave satisfactory results
+
+24
+
+Chapter 2: Literature review for osmotic dehydration studies conducted by Chenlo et al. [10, 11, and 12]. The experimental data was used to predict the effective diffusivity according to Fick's second law equation, assuming that the variation of diffusivity with temperature could be expressed by an Arrhenius type function, and the values of diffusivity obtained ranged from 4.45 x 10-9 to 7.65 x 10-9 m2 s-1 [30]. By comparison drying characteristics of hazelnuts during roasting reported that the effective diffusivity ranged from 2.301x 10-7 to 11.759 x 10-7 m2 s-1 [38]. On the other hand, the effective diffusivity varied from 5.42 x 10-11 to 9.29 x 10-10 m2 s-1 for pistachio nuts [34]. In general, comparisons between diffusivities reported are difficult as they vary considerably because of the complex structure of different foods and the lack of a standard method for determination of diffusivity. The physical structure of the food plays a very important role in the diffusion of water and other small molecules. A porous structure produced by freeze drying, significantly increases the diffusivity of moisture. On the other hand the presence of fats in food significantly decreases the diffusivity of moisture. Diffusion of gases, vapours and liquids in solid media is a more complex process than diffusion in fluids. The solids usually have a heterogeneous structure, and they may interact with the diffusing compounds. As a result, the diffusivity of small molecules in solids is much lower than in liquids, and this may affect the rates of the various physical and chemical processes involving mass transfer [56]. 2.2.7 Effect of temperature on the physical and chemical properties of chestnuts Water, being one of the main food components, has a decisive influence on the quality and the durability of food stuffs through its effects on many physicochemical and biological changes [23]. The influence of temperature on the physical and chemical properties of chestnuts was studied by several authors [28, 26, 45, 49, 61, 33] using various techniques. The technique of freeze drying was employed to extract the glucose, fructose and sucrose contents in different varieties of chestnut and the percentage of different
+
+25
+
+Chapter 2: Literature review sugars were assessed using high performance liquid chromatography [49]. Also Near infrared (NIR) spectrophotometry was used for the determination of sugar and starch content in chestnuts [61]. The chemical composition of chestnuts has been reported to show significant changes even under cold storage [33].
+
+2.3
+
+Unique features of New Zealand chestnuts
+
+The New Zealand climate is well suited to the cultivation of chestnuts and they can be easily propagated by budding or grafting [19]. Harvests have been good ever since the first specimens were planted for production. Most chestnut orchards are in the Waikato and the Bay of plenty, but growers believe that the tree should thrive anywhere in the country, from North Cape to Central Otago. Based on research and trials conducted largely by the North Island Chestnut Action Group, the New Zealand Tree Crops Association, MAF and DSIR during the 1980's, chestnut orchards today, are planted in New Zealand as an export oriented high value nut crop, for sale as fresh produce or as processed products. The chestnuts are produced from planned orchards of known performance based on grafted superior varieties [38]. The strength of New Zealand from a marketing perspective is that New Zealand has a clean, green and uncrowded environment, where high quality produce from organic production is easily achievable. Moreover New Zealand growers enjoy freedom from the world's major chestnut pests (gall wasp) and disease (chestnut blight). New Zealand can also produce very large nuts in comparison with chestnuts in other countries [27]. There is still an overseas demand for New Zealand chestnuts and regular enquiries are received from US, Asia and Europe. On the downside, although New Zealand is free from the major pest (gall wasp) and disease (chestnut blight) problems, they still have problems with a different fungal disease Phomopsis and are susceptible to predation by pests like rats and possums. New Zealand is not yet a recognized chestnut supplier on the world stage. New Zealand does not grow the main internationally recognized cultivars and returns on New Zealand chestnuts fluctuate greatly. Both the production and processing bases are still very small [39]. Moreover the current range of New
+
+26
+
+Chapter 2: Literature review Zealand processed chestnut products available have not proven good sellers internationally, and have difficulty competing head-on against existing, established chestnut products already in the market place. The alternative of fresh New Zealand chestnut exports presents the problem of being six months out of season, too far away from most markets and susceptible to fungal rots. As a new crop, experts are still learning how best to grow them in New Zealand conditions. The susceptibility to rots and the difficulty in the removal of the shell and pellicle are the most important obstacles to the New Zealand chestnut processing industry. The development of a mechanical shelling machine and the introduction of the floatation grading technique to grade out the rotten nuts have solved the problem to some extent but further research has to be carried out in both these areas. Alternatively to consider drying as an effective means of storage, no one has yet performed proper drying kinetics studies on New Zealand chestnuts other than trial and error procedures. 2.3.1 Varieties in New Zealand
+
+The New Zealand chestnut industry has 95% of its production based upon three hybrids of European and Japanese cultivars which are known by the numbers 1002, 1005 and 1015 [42]. These are characterised by rapid vegetative growth (nut production could be achieved in the second or third season after planting if desired), high yields, with large nuts, but neither easy-peel nor especially sweet. To a much lesser degree there are plantings of the Japanese chestnut varieties Mayrick King, Mayrick Queen and 902, which appear to crop more heavily in the warmer regions such as the coastal Bay of Plenty and Northern regions [43]. Unfortunately all these varieties produce chestnuts that present difficulties with respect to pellicle removal. 2.3.2 Harvest in New Zealand Chestnuts fall during the autumn and are gathered every day over peak nut fall because of their highly perishable nature and their susceptibility to predation by possums and rats. Harvesting is usually done by hand, although there are now various mechanical harvesters. Chestnuts are a very seasonal product with harvest lasting only for about 4-6 weeks. Because of their highly perishable nature freshly
+
+27
+
+Chapter 2: Literature review harvested chestnuts are normally stored immediately at 0-2°C in ventilated plastic bags under cool storage [38]. 2.3.3 Yields and returns
+
+The yield data taken from Lincoln university and HortResearch in New Zealand, where chestnut research is being undertaken were fairly similar to each other with a potential to build up to yield levels of 3.0 to 4.5 tonnes/ha within five years after planting [48]. Gross grower returns range from $1.50-$3.00/kg depending on size or grade of the nuts, with the larger or earlier season nuts usually fetching a premium. Small nuts are difficult to sell at a profit on the fresh fruit market and are utilised for processed value added products. Given reasonable conditions most orchards are capable of achieving around 4 tonnes/ha once the trees reach maturity by ten years [38]. 2.3.4 Diseases and pests
+
+Chestnut blight (a fungus which slowly but surely kills the tree) and gall wasp (a pest which eats into trees and eventually kills it) are wreaking havoc on overseas crops, which makes chestnut production uneconomic, but so far neither threat has made it to New Zealand [27]. The main pests (possums and rats) and disease problem in New Zealand are fungal nut rot Phomopsis and Phytopthora root rot [38]. Root rot caused by the soil-based fungal disease Phytopthora cinnamomi usually kills the tree at any age, and is more prevalent on heavier soil types. Control with fungicides and the use of trunk injections or foliar sprays has proven difficult. To reduce exposure to root rot diseases it is not recommended that orchards are established on poor drain soils, prone to water logging [38]. Infection of the nuts, while on the tree with fungal diseases Phomopsis and Botrytis can lead to rotten nuts even under cool storage [38]. As this disease can be found in nuts while they are still on the tree and in nuts immediately after harvest, it is apparent that natural infection occurs in the field before harvest. Therefore there is a need for control measures to restrict disease development in the field [71]. Phomopsis is a serious post-harvest problem in New Zealand,
+
+28
+
+Chapter 2: Literature review causing up to forty per cent loss of nuts at the wholesale markets. Since the fungi resides inside the nut, several attempts of post harvest fungicidal dips or surface sterilising washes to prevent spoilage have proven unsuccessful. This disease remains one of the major obstacles to chestnut quality in New Zealand [37]. Phomopsis is such a concern because nuts may appear perfect from the outside and pass even the most stringent export grading, yet still carry many incipient or latent fungal infections. The outside condition of the shell does not always correspond to the condition of the kernel inside. Assessments of moulding and storage life are therefore better made on peeled kernels. Unfortunately, doing this for New Zealand chestnuts varieties is not nearly as easy as it sounds due to problems with pellicle adhesion. As a result, there is not a lot of data available in New Zealand that can show, with any degree of certainty, how much of a problem with fungal infection New Zealand actually has [29]. Some research has also been carried out on modified atmosphere packaging and controlled atmosphere packaging to eliminate nut rot, but neither of these could solve the problem [52]. Phomopsis also has the potential to produce the harmful mycotoxin Phomopsin, so developing a reliable assay for this mycotoxin is another area of ongoing research [38]. The storage life and levels of fungal infection in the various New Zealand chestnut varieties has shown marked variation between different varieties, and between the same varieties collected from different orchards, and between different years. Large differences have also been noted between the performance of the same chestnut selections grown in the North and South Islands [40]. But it is unclear whether these storage facilities were operated under the same conditions. Floatation grading was a technique developed later, which was able to grade out the fungal attacked nuts to some extent. In New Zealand, experts identified that the best tasting, healthiest; easiest to store chestnuts are those with the highest density. The ones that float in water are considered too dried out to be saleable as fresh nuts or are partially rotten, or damaged or just naturally very low in sugar content (all of which are defects). The ones that sink in water but float readily
+
+29
+
+Chapter 2: Literature review when salt is added are considered suspects. Often they could have partial rots inside (invisible externally). Even if not yet rotten, they do not store well and are considered the ones that have to be sold as quickly as possible. However the concentration of the salt is determined through experience or trial and error. The effectiveness of this grading process varied between cultivars and was affected by time after harvest, where dehydration caused air gaps, development of splitting, or internal cavities [64]. With New Zealand's high degree of dependence on export markets, its geographic isolation from other markets and the need for long term storage to best utilize outof-season overseas demand, the control of fungal rots and thereby the extension of storage life has become a key priority. 2.3.5 Difficulty in shelling and peeling
+
+New Zealand chestnuts are unfortunately difficult to shell and peel. A necessary prerequisite for most processing applications is the shell removal. The pellicle seems to remain very intact with the edible kernel and this greatly complicates all kinds of processing applications. Moreover the pellicle has a very strong astringent taste, which seriously affects the quality of the nuts. Many attempts to introduce overseas high quality chestnut cultivars that are easy peel (especially the European and Chinese types) have been unsuccessful so far [37]. In traditional chestnut producing countries, shelling and peeling is usually done by hand or by using steam, flame or a combination of both. However these techniques work less well on New Zealand's unique chestnut cultivars [68]. The introduction of a mechanical shelling and peeling machine has proven beneficial to the New Zealand chestnut industry but there is a lack of scientific information regarding the optimum moisture content for shell and pellicle removal for individual varieties.
+
+30
+
+Chapter 2: Literature review
+
+2.4
+
+Summary
+
+The influence of the shell and pellicle on the drying process and determination of apparent moisture diffusivities for other chestnut varieties has been discussed. This will provide a clearer picture as to how these factors will affect the drying of New Zealand chestnuts. Many chestnut drying studies reported were based on the principle of osmotic dehydration and this was not discussed in detail as it is less relevant to this study. Also the influence of temperature on the physical and chemical properties of chestnuts was described to a lesser extent. Numerous drying studies have been conducted on different food products undergoing different types of drying. A few studies have reported the drying of chestnuts [10, 11, 12, 13, 14, 26, 28, 30, 44, 50, 59, 69 & 70] but no single drying study has been conducted on New Zealand chestnuts which present some unique features compared to chestnuts in other countries. The current production of New Zealand chestnuts is around 200-300 tonnes a year [37]. The market situation in New Zealand requires the nuts to be stored effectively for about 6-8 months and storing chestnuts in a good condition for such duration is a particularly delicate process. Hence there is a need to investigate the drying characteristics of New Zealand chestnuts which in turn could help in optimising the different variables (texture, moisture content, shell and pellicle removal) for successful storage of chestnuts. Chestnuts are believed to have indefinite storage life once properly dried. More importantly, for New Zealand chestnuts, fungal rot problem can be eliminated completely once they are subjected to proper drying conditions. In short the quality of dried chestnuts, strongly depend on the operational conditions and as a result proper drying kinetics studies has to be carried out specifically for New Zealand chestnuts at suitable temperatures.
+
+31
+
+Chapter 3: Materials and Methods
+
+Chapter 3
+Materials and Methods
+3.1 Introduction
+
+This chapter provides general details of the materials used and the methodology followed throughout this research.
+
+3.2
+
+Overview of experiments
+
+New Zealand chestnut variety known by the number "1015" were harvested from Waikato Research Orchard in Hamilton and stored in ventilated plastic bags at a temperature of 2°C throughout the research period. This chestnut variety (main commercial variety) was used for all drying trials. The drying trials performed at various conditions and the simultaneous measurement of relative humidity and the measurement of heat transfer coefficient are described along with the drying trials. The shelling efficiency of New Zealand chestnuts and a comparison of shelling and peeling of 23 different varieties of chestnuts (both New Zealand and others) are also described.
+
+3.3
+
+Floatation Grading
+
+Floatation grading has proven a useful technique to grade out rotten nuts to some extent as fungal rotting is a very serious post harvest problem with New Zealand chestnuts. This is being successfully practiced by New Zealand chestnut industry by dropping chestnuts into a tank of water along with a salt (preferably magnesium sulphate). The concentration of the salt is determined by trial and error. The chestnuts that float in water are termed "floaters" (ones with density lower than that of water) and the nuts that readily sink to the bottom of the container are termed "sinkers" (ones with density higher than that of water). It is probable that the floating nuts are worm-eaten, rotten, dry or underdeveloped which are not suitable for commercial use.
+
+33
+
+Chapter 3: Materials and Methods Therefore all chestnuts used for the drying experiments in this study were selected after floatation grading. Due to lack of a specified salt concentration for floatation grading procedure (as different types and batches of chestnuts can be expected to behave quite differently) the chestnuts were put in a small tank of water without any salt and only the ones that readily sank in water were chosen for individual drying trials.
+
+3.4
+
+Determination of moisture content
+
+Chestnuts are characterised by high initial moisture content by comparison with other nuts and determination of initial moisture content is an important factor as it directly affects the dehydration process [30]. Moreover the initial moisture content is also important for modelling the drying process. A critical threshold is around 40% moisture content (wet basis) or 66.66 % (dry basis) at which point the fresh nut dies and will no longer germinate and is therefore the maximum moisture content acceptable for long term storage of chestnuts. This is also an important consideration for importers or exporters to countries with devitalisation requirements or chestnut growers who want the nut to germinate [37]. Hence determination of initial moisture content as well as the moisture content determination at different time periods was an important part of this research. 3.4.1 Standard procedure for moisture content determination
+
+1. The initial mass of chestnut samples (either individually or collectively) was recorded using a 0.01g sensitive balance. 2. The chestnuts were then placed into a convection oven at temperature of 105°C for a time period of about 48 hours. 3. Then the mass of the dried chestnut samples were recorded and then put back into the oven. 4. The mass of the chestnut samples were monitored until they reached an equilibrium value (Final mass). 5. The moisture content (wet basis and dry basis) of chestnuts were determined as per equation (3.1) & (3.2).
+
+34
+
+Chapter 3: Materials and Methods Moisture content, wet basis (Mwb) is the amount of water per unit mass of moist (or wet) sample. Thus,
+
+M wb =
+
+mass of water mass of solids + mass of water initial mass - final mass initial mass
+
+i.e. M wb =
+
+(3.1)
+
+Moisture content, dry basis (Mdb), is the amount of water per unit mass of dry solids (bone dry) present in the sample. Thus,
+
+M db =
+
+mass of water mass of dry solids initial mass - final mass final mass
+
+i.e. M db =
+
+(3.2)
+
+Note that the two moisture contents are related by the following equation:
+M db = M wb 1 - M wb
+
+(3.3)
+
+The moisture content (dry basis) may have values greater than 100%, since the amount of water present in a sample may be greater than the amount of dry solids present [66]. A dry basis is often used to evaluate the moisture content since the moisture-free material, if inert, does not lose mass on drying. The bone-dry matter thus provides a mass-balance tie over a drying process [35]. However, sometimes the wet basis moisture content is more convenient to use. 3.4.2 Initial moisture content of freshly harvested chestnuts
+
+Chestnuts are enclosed in a prickly spiny burr (Figure 3.1) and when the nut ripens, the burr splits open and the nuts drop onto the ground with or without the burr (Figure 3.2). Freshly harvested chestnuts of the variety "1015" were assessed for their initial moisture content for four different conditions at harvest. They were as follows: 35
+
+Chapter 3: Materials and Methods
+A. Nuts without burr ­ on the ground B. Nuts within burr opened ­ on the ground C. Nuts within burr opened ­ on the tree D. Nuts within burr closed ­ on the tree
+
+Figure 3.1: Chestnuts with burr opened
+
+Figure 3.2: Chestnuts from the ground
+
+36
+
+Chapter 3: Materials and Methods
+The procedure for determining the moisture content of the different categories was as follows: 1. All chestnuts were cut open into two halves and were checked for any internal rot and if rotten they were discarded. 2. The chestnuts were labelled under the above four categories and were then placed into 4 different trays named A, B, C&D with each tray holding 12 chestnuts as shown in Figure 3.3. 3. The remaining procedure was the same as that of steps 1 to 5 of section 3.4.1
+
+Figure 3.3: Arrangement of groups A, B, C&D for initial moisture content determination
+
+3.5
+
+Preliminary Drying Trials
+
+A series of drying trials were performed to examine the drying characteristics of chestnuts and all drying experiments were carried out inside a ConthermTM convection oven. The heat transfer coefficient at different points within the convection ovens used for the experiments was determined using the lumped heat capacity analysis based
+
+37
+
+Chapter 3: Materials and Methods
+on heating times of a copper sphere [8]. The diameter and mass of the copper sphere were 0.0377 m and 250.7g respectively. The temperature and time was recorded using a dual input digital thermocouple thermometer (FlukeTM view 54II). The heat transfer coefficient obtained, ranged between 15-30 Wm-2 K-1. The Chilton-Colburn analogy was used to infer mass transfer coefficient from the obtained values of heat transfer coefficient [56]. The relative humidity inside the convection ovens during drying trials was measured using a RotronicTM hygromer humidity sensor that is calibrated on a regular basis. The dual input digital thermocouple thermometer (FlukeTM 54 II) used throughout this research was of type T and was calibrated using the ice bath method. 3.5.1 Drying at different temperatures (Trial 1)
+
+The New Zealand chestnut industry recommended 30°C as the maximum temperature to dry chestnuts, above which they could be susceptible to severe quality deterioration. This was verified by performing drying trials at temperatures of 20, 30 & 40°C (Section 4.4). This preliminary study indicated that chestnuts dried at 40°C had a negative effect on chestnut quality. Hence it was decided that all other experiments would be performed at 30°C since the drying at 20°C is a relatively slow process. 3.5.2 Test for texture at 30°C (120 hour duration, Trial 2)
+
+Two drying trials were performed at 12 hour intervals, first trial for a time period of 120 hours and the second for duration of 240 hours to observe the change in texture of chestnuts and their corresponding moisture content with drying time. The procedure for the trials was as follows: 1. A group of 50 chestnuts were numbered individually and uniformly spreaded out on wire mesh trays as shown in Figure 3.4. 2. The initial weights were recorded for individual samples and then subjected to drying at a temperature of 30°C. 3. Five chestnuts were removed every 12 hours and their weights recorded accordingly until no chestnuts remained in the oven.
+
+38
+
+Chapter 3: Materials and Methods
+4. After weighing them, they were cut open to check for texture and any physical changes and were photographed. 5. The moisture content (bone dry mass) of the samples were then determined as per section 3.4.1.
+
+Figure 3.4: Chestnuts arranged for 120 hour trial 3.5.3 Test for texture at 30°C (240 hour duration, Trial 3)
+
+1. In the second trial a group of 80 chestnuts were numbered individually and placed on wire mesh trays as shown in Figure 3.5 and subjected to drying at a temperature of 30°C. 2. Four chestnuts were removed every 12 hours and their individual weights recorded accordingly. 3. The remaining procedure was the same as that of steps 4&5 of section 3.5.2
+
+39
+
+Chapter 3: Materials and Methods
+
+Figure 3.5: Chestnuts arranged for 240 hour trial
+
+3.6
+
+Drying Trials at 30°C
+
+Individual drying trials and bulk drying trials were conducted at 30°C for a time period of 72 hours to observe the drying curves of chestnuts. When "individual trials" are mentioned this means a group of chestnuts were spread out uniformly in rectangular wire mesh trays as shown in Figures 3.4 & 3.5 and the mass of chestnuts taken either individually or collectively and is mentioned clearly for respective drying trials. "Bulk trials" mean the chestnuts were stacked on top of the other as shown in Figure 3.9 and the mass taken collectively. An initial individual drying trial (mass of 8 chestnuts were recorded individually) at 30°C was conducted to investigate the number of days required for chestnuts to reach the equilibrium moisture content, before any other drying experiments conducted. The moisture content (wet basis and dry basis) for each samples was determined at the end of each drying trial as described in section 3.4. Also, all drying trials were replicated 3 times. The mass of chestnut samples were weighed using an analytical balance, AcculabTM VI-2400 (Precision: 0.1g) unless otherwise mentioned.
+
+40
+
+Chapter 3: Materials and Methods
+3.6.1 Individual chestnut drying trials
+
+Five individual chestnut drying trials (similar to the arrangement as shown in Figures 3.6 and 3.7) were performed at regular 12 hour intervals and 6 hour intervals at a temperature of 30° C for a time period of 72 hours (see Appendix A1.1 &A1.2). The procedures for these trials were as follows: 3.6.1.1 Trials 4& 5 1. The mass of a group of 20 chestnuts were recorded collectively every 12 hours for a time period of 72 hours. 2. The relative humidity inside the oven was simultaneously monitored using a RotronicTM Hygromer humidity sensor. 3. The moisture content of the samples was determined as per section 3.4.1 4. The experimental data were used to determine the drying curves. 3.6.1.2 Trials 6&7 1. The mass of a single chestnut was recorded every 6 hours for a time period of 72 hours. 2. The remaining procedure was the same as that of steps 2 to 4 of section 3.6.1.1 3.6.1.3 Trial 8 1. The mass of a group of 20 chestnuts were recorded collectively every 2 hours for the first 6 hours and then every 6 hours for a time period of 72 hours. 2. Steps 2 to 4 of section 3.6.1.1 were then repeated and the drying curve is as shown in Figure 4.14 3.6.2 Influence of the shell and pellicle on the drying process (Trial 9)
+
+This study was done to evaluate the influence of the chestnut shell, pellicle and the edible kernel on the drying kinetics of chestnut and the procedure was as follows: 1. Five chestnuts each with the shell, without the shell and without the pellicle were dried (Figure 3.6) at 30°C. 2. The shell was carefully removed using a knife and the pellicle was removed using a potato peeler.
+
+41
+
+Chapter 3: Materials and Methods
+3. The weights of the samples were recorded collectively for each group every 12 hours for a period of 72 hours. 4. Steps 2 to 4 of section 3.6.1.1 were repeated.
+
+Figure 3.6: Chestnuts with shell, without shell and without shell and pellicle. 3.6.3 Bulk drying trials (Trial 10)
+
+Commercially, chestnuts are packed in bulk for storage purposes. To understand the drying behaviour of chestnuts stored for commercial purposes and identify any possible difference with respect to individual drying, bulk drying trials were performed (arrangement as shown in Figure 3.7) and compared with individual trials (arrangement as shown in Figures 3.4&3.5). For this a group of chestnuts that weighed around 1000g was placed in a cubic basket made of wire mesh metal in which the chestnuts were stacked so as to be dried uniformly. The procedure for bulk trials was as follows: 1. A group of chestnuts that weighed around 1000g stacked in a cubical wire mesh was subjected to drying at a temperature of 30°C and mass were recorded every 12 hours for a 72-hour period.
+
+42
+
+Chapter 3: Materials and Methods
+2. One thermocouple monitored the temperature at the interstices between the bulk of chestnuts and the other thermocouple measured the oven temperature simultaneously throughout the drying process (see Appendix A2.1&A2.2). 3. Steps 2 to 4 of section 3.6.1.1 were repeated.
+
+Figure 3.7: Chestnuts arranged for bulk drying trials
+
+3.7 Shelling trials
+A customised mechanical shelling machine was used to determine the shelling efficiency for New Zealand chestnuts as well as some exotic varieties of chestnuts. The mechanical shelling machine was designed by Barry Stevenson of Langdon Engineering Limited and produced by HortResearch, Ruakura, specifically for use by Kiwi Chestnut Cooperative Company Limited (KCCCL) and is shown in Figure 3.8. When the term "shelling" is used in this study, this means the shell removal or outer skin of chestnuts and when the term "peeling" is mentioned this means the removal of the inner skin called the pellicle.
+
+43
+
+Chapter 3: Materials and Methods
+The shelling efficiency trials proceeded as follows: 1. The moisture content of the chestnuts at the time of this trial was determined as per section 3.4.1. 2. Then three wire mesh trays of chestnuts each containing about 15-20 nuts were dried at 30°C. 3. The first tray was dried for a period of 24 hours when it reached a moisture content of approximately 46% (wet basis) and then subjected to mechanical shelling. 4. The second tray was subjected to drying for a time period of approximately 48 hours when it reached a moisture content of 40% (wet basis) and then subjected to mechanical shelling. 5. The third tray was subjected to drying for a time period of 72 hours, when it reached a moisture content of 36% (wet basis) and then subjected to mechanical shelling. 6. The nuts were assessed for both shelling and peeling efficiency. This procedure was repeated three times for consistency. The shelling efficiency was determined by recording · · · · The total number of chestnuts subjected to shelling for individual trials The number of chestnuts with only shell removed The number of chestnuts both shell and pellicle removed The number of chestnuts neither shell nor pellicle removed.
+
+In another trial, 23 varieties of chestnuts, both exotic and New Zealand ones were subjected to shelling and peeling and their respective moisture contents determined. In this trial approximately 20 chestnuts of each variety were put through the mechanical shelling machine and they were each monitored for shell removal, shell and pellicle removal, neither shell nor pellicle removed and the number of rotten ones. Five chestnuts each of all varieties were used to determine the actual moisture content (as per section 3.4.1) at which they were put through the shelling machine.
+
+44
+
+Chapter 3: Materials and Methods
+Feed input
+
+Product out
+
+Figure 3.8: Custom-made mechanical shelling machine
+
+45
+
+Chapter 4: Results and Analysis
+
+Chapter 4
+Results and Analysis
+4.1 Introduction
+
+This research investigated mainly two aspects of New Zealand chestnuts: firstly to determine the drying characteristics of New Zealand chestnuts and secondly the efficacy of shelling and peeling them under different conditions using a customised shelling machine. Experimental drying curves at different conditions were used to study the drying characteristics of chestnuts. Drying curves were studied for a time period of 72 hours for an average moisture content ranging from 50% (wet basis) to a final moisture content of approximately 30% (wet basis). The shelling of New Zealand chestnuts at various moisture contents were tested using a mechanical shelling machine in order to determine an optimum moisture content for shelling them. The study also investigated the influence of the natural resistances such as the shell and pellicle on the drying kinetics.
+
+4.2
+
+Moisture content of "floaters" and "sinkers"
+
+The "floaters" and "sinkers" were assessed for their initial moisture content and the results showed that there is a significant difference in moisture content between the "floaters" and "sinkers". As might be expected the moisture content of "floaters" was significantly less than "sinkers" as shown in Figure 4.1. The moisture content values for the "floaters" ranged from 28.38 % (wet basis) to 44.70 % (wet basis) and the moisture content of the "sinkers" ranged from 47.22 % (wet basis) to 53.70% (wet basis). Previous research in New Zealand has concluded that the "floaters" are either rotten, underdeveloped, too dried out to be saleable as fresh nuts or just naturally low in sugar content (all of which are defects). Often they could have partial rots inside which are invisible externally and even if not rotten they do not store well
+
+47
+
+Chapter 4: Results and Analysis and are therefore not suitable for commercial purposes [37]. Therefore the best tasting, healthiest, easiest to store chestnuts are those with the highest density (the ones which readily sink in water), and hence only the "sinkers" were used for all drying trials throughout this research.
+
+1.4
+
+"FLOATERS" "SINKERS"
+
+MOISTURE CONTENT (DRY BASIS)
+
+1.2
+
+1
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0 1 2 3 4 5 6 7 8 9 10 SAMPLE NUMBERS
+
+Figure 4.1: Moisture content (dry basis) of "floaters" and "sinkers"
+
+4.3
+
+Measurement of initial moisture content of chestnuts
+
+The initial moisture content for the four groups (A, B, C&D, section 3.4.2) of chestnuts varied from 53-56 % (wet basis) or 113.94-120.86 % (dry basis). The group `B' (chestnuts with burr opened from the ground) showed comparatively high moisture content than the other groups as shown in Figure 4.2 and Table 4.1. The moisture content and standard deviation for the four groups is given in Table 4.2. The moisture content for Groups `A' and `C' were similar.
+
+48
+
+Chapter 4: Results and Analysis Table 4.1: Mean moisture content and standard deviation for the four groups of the variety 1015 Variety 1015 Initial moisture content (% dry0basis) A. Nuts without burr from the ground B. Nuts with burr opened128.44 56.15 9.67 1.81 from the ground C. Nuts with burr opened116.04 53.65 8.18 1.75 from the tree D. Nuts with burr closed120.86 54.66 8.18 1.71 from the tree A statistical analysis (ANOVA) was performed to determine if there was a significant difference between the moisture contents in groups A, B, C&D. For this the groups were sampled for all the different probabilities (AB, AC, AD, BC, BD, and CD). The ANOVA results for the variety 1015 showed that the groups AB and BC were different at a statistically significant level for a confidence interval of 0.05 (Table 4.2). However this variation of moisture content between groups can be less important because of the fact that most growers in New Zealand use the floatation grading technique as a prerequisite for proper post harvest storage of fresh chestnuts and provided different processes use the floatation grading measures prior to the process. 113.94 53.19 8.22 1.83 Initial moisture content (%bwet basis) Standard Deviation (dry basis) Standard Deviation (wet basis)
+
+49
+
+Chapter 4: Results and Analysis
+A B C D 1.6 MOISTURE CONTENT (DRY BASIS) 1.4 1.2 1 0.8 0.6 0.4 0.2 0 1 2 3 4 5 6 7 8 9 10 11 12 SAMPLE NUMBERS (1015)
+
+Figure 4.2: Initial moisture content for the four groups of the variety 1015
+
+Table 4.2: ANOVA results for the variety 1015 Confidence interval  = 0.05
+Groups AB BC CD AC AD BD SS 52.62882 37.60007 6.18135 1.260417 13.02427 13.29082 Df 1 1 1 1 1 1 MS 52.62882 37.60007 6.18135 1.260417 13.02427 13.29082 F 15.85245 11.87036 2.062649 0.393097 4.135791 4.273105 P-value 0.000631 0.002307 0.165016 0.537129 0.054221 0.050685 F crit 4.300949 4.300949 4.300949 4.300949 4.300949 4.300949
+
+The initial moisture content of New Zealand chestnuts is similar to that of other chestnut varieties according to published literature. Chenlo et al. [14] revealed that the initial moisture content of chestnuts were 55±3% (wet basis) for the varieties Famosa, Longal and Judia (European varieties). In a study conducted by Guine et al. [30] the initial moisture content of chestnuts varied from 50% for the variety Viana, to about 40% in the varieties Longal and Martainha. The initial moisture content of chestnuts was 50% (wet basis) according to Koyuncu et al. [44] and 55.4±1.8% (wet basis) according to Moreira et al. [50] and 56.4±2.0% (wet basis) according to Chenlo et al. [12] in a different study.
+
+50
+
+Chapter 4: Results and Analysis
+
+4.4
+
+Influence of temperature on nut quality and drying process
+
+Individual chestnut drying trials were carried out at temperatures of 20, 30 and 40°C. Figure 4.3 shows the relative drying rate of chestnuts at temperatures of 20, 30 and 40°C for a period of 72 hours. As expected, there is an increase in drying rate with increase in drying temperature, but due to the fact that high temperature (40°C) resulted in severe quality loss as shown in Figure 4.4, thereafter all trials were performed at 30°C. The chestnuts dried at 40°C showed extensive kernel blackening on the surface as seen in Figure 4.4, whereas the nuts were less susceptible to blackening when dried at 30°C (Figure 4.5). This indicated that chestnuts are highly sensitive to temperature and because of the fact that chestnuts dried at 30°C also showed surface blackening although to a lesser extent, temperatures higher than 30°C were not considered for future drying trials. Moreover industry experience also recommends 30°C as an upper limit for drying New Zealand chestnuts.
+
+40°C 30°C 0.012 20°C
+
+RELATIVE DRYING RATE (1/hour)
+
+0.01
+
+0.008
+
+0.006
+
+0.004
+
+0.002
+
+0 0 10 20 30 40 50 60 70 80
+
+TIME (hours)
+
+Figure 4.3: Relative drying rate as a function of time at 20, 30 & 40°C
+
+51
+
+Chapter 4: Results and Analysis
+
+Figure 4.4: Chestnuts dried at 40° C
+
+Figure 4.5: Chestnuts dried at 30° C
+
+52
+
+Chapter 4: Results and Analysis In general, there are a number of causes of colour loss or change in dried foods. Drying changes the surface characteristics of a food and hence alters its reflectivity and colour. In fruits and vegetables, chemical changes to carotenoid and chlorophyll pigments are caused by heat and oxidation during drying and the residual polyphenol oxidase enzyme activity causes browning during storage [25]. Kernel blackening or browning is a very common problem with New Zealand chestnuts. Experts [37] in New Zealand suspect that this could be due to too high temperatures resulting in the sugars charring or kernel blackening caused by fungal contaminated nuts. Fungal contaminated nuts often smell strongly during the drying process whereas kernel blackening caused by high temperature does not produce any smell during the drying process [41]. Floatation grading minimizes the incidence of surface blackening to a reasonable extent but drying at low temperatures (30°C) could provide much better results with respect to the quality of the final dried product although this study showed that air temperature is the single and most important factor affecting drying rate, which has also been shown by many previous researchers [1, 3, 13, 15, 21, 30, 50].
+
+4.5
+
+Change of texture during drying ­ QualitativeAssessment
+
+The change to the texture of solid foods is an important indicator of quality deterioration. The nature and extent of pre-treatments affect the texture of rehydrated fruits and vegetables. The change in texture in food products is primarily caused by the variations in moisture content during drying. In general rapid drying and high temperatures cause greater changes to the texture of foods than do moderate rates of drying and lower temperatures [25]. The texture of chestnuts is an important quality criterion because as drying progresses the texture of the nut changes and if dried for long periods they can no longer be in an edible form. The study of the texture of individual chestnuts at 30°C at regular intervals showed that chestnuts dried from an initial moisture content of approximately 50% to an average moisture content of approximately 47% remained similar in appearance and texture to fresh nuts and the shell remained intact with the kernel as shown in Figure 4.6. The detachment of the shell from the pellicle was visible when the chestnuts were dried down to a 53
+
+Chapter 4: Results and Analysis moisture content of 36% (wet basis) with a loose and spongy texture (Figure 4.7). The texture of chestnuts appeared to be rubbery at a moisture content of 25% (wet basis) and the chestnuts also showed definite signs of shrinkage but at this stage the chestnuts were still of edible form (Figure 4.8).
+
+Figure 4.6: Chestnuts after 24 hours of drying at 30°C with average moisture content of approximately 47% (wet basis)
+
+Figure 4.7: Chestnuts after 60 hours of drying at 30°C with average moisture content of approximately 36 % (wet basis) 54
+
+Chapter 4: Results and Analysis The chestnuts were quite hard and brittle and they were no longer easy to chop into halves at a moisture content of 18% (wet basis). It is visible from Figure 4.9 that the pellicle removal can be done to some extent at this stage.
+
+Figure 4.8: Chestnuts after 120 hours of drying at 30°C with an average moisture content of approximately 25% (wet basis)
+
+Figure 4.9: Chestnuts after 192 hours of drying at 30°C with an average moisture content of approximately 18% (wet basis) 55
+
+Chapter 4: Results and Analysis The chestnuts remained hard and brittle with easy pellicle removal as drying time progresses as observed at a moisture content of 13% (wet basis) (Figure 4.10). At a moisture content of 12% (wet basis) the chestnuts were still hard and brittle with possibly 100% pellicle removal as seen in Figure 4.11.
+
+Figure 4.10: Chestnuts after 216 hours of drying at 30°C with an average moisture content of approximately 13% (wet basis)
+
+Figure 4.11:
+
+Chestnuts after 240 hours of drying at 30°C with an average
+
+moisture content of approximately 12 % (wet basis) 56
+
+Chapter 4: Results and Analysis Therefore the study indicated that individual chestnuts should only be dried to a duration of 120 hours or less at 30°C in order to maintain a good texture and quality for whole fresh nut storage when the nuts reached an average moisture content of 25.5% (wet basis). On the other hand chestnuts dried for a period of 240 hours reached an average moisture content of 12.2% (wet basis) with possibly 100% pellicle removal and could be the optimum texture and moisture content for producing chestnut flour.
+
+4.6
+
+Drying Curves
+
+In air drying processes, two types of drying periods may be observed: a constant rate period in which drying occurs as if pure or free water were being evaporated and falling rate periods where moisture movement is controlled by internal resistances [56]. However it is quite common with many food products to exhibit only falling rate periods, which primarily depends on the structure of the product. Experimental drying curves are the only adequate method to design the drying equipment or predict the drying characteristics of a food material [22]. Each product has a representative curve that describes the drying characteristics for that product at specific temperature, velocity and pressure conditions [18]. A series of drying trials, both individual (arrangement as shown in Figures 3.4 & 3.5) and bulk (as shown in figure 3.7) were performed at 30°C as described in Chapter 3. Individual drying trials were carried out at 6 hour intervals and 12 hour intervals. In both cases the average relative humidity inside the oven ranged from a minimum of 20% to a maximum of 40% and the heat transfer coefficient measured at various positions within the oven ranged from 15-30 Wm-2 K-1. The corresponding values of mass transfer coefficient (from Chilton-Colburn analogy) ranged from 0.015 ms-1 to 0.03 ms-1 (see section 4.7). The mass of chestnuts were recorded at regular intervals and was calculated for relative drying rate (hour-1) which allows for a meaningful comparison between samples of different weights and is expressed as follows:
+d (m / m0 ) (m / m0 ) i - (m / m0 ) i -1 = dt t i - t i -1
+
+(4.1)
+
+57
+
+Chapter 4: Results and Analysis Where, m = Mass of chestnuts at any time m0 = Initial mass of chestnuts t = time (hours) Figure 4.12 shows relative drying rate as a function of time for four individual drying trials. The trials indicated that there is a high initial drying rate (maximum drying rate) followed by a gradual decrease as the chestnuts dried following a falling drying rate with no constant rate period being observed in any cases.
+Trial 1 Trial 2 Trial 3 Trial 4 0.009 RELATIVE DRYING RATE (1/hour) 0.008 0.007 0.006 0.005 0.004 0.003 0.002 0.001 0 0 10 20 30 40 TIME (hours) 50 60 70 80
+
+Figure 4.12: Relative drying rate as a function of drying time at 30°C for individual trials The repeated drying trials clearly showed that the drying rate decreased significantly only during the early stages after which there is a slow and steady decrease in drying rate. From Figure 4.12 it could be seen that the highest drying rate is obtained during the first six hours of the drying operation. Therefore, in order to get a better understanding of the early stages of the drying process, another individual drying trial was conducted and the mass of chestnuts were monitored every two hours for the first six hours and then every six hours for a total time period of 72 hours at a temperature of 30° C. The drying rate was again plotted as a function of drying time (Figure 4.13). Figure 4.13 shows that the drying rate reached a maximum value of 0.0139 hour-1 during the first two hours
+
+58
+
+Chapter 4: Results and Analysis of drying and then there is a dramatic fall of drying rate to 0.0069 hour-1, followed by a rapid decrease to a short extent and then a relatively steady decrease in drying rate as drying progresses. The same points are represented by the curve describing relative drying rate as a function of moisture content in Figure 4.14.
+
+0.016 0.014 RELATIVE DRYING RATE (1/hour) 0.012 0.01 0.008 0.006 0.004 0.002 0 0 10 20 30 40 TIME (hours) 50 60 70 80
+
+Figure 4.13: Relative Drying rate as a function of time at 30°C
+
+0.016
+
+RELATIVE DRYING RATE (1/hour)
+
+0.014 0.012 0.01 0.008 0.006 0.004 0.002 0 0 0.2 0.4 0.6 0.8 1 1.2
+
+MOISTURE CONTENT (dry basis)
+
+Figure 4.14: Relative drying rate as a function of moisture content
+
+59
+
+Chapter 4: Results and Analysis The drying curve of chestnuts in Figure 4.14 shows that there are two distinct falling rate periods. During the first falling rate period a relatively high initial drying rate followed by a relatively rapid decrease in drying rate is observed. The point circled in Figure 4.14 is the start of the second falling rate period. In the second falling rate period also the drying rate of chestnuts decreased with a decrease in moisture content with a relatively steady decrease in drying rate. This indicates that the high initial drying rate during the first falling rate period is when the water evaporated is diffused from regions near the surface of the chestnuts but when the drying process entered the second falling rate period the water became less available near the surface and had to gradually diffuse from the interior of the chestnut to the surface. In short the drying curve in Figure 4.14 indicates that the first falling rate period occurs until the surface of the chestnut reaches equilibrium moisture content and the second falling rate period occurs as the moisture movement from the interior of the chestnut to the surface is controlled by internal moisture movement by diffusion which dominates the drying process. Several researchers have reported the absence of a constant-rate period during the drying of chestnuts [30, 50 and 13], pistachio nuts [34], hazel nuts [51], macadamia nuts [53] and two distinct falling rate periods were observed for many other food products [4, 67, 65 and 9]. 4.6.1 Influence of the chestnut shell, pellicle and edible kernel on drying kinetics Chestnuts have two natural skins (shell and pellicle) that protect the fruit from the external environment, but also reduce the water removal rates during drying [50]. The drying behaviour for whole chestnuts, chestnuts without shell and chestnuts without shell or pellicle was investigated. Figure 4.15 shows the drying rate as a function of time for the three conditions and it could be seen that the chestnuts with both the barriers (shell and pellicle) removed, exhibited the highest initial drying rate followed by chestnuts without shell and lastly the chestnuts with both the barriers. But after the first 12 hours of drying, the rate became similar for all the three conditions. The drying rate as a function of moisture content (Figure
+
+60
+
+Chapter 4: Results and Analysis 4.16) showed that the initial decrease in moisture content of chestnuts without both the barriers was significantly higher than the chestnuts without the shell and chestnuts with shell on. Figures 4.15 and 4.16 showed that the presence of the pellicle caused a significant decrease on water removal rate only during the initial stages, but later on the drying process is relatively similar irrespective of the physical barriers. This shows that the first falling rate period corresponds to the drying period of the outer layers which is significantly affected by the moisture barriers (shell and pellicle) and therefore supported the conclusion that the first falling rate period occurs while the surface region is approaching equilibrium moisture content, since it is affected by surface conditions whereas the second period is unaffected by surface conditions and is essentially diffusion controlled. Similar results were obtained for the same experimental conditions examined by Moreira et al. [50] and Chenlo et al. [13].
+
+with shell without shell without pellicle 0.018 RELATIVE DRYING RATE (1/hour) 0. 016 0.014 0.012 0.01 0.008 0.006 0.004 0.002 0 0 10 20 30 40 TIME (hours) 50 60 70 80
+
+Figure 4.15: Relative drying rate as a function of drying time for chestnuts with shell, without shell and without pellicle
+
+61
+
+Chapter 4: Results and Analysis
+with shell without shell without pellicle 0.04 0.035 DRYING RATE (1/hour) 0.03 0.025 0.02 0.015 0.01 0.005 0 0 0.2 0.4 0.6 0.8 1 1.2 1.4 MOISTURE CONTENT (DRY BASIS)
+
+Figure 4.16: Relative drying rate as a function of moisture content for chestnuts with shell, without shell and without pellicle 4.6.2 Comparison of Bulk drying curves with individual chestnut drying curves Figure 4.17 shows the drying rate as a function of time for individual and bulk drying trials. This Figure shows that the initial drying rate of individual trials is higher in comparison with that of the bulk of chestnuts during the first 12 hours of the drying process and then the drying rate of individual trials coincides with that of the bulk of chestnuts. Figure 4.18 shows the loss of moisture content as a function of drying rate for bulk, and individual trials. The moisture content progressively reduces and the rate of moisture removal decreases markedly in the case of individual trials than that of a bulk of chestnuts although the variation becomes less significant after a while. This drying behaviour once again supports the conclusion that the first falling rate period corresponds to the period at which the surface reaches equilibrium moisture content and during this period, the drying rate of the bulk of chestnuts is significantly affected by the air movement and second falling rate period is unaffected by changes at the surface since the process is diffusion controlled. 62
+
+Chapter 4: Results and Analysis
+INDIVIDUAL TRIAL BULK TRIAL 0.008 RELATIVE DRYING RATE (1/hour) 0.007 0.006 0.005 0.004 0.003 0.002 0.001 0 0 10 20 30 40 TIME (hours) 50 60 70 80
+
+Figure 4.17: Relative drying rate as a function of time for Individual and Bulk trials
+
+INDIVIDUAL TRIAL BULK TRIAL 0.008 RELATIVE DRYING RATE (1/hour) 0.007 0.006 0.005 0.004 0.003 0.002 0.001 0 0 0.2 0.4 0.6 0.8 1 1.2 MOISTURE CONTENT (Dry basis)
+
+Figure 4.18: Relative drying rate as a function of moisture content for individual and bulk trials.
+
+63
+
+Chapter 4: Results and Analysis
+
+4.7
+
+Determination of apparent moisture diffusivity
+
+Mathematical models have proved to be very useful in the design and analysis of drying operations. Simulation or designing the air drying operation requires the mathematical description of food moisture evolution during the process, known as drying kinetics [7]. Significant amounts of moisture removal from a food product will occur due to diffusion of liquid and/or water vapour through the product structure [66]. The exact mechanism of moisture movement is still unclear. However the existing theory which is most accepted is diffusion due to concentration gradients. This has been successfully used in modelling the drying of many foods [65]. Literature, regarding the diffusivity of various foods stuffs is very limited, and they vary considerably because of the complex structure of foods and the lack of a standard method for determination of diffusivity [56]. Quantitative measurements of the rate at which a diffusion process occurs are usually expressed in terms of a diffusion coefficient (diffusivity) and is often treated as an adjustable parameter. Therefore most models depend largely on experimental measurements of diffusivity. The moisture diffusivity of a food material characterises its intrinsic moisture mass transport property which includes molecular diffusion, vapour diffusion, liquid diffusion etc. Generally an apparent moisture diffusivity is used due to limited information on the mechanism of moisture movement during drying and complexity of the process. The apparent diffusivity of moisture in chestnuts was estimated from drying rate data under different conditions. Assuming spherical geometry for chestnuts the non-steady state diffusion equation for a sphere was considered to estimate the apparent moisture diffusivity in chestnuts. The possibility of an ellipsoid geometry for chestnuts was also considered before a spherical geometry was decided. For this the surface area and volume for ellipsoid and sphere were calculated and the values obtained under both conditions were found almost the same. Hence it was decided to assume a spherical geometry.
+
+64
+
+Chapter 4: Results and Analysis Various approximation and variations of the diffusion model have been used by researchers in modelling the drying characteristics of food and agricultural products. The approximation (Equation 4.2) used in this study is based on the analytical solution of Fick's second law of unsteady state diffusion [16].
+
+Dapp t   M - Me 6 = 2 exp -  2 2   M0 - Me  r   
+Where,
+
+(4.2)
+
+M - Me = Moisture ratio M0 - Me
+M = moisture content at any time (dry basis) Me = equilibrium moisture content (dry basis) M0 = initial moisture content (dry basis) Dapp = Apparent moisture diffusivity (m2s-1) r = radius of chestnut (m) t = time (seconds) The radius of chestnuts was calculated using the formula, r = 3 abc (4.3)
+
+Where a, b and c are the lengths of the three semi-axes in chestnuts. These were measured for a sample of individual chestnuts using vernier callipers and the results are shown in Table 4.3. The average value of the radius of chestnuts calculated from Equation 4.3 was 0.012 m. The equilibrium moisture content of chestnuts at 30°C was assumed to be 0.06, the same as that of chestnuts from a previous study conducted by Vazquez et al. [69] If we take the natural logarithm of each side of Equation (4.2) we have:
+
+ M - Me ln M -M e  0
+
+D t  6  = ln 2  -  2 app    r2   
+
+(4.4)
+
+65
+
+Chapter 4: Results and Analysis Table 4.3: Average radius of individual chestnuts Number Trial 1 Trial 2 Trial 3 Trial 4 Trial 5 Trial 6 Trial 7 Trial 8 Trial 9 Trial 10 Average A plot of: Dimension "a" (m)
+0.01902 0.01883 0.01877 0.01703 0.01875 0.01723 0.01680 0.01764 0.0179 0.01793 0.01799
+
+Dimension "b" (m)
+0.01390 0.0131 0.01198 0.0129 0.01406 0.01082 0.00965 0.01350 0.01331 0.01346 0.01267
+
+Dimension "c" (m)
+0.009 0.01 0.0085 0.0075 0.009 0.0075 0.0065 0.0085 0.0075 0.009 0.0083
+
+Radius (m)
+0.013352 0.013512 0.012412 0.011811 0.013339 0.011184 0.010177 0.012651 0.012135 0.012951 0.012352
+
+ M - Me ln M -M e  0
+
+  vs. t  
+
+(4.5)
+
+Will therefore yield a straight line for which (Figure 4.19) the slope `  ' will be as follows:
+
+=
+
+ 2 Dapp
+r2
+
+(4.6)
+
+Hence, Dapp
+
+ r2 = 2 
+
+(4.7)
+
+Thus, the effective diffusivity `D' was estimated from the slope `  ' of a semi log plot of the moisture ratio versus time as shown in Figure 4.19. Similar plots were performed for all drying trials conducted and the slope of all the drying trials were calculated for diffusivities.
+
+66
+
+Chapter 4: Results and Analysis
+APPARENT MOISTURE DIFFUSIVITY
+0 -0.1 LN (MOISTURE RATIO) -0.2 -0.3 -0.4 -0.5 -0.6 -0.7 -0.8 -0.9 TIME (SECONDS) y = -2.86E-06x - 2.67E-02 R2 = 9.99E-01 0 50000 100000 150000 200000 250000 300000
+
+Figure 4.19: Moisture ratio as a function of drying time Table 4.4: Apparent moisture diffusivity for chestnuts under various conditions
+Various conditions of drying Nuts without shell&pellicle-individual trial 1 Nuts without shell&pellicle-individual trial 2 Nuts without shell&pellicle-individual trial 3 Chestnuts without shell- individual trial1 Chestnuts without shell- individual trial 2 Chestnuts without shell- individual trial 3 Single nut-individual trial 1 Single nut-individual trial 2 Small group- individual trial 1 Small group- individual trial 2 Small group- individual trial 3 Bulk trial 1 Bulk trial 2 Bulk trial 3 Average diffusivity Standard Deviation % Standard Deviation Apparent diffusivity(m2s-1)
+
+8.75E-11 1.02E-10 1.02E-10 7.29E-11 5.84E-11 7.29E-11 5.57E-11 5.62E-11 4.17E-11 4.84E-11 4.81E-11 4.57E-11 4.07E-11 3.74E-11 6.21E-11 2.20E-11
+
+ ±20
+
+67
+
+Chapter 4: Results and Analysis Strictly speaking, Equation 4.2 applies when internal mass transfer resistance (diffusion) dominates over external mass transfer resistance. The mass transfer Biot number is a measure of the relative significance of the internal and external mass transfer resistances and is as follows:
+
+BiM =
+
+km r D
+
+(4.8)
+
+Where, BiM = Mass Biot number (dimensionless) km = mass transfer coefficient (ms-1) D = diffusivity (m2s-1) r = average radius of chestnuts (m) The heat transfer coefficients measured within the oven ranged between 15-30 Wm-²K-1 and the mass transfer coefficient was obtained from Chilton-Colburn analogy (Equation 4.9) [56].
+
+h Pr 2 / 3 = k m Sc 2 / 3 Cp
+Where, h = heat transfer coefficient (Wm-2K-1) Cp = specific heat (J kg-1K-1)  = density (kg m-3) Pr = Prandtl number SC = Schmidt number Equation 4.9 may be re-arranged to as follows:
+
+(4.9)
+
+km =
+
+h Pr 2 / 3 C p Sc 2 / 3
+
+(4.10)
+
+68
+
+Chapter 4: Results and Analysis For water in air at 30°C:
+
+Pr 2 / 3  0.001 C p Sc 2 / 3
+
+(4.11)
+
+Hence:
+km  h  0.015 - 0.03 m s-1 1000
+
+Inserting the average values for km, Dapp and r into Equation (4.8) gives a mass transfer Biot number of the order of 107. At higher values of Biot number (>50) as in the present case the surface resistance to mass transfer or external resistance can be neglected and the drying process can be considered a diffusion controlled process [62] which validates the use of Equation (4.2) as a model for the chestnut drying process. However, the diffusivities at various conditions shown in Table 4.4 clearly show that maximum diffusivity is shown by chestnuts without any barriers (shell and pellicle) for individual chestnut drying trials and the minimum diffusivity is shown for bulk drying trials indicating that the apparent moisture diffusivity in chestnuts depend on external factors such as presence or absence of the barriers (shell and pellicle) and also on the air movement.
+
+4.8
+
+Shelling efficiency of New Zealand chestnuts using customised mechanical shelling machine
+
+The main commercial variety (1015) of New Zealand chestnuts were subjected to mechanical shelling both in fresh and dried form. The chestnuts were shelled at various moisture contents starting from an initial moisture content of 53 % (wet basis) to a moisture content of 36% (wet basis). The Figures 4.20 to 4.23 shows the chestnuts shelled at various moisture contents in percentage wet basis. The results showed that the drier the nuts, the greater the shelling efficiency. The shelling machine was not effective at removing the pellicle although 100% shelling efficiency was achieved at one instance at moisture content of 36% (wet basis) (Table 4.5). Also appreciable shelling efficiency was observed at 40 %
+
+69
+
+Chapter 4: Results and Analysis moisture content which is considered an optimum moisture content for fresh nut storage [37].
+
+Figure 4.20: Chestnuts shelled at 53% moisture content (wet basis)
+
+Figure 4.21: Chestnuts shelled at 45% moisture content (wet basis)
+
+70
+
+Chapter 4: Results and Analysis
+
+Figure 4.22: Chestnuts shelled at 40% moisture content (wet basis)
+
+Figure 4.23: Chestnuts shelled at 36% moisture content (wet basis)
+
+71
+
+Chapter 4: Results and Analysis Table 4.5: Shelling efficiency for chestnut variety 1015
+
+Moisture content basis)
+53% Trial1 53% Trial 2 53% Trial 3 45% Trial 1 45% Trial 2 45% Trial 3
+
+Number (wet of nuts
+
+Just shell
+
+Both
+
+shell Neither shell % or pellicle
+
+shelling
+
+and pellicle
+
+efficiency
+
+22 20 20 20 19 18
+
+8 5 12 12 12 14
+
+0 0 0 0 0 0
+
+14 15 8 8 7 4
+
+36.36 25 60 60 63.15 77.77
+
+40% Trial1 40% Trial 2 40% Trial 3
+
+23 19 15
+
+17 18 14
+
+0 0 0
+
+6 1 1
+
+73.91 94.74 93.33
+
+36% Trial1 36% Trial 2 36% T rial3
+
+25 18 19
+
+19 18 18
+
+0 1 0
+
+6 0 1
+
+76 100 94.74
+
+4.9
+
+Shelling and peeling efficiency of New Zealand chestnuts and other exotic varieties ­ A comparison
+
+Twenty three different chestnut varieties both New Zealand and exotic ones were provided by New Zealand chestnut council (NZCC) to make a comparison of their shelling and peeling capabilities at their respective moisture contents and also to investigate the storage capacity for mechanically shelled and peeled chestnuts. The 23 different varieties included 13 of New Zealand varieties and 9 American varieties with a single Australian variety. The moisture content of the different varieties at the time of shelling and peeling ranged from a maximum of 40.72 %
+
+72
+
+Chapter 4: Results and Analysis (wet basis) to a minimum of 36.78% (wet basis). From Table 4.6 it could be seen that all the American varieties showed excellent shelling and peeling efficiency relative to New Zealand chestnut varieties. The American varieties Revival and Carolina showed 100% shelling and peeling efficiency as shown in Figure 4.24 and 4.25. All New Zealand varieties presented good levels of shelling efficiency except the variety C XM hybrid. K11 was the only New Zealand variety that showed appreciable peeling efficiency of 65%. The 3 main commercial New Zealand chestnut cultivars 1015 (the most common), 1005 and 1002 presented very poor efficiency in peeling with the main commercial variety 1015 at 0% peeling efficiency (Figure 4.26). The Australian variety showed 100% shelling efficiency and 20% peeling efficiency (Figure 4.27). The American chestnut (Castanea dentata) variety is now extinct due to chestnut blight and the present American chestnut varieties are hybrids of Castanea mollissima (Chinese) and Castanea dentata (American) and therefore usually easy-peel, but the nuts are relatively small and similar to Chinese variety [37]. Most of the current commercial New Zealand chestnut cultivars are naturally occurring hybrids of Castanea sativa (European chestnut) and Castanea crenata (Japanese chestnut). These hybrids are about 50% Crenata and 50% Sativa and they are not easy-peel (shell and pellicle don't come off together) which is the similar case with Japanese chestnut variety. Pukekura, N4, 1011 and the Multi 1&2 are local (wild) New Zealand selections and are all hybrids of Castanea crenata and Castanea sativa. The Multis are known by this name because they have an unusually high rate of multiple embryos (per kernel). Some European chestnuts (Castanea sativa) are easy-peel but these cultivars are not available in New Zealand. However there is some Castanea sativa parentage in some of the K series New Zealand varieties, especially K11 (possibly 100% Castanea sativa) which showed the maximum peeling efficiency among New Zealand varieties. K56 is possibly pure crenata and K39 is again a hybrid of Castanea crenata and Castanea sativa. Buffalo Queen is Australian and another hybrid of Castanea crenata and Castanea sativa [37].
+
+73
+
+Chapter 4: Results and Analysis
+
+Figure 4.24: Carolina-4 at 41.17% moisture content (wet basis)
+
+Figure 4.25: Revival m.h at 40.79% moisture content (wet basis)
+
+74
+
+Chapter 4: Results and Analysis
+
+Figure 4.26: 1015 at 42.23% moisture content (wet basis)
+
+Figure 4.27: Buffalo Queen at 38.72% moisture content (wet basis)
+
+75
+
+Chapter 4: Results and Analysis Table 4.6: Shelling and peeling efficiency of 23 different varieties of chestnuts No: of nuts 20 20 20 20 20 20 20 20 20 20 20 12 20 20 20 20 20 20 20 20 18 20 20 MC (wet basis) 43.72 40.18 46.18 37.34 42.23 36.78 40.72 39.85 39.08 41.63 41.57 41.14 40.38 40.27 41.17 41.56 41.47 42.46 41.34 42.45 40.81 40.79 38.72 16 3 2 3 Just Shell+pe shell llicle removed removed 20 0 19 15 1 13 7 20 0 18 0 17 2 5 11 17 8 6 6 5 2 0 9 13 3 13 18 20 20 16 19 17 17 18 20 4 1 1 1 No chan ge 1 4 0 0 2 1 4 3 3 1 3 2 0 1 2 2 10 10 2 2 4 20 % Shell ed 100 95 75 100 100 90 95 80 85 85 95 50 90 100 100 100 95 95 95 100 100 100 100
+
+N 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23
+
+Variety Multi2 K 39 1005 1011 PR 1002 RK K 56 1005 s tree N4 N tree 1015 RK variety Pukekura K 11 extra 2 open pot CxM hybrid K 11 ex RK Carolina 2 Carolina 4 Carolina 4 m.hybrid Willamete Revival Alachua Alachua m.hybrid Revival M hybrid Revival M hybrid variety Buffalo Q
+
+Orig in NZ NZ NZ NZ NZ NZ NZ NZ NZ NZ NZ NZ NZ US US US US US US US US US AU
+
+No: of rotten 7 4 4 10 16 8 10 7 7
+
+%Pe eled 0 0 5 35 0 0 10 55 0 45 65 25 65 90 100 100 80 95 85 85 100 100 20
+
+76
+
+Chapter 5: Discussion
+
+Chapter 5
+Discussion
+5.1 Introduction
+
+This chapter will discuss the major results obtained from experimentation. This includes a closer look at the drying curves obtained at various conditions and a comparison of the drying characteristics of the unique New Zealand chestnuts with that of other chestnut cultivars reported. An analysis of the mechanical shelling of New Zealand chestnuts and a comparison with other cultivars is also discussed.
+
+5.2
+
+Comparison of drying characteristics of New Zealand chestnuts with other cultivars
+
+The susceptibility to fungal rots and the difficulty in the removal of shell and pellicle makes New Zealand chestnuts unique from other chestnut cultivars. A comparison between the drying behaviour of New Zealand chestnuts and other cultivars was done to identify if this uniqueness also reflected in their drying behaviour. The experimental drying curves showed the falling rate drying behaviour for New Zealand chestnuts under all experimental conditions but the ability to dry New Zealand chestnuts (Castanea sativa x Castanea crenata) in comparison to the European chestnuts (Castanea sativa) varied significantly with respect to drying temperatures. Apart from New Zealand chestnuts all other chestnut drying studies (Chenlo et al. [14], Moreira et al. [50], Koyuncu et al. [44], Raquel et al. [30] were conducted at temperatures ranging from 40 to 90°C and the studies concluded that temperature was the single most important factor affecting the drying kinetics, with higher temperatures corresponding to faster drying rates which in turn minimised the total drying time and energy consumption of the drying process. Although temperature was a significant factor influencing the
+
+78
+
+Chapter 5: Discussion drying rate of New Zealand chestnuts, it was not possible to dry them at temperatures higher than 30°C because of their susceptibility to surface blackening. However, this quality factor was not mentioned in any other drying studies except by Moreira et al. [50] and Chenlo et al. [14] who performed colour analysis of the final dried chestnut products and concluded that the variation in colour (browning) at the surface of chestnuts was significant at a temperature of 65°C due to the presence of tannins on the chestnut surface. Koyuncu et al. [44] concluded that the optimum temperature for drying chestnuts is 50°C. This clearly indicated that New Zealand chestnuts are substantially more sensitive to temperature in comparison with other chestnut species (Castanea sativa). The influence of relative humidity on the drying rate of New Zealand chestnuts was insignificant as the relative humidity measured under various conditions irrespective of bulk or individual trials or with or without the chestnut barriers exhibited the relative humidity in the range of 20-40%. Chestnut drying studies reported by other authors Chenlo et al. [14] & Moreira et al. [50] also reported that the relative humidity had very little influence on the drying rate. Moreover the relative humidity also depends on the temperature of the drying air and is less influential with lower drying temperatures like 30°C. The drying air movement is another factor that may influence the drying rate. Studies have reported that the air movement did not significantly influence [44] or had a slight influence [14&50] on the drying rate of chestnuts during the initial drying period. The comparison of bulk drying trials with individual nut trials for New Zealand chestnuts showed that the drying rate of bulk of chestnuts was slightly lower than that of individual nuts during the initial stages of drying which could be attributed to the difference in the air movement. This effect of air movement is observed only during the initial stages when the evaporation of water takes place at a faster rate from the surface. In short relative humidity and air movement had minor influence on the drying rate of New Zealand chestnuts as well as for other chestnut drying studies reported. In comparison to the influence of the chestnut shells on the drying kinetics, both New Zealand chestnuts and others Judia, Longal and Famosa (Castanea sativa)
+
+79
+
+Chapter 5: Discussion showed that the presence of the shell had only a slight influence on the drying kinetics whereas the presence of the pellicle showed more significant influence during the early stages of drying. The apparent moisture diffusivity in chestnuts has been estimated from the drying rate data by several authors at various temperatures. The apparent moisture diffusivity (effective coefficient of diffusion) obtained by Raquel et al. [30] was in the range of 4.45 -7.65 x 10-9 to 10-11 m2s-1 and Moreira et al. [50] reported the diffusivity in the range of 28.7-381 x10-12 m2s-1. The apparent moisture diffusivity obtained for New Zealand chestnuts under various conditions was 6.21 x 10-11 m2s-1. Therefore the values of diffusivities obtained for all species of chestnuts lie within the general range of 10-11 to 10-9 m2s-1 for food materials [46]
+
+5.3
+
+Analysis of drying curves
+
+The drying curves of chestnuts under all conditions indicated that the drying process may be accelerated only to a certain extent beyond which the drying process is unaffected by the external conditions other than temperature because it is controlled by moisture diffusion from the interior of the product. The rate of drying in this period can only be increased by increasing the diffusion coefficient which is possible only with an increase in drying air temperature. However an increase in air temperature during the second falling rate period could result in severe quality deterioration of the product and is therefore impossible to increase the drying rate of chestnuts after a certain extent.
+
+5.4
+
+Analysis of shelling trials
+
+Mechanical shelling of whole New Zealand chestnuts proved successful with scope for further improvement. Pre-drying to a moisture content of 40% (wet basis) was especially critical to achieve shelling efficiency of up to 90% with very little basal scar adhesion. The basal scar remnants were the most difficult parts to remove even after mechanical shelling. Shelling was successfully accomplished at 40% moisture content (wet basis) which is considered an optimum moisture
+
+80
+
+Chapter 5: Discussion content for storage of fresh chestnuts, although extended drying increased the shelling efficiency. Individual nuts sometimes showed excellent levels of both shell and pellicle removal, especially when dried to moisture content of 40% (wet basis) or less. Fresh chestnuts with no pre-drying showed poor shelling efficiency. A second trial through the shelling machine for those nuts with the shell still attached did not give satisfactory results. However mechanical pellicle removal was more difficult or impossible with New Zealand chestnuts of the variety 1015. In comparison to the different varieties of chestnuts subjected to shelling and peeling (pellicle removal) all New Zealand varieties of chestnuts were relatively difficult to peel. The different varieties of chestnuts subjected to mechanical shelling and peeling showed physical abrasion which soon resulted in surface oxidation (browning or blackening on the surface). This was a common problem identified with all varieties of chestnuts tried. Therefore the handling, transport and storage of whole, shelled and peeled nuts is another area that needs to be further investigated. Kernel breakage was another disadvantage identified with mechanical shelling, but this could probably have another end use like producing chestnut flour or other processed products.
+
+5.5
+
+Implications for New Zealand chestnut processors
+
+The drying behaviour of New Zealand chestnuts clearly indicates that the drying process could be accelerated only during the early stages while the drying rate is influenced by external factors such as the air movement and the absence or presence of moisture barriers (shell and pellicle). Drying at low temperature is very important for New Zealand chestnuts because this study underlined that chestnuts are highly sensitive to temperature (both colour and texture) and therefore drying could be successfully accomplished at a temperature of 30°C in order to maintain the desired colour. On analysing the effect of nut texture, the study suggested that chestnuts dried at 30°C were able to maintain a good, edible texture for fresh nut storage until it reaches an average moisture content of 25% (wet basis) or 35% (dry basis) below which the texture becomes hard and brittle. This also implied that only the shell 81
+
+Chapter 5: Discussion removal could be possible within this moisture content, leaving the pellicle intact with the edible kernel. The removal of the pellicle could be possible for chestnuts dried down to a moisture content of 12% (wet basis) at 30°C, which could be utilised for making chestnut flour. Pre-drying and immediate subjection to mechanical shelling is recommended to accomplish successful shelling of New Zealand chestnuts. This was successfully accomplished with an efficiency of 94% at the desired moisture content (40% wet basis) using the existing custom made mechanical shelling machine developed by NZCC.
+
+82
+
+Chapter 6: Conclusions and Recommendations
+
+Chapter 6
+Conclusions and Recommendations
+6.1 Conclusions
+
+Floatation grading of New Zealand chestnuts and thereby the determination of moisture content of floaters and sinkers clearly indicated that the floaters are substantially low in moisture content, relative to sinkers and they could be either rotten, underdeveloped or too dried and therefore cannot be useful for commercial purposes. Hence floatation grading should be considered an essential prerequisite for proper post harvest handling of New Zealand chestnuts. This study confirmed that New Zealand chestnuts are characterised by high temperature sensitivity (surface blackening or browning) and as a result drying could be achieved only at a temperature of 30°C or less to maintain a desirable nut quality. An edible texture for whole nuts dried at 30°C was observed until they reached an average moisture content of 25% (wet basis) below which the texture becomes hard and brittle. The drying curves for New Zealand chestnuts under all conditions showed the falling rate drying behaviour with two distinct falling rate periods. The drying curves clearly indicated that maximum drying rates takes place during the initial stages when external factors like air movement and the moisture barriers (shell and pellicle) influence the drying process. During the second falling rate period the drying process is in a relatively slow and steady manner and is less influenced by external factors and internal moisture flow by diffusion dominates the drying process. The apparent moisture diffusivity in chestnuts was found to be 6.21x 1011
+
+m2s-1.
+
+The removal of the pellicle caused a more significant increase in drying rate than the shell during the early stages of drying. Previous studies concluded that the pellicle in addition to its physical presence has high quantities of adhesive substances which increase the resistance to water transport. The shell, in spite of
+
+84
+
+Chapter 6: Conclusions and Recommendations initial impermeability, provides only a slight additional resistance because it is more rigid and partial fractures appear during the drying process allowing water transport easily through it. The mechanical shelling of New Zealand chestnuts using a customised shelling machine was accomplished with an efficiency of 94% at a moisture content of 40% (wet basis) which is considered as the maximum moisture content for fresh nut storage below which the nuts are no longer metabolically active. However the pellicle removal of New Zealand chestnuts looked practically impossible at this stage although American chestnut varieties (Revival and Carolina) exhibited 100% efficiency with pellicle removal.
+
+6.2
+
+Recommendations for future research
+
+New Zealand has the advantage of being in the southern hemisphere and could access the off-season market in the northern hemisphere but fungal rot appears to be the major problem that limits this advantage. Therefore efforts could be taken to identify the storage capability of dried chestnuts with respect to their ability to inhibit fungal rots. This could be tested for both fresh nut storage (at an average moisture content of 25% wet basis) and for dried chestnuts (up to 10% moisture content). If the incidence of fungal rots are limited by the drying process, efforts could also be taken so that drying can be conducted separately for large nuts (15-25g), exclusively for fresh nut storage (average moisture content of 25%(wet basis) and small nuts (5-15g) for producing chestnut flour (up to 10% moisture content). This is a very important consideration because often the smallest nut sizes are the most difficult for the growers to sell at a profit. If the smallest nut grades could be successfully utilised for drying and producing flour then this will mean a new end use for nut sizes that are often discarded as unprofitable to harvest in New Zealand. In short the fungal rots appear to be the most severe problem with post harvest processing of New Zealand chestnuts and it is this particular area that needs
+
+85
+
+Chapter 6: Conclusions and Recommendations further research. Hence developing disease resistant varieties or methods of chemical or biological control against Phomopsis are better recommended for the upliftment of New Zealand chestnut industry.
+
+86
+
+References
+
+References
+1. Ahmet Can. (2000). Drying kinetics of pumpkinseeds. International Journal of energy research, 24, 965-975. 2. Azharul Karim, Md., & Hawlader, M.N.A. (2005). Drying characteristics of banana: theoretical modelling and experimental validation. Journal of food engineering 70(1), 35-45. 3. Babalis, J. Stamatios, Papanicolaou Elias, Kyriakis Nikolas & Belessiotis G. Vassilios. (2006). Evaluation of thin-layer drying models for describing kinetics of figs (Ficus carica). Journal of Food Engineering 75(2), 205214. 4. Bellagha, S., Amami, E., Farhat & Kechaou, N. (2002). Drying kinetics and characteristic drying curve of lightly salted sardine. Drying Technology, 20(7), 1527-1538. 5. Bounous Giancarlo. (2005). The Chestnut: A multipurpose resource for the new millennium. Proceedings of the third international chestnut congress, Acta Horticulturae 693, 33-40. 6. Breisch, H., Boutitie, A., Reyne, J., Salasses, G., & Vaysse, P. (1995). Châtaignes et Marrons. Paris: Ctifl-Centre Technique Interprofessionnel des Fruits et Légumes. 7. Bruce, D.M., & Giner, S.A. (1993). Mathematical modelling of grain drying in counter-flow beds: investigation of crossover of air and grain temperatures. Journal of Agricultural Engineering Research, 55, 143-161. 8. Cengel, Yunus A & Turner, Robert H. (2005). Thermal fluid sciences. Mc Graw-Hill, New York.
+
+88
+
+References 9. Charles Taiwo Akanbi, Remi Sikiru Adeyemi & Ademola Ojo. (2006). Drying characteristics and sorption isotherms of tomato slices.
+
+Journal of food engineering 73(2), 157-163. 10. Chenlo, F., Moreira, R., Fernández-Herrero, C., & Vázquez, G. (2007). Osmotic dehydration of chestnut with sucrose: Mass transfer processes and global kinetics modelling. Journal of Food Engineering, 78(3), 765-774. 11. Chenlo, F., Moreira, R., Fernández-Herrero, C & G. Vázquez. (2006). Mass transfer during osmotic dehydration of chestnut using sodium chloride solutions, Journal of Food Engineering 73(2), 164-173. 12. Chenlo, F., Moreira, R., Fernández-Herrero, C., & Vázquez, G. (2006). Experimental results and modelling of the osmotic dehydration kinetics of chestnut with glucose solutions. Journal of Food Engineering 74(3), 324334. 13. Chenlo, F., Moreira, R., & Fernández-Herrero. (2005). Temperature effect on sugar concentration and moisture profiles during osmotic dehydration of chestnut fruits. Proceedings of the third international chestnut congress, Acta Horticulturae 693,103-110. 14. Chenlo, F., Moreira, R, Chaguri, L., & Santos, F. (2005). Drying kinetics of chestnut (Castanea sativa Miller): Dependency of the variety and experimental conditions. Proceedings of the third international chestnut congress, Acta Horticulturae 693,111-116. 15. Cinnan, M.S. (1984). Evaluation of selected mechanical models for describing thin layer drying of in-shell pecans. Transactions of American society of agricultural engineers, 27, 610-614. 16. Crank, J. (1975). The mathematics of diffusion (2nd Ed.).Clarendon press: Oxford.
+
+89
+
+References 17. Crawford Martin. (1995). Chestnut production and culture. Agro forestry Research Trust, U.K. 18. Darren, A. Traub. (2002). The drying curve, Part 1. Retrieved from www.process-heating.com/CDA/Articles/Drying 19. Davies, D.J.G. (1983). Prospects in New Zealand from temperate nuts. Journal of the New Zealand Tree Crops Association, 1(2), 24-25. 20. Demet Guzey, Murat Ozdemir, Ferda G. Seyhan, Hulya Dogan & Onur Devres. (2001). Adsorption isotherms of raw and roasted hazelnuts. Drying technology, 19(3&4), 691-699. 21. Demirtas, C., Ayhan, T., & Kaygusuz, K. (1998). Drying behaviour of hazelnuts. Journal of the science of food and agriculture, 76, 559-564. 22. Earle, R.L. (1983). Unit operations in food processing. Retrieved from www.nzifst.org.nz/unit operations/drying5.html. 23. Fabiano A. N. Fernandes., Sueli Rodrigues., Odisseia C.P. Gaspareto., Edson L. Oliveira. (2006). Optimization of osmotic dehydration of papaya followed by air drying. Food research international, 39 (4), 492-498. 24. Fabiano A. N. Fernandes., Sueli Rodrigues., Odisseia C.P. Gaspareto., Edson L. Oliveira. (2006). Optimization of osmotic dehydration of bananas followed by air-drying. Journal of food engineering, 77 (1), 188-193. 25. Fellows, P. J. (2000). Food processing technology, principles and practice (2nd Ed.). Cambridge: Woodhead Publishing Limited. 26. Fernandez, R.M.C., Guine, R.P.F., & Correia, P.M.R. (2005). The influence of drying on the chemical properties of chestnuts. Proceedings of the third international chestnut conference, Acta Horticulturae 693,153-157.
+
+90
+
+References 27. Free. J. (1997). Chestnuts flying high. Chestnutz News, Journal of the New Zealand Chestnut Council. Taken from chestnut grower's handbook 1999An introduction to chestnut growing in New Zealand. 28. Gerardina Attanasio, Luciano Cinquanta, Donatella Albanese &Marisa Di Matteo. (2004). Effects of drying temperatures on physico-chemical properties of dried and rehydrated chestnuts (Castanea sativa). Food Chemistry, 88(4), 583-590. 29. Goh, H. H & Klinac, D. J. (1992).Chestnut post harvest storage and handling. New Zealand Chestnut Conference, Hamilton. 30. Guine, R.P.F., Fernandez, R.M.C. (2006). Analysis of the drying kinetics of chestnuts. Journal of food engineering, 76 (3), 460-467. 31. Guine, R.P.F., & Castro, J.A.M. (2002). Pear drying process analysis: drying rates and evolutions of water and sugar concentrations in space and time. Drying technology, 20 (7), 1516-1526. 32. Howes, N. F. (1948). Nuts their production and use. Faber and Faber Limited, London. 33. Jermini, Mauro Mauro; Conedera, Marco; Sieber, Thomas N; Sassella,
+
+Alberto; Schärer, Hans; Jelmini, Giorgio; Höhn, Ernst.(2006). Influence of fruit treatments on perishability during cold storage of sweet chestnuts. Journal of the science of food and agriculture, 86, 877-885. 34. Kashaninejad, M., Mortazavi, A., Safekordi, A., Tabil, L.G. (2007). Thin layer drying characteristics and modelling of pistachio nuts. Journal of food engineering 78(1), 98-108. 35. Keey, R.B. (1992). Drying of loose and particulate materials. Hemisphere publishing corporation, New York.
+
+91
+
+References 36. Kerridge, J. Mike. (1982). Chestnuts-A New Zealand manufacturer's view. Paper presented at the 8th Annual conference, New Zealand tree crops association. 37. Klinac, D .J. (2006). Personal communication. 38. Klinac, D. J. (2000). Chestnuts worldwide and in New Zealand. A brief introductory paper prepared by NZCC. Retrieved December 22, 2004, from www.nzcc.org.nz/factsheet.html 39. Klinac, D.J. (1999). Chestnuts in New Zealand. Chestnutz News July. Taken from chestnut growers handbook 1999-An introduction to chestnut growing in New Zealand. 40. Klinac, D.J & Forbes, C. Chestnut post harvest storage and handling. Chestnut Growers Hand book. 41. Knowles, Ray. (2006). Personal communication. 42. Knowles, Ray. (1997). An introduction to chestnut growing in New Zealand. Chestnutz news March. Taken from chestnut growers handbook 1999-An introduction to chestnut growing in New Zealand. 43. Knowles, Ray. (1997). Chestnut species and hybrids in New Zealand. Chestnutz News July 1997. Taken from chestnut growers handbook 1999An introduction to chestnut growing in New Zealand. 44. Koyuncu, T., Serdar, U., & Tosun, I. (2004). Drying characteristics and energy requirement for dehydration of chestnut (Castanea sativa Mill). Journal of food engineering, 62(2), 165-168. 45. Kunsch, U., Scharer, H., Patrian, B., & Hohn, E. (2001). Effects of roasting on chemical composition and quality of different chestnut (Castanea sativa Mill) varieties. Journal of the science of food and agriculture, 81(11), 1106-1112.
+
+92
+
+References 46. Madamba, P.S., Driscoll, R.H., & Buckle, K.A. (1996). The thin layer drying characteristics of garlic slices. Journal of food engineering, 29, 7597. 47. Maria Aversa, Stefano Curcio, Vincenza Calabro, Gabriele Iorio. (2007). An analysis of the transport phenomenon occurring during food drying process. Journal of food engineering, 78 (3): 922-932. 48. McNeil, David. L. (1996). An overview of the New Zealand temperate nut industries and research developments over the last five years. New Zealand tree crops association. 49. Miguez, M., De la Montana, J., & Garcia, J. (2004). HPLC determination of sugars in varieties of chestnut fruits from Galicia (Spain). Journal of food composition and analysis, 17(1), 63-67. 50. Moreira, R., Chenlo, F., Chaguri, L., & Vazquez, G. (2005). Mathematical modelling of the drying kinetics of chestnut (Castanea sativa mill.) Influence of the natural shells. Food and Bioproducts Processing, 83(C4), 306-314. 51. Murat Ozdemir & Onur Devres, Y. (1999). The thin layer drying characteristics of hazelnuts during roasting. Journal of food engineering, 42(4), 225-233. 52. Nguyen, Ha., D.J. Klinac.& Bollen, Frank. (Date unspecified). Modified and controlled atmosphere storage of New Zealand chestnuts. Report to the NZCC. 53. Palipane, K.B., & Driscoll, R.H. (1994). Thin layer drying characteristics of macadamia in-shell nuts and kernels. Journal of Food Engineering, 23(2), 129-144. 54. Palipane, K.B., & Driscoll, R.H. (1993). Moisture sorption characteristics of in-shell macadamia nuts. Journal of Food Engineering, 18(1), 63-76.
+
+93
+
+References 55. Pinnavaia, G.G., Pizzirani, S., Severini & Bassi, D. (1993). Experiments using some chestnut varieties conserved in sucrose syrup. Proceedings of the international congress on chestnuts, Italy. 56. Rao, M.A., Rizvi Syed, S.H. & Datta, K. Ashim. (2005). Engineering properties of foods. CRC Press, USA. 57. Sacchetti, G., Pittia, P., Mastrocola, D. & Pinnavaia, G.G. (2005). Stability and quality of traditional and innovative chestnut based products. Proceedings of the third international chestnut conference, Acta Horticulturae 693, 63-70. 58. Sacchetti, G., Pinnavaia, G.G., Guidolin, E. & Dalla Rosa, M. (2004). Effects of extrusion temperature and feed composition on the functional, physical and sensory properties of chestnut and rice flour based snack like products. Food Research International, 37(5), 527-534. 59. Sachetti, G., Mastrocola, D. & Pinnavaia, G.G. (2003). Rehydration of dried chestnuts: Influence of variety and process conditions. Proceedings of the third international chestnut congress, Acta Horticulturae 693,131-136. 60. Sacchetti, G., & Pinnavaia, G.G. (1999). A ready-to-eat chestnut flour based breakfast cereal, production and optimization. Acta horticulturae, 494, 61-68. 61. Saito, T., Kotobuki, K., Sato, Y & Abe, K. (1993). Near Infrared analysis of sugar and starch content in chestnut. Proceedings of the international congress on chestnuts, Italy. 62. Schwartzberg, H.G. & Chao, R.Y. (1982). Solute diffusivities in the leaching processes. Food Technol, 36 (2), 73-86. 63. Sereno, A.M., Moreira, D., & Martinez, E. (2001). Mass transfer coefficients during osmotic dehydration of apple single and combined
+
+94
+
+References aqueous solution of sugar and salts. Journal of food engineering, 47(1), 4349. 64. Seelye, Richard. & Klinac, D. J. (Date unspecified). Floatation grading of New Zealand chestnuts and nashi pears. Report to the NZCC. 65. Simal Susana, Femenia Antoni, Carcel A Juan., Rossello Carmen. (2005). Mathematical modelling of the drying curves of kiwi fruits: influence of the ripening stage. Journal of the science of food and agriculture, 85, 425-432. 66. Singh, R Paul. & Heldman, Dennis R. (1993). Introduction to food engineering. Academic press limited, London. 67. Srinivasa Rao, P., Bal Satish, Goswami, T.K. (2007). Modelling and optimization of drying variables in thin layer drying of parboiled paddy. Journal of Food Engineering, 78(2), 480-487. 68. Stevenson, Barry, Klinac, D. J., Seelye, Richard. (Date unspecified). Shelling and peeling of New Zealand chestnuts. Report to the NZCC. 69. Vázquez, G., Chenlo, F., & Moreira, R. (2001). Modelling of desorption isotherms of chestnut: Influence of temperature and evaluation of isosteric heats. Drying technology, 19 (6), 1189-1199. 70. Vázquez, G., Chenlo, F., Moreira, R., & Fernández-Herrero, C. (2004). Analysis of sodium chloride and water content in the bulk of chestnuts during osmotic dehydration. Czech Republic (pp. 1-8) Proceedings of the CHISA 2004, Prague,
+
+71. Washington, W.S., Hood, V., Goubran. F., Hepworth. G., Stewart-Wade, S. (1998). Australian Journal of Experimental Agriculture, 38, 295-303. 72. Williams, P. (1997). Chestnut growing-A family affair. Kernel Chestnut Limited, New Zealand.
+
+95
+
+Appendices
+
+Appendix 1
+Table A1.1: Raw data of "individual" trials (1-4) performed at 30°C June 15th Trial 1 Time
+0 6 12 18 24 30 36 42 48 54 60 66 72
+
+Moisture Content (dry basis)
+1.1074 1.0112 0.9511 0.8993 0.8519 0.8076 0.7640 0.7205 0.6806 0.6461 0.611 0.577 0.5462
+
+June 22nd Trial 2 Time
+0 6 12 18 24 30 36 42 48 54 60 66 72
+
+Moisture June 28th Content (dry Trial 3 basis) Time
+1.0188 0.9238 0.8646 0.8126 0.7612 0.7176 0.674 0.6330 0.5914 0.5543 0.5198 0.4866 0.4541 0 12 24 36 48 60 72
+
+Moisture July 3rd Content Trial4 (dry basis) Time
+0.9989 0.8345 0.721 0.6258 0.5385 0.4614 0.4080 0 12 24 36 48 60 72
+
+Moisture Content (dry basis)
+0.9724 0.8133 0.6861 0.6012 0.5270 0.452 0.3891
+
+Table A1.2: Raw data for individual trial 5 performed at 30°C July 12th Trial 5 Moisture content (dry basis) Time
+0 2 4 6 12 18 24 30 36 42 48 54 60 66 72 1.0196 0.9634 0.9353 0.9116 0.8532 0.800 0.751 0.7083 0.6654 0.6225 0.5833 0.5493 0.5153 0.4820 0.4531
+
+97
+
+Appendices
+
+Table A1.3: Raw data of all "bulk trials" performed at 30°C July 28th Trial 1 Time
+0 12 24 36 48 60 72
+
+Moisture content (dry basis)
+0.907607 0.788812 0.692646 0.619317 0.542007 0.48942 0.434528
+
+August 1st Trial 2 Time
+0 12 24 36 48 60 72
+
+Moisture content (dry basis)
+0.977716 0.868086 0.782929 0.708118 0.635296 0.565659 0.499403
+
+August 8th Trial 3 Time
+0 12 24 36 48 60 72
+
+Moisture content (dry basis)
+1.04059 0.944849 0.852199 0.775307 0.702603 0.627605 0.564476
+
+Table A1.4: Raw data of trials performed at 20°C Drying at 20°C Time 0 12 24 36 48 60 72 Moisture content (dry basis)
+0.916881 0.826422 0.775046 0.724954 0.685321 0.638349 0.611009
+
+Drying at 20°C Time 0 12 24 36 48 60 72
+
+Moisture content (dry basis)
+0.920339 0.844068 0.799153 0.750847 0.711864 0.663559 0.636441
+
+Drying at 20°C Time 0 12 24 36 48 60 72
+
+Moisture content (dry basis)
+0.888441 0.797723 0.752014 0.705254 0.667776 0.622942 0.597023
+
+Table A1.5: Raw data of trials performed at 40°C Drying at 40°C Time 0 12 24 36 48 60 72 Moisture content (dry basis)
+1.208333 0.944444 0.777778 0.638889 0.5 0.416667 0.333333
+
+Drying at 40°C Time 0 12 24 36 48 60 72
+
+Moisture content (dry basis)
+1.202572 0.983923 0.848875 0.736334 0.623794 0.536977 0.440514
+
+Drying at 40°C Time 0 12 24 36 48 60 72
+
+Moisture content (dry basis)
+1.241681 0.994746 0.844133 0.718039 0.588441 0.486865 0.395797
+
+98
+
+Appendices
+
+Appendix 2
+
+T1= oven temperature T2 = Nut interstices temperature
+
+Figure A2.1: Continuous temperature monitored during bulk trials
+
+99
+
+Appendices
+
+T1= Nut temperature T2= Oven temperature
+
+Figure A2.2: Continuous temperature monitored during individual drying trial
+
+100
+
+

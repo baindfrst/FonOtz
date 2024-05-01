@@ -1,0 +1,941 @@
+1
+
+1
+
+Introduction
+
+Colour image processing is a developing field in science and technology. Applications include agriculture quality control (e.g. fruit sorting), surveillance of vehicles or crowds, graphic arts, medical imaging case studies and industrial handling. In many cases images captured by the camera do not give a good quality colour images, that is, variation in colour and brightness of an image due to artefacts, change in luminance and focus levels. Often colour correction is necessary to get good quality images and many software packages are available to correct brightness, contrast, colour and sharpness levels. However these software do not produce the colour according to the perception of human visual system. The aim of the thesis is to do colour correction in the colour images captured by the University of Waikato Range Imager to produce realistic colour images. The Range images are a special class of digital images, in which each pixel of the range image expresses the distance between the camera and the scene. Range images are often captured by range image camera. The Waikato Range Imager uses the principle of imaging lidar systems to capture range images. By using different coloured illuminants it can also capture colour information at the same time as ranging. Unfortunately chosen illuminants are not ideal so that the colours in the image are not entirely natural looking. In this thesis we explore the correction of the colour to produce natural looking colour images. In chapter 2 of the thesis we discuss in detail about the background theory of colour vision and colour science needed for this study. Topics covered include human visual system, theories of colour vision, and internationally recommended CIE system that form the basis for colourimetry applications. Also explained is colour measuring instruments, colour spaces and colour space conversions used in colour measurement and calculation. Towards the end of the chapter we discuss the Genetic Algorithm (GA) approach to estimate the spectral reflectance of the ranger surface (Schettini and Zuffi, 2006).
+
+2
+
+The equipment and hardware used in this study is discussed in the chapter three. First, the components of the spectroradiometer used in measuring the spectral power distribution of the illuminant source is described. Second the principle used in WaikatoRange Imager, and the components used in the experimental set up are described. Chapter four introduces the experimentation and methodology used in this study. We outline the acquisition of colour range images by Waikato Range Imager using red, green and blue LEDs as the illuminants. Next we discuss the tristimulus values (CIE XYZ) calculation of the ranger surface and radiometric quantities measurement using the spectroradiometer. Finally, genetic algorithm toolbox used in Matlab to estimate the spectral reflectance of the ranger surface and also the fitness function and the normalisation constant used for the ranger data are described. Reconstruction of RGB images and estimating reflectance spectra for each pixel of the Ranger colour image is described in chapter five. It also includes the CRT colour image calculated from the estimated reflectance and the CIE colour matching functions. Chapter six gives the idea of problems, improvements as well as future works to be done in this study. We give the outline of works to be done in the future by comparing our tristimulus values and the CIE system.
+
+3
+
+2 Background Theory
+This chapter explains in detail about the anatomy of human visual system, colour vision and theories based on colour vision. We give an overview of colour science and the internationally recommended CIE system which forms the basis for colourimetric application, followed by colour measurements instruments and colour spaces used in colour calculation and correction. Finally the outline of linear models and genetic algorithms used in estimating the spectral reflectance of the colour surface are introduced.
+
+2.1 Digital Image Processing
+Digital image processing is the processing of digital images by means of a digital computer (Gonzalez and Woods, 2002). Normally it consists of three level processes · · · Low-level process Mid-level process High-level process
+
+Low-level processing operator includes primitive operations like noise removal, contrast enhancement and image sharpening in the image. The input and output of the operators are images. Mid-level processes are tasks like image segmentation, edge deduction, representation and description of images. Here the input is an image and the output is a set of attributes extracted from the images. Higher-level processing involves "making sense" of an ensemble of recognized objects, as in image analysis, and, at the far end of the continuum, performing the cognitive functions normally associated with vision. The output is the interpretation of an image (Gonzalez and Woods, 2002). Digital image processing is a well-established technique with a large body of theory and many practical applications in fields like industrial inspection, medicine, publishing and multimedia. Many of these applications require colour information in the images.
+
+4
+
+2.2
+
+Colour Image Processing and its Future
+
+Colour image processing is a branch of digital image processing; obviously colour images convey more information than monochrome images. To understand the image acquisition, the processing, and the display of colour images some knowledge is required in the fields of image formation, colourimetry and colour reproduction. After the creation of advanced sensors, computing and display technologies researchers have to deal with lot of aspects of colour image processing. In many industrial applications computers extract more information than the human eye, such as the position and orientation of an object, which is used to control a machine. Due to cost and immature development of complex processing algorithms advancement of colour image processing is still under research. Some of the applications include agriculture quality control (e.g. fruit sorting), surveillance of vehicles or crowds, graphic arts, medical imaging case studies and industrial handling (Sangwine and Horne, 1998).
+
+2.3
+
+Colour Vision
+
+Colour vision is the ability of the human visual system or machine to perceive coloured objects based on the wavelength (or frequency) of the light reflected or emitted. The human visual system can perceive the distribution of light intensity over the visible spectrum (360­760 nm). A red board does not emit red light instead it simply absorbs the frequencies of light shining on it, except the frequencies of red (580nm), which are reflected. Now the red board is seen to be red, because the human eye can distinguish different wavelengths of the visible spectrum. The three major components needed to distinguish colours are a light source, a detector (human eye) and the sample under view.
+
+2.3.1 Colour
+Colour definition is not straightforward; we can say colour is how a human observer interprets light. For example, take a colour square and place it under a variable intensity of light. When the intensity is varied, the colour of the sample stays the same. Therefore colour can be defined as something which is invariant
+
+5
+
+with respect to light intensity. In other words, the eyes and brain turn an incoming emission spectrum into a discrete set of values. This signal is processed in our brain and interpreted as colour (Sangwine and Horne, 1998)
+
+2.3.2 Human visual system
+Human visual perceptions are strongly influenced by the anatomical structure of the eye. The human system can detect the range of light spectrum from about 360 ­760 nm. In many aspects the human eye works like a camera. The cornea and lens of the eye act together like a camera lens to focus an image of the visual world onto the retina at the back of the eye (see figure 2-1). There are some differences between camera and the eye. The presence of flat image plane in the camera provides good resolution and uniform spectral response throughout the entire plane whereas the human eye has a motion sensor system with 180° horizontal coverage. Due to this reason the peripheral vision system of eye provides low resolution imaging but with excellent motion detection (Scott, 2006). The small opening in the center of the iris is the pupil (see figure 2-1). The iris is the coloured part of the eye and it controls the light intensity levels inside the eye. Through the pupil light enters the eye and its size determines the amount of light entering the eye. The optics of the eye forms an inverted image of the scene on the inner surface of the retina. The retina is a multi-layered sensitive tissue that lies at the back of the eye. The retina contains a deep collection of light sensitive photoreceptors called rods and cones which transfer light signals (photons) into electro-chemical signals and they are converted to neural signals in the retina and transmitted to the brain through the optic nerves
+
+6
+
+Figure 2-1 Structure of the human eye [Source: www.bbc.co.uk/.../4nervoussystemrev6.shtml]
+
+The most important difference between rods and cones is in visual function. Rods are very sensitive cells that respond to low light levels. Rods are located in the peripheral retina, are responsible for night vision, but cannot distinguish colour. There are approximately 120 million rods in the retina. There are three kinds of cones: red(R), green(G), blue(B); sometimes they are also referred to as L, M and S cones for long, medium and shorter wavelength. Cones, primarily located in the centre of the retina at the fovea, are not good for night vision, they are able to detect colours and perceive colour during daylight conditions (Scott, 2006). Figure 2.2 shows the structure of the retina.
+
+7
+
+Figure 2-2 Structure of retina which contains rods and cones [Source: http://www.photo.net/photo/edscott/vis00010.htm ]
+
+Each cones type absorbs light over broad range of wavelengths, but has its peak absorption at different wavelength. The R cones have peak absorption at approximately 570nm, the G cones at approximately 545nm, and the S cones at approximately 440nm. Figure 2.3 shows curves of cone absorption at different wavelengths. These cone absorption rates curves determine the intensity of the colours the human eye recognises for each wavelength in the visible spectrum. A red sensation is not only because of activity in the R cone, but also due to comparison of both R and G cones (Sangwine, 1998).
+
+Figure 2-3 Curves showing Cone absorption rates [Source: www.psych.ucsb.edu/~rowe/ComparativeColorVisi...]
+
+8
+
+2.4 Theories of colour vision
+There are three major colour theories that explain and guide research on colour vision; first one is trichromatic theory which is also known as the YoungHelmholtz theory, secondly the opponent-process theory and the final one is zone theory. First two theories are complementary and explain processes that operate at different levels of the visual system. The trichromatic theory operates at the photoreceptor level and the opponent - processes theory applies to the subsequent neural level of color vision processing. Historically, the two theories were pitted against each other, but now it is realised that both theories help to explain how the human color vision system works. The Zone theory combines features of the trichromatic and opponent-process theory and it explains the process taking place in the brain to interpret colour (Sangwine and Horne, 1998).
+
+2.4.1 Trichromatic Theory
+The trichromatic theory of colour vision is based on the working of three types of cone receptors present in the retina. This theory was originated in the 18th century and thus also has a long history. The most important feature of this theory is that it is possible to match all of the colours in the visible spectrum by appropriate mixing of three primary colours. In trichromacy, the primary colours of red, green, and blue are processed and mixed by the human vision system to produce various types of colours in differing hues and shades. Trichromacy is the basic principle of colour reproduction methods such as those used in television, printing, and photography (Kaiser, 2005). In 1802 Young assumed that there are three cone receptors responsible for colour vision and in 1850 Helmholtz developed the theory based on Young's assumption. He performed theory colour matching experiments, in which as observer altered the relative intensity of three different wavelengths of light to match a test colour. They were not able to perceive the colours if they used only two wavelengths, but they could distinguish any colour in the spectrum if they used three colours. Trichromatic theory is also known as the Young-Helmholtz theory of colour vision. Loss of either red, green, or blue as colour perceptive elements in the retina causes an inability to perceive certain colours produced by the mix of
+
+9
+
+primaries. A number of colour perception phenomena cannot be explained by the trichromatic theory alone, for example, it fails to explain about the complementary afterimages. Figure 2-3 explains the trichromatic theory.
+
+2.4.2 Opponent-process theory
+Trichromatic theory says that when two lights results in the same cone responses, they produce the same colour. It does not explain when two colours have different cone responses. Obviously, they look different, but we do not know how different and exactly what colour they are. The Opponent process theory proposed by Herring in 1874 answers the questions above. The basic assumption is that colours come in pairs. The pairs are further divided into the achromatic system consisting of the black-white pair and the chromatic system consisting of the red-green and blue-yellow pairs. The red-green and yellow-blue pair are said to be exclusive colour sensation pair, because no colours can be seen with both colours in each pair. The achromatic system distinguishes brightness and contrast and the chromatic system perceives colour (Visualexpert, 2004). Figure 2.4 shows how the three classes of photoreceptor map on to the opponent process pairs. Opponent Process Theory predicts that certain colours such as reddish-green or greenish-red cannot exist. When we mix red and green or blue and yellow it produces a neutral result, because the two colours of the pair cancel each other. Note that, colours cancel each other only if they can exactly balance, that is, if they are red-green or blue-yellow pair; otherwise there is a colour left behind which is stimulated by the other colour pair. For example, the blue colour can be formed by mixing green and purple, as purple is red and blue, so the green cancels the red, leaving the blue signalled by the blue-yellow opponent process. Black colour is considered as a positive sensation, not as an absence of light in Opponent-Process theory. Therefore blind people, who do not perceive any light, do not see black instead they see a colour called `neural grey' (Visualexpert, 2004).
+
+10
+
+Figure 2-4 Opponent ­process theory of colour vision [Source: www.visualexpert.com]
+
+2.4.3 Zone theory
+The research work of Muller and Judd in 1930 and 1949 provided the Zone theory of colour vision by combining the features of the previous two theories. The trichromatic theory failed to explain the way some colour stimuli appear to an observer. Opponent process theory failed to explain certain types of colour blindness. Zone theory explains the action taking place in the brain, where the signals are interpreted in the environment of all the other visual inputs. In other words, opponent processes explains the linear transformation of a cone response, but zone theories describes how this transformation takes place (Sangwine and Horne, 1998). The zone theory predicts that opponent processes are just linear combination of cone responses. The red/green opponent process (ZRG) is a difference of Rand G cone responses:
+
+Z RG =  (rR - rG )
+
+(2.1)
+
+11
+
+where rR and rG are the R and G cone responses, and  is an arbitrary scaling constant. The red and green opponency is explained by this difference. If rR > rG, the red/green is positive and this mean that colour seen is reddish. If rR < rG, the red/green signal is negative then it means that the colour appears greenish. When rR = rG, the red/green signal is zero, and the colour appears neither red nor green. The blue/yellow component opponent process (ZBY) is a difference between the B cone response and a sum of R and G cone responses:
+
+Z BY =  ( rB - ( rR + (1 -  ) rG ))
+
+(2.2)
+
+with   0.7 and where  is another arbitrary constant. When the blue/ yellow signal ZBY is positive, the colour seen is blue; when it is negative, the colour appears yellow. Finally, the third axis of a colour description, the light/dark signals (ZDL), is usually modelled as a combination of the L and M responses:
+
+Z DL =  rB + (1 -  )rG
+
+(2.3)
+
+with  approximately 0.66. The zone theory equations (2.1), (2.2), and (2.3) model the actual mixing of the cones response that occurs in the brain. The zone theories do not provide clear explanation about white. White is defined as the absence of colour, so value of zero must be given to white signal in both the red/green and the blue/yellow opponent processes. This occur only when rR = rG = rB , so any light which yields the equal cone responses is colourless. In this case, only the light/dark signal responds. In the zone theories white is a derived sensation, caused by the absence of colour; there is no channel which explicitly signals the amount of whiteness in an object, although anything which activates the light/dark process only must be white (Sangwine and Horne, 1998).
+
+2.5
+
+Colour Science
+
+Colour science concerns with all aspects of computing colour stimuli and it can be divided into many branches such as radiometry, colourimetry, photometry, psychophysics and colour vision. It covers a wide range of sciences associated
+
+12
+
+with how human beings perceive colour. It also covers some engineering subjects associated with the generation of colour and the application of colourants to different materials; such as colour displays, illuminating, printing, dyeing, paint, plastics, colourant manufacturing. In each case, information about image colour must be physically measured in order to record it and they are reproduced as the same for other purposes in different formats. The colour perception is considered as a psychophysical phenomenon, so the colour measured must be specified in such a way that their results should match accurately with the visual perception of a normal human observer (Lee, 2005). Colourimetry is the science and technology used to quantify and describe physically the human colour perception. Colourimetry has been extensively used in various colour industries. Nowadays it is been increasingly used in the field of image processing due to the extensive development of cheaper and more advanced computer-controlled colour displays, printing and scanning devices. Colourimetry applications can be divided into three areas: colour specification, colour difference and colour appearance.
+
+2.5.1 The CIE System
+The basis for colourimetry was established by CIE (Commission Internationale de l' Éclairage) in 1931 based on visual experiments. Even though they have some limitations, the CIE system of colourimetry remains the only internationally agreed system for colour measurements. All the colour-related international standards and specifications use the CIE system. The CIE system provided a standard method for perceiving a colour stimulus under controlled illuminating and viewing conditions. There are three key elements given by CIE system for colour perception: spectral power distribution (light), reflectance spectrum (object), and colour matching functions (response of the cones) (Ohno, 2000).
+
+Spectral power distribution
+The light source is specified by means of the spectral power distribution (SPD)
+
+S ( ) . It can be measured using a spectroradiometer. A light source can also be
+measured in terms of colour temperature (in kelvins, K). The colour temperature
+
+13
+
+measurements are normally derived from the blackbody radiator. When the blackbody radiator is heated, it changes the colour from black to red to yellow to white to blue. In 1931 CIE recommended three standard illuminants, known as A, B and C, which represent incandescent light, direct sunlight and average daylight, respectively. Later in 1964 CIE recommended a series of D illuminants. The commonly used D illuminants are D65 and D50, which represents the daylight at approximately 6500K and 5000K, respectively. These illuminants are used in the graphic arts industry and in surface colour industries. CIE provided SPD values of all the recommended illuminants (Sangwine and Horne, 1998).
+
+Reflectance Spectrum
+The colour of a sample is specified by the reflectance R( ) , a function of wavelength. Reflectance is the ratio of the light reflected from a sample to that reflected from a reference white standard (Sangwine and Horne, 1998).
+
+Figure 2-5 Specular and Diffuse reflection
+
+There are two kinds of reflection: specular and diffuse reflection. Specular reflection is a direct reflection from a surface; in this case incident light does not penetrate the surface so that the incident beam and the reflected beam are of same colour. In diffuse reflection part of the incident beam is absorbed by the object and reemitted back in all directions. This is called diffuse reflection. CIE specified
+
+14
+
+four different types of illuminating and viewing conditions: 45°/Normal, Normal/45°, Diffuse/Normal, Normal/Diffuse. The reflectance can be measured using a spectrophotometer. Figure 2.5 shows the specular and diffuse reflection
+
+Colour Matching Functions
+The most important component in the CIE system is the colour matching functions, which define how human eyes match colour stimuli using a set of red, green and blue reference primaries. According to trichromatic theory of colour vision any colour perceived by the observer can be described by the amount of primaries present. The CIE colour matching function is derived based upon the laws of additive colour mixing. The commonly used additive primary colours are red, green and blue. In some cases subtractive colour mixing is also used, but additive colour mixing is theoretically simpler than subtractive (Ohno, 2000). In 1931, CIE recommended a set of standard colour matching functions, known as the CIE 1931 standard colorimetric observer (or 2° Observer). In 1930, Wright and Guild have performed independent visual experiments to derive colour matching functions using three R/G/B primaries, the result of their experiments became the basis of CIE colourimetry system. The functions are designated as
+
+r ( ), g ( ) and b ( ) which are expressed in terms of colour stimuli of
+wavelength 700 nm, 546.1 nm, and 435.8 nm, respectively. Figure 2-6 shows the relative intensities of the R, G, B primaries that matched with monochromatic stimulus at each wavelength. The negative value indicates that one of the primaries has to be added to the monochromatic stimulus to provide the match between the primary colours. In other words, negative amounts indicate that the light was added to the test colour instead of to the red, green and blue mixture. In the1931 CIE system converted the RGB colour matching functions to new primaries called X, Y, and Z. The colour matching functions are then denoted as x ( ), y ( ) and z ( ) , as plotted in Figure 2.6.
+
+Two significant assumptions were made in deriving these colour matching functions: Firstly, observer field-of-view is taken as 2°. Secondly, additivity of light stimuli explained by Grassmann's Law is assumed. Grassmann's Law states
+
+15
+
+that "If the test colour is the combination of two monochromatic colours, then the observer's matching value of each primary will be the sum of the matching values for each of the monochromatic colours when viewed separately". The colour matching function which satisfies above two conditions is called CIE 1931 standard colourimetric observer. But practically this colour matching functions can be used for a field-of-view of up to 4°. In 1964, the second set of standard of colour matching functions for a 10° field-of-view was derived by the CIE system, denoted as x10 ( ), y10 ( ), and z10 ( ) . This is known as CIE 1964 supplementary standard colourimetric observer, and can be used for a field of view greater than 4°. The colour matching functions values for the CIE 1931 standard colourimetric observer (2°) and CIE 1964 supplementary standard colourimetric observer was given by the CIE system along the visible spectrum (Ohno, 2000). Figure 2.6 shows CIE RGB (dashed lines) and XYZ (solid lines) colour matching functions.
+
+Figure 2-6 The CIE colour matching functions for R, G, B and X, Y,Z primaries [Source: H. Joel Trussell, 2005]
+
+2.5.2 Tristimulus values
+Tristimulus are determined by the three key elements of colour perception which is expressed in terms of functions of the visible spectrum. Any colour specified by a triple of numbers (X, Y, and Z) is called a Tristimulus values, and is given in
+
+16
+
+equation (2.4). They compute a colour by defining the amounts of the red, green and blue CIE primaries required to match a colour by the standard observer under a particular CIE illuminant and viewing conditions. These are the integration of the products of the functions in three components over the visible spectrum (Sangwine and Horne, 1998).
+
+X = k  S ( ) R( ) x ( )d Y = k  S (  ) R (  ) y (  ) d Z = k  S (  ) R (  ) z (  ) d
+The k is the normalisation constant was chosen so that Y=100 for the sample so that it reflects 100% at all wavelengths. The normalisation constant introduced here makes the system suitable to use relative spectral distributions for the illuminant rather than the absolute one. If CIE 1964 supplementary standard colorimetric observer is used in equation (2.4), then all terms except S () and R () should have a subscript of 10. (2.4)
+
+2.5.3 Chromaticity Diagram
+The colour of a stimulus can be specified by a triplet of Tristimulus values. To provide a convenient two-dimensional representation of colours, chromaticity diagrams were developed. The transformation from Tristimulus values to chromaticity coordinates is provided through a normalisation that removes luminance information. Chromaticity coordinates are calculated by
+
+X X +Y + Z Y y= X +Y + Z Z z= X +Y + Z x=
+
+(2.5)
+
+17
+
+Since there are only two dimensions of information in chromaticity coordinates, the third coordinate can always be obtained from the other two because the three always sum to unity, namely
+
+x + y + z =1
+
+(2.6)
+
+Figure 2-7 CIE chromaticity diagram for the 1931 standard colorimetric observer [Source: http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CIExy1931.png/325pxCIExy1931.png ]
+
+Figure (2-7) shows the CIE chromaticity diagram for the 1931 standard colorimetric observer. In the chromaticity diagram, region of all perceptible colours is surrounded by the horseshoe-shaped locus of pure spectral colours with a straight line connecting the chromaticity co-ordinates of extreme red and blue. Whites lie near the centre of the diagram, and colours become more saturated towards the periphery. Tristimulus values and chromaticity co-ordinates are measured for colour specification. However, they do not describe a colour appearance attributes such as lightness, saturation and hue. In other words, it is difficult to visualize a colour accurately using these measures (Fairchild, 1998).
+
+18
+
+2.5.4 Colour theory and human colour perception
+Colour is defined as an intensity invariant property, it is necessary to find what properties of light are intensity invariant. Light is described by a spectral power distribution S() which gives the power of the light at each wavelength . An intensity invariant measure of S() is the normalized distribution function SN(), which is given by dividing S() by the total power,
+
+S N ( ) =
+
+S ( )
+
+ S ()d
+
+(2.7)
+
+Even if S () changes by a multiplicative factor (i.e. a change in intensity) then SN () remains unchanged. The colour is defined by
+
+760
+
+C=
+
+360
+
+ S ( ) A( )d
+
+(2.8)
+
+where the function A () is the colour matching function, which is also intensity invariant. It is to be noted that intensity invariance cannot be the only criterion to apply to colour vision. A colour description should also be able to distinguish between two spectral power distributions that differ by something other than a change in intensity. The ability to distinguish such distributions depends on the number of invariants that are computed. The colour perception theory and human colour perception is compared here. The colour descriptor equation (2.7) and the human colour system are similar(Sangwine and Horne,1998). The computation of descriptor equation can be broken into two stages: · · the integration of S () with A(); a integral along the visible spectrum
+
+19
+
+Each stage has a corresponding role in the human visual system. The integration step of S () with A() interprets the absoprtion of light and non-linearity response that occurs in the retina, and the opponent process channels of cone responses, which are implemented in the cortex, are defined by intergral along the visbible spectrum.
+
+2.6 Colour Measurement Instruments
+Colour measuring instruments are designed to measure colours in terms of reflectance, radiance and the CIE colourimetric values such as Tristimulus values. Different types of instruments are available accordingly they can measure different forms of colour, i.e. self-luminance, surface colours or both. The instruments are also designed based upon the illuminating source, viewing and illuminating geometries. These instruments are categorized into three types (Sangwine and Horne, 1998): · · · Tristimulus Colorimeter Spectroradiometer Spectrophotometer
+
+2.6.1 Tristimulus Colourimeter
+Tristimulus colourimeters are developed to measure the tristimulus values of colour under a predetermined set of illuminant source and observer conditions, e.g. D65/2°. They are very useful for determining the colour difference between pairs of colour samples for colour quality control purpose and they are cheaper than spectroradiometers and spectrophotometers. This instrument is mainly used for two purposes: measuring surface colours and measuring self-luminous colours. In case of surface colours measurement set up needs light source, integrating sphere and the detector, whereas for self luminous light source is not needed e.g. TV monitor. The detectors in this instrument use filters, they provide a close match to the CIE colour matching functions. The instrument also produces
+
+20
+
+the output which is closely related to the Tristimulus values equations. The ageing of filters is the only advantage of tristimulus colourimeter.
+
+2.6.2 Spectroradiometer
+Spectroradiometers are developed to measure spectral power distribution of the light source. They are expressed in radiometric quantities such as irradiance (in units of W/m²) or radiance (in units of W/m²Sr). Spectral power distribution is measured over the visible spectrum with a fixed interval of 5 nm, 10 nm or 20 nm. Their colourimetric values are expressed by luminance (cd/m²) and illuminance (lux) for radiance and irradiance respectively. The tele-spectroradiomter (TSR) is the most commonly used instrument. The essential components of spectroradiometer are a telescope, a monochromator, input optics and a detector. The TSR is used to measure of the distant object in its usual observing position and common viewing conditions. The measurement results correspond to the actual conditions of viewing is the advantage of this system. Similar to colourimeter it can also measure both surface and self-luminous colours. This is useful in matching the image displayed on a monitor with the output from a printer and the process is called cross-media colour reproduction (Sangwine and Horne, 1998).
+
+2.6.3 Spectrophotometer
+Spectrophotometers are commonly used for measuring surface colours and are intended to measure the ratio between the incident beam and the light reflected from the measured surface across the visible spectrum with a fixed interval of 5 nm, 10 nm or 20 nm. The results are expressed by reflectance of surface colour. The components of the spectrophotometer are a light source, a monochromator and a detector. As recommended by CIE, geometry of illuminating and viewing conditions should be considered while taking measurements. In practice, viewing geometries 45°/Normal, Normal/45° are used in the graphic arts industry and Diffuse/Normal, Normal/Diffuse geometries for surface colours (textile, paint, plastics) industries. The spectrophotometer is often preferred for surface colours measurements. Some of its application includes quality control and recipe
+
+21
+
+formulation. They are very accurate, but they are more expensive than the Tristimulus colorimeter.
+
+2.7 Colour spaces
+The advent of colour spaces outdated the general use of chromaticity diagrams for colour specification and calculation. Colour space is described as an abstract mathematical model, in which colours are represented numerically. In other words, colour spaces are the extension of tristimulus colourimetry to threedimensional spaces with dimensions that approximately associate with the perceived lightness, chroma and hue of a stimulus. The main aim of the development of the colour spaces was to provide uniform performance for the measurement of colour differences, something that was not performed consistently by tristimulus values or chromaticity diagrams. There are different colour spaces in use including two CIE recommended colour spaces. Different colour spaces are better for different applications, and many factors are considered for using different colour spaces. Colour spaces which are mainly used in image processing are derived from visual system models such as basic RGB, opponent colour space, IHS, etc. Some colour spaces which are adopted from technical domains such as XYZ for colourimetry and YUV for television. Ohta space and Kodak PhotoYCC are especially developed for image processing applications. The commonly used colour spaces are RGB, XYZ and two CIE colour spaces. There are some terms we need for describing colour spaces (Sangwine and Horne, 1998). They are: · · · Brightness: This is the human sensation by which an area exhibits more or less light. Lightness: This is the sensation of an area's brightness relative to a reference white in the scene. Hue: the human sensation according to which an area appears to be similar to one, or proportions of two, of the perceived opposing colours red, yellow, green and blue
+
+22
+
+· · ·
+
+Colourfulness: the human sensation according to which an area appears to exhibit more or less of its hue Chroma: the colourfulness of an area relative to the brightness of a reference white. Saturation: the colourfulness of an area relative to its brightness
+
+2.7.1 RGB colour space
+The RGB space is the most commonly used colour space for image processing applications. The principle of trichromatic theory is applied in RGB colour space. RGB colour space is easy to implement but does not associate with visual perception. This colour space is considered as a basic one because of its wide use in colour cameras, scanners, projectors and displays with direct RGB signal input or output and also if needed it can be converted to other colour spaces. Each colour in the space is described by its RGB components, and it is represented by a point and can be either on the surface or inside the cube. All grey colours are placed on the main diagonal of this cube from black (R=G=B=0) to white (R=G=B=1). The main disadvantage of RGB space is their applications involving natural images because it provides high correlation between its components: about 0.78 for B-R, 0.98 for R-G and 0.94 for G-B components and second nonuniformity, that is, it is impossible to determine the perceived differences between colours on the basis of distance in RGB space. Figure 2-8 shows the representation of colour in RGB colour space. Mostly RGB components for a given image depend upon the amount of light incident on the scene represented by the image. So chromaticity co-ordinates were introduced in the colourimetry to get rid of illumination intensity. The chromaticity co-ordinates of RGB are defined by: R R+G+ B G g= R+G+ B B b= = 1- r - g R+G+ B r=
+
+(2.9)
+
+23
+
+B
+Blue
+
+cyan White Grey scale
+
+Magnenta
+
+Green Red
+
+G
+
+Yellow R
+
+Figure 2-8 RGB colour space
+
+From the equations 2.9 it is clear that each of the standardised colours is linearly dependent, so RGB colour space can be characterised by two standard colours. This can be verified by calculating the coordinate b and also the chromaticity coordinates of RGB remain unchanged until the spectral power distribution of the scene or illuminating light is varied (Sangwine and Horne, 1998).
+
+2.7.2 XYZ colour space
+The XYZ colour space was recommended by the CIE in 1931 and it is been widely used in colourimetry application. This colour space was invented by CIE mainly to yield non-negative tristimulus values for each colour. The value Y corresponds to luminance of the colour on this system. The tristimulus values XYZ relating to CIE RGB tristimulus by the following equations
+
+X = 0.490 R + 0.310 G + 0.200 B Y = 0.177 R + 0.812 G + 0.011 B Z = 0.000 R + 0.010 G + 0.990 B
+
+(2.10)
+
+24
+
+XYZ colour space play an additional role in image processing applications. In 1987 Slaughter and Harrell have done experiments based on this colour space. The results of their experiment explain that XYZ colour space is necessary to determine the threshold values of hue and saturation (which are required to recognize the object: locating oranges in images of natural outdoor scenes). From the spectral reflectance curves for the orange the tristimulus values XYZ were first calculated. Then, applying the inverse transform, RGB values were determined and hence after further transformation H and S threshold values were calculated. It also acts as an intermediate colour space in the process of determining CIE recommended uniform colour space such as CIELAB or CIELUV spaces.
+
+2.7.3 CIELAB colour space
+In 1976 CIE system recommended two uniform colour spaces such as CIE L* a* b* (or CIELAB) and CIE L* u* v* (or CIELAB). CIELAB colour space used a non-linear transformation of the tristimulus space to simplify the original ANLAB formula developed by Adams in 1942, which was widely used in the colourant industry. CIELUV is used in industrial applications where they consider additive colour mixing such as displays, TV and lighting. CIELAB colour space uses a natural logarithmic function instead of a cube root function in the CIE chromaticity equations and is mainly useful for the image segmentation of the three dimensional images (Fairchild, 1998). CIELAB colour space is defined by
+L* = 116(Y / Yn )1 / 3 - 16 a* = 500[( X / X n )1 / 3 - (Y / Yn )1 / 3 ] b* = 200[(Y / Yn )1 / 3 - ( Z / Z n )1 / 3 ] C *ab =
+
+(2.11)
+
+(a *
+
+2
+
++b * 2
+
+)
+
+hab = tan -1 (b * / a *)
+
+In the equations 2.11 X, Y and Z are the tristimulus values of the stimulus and Xn, Yn, Zn are the tristimulus values of the reference white. L* represents lightness, a* approximates redness-greenness, b* approximate yellowness-blueness, C*ab
+
+25
+
+chroma and hab hue. Figure 2-11 shows the three dimensional representation CIELAB coordinates.
+
+Figure 2-9 Three-dimensional representation of the CIELAB coordinates [Source: http://www.techexchange.com/thelibrary/resources/DTP_CIELab.gif]
+
+2.7.4 CIELUV colour space
+CIELUV Colour space is defined by
+L* = 116(Y / Yn )1 / 3 - 16 u* = 13L * (u ' - u ' n ) v* = 13L * (v ' - v ' n ) C *uv =
+
+(2.12)
+
+(u *
+
+2
+
++v *2
+
+)
+
+huv = tan -1 (v * / u*)
+
+In these equations, u ' and v ' are the chromaticity coordinates of the stimulus and
+
+u ' n and v ' n are the chromaticity coordinates of the reference white. L* represents
+lightness, u* approximate redness-greenness, v* approximate yellownessblueness, C*uv chroma and huv hue. Of the two CIE colour spaces CIELAB has
+
+26
+
+become almost universally used for colour specification and particularly colourdifference measurement.
+
+2.7.5 Colour space conversions
+Colour space conversion is to change one type of colour signal present in the image to other. It mainly depends on the input and output device used and also the format of the image. For example, conversion from RGB to YUV and back to RGB are common colour space conversions while working with video formats, and from display color space (RGB) to the printer color space (CMYK) is another familiar example. In some cases to find the tristimulus values of the RGB image surface CIE XYZ colour space is used and then converted back to RGB. Colour spaces may have different colour ranges, and conversion may result in a loss of colour (Sangwine and Horne, 1998). The matrix transformation is used in colour space conversion, RGB to XYZ and XYZ and RGB are discussed here in detail. Normally RGB colour space is transformed to the CIE XYZ using a 3x3 matrix transformation. This conversion uses tristimulus values; these are set of three components which work according to the CIE colour matching functions. The CIE XYZ system are internationally recommended, any colour in this system is specified in positive values (Ford and Roberts, 1998). RGB to XYZ conversion can be done using this matrix transform:
+ R   2.3649 - 0.8941 - 0.4678  X  G  = - 0.5156 1.4273 0.0883  *  Y         B   0.0552 - 0.0144 1.0092   Z       
+
+(2.13)
+
+RGB values usually ranges from 0 to 1, but XYZ colour space transformed to RGB space may contain some negative or values greater than one, due to the negative coefficients present in the matrix. So it is clear all visible colours cannot be produced using RGB system because of variation in their values. The inverse of the matrix equation 2.13 gives XYZ to RGB colour space conversion.
+
+27
+
+ X  0.490 0.310 0.200   Y  = 0.177 0.812 0.011 *      Z  0.000 0.010 0.990     
+
+R G    B  
+
+(2.14)
+
+2.8 Estimating surface reflectance functions
+In most of the colour imaging applications information about the spectral reflectance colour surface is quite essential. For example, it can be helpful in determining the colour of each pixel in the image under changing illuminant conditions for colour correction and balance, also used in matching colour information of paints, inks, plastics and textiles and in computer graphics technology. But mostly surface reflectance is not specified directly; the surface colour information is sometimes given as spectral power distribution of the illuminant or the RGB or XYZ tristimulus values (Schettini and Zuffi, 2006). Normally spectral reflectance is calculated over the visible spectrum, that is, 360­760 nm range. The number of research works has been done in estimating the reflectance spectra using dimensionality reduction techniques. These techniques make use of linear model representation, which express a reflectance spectrum through a weighted sum of a set of basis functions. Most of the researchers faced problem in estimating probable reflectance spectra from tristimulus values using linear models. The main assumptions made in their works are that the illuminant spectrum is known and reflectance spectra are smooth functions of wavelength in the range of reflectance values between 0 and 1. The good degree of accuracy can be attained while estimating reflectance functions using linear models. The accuracy mainly depends on the number of basis functions considered. For a natural surface six to nine basis functions are needed, whereas for the skin surface three basis functions are enough to get a good solution. The next section explains in detail about the use of linear models in estimating reflectance spectra using different methods. So research was performed to find a method that allows the synthesis of surface reflectance by taking into account colourimetric information with respect to different illumination or observing conditions. It is also considered that this way
+
+28
+
+of approach will increase the similarity between the estimated and unknown reflectance. So genetic algorithms (GA) is applied to formulate the problem of reflectance estimation for the simultaneous optimization of several constraints. Genetic algorithms also perform well in finding the local minima of complex nonlinear models. Genetic algorithms have been applied to design single computational framework to surface reflectance function recovery, where any kind of basis components in variable number can be adopted (Schettini and Zuffi, 2006). Three different basis sets used in their analysis are PCA basis set, Gaussian basis set and Fourier basis set. In our analysis we use fixed and variable Gaussian basis sets to estimate the reflectance. The next section explains in detail about the genetic algorithm and its operators.
+
+2.8.1 Genetic Algorithms
+Genetic algorithms were formally introduced in the United States in the 1970s by John Holland at University of Michigan. Genetic algorithms (GA) are a general method for solving optimization problems, inspired by the mechanisms of evolution in biological systems. They are therefore based on the mechanics of natural selection and natural genetics. Genetic algorithms explained here tells us how the new generation individuals were evaluated according to the fitness solution. Normally in each generation, the fitness solution of the whole population is determined, and then the multiple individuals are randomly selected from the current population based on their fitness, and recombined to form a new population, which becomes continuous in the next iteration of the algorithm (Goldberg, 1989).
+
+2.8.2 Operation of Genetic algorithm
+Genetic algorithms consider two elements to search a solution for solving any kind of problem. First, we must specify a method of representing a solution in a manner that can be evaluated by the algorithm easily. Secondly way of measuring the quality of the solution using the fitness solution must be specified, that is, to find whether the fitness solution is good or not (Goldberg, 1998). For instance, if the problem involves fitting using different weights as possible, a representation of a solution might be a string of bits, where each bit represents a different weight,
+
+29
+
+and the value of the bit (0 or 1) represents whether or not the weight is added to the old data values. The fitness of the solution would be measured by determining the total weight of the proposed solution: The higher the weight, the greater the fitness, provided that the solution is possible. The brief explanation of step by step process of GA is given below:
+
+Initialisation
+Initialisation methods vary and also depend upon the research purposes, but individual population is created by random generation of individual solutions. The population size depends on the nature of the problem, but it normally contains several hundreds or thousands of possible solutions and in some case they have default set up of initial population. The individual solutions are highly generated in the areas where optimal solutions are expected to be found.
+
+Selection
+During selection process, at the end of each successive generation, a part of the existing individual solutions are selected to form a new generation proportion. Individual solutions are selected through a fitting process, where the solutions of the fitting process measured from the fitness functions are needed to be considered for selecting the individuals. The individuals which provide better fitness solutions have more chances of getting selected. Selection methods considering the best fitness solution provides a good result whereas some other methods which only rate the random sample of the population are not preferred because they are time consuming process. Selecting the new generation individuals by fitness process helps in keeping the diversity of the population large, prevents premature individuals and poor solutions, because good fitting solutions are considered for the new generation it also avoids the less fit solutions.
+
+Reproduction
+In the reproduction process second generation population of solutions are generated. These are generated using two genetic operators: crossover (or recombination), and mutation. Performance of genetic algorithms depends on these operators very much. In genetic algorithms, crossover operator is used to
+
+30
+
+vary the operation of a chromosome or chromosomes from one generation to the next. It is equivalent to the reproduction and biological crossover process, upon which genetic algorithms are based. There are different types of crossover techniques available. Mutation is a genetic operator used to maintain genetic diversity from one generation of a population of chromosomes to the next. This process is also equivalent to biological mutation. The main purpose of mutation in GA is to allow the algorithm to avoid local minima by preventing the population of chromosomes from becoming too similar to each other, thus slowing down or even stopping evolution of new generation. Mutation also explains the fact that genetic algorithms must avoid only taking the best fitness solutions of the population in selecting the next generation. It must also consider a random selection of population with a weighting function with good fitness solutions will provide a long lasting generation (Goldberg, 1989).. Now the genetic operators are explained here in biological terms to understand it very clearly. For each new child solution to be produced, a pair of parent solutions is selected for breeding from the group selected previously or from the initial population. The child solution is produced using the above said methods of crossover and mutation, a new child solution created having many of the characteristics of its parents. In each generation new parents are selected for each child, and the process continues until a new population of solutions of appropriate size is generated. These continuous processes will result in the next generation population of chromosomes differing from the initial population. Obviously the average fitness (parent's selection) is also increased by this process, so the best organisms from the initial population are only selected for reproduction, along with some less fit solutions for continuous generation as said in mutation.
+
+Termination
+This generation process is repeated until a termination condition has been reached. Common terminating conditions are · A solution is found that satisfies minimum criteria · Fixed number of generations reached
+
+31
+
+· Allocated computation reached · The highest ranking solution's fitness is reaching or has reached a level such that successive iterations no longer produce better results · Manual inspection · Combinations of the all the above said steps.
+
+2.9
+
+Image acquisition techniques
+
+The camera is the only image acquisition device which is able to capture images of three-dimensional scenes or of heavily textured surfaces. There are wide variety of cameras available depending upon the output needed. Many features are needed to be considered before choosing a camera (Sangwine and Horne, 1998). The considerations are: · · · · · · analogue or digital input continuous or monoshot operation single chip or three-chip CCD sensor composite video or RGB outputs size of sensor (number of pixels horizontally and vertically) type of lens mount.
+
+The camera cost is mostly decided by the analogue or digital output. Digital cameras are costly; if high spatial resolution is needed digital camera is the only way to attain it. Standard analogue camera produces about 700 x 500 pixels whereas the digital camera gives about 4000 x 3000 pixels or more. Another advantage of digital camera is their ability to provide more than 8 bits per channel of colour resolution. Nowadays, digital cameras are most widely used and others like continuous cameras are suitable for capturing images of stationary scenes or slow moving objects, single chip or three-chip CCD sensors are used for accurate colour reproduction coupled with a good spatial resolution, and also depends upon the sensor or chip size spatial resolution can be improved. Recently, chargecoupled device (CCD) cameras have replaced analogue or tube cameras in all applications. The camera consists of an array of discrete charge-coupled devices,
+
+32
+
+so the image data captured provides good resolution. The number of CCD chips in the camera also improves the quality of colour images. The best colour cameras have three separate CCD arrays, one responding to red light, one to green and one to blue. The precision of the camera can be computed by its signal-to-noise (SNR) ratio. It is defined as ratio of the root mean square (RMS) of the signal voltage to the RMS noise voltage, which is expressed in decibels. The majority of cameras have a SNR between 48 and 60 dB. There are two methods to improve the signal-toratio, one is by cooling the CCD array to reduce the noise and the other is extending the exposure time to increase the signal at low luminance levels. Some of the basic considerations are to set up the camera and the illuminant source to use the full dynamic range of the camera, also to balance colour channels correctly. The image acquisition should be carried out by adjusting the camera and lighting conditions in order to capture a good resolution image.
+
+33
+
+3 Equipment and hardware
+In this chapter the working principle of the spectroradiometer and the Waikato Range Imager is discussed. The hardware components used in spectroradiometer and ranger system are also explained.
+
+3.1 Spectroradiometer
+Spectroradiometer is the device used for measuring the spectral power distribution (SPD) of radiation emitted by the source. The measured radiation may be expressed in a number of ways, depending upon how the radiation entering the spectroradiometer is collected, and how it is processed by the software (Bentham, 1997). Generally spectroradiometer consist of four major parts. They are: · · · · Input or collecting optics Monochromator Detector Control or logging system
+
+Figure 3-1 Basic components of spectroradiometer system [Source: Bentham , 1997]
+
+34
+
+3.1.1 Input Optics
+The input optics serves the function of collecting or imaging light from the light source with specified field of view and transfers it to the monochromator. The material used for lenses determines the wavelength of radiation that reaches the monochromator. Different lenses are used for measuring ultra-violet, visible and infra red radiations.
+
+3.1.2 The monochromator
+The monochromator is the device which separates the radiation into its component wavelengths, That is, it selects and transmits a narrow band of wavelengths from the spectrum of incident light beam. The monochromator consists of four parts: they are collimating lens, diffraction grating, focusing optics and exit slit. A diffraction grating element inside the monochromator receives the incident light beam and spreads different wavelengths in different angular directions. Periodic micro structures on the grating surface cause the reflected light wave to interfere constructively or destructively, depending on the angle of propagation upon reflection or transmission. In some particular angle, a certain wavelength may have the strongest intensity due to constructive interference, while others wavelengths are out of phase and are weaker in intensity. This results in imperfect wavelength separation, that is, unwanted light of neighbouring wavelength is scattered or diffracted into the exit slit and mixed with the wavelength of interest. Mostly these types of errors are corrected using software. Then the spectrum is passed along the focusing optics, which is received by the detector through the exit split (Lee, 2005).
+
+3.1.3 The detector
+The detector measures the intensity of radiation at each wavelength and outputs an electrical signal to the readout device. The basic detector technologies fall into three groups: they are photoemissive detectors, semiconductor devices and thermal detectors. Within each type there are many options and modes of operation available. Thermal detectors respond to radiation of all wavelengths,
+
+35
+
+whereas the photo emissive and semiconductor detectors have more restricted wavelengths of detection than thermal detectors.
+
+3.1.4 Control or logging system
+The control and data logging system associated with spectroradiometers are tasks most often performed by a personal computer. The method of control, the devices and communication lines between computer and monochromator, and between detector output and computer, are optimised to match the desired features of the system as a whole. The commercially available software packages supplied with spectroradiometer systems can offer the general user a lot of flexibility, but specialized options remain the responsibility of the individual operator.
+
+3.2
+
+Image acquisition principle
+
+The image acquisition for this research using the Waikato Image Ranger. Here we described the Image Ranger. It can be called as rangefinder camera, as it is useful for measuring the distance from the camera to any particular object. The following section explains in detail about the principles of image acquisition and the hardware used. The image acquired from the range camera is called range image. The process of acquiring range data present in the image is called range imaging. Some of their applications include machine vision, surface profiling, surveying, metrology, realtime multi-media integration, and three-dimensional recordings of object and artefacts. Range imaging can be done with four different methods; laser scanning, stereo vision, structured light and imaging lidar systems. The first three techniques are very well researched; each has its advantages and disadvantages. The method used in our hardware is imaging lidar. Using this principle, the image taken is similar to a digital photograph, but it also contains range information to the objects in the field of view for each pixel in the image. As the Waikato Ranger used in this study is an imaging lidar system we discuss imaging lidar in detail.
+
+36
+
+3.2.1 Imaging lidar systems
+The scene or object is illuminated with the modulated light source and the reflected light from the object is collected by the camera system. Here the camera is also modulated by a high speed shuttering mechanism. The major differences between imaging radar systems takes place in the modulation control signals used for the light source and the high speed shuttering mechanism. Generally, three basic types of modulation techniques are used: they are Pulsed, Homodyne and Heterodyne systems. Figure 3-2 illustrates the components and basic operation of an imaging lidar system.
+
+Figure 3-2 Imaging lidar Principle [Source: Payne et al. 2006]
+
+In the pulsed systems, both the illumination source and the high-speed shutter are controlled with a single pulse in the nanoseconds region. Here both the illumination source and shutter are pulsed simultaneously, and then the reflected light pulse arriving at the camera is delayed in time due to propagation delay. If the light is reflected from a nearby object then the time delay is minimal and almost all the light enters the camera resulting in a bright image, because the
+
+37
+
+shutter is open. In the case of light reflecting from a distant object, the image appears to be darker because light arrives late back from the object and the shutter closes before the arrival. Since brightness of a pixel is linked with range, the shutter pulse can be delayed from the illumination pulse (i.e. by adjusting the width of the pulse), to customize the sensitivity to specific intensity regions. Pulsed systems are considered to be technically complex due to the high bandwidth and sensitivity required at the receiver. This often limits the resolution available in the full-field configurations. Homodyne systems works in a similar manner to pulsed systems, but in this technique light source and the shutter are modulated at radio frequency in the 10 MHz to 100 MHz region. The modulation control signals are a continuous square, sinusoidal, or triangular wave rather than a single pulse. The propagation delay to the objects in the scene is considered as a phase change or delay to the illumination source. Since both are modulated at the same frequency, the mixing results in a unique brightness level for each pixel corresponding to range. Decoding is done to retrieve actual range values from brightness, and often multiple measurements are performed at different relative phases for the modulation signals to perform quadrature or phase-shift keying (PSK) type decoding. Due to the nature of the phase change, range uncertainties occur at multiples of half of the wavelength of the modulation signal; they can be resolved by performing two measurements with differing modulation frequencies. Homodyne systems can give measurement precision only in the order of centimetres with a measurement range of 10m. Heterodyne systems are slightly different from the homodyne systems in that the modulation frequencies applied to the illumination source and the shutter differ slightly in frequency. This means the mixing process at the shutter produces a beat frequency that is the difference between the two modulation frequencies. The phase of the collected light's modulation envelope is also encoded in the beat signal. Therefore the image captured by the camera appears to be flashing, and objects at different distances flash at different times. Range information can be determined for each pixel by acquiring a video sequence of the scene and
+
+38
+
+calculating the beat signal phase (over time) for each pixel. Heterodyne systems generally achieve a higher range precision than both the pulsed and homodyne systems. This is because pulsed and homodyne systems encode range as pixel brightness level, however pixel brightness is also affected by object colour and background lighting which contaminates the range values of the pixels. In the heterodyne approach range is determined from analysis of time varying intensities independently from absolute or average intensity. The range determination is not directly affected by background lighting and colours; however excessive levels of background lighting and high contrast objects can cause indirect influence on precision. Heterodyne method can use two frequency modulation methods: Fixed modulation frequency and Frequency Modulation Continuous Wave (FMCW). The first one is the simplest one and it uses fixed modulation frequencies, and measures the phase change of the beat signal to determine range. FMCW is more complicated, where the modulation signals are swept in frequency causing a varying frequency beat signal depending on the propagation delay of the illumination, then the frequency of the beat signal is analysed to determine range. The University of Waikato Range Imager uses the fixed frequency method; it also has the capability to perform multiple measurements simultaneously. From the phase of a given the beat signal range is determined. The amplitude of the beat signal is used to find the object brightness, and the time average of the beat signal is used to retrieve background lighting conditions. Also by superimposing additional modulation frequencies on the illumination and shuttering signal with different beat frequencies, multiple beat signals can be created. These multiple beat signals can be processed individually to perform uncertainty resolution, if multiple red, green and blue illumination sources are used, it can generate colour images. From these statements it is clear that colour images form the Image Ranger are not correct when the RGB images are superimposed, because the precision of the colour images is very less when compared to the grey scale. The reason for the low precision is, modulation frequency is in the order of 10MHz to 20 MHz, whereas the illuminant modulated
+
+39
+
+at higher frequency gives good precision. Digital video cameras are used to capture the flashing beat signal image and they are generally limited to between 10 Hz and 100 Hz maximum frame rate. Therefore the beat signal must be limited to the tens or singles of Hertz or in sub-Hertz to stay within the Nyquist sampling criteria. Stability when generating two stable frequencies is generally achieved by employing frequency locked signal generators ( Dorrington et al., 2006).
+
+3.3 The University of Waikato Range Imager
+As we have seen the working principle of ranger imager, let us see in detail about the hardware setup of the University of Waikato Range Imager. Figure 3-3 shows the hardware set up of the ranger. It consists of four key elements: · · ·
+·
+
+Light source Image intensifier or High speed shutter Signal generator Digital video camera
+
+Figure 3-3 University of Waikato Ranger
+
+40
+
+3.3.1 Light source
+Generally, two types of light source are used in the Waikato Image Ranger, one is a bank of LEDs modulated at the frequency of 10 MHz to 20 MHz and the other is a laser diode modulated at up to 100 MHz. The laser diodes are usually preferred because low modulation frequencies by LEDs limit the range precision since range is derived from wavelength, but in this study we use the LEDs, so that we can capture the colour images. The LEDs can be used to capture colour range images with low resolution and also it can be modulated up to 20 MHz. The red, green and blue LEDs have the peak values at 639 nm, 516 nm and 470 nm, respectively.
+
+3.3.2 Image intensifier
+An image intensifier is used as a high speed shutter in the Waikato Ranger. An image intensifier is device used to detect and amplify the light that is incident on it from the object. Image intensifiers were initially developed for night time viewing and surveillance under low luminance levels. Nowadays the image intensifier applications have extended from night time viewing to various fields including industrial product inspection and scientific research, especially when used with CCD cameras. Figure 3-4 shows the structure and operation of image intensifier. It consists of three components they are: photocathode, a micro channel plate (MCP) and a phosphor screen. It is designed in such a way that process from the photocathode to the phosphor screen delivers an image without geometric distortion even at the periphery. Photocathode material used in the image intensifier is GaAs (Hamamtsu, 2002). When the light is incident onto a transparent window coated with photocathode material electrons are emitted. The number of photoelectrons emitted at this point is proportional to the input light intensity. The voltage applied between the photocathode and MCP input surface accelerate these electrons. Each channel of the MCP acts as an independent electron multiplier therefore input electrons hitting the channel wall produces secondary electrons. This process is repeated hundreds of times and a large number of electrons are released from the output
+
+41
+
+end of the MCP. The electrons multiplied by the MCP are further accelerated by the voltage between the MCP output surface and the phosphor screen, and strike the photocathode which emits light according to the amount of electrons.
+
+Figure 3-4 Structure and operation of image intensifier [Source: http://www.hpk.co.jp/eng/products/ETD/iie/iie.htm]
+
+Through this process, an input optical image is intensified about 10000 times and appears as the output image on the phosphor screen, where they are converted back into light which can be measured with standard CCD camera. Continuous modulation is preferred for the image intensifier to control the gain and also to maximize the light collected. The voltage of + 50 V (off) to -200 V (on) is applied to get low repetition rates, because high repetition rates at these voltages is impractical due to heat dissipated within the intensifier. This power dissipation can be lowered by reducing the voltage which reduces the gain and defocuses the image. At present image intensifiers limit the modulation frequency up to 85 MHz (Payne et al., 2006).
+
+42
+
+3.3.3 Signal Generator
+The ranger requires both the light source and shutter signals to operate at a high frequency, up to 100 MHz and also to maintain a low frequency difference between the signal (preferably down to sub Hertz), and high stability to control the light source and shutter. A method of measuring phase difference is also required to make absolute range measurements and also a challenging task due to high frequencies involved. Good resolution is also required while doing phase measurements. Direct digital synthesis (DDS) provides the stability and frequency tuning required and also meets the above said requirements (Payne et al., 2006). In DDS output signal is digitally constructed using logic and memory circuits and the digital-to-analogue converter converts it into analogue domain. Therefore, the DDS method of constructing a signal is almost entirely digital, and the precise amplitude, frequency, and phase are known and controlled at all times. A DDS operates using the digital clock and steps through the sine wave lookup table and passes the values to the digital to analogue converter. By adjusting the frequency control, the output frequency can be precisely adjusted in very small increments from DC to the Nyquist frequency. Three outputs from the DDS are given as input to the light source, the image intensifier and third to synchronise the camera frame trigger with the rest of the system (Osicom, 2001). Figure 3-5 shows the block diagram of DDS
+
+Figure 3-5 Block diagram of direct digital synthesis [Source: http://www.analog.com/library/analogDialogue/archives/30-3/graphics/pg12_fig01.gif]
+
+43
+
+3.4
+
+Digital video camera
+
+A Dalsa IM60 digital camera provides high-sensitivity 12 bit data up to 60 fps when operating at the maximum 1024 x 1024 resolution. The use of binning to reduce the resolution even increases the frame rates. A square pixel format and high fill factor provide superior, quantifiable image quality even at low light levels. The camera frame trigger is synchronized to the system through the DDS board, allowing the scene to be recorded at an exact multiple of the low frequency input light signal. Simple Fourier analysis of the known frequency bin provides the phase measurement of each pixel, from which range can be calculated. The low-noise, digitized video signal also makes the camera an excellent choice where low contrast images must be captured in challenging applications.
+
+44
+
+45
+
+4 Experimentation and methodology
+4.1 Acquiring Ranger Data of RGB Images
+The image acquisition was performed using University of Waikato Range Imager. A bank of red, green and blue LEDs are the illuminant source. Image intensifier is used as a high speed shutter and digital video camera is used for capturing images. The LEDs are modulated at a frequency of 15MHz and the image intensifier is modulated at 15.000001 MHz by the signal generator. A garden gnome is selected as an object, and red, green and blue LEDs are illuminated on the object. Figure 4-5 shows the experimental set up of range imager.
+
+Figure 4-1 Experimental set up of Image ranger
+
+Images are captured at different relative intensities in the order of 1, 1/2,....,1/16. Here a stop of light is defined as halving the quantity of light. The intensity values are reduced with a pulse skipping function in the image intensifier driver. Since the image intensifier is modulated at a frequency slightly greater than the illuminant source the output image from the image intensifier contains a beat signal of frequency 1 Hz. The beat signal also has a phase component proportional
+
+46
+
+to the time-of-flight of the light from the illumination light source to the object and back to the image intensifier. The acquired image with phase difference is stored in AVI video format. Acquisition time for the experiment is set as 11 seconds at a beat frequency of 1 Hz and a frame rate of 29 Hz. The scene is illuminated with one of the banks of LEDs and 16 sets of data for each set of LEDs, red, green and blue were acquired. After the image acquisition, the images are processed to determine range values for each pixel in an image. Fourier analysis is used in number of applications for the measurement of phase of a signal to quantify an external influencing factor, such as time delay. The discrete Fourier transform with respect to time is applied here separately to each pixel to determine the phase of the beat signal as this represents the time of flight. From these range values for each pixel are calculated. The magnitude of the Fourier transform provides a single colour intensity image. Therefore magnitude values are calculated for each set of data acquired with red, green and blue LEDs separately. By merging all the magnitude values together RGB colour image of the Range Imager is generated. Figure 4-2 shows the colour image from the Waikato Ranger and a digital image of a still camera of a garden gnome. Comparing the colour image forms the Ranger and the digital image shows considerable differences in the colour between the two images. It is also to be noted that the colour image from the Ranger is of lower quality (more noise & poor focus) however it is only the colour correction that concerns us here. Since the LEDs can be only modulated up to 20 MHz precision is much less in the colour images form the ranger. So we need to do the colour correction in the colour image to get the colour values similar to the image of still digital camera. To do the colour correction tristimulus values are calculated. Tristimulus values are the basis of colourimetry and their accurate calculation is used here for colour correction. To compute the tristimulus of the surface that is defined by a set of spectral reflectance values, it is necessary to specify an illuminant and a set of colour matching functions and the following sections of this chapter we explain in detail about the calculation of the tristimulus values. Additionally Ranger colour image shown below was acquired in the old
+
+47
+
+system of the Waikato Image Ranger, colour images acquired by the upgraded Waikato ranger provides colour images with good quality than the one shown below.
+
+Figure 4-2 Colour image taken with the Waikato Image Ranger (left) and digital image taken with the consumers digital camera (right) of a garden gnome
+
+4.2 Tristimulus values calculation
+In 1931, Wright and Guild performed experiments to determine how a standard human observer perceives colour. According to colour theories, the experiments were performed by projecting lights onto a screen and an observer matched one light using a combination of red, green, and blue lights. The observer changed the amounts of red, green, and blue light projected onto the screen so that the light spot created matched the single light. Initially these experiments were done with the observer having very small field of view (2°). The results of the experiments were given as standard CIE colour matching functions x ( ), y ( ) and z ( ) , this
+
+48
+
+forms the basis for the colourimetry system. Later in 1964, experiments were performed with a larger field of view (10°). At that time more information was known about the structure and working of the eye, and the CIE decided that the 10° FOV would be a better option of how the human eye actually perceives colour. The CIE performed similar experiments as described above with the 10° FOV to give the colour matching functions x10 ( ), y10 ( ), and z10 ( ) (Ohno, 2000). The CIE XYZ tristimulus value specifies a colour stimulus in terms of the visual system. The CIE tristimulus values are calculated from the standard observer colour matching functions, taking into account the type of illumination source and the reflectance sample. Colour matching functions, either CIE 1931 or 1964, can be used at 5 nm interval over the range 360­760 nm for a total of N=81 samples. Since we are using three different illuminant source, tristimulus values of the ranger are given by
+N -1 j =0
+
+X R = k  S R (360 + 5 j ) R(360 + 5 j ) x(360 + 5 j ) X G = k  S G (360 + 5 j ) R (360 + 5 j ) y (360 + 5 j )
+j =0 N -1
+
+(4.1)
+
+X B = k  S B (360 + 5 j ) R(360 + 5 j ) z (360 + 5 j )
+j =0
+
+N -1
+
+where the arguments of SR, SG, and SB are the spectral power distributions of red, green and blue illuminants. XR, XG and XB are the ranger tristimulus values in equation. These are used to quantify the colour of an object. The XR, XG and XB
+B
+
+form the base for the calculation of other colour values. If the reflectance function is represented in the range of [0, 1], and a luminance of 100 is attributed to the light source in the scene, the normalisation factor k is: 100
+
+k=
+
+ S (360 + 5 j ) y(360 + 5 j )
+j =0
+
+N -1
+
+(4.2)
+
+49
+
+Since we are provided with CIE colour matching functions, the next step is to measure spectral power distribution of the light source and to find the reflectance spectra of the sample. Spectral power distribution of the light source is measured with spectroradiometer and estimation of the reflectance spectra is done by high dimensional linear models. There are lots of research works done for the estimating spectral reflectance but the genetic algorithms approach gives much accuracy than any other methods (Schettini and Zuffi, 2006). Then the tristimulus value is calculated using equations 4.1. The use of 5 nm colour matching functions requires that the spectral power distribution and reflectance of the surface to be known at 5 nm intervals; this is most important thing need to be considered while measuring spectral power distribution and reflectance.
+
+4.3 Measuring radiometric quantities using the spectroradiometer
+As described in chapter 3 spectroradiometer is used for measuring the spectral power distribution of the illuminant source in our work. The light sources used in the Waikato Ranger consist of a bank of red, green and blue LEDs. To measure the spectrum of LEDs, the LED banks placed approximately at a distance of 25­30 cm from the input optics of the spectroradiometer. Each of the LED colours was measured in turn and measured at wavelengths spaced 3 to 4 nm apart. Data from the spectroradiometer were fed into a computer for recording and analysis. Figure 4-3 shows the experimental set up of spectroradiometer. The measured values were resampled to wavelengths at an interval of 5 nm since we are using colour matching functions with interval of 5 nm. Figure 4-3 shows the plot of spectral power distribution versus wavelength for each of the red, green and blue LEDs. Two sets of SPD values were measured using spectroradiometer, one by placing all set of LEDs at the same distance from the input optics and the other by placing only green and blue LEDs closer to the optics. The continuous lines in the plot show the measurement of first set of values and the dashed lines for the second set. The plot states that the when all LEDs are placed at same distance intensity is
+
+50
+
+relatively changed if they are adjusted then we can get the same intensity for all the LEDs. Also by comparing cone absorption rates curves in figure 2-3 and the spectral power distribution curves of red, green and blue LEDs it is seen that there is a gap between the red and green curves in figure 4-3. This gap is due to the characteristics of the LEDs, if we use different set of LEDs there is a possibility of overlapping between red and green curves as cone absorption curves.
+
+3.5 3
+
+x 10
+
+4
+
+Spetral power distribution
+
+2.5 2 1.5 1 0.5 0 -0.5 350
+
+400
+
+450
+
+500
+
+550
+
+600
+
+650
+
+700
+
+750
+
+800
+
+Wavelength(nm)
+Figure 4-3 Spectral power distribution of red, green and blue LEDs
+
+4.4 Estimation of Reflectance Using Genetic Algorithms
+The next step in calculating tristimulus values is estimating reflectance spectra of the patch of an object being viewed by the ranger. In most colour imaging research works a spectrophotometer is used to measure the surface reflectance of an object. We do not have that luxury so we use high dimensional linear model to
+
+51 estimate reflectance spectra. The reflectance function R( ) may be expressed through a linear model as a weighted sum of a set of basis functions. In 2001 Angelopoulou have used an approximation of reflectance spectra with Gaussian functions to model skin reflectances. A Gaussian basis set has also been used by Dupont in 2002. In 2006 Schettini and Zuffi considered a basis set composed of 16 Gaussian functions obtained with the following equation:  ( -  j ) 2  g j ( ) = exp - 4 ln(2)  40    
+
+j=1...16
+
+(4.3)
+
+where j ranges from 400 to 700 with a step of 20. The reflectance function is represented by the equation:
+
+R ( ) =  D j g j ( )
+j =1
+
+N
+
+(4.4)
+
+where Dj are the weights of the linear model to be estimated. The value of  ranges from 360­760 nm with the interval of 5 nm since the colour matching functions we are using has an interval of 5 nm.
+
+Figure 4-4 Example of Gaussian Fit
+
+52
+
+Using three basis Gaussian functions only does not offer a good solution for estimating spectral reflectance (Schettini & Zuffi, 2006). They applied Genetic algorithms to formulate the problem of reflectance estimation for the simultaneous optimization of several constraints. Before using genetic algorithms initially we have fitted equation (4.4) with the output of spectral power distribution of the illuminants to know the accuracy of the Gaussian functions. For this calculation single Gaussian function is used and  values ranges from 360­760 nm and j is set as 639nm, 518 nm and 465 nm since these are the peak wavelengths of red green and blue LEDs. Non-linear fitting is done between both the data. Figure 4-5 shows the plot of Gaussian fit with the illuminant data. Two types of Gaussian basis sets are used in estimating reflectance spectra one is "Fixed Gaussian functions" which is described in equation 4.4 and the other is `Variable Gaussian functions" in which reflectance function is modeled using constant terms and three Gaussian functions. The variable Gaussian function is given by  ((( -  min ) / L) - E 2 ) 2   ((( -  min ) / L) - E5 ) 2  R( ) = E 0 + E1 exp -  + E 4 exp -  E32 E 62     2  ((( -  min ) / L) - E8 )  + E 7 exp - (4.5)  E92  
+
+where L is the difference between maximum and minimum wavelengths, the unknown are the weights E0, E1, E4 and E7 and the mean terms are E2, E5 and E8 and the terms E3, E6 and E9 are correlated with the standard deviation. Genetic algorithms are applied to recover surface reflectance of the ranger, where any kind of basis functions in variable can be implemented. By adopting the fixed Gaussian functions the tristimulus values are given by
+
+53
+
+X R = k  D j g j ( ) S R ( ) x( )
+360 j =1 760 N
+
+760 N
+
+X G = k  D j g j ( ) S G ( ) y ( )
+360 j =1
+
+(4.6)
+
+X B = k  D j g j ( ) S B ( ) z ( ) 
+360 j =1
+
+760 N
+
+where N is the number of basis in the linear model, g j ( ) is the base function of the index j and D j is the corresponding weight and  = 5 nm here. Schettini and Zuffi used a C++ library of genetic algorithm components (Galib) for estimating the reflectance spectra. In our work we use Genetic algorithm toolbox in Matlab. Genetic algorithm toolbox is used to solve both constrained and unconstrained optimization problems. The optimization functions in the genetic algorithm toolbox minimize the fitness function; maximizing is also possible by this toolbox. The function ga does the job of minimizing and maximizing the fitness function (Mathworks, 2006). The syntax of the function ga is given by [x fval] = ga (@ fitnessfun, nvars, options) Therefore input arguments to ga are · · · @fitnessfun ­ A function that computes the fitness function nvars ­ the number of independent variables for the fitness function options ­ population size and number of generations are set using options
+
+The output arguments are · · x ­ The termination point fval ­ the value of the fitness function at x
+
+In our work population size and number of generations are both set to 150. Now the equations 4.4 are used as the fitness function in the genetic algorithm toolbox to fit the illuminant spectra of red, green and blue LEDs and the number of variables is given as 1. In this case single basis functions is considered and 
+
+54
+
+values ranges from 360­760 nm with j as 639nm, 518nm and 465 nm in each case for the single basis functions. Figure 4-4 shows the R () fit with the illuminant data of red, green and blue LEDs.
+
+Figure 4-5 Fit using Genetic algorithms
+
+Comparing figure 4-6 using genetic algorithms to figure 4-5 with non-linear least squares fit it is clear that both R( ) and SPD values of LEDs is fitted better with the genetic algorithms. So the next step is to use genetic algorithm toolbox for estimating reflectance spectra of the colour image taken from the Waikato Ranger. Using variable Gaussian functions gives much better smoothness in the reflectance function and also while estimating the weights in equation 4.4 boungs are set for unknown weights. For E1, E4 and E7 bounds are set between 1 and -1 whereas for rest of the coefficients between 0 and 1. Before the fitting process normalisation constant k for the ranger device is determined using spectral response of the image intensifier and the SPD of three different LEDs.
+
+55
+
+4.5 Evaluating normalisation constant k for Ranger
+The normalisation constant k for the CIE system is given by
+
+k=
+
+100
+max min
+
+ S ( ) y ( )
+
+(4.7)
+
+According to the spectral response of image intensifier and ranger camera in the Waikato Image Ranger, and also by considering three illuminant source rather than single light source used in CIE system we have modified the normalisation constant as kr, kg, and kb for the three illuminants and is given by
+
+k r ( ) = S r ( ) * I ( ) k g (  ) = S g ( ) * I ( ) k b ( ) = S b ( ) * I ( )
+where Sr, Sg, and Sb are the spectral power distributions of red, green and blue LEDs and I is the spectral response of the image intensifier for the wavelengths ranges from 360­760nm. The spectral response of the image intensifier is shown in figure 4-7 for the wavelength 200­900nm. We are not provided with the exact spectral response values of the image intensifier along the visible spectrum, so twenty points are chosen approximately between the wavelength range 360­760 nm from the spectral response graph of image intensifier. Then those values are interpolated to get image intensifier spectral response values along the visible spectrum. Figure 4-8 shows the spectral response plot of image intensifier along the visible spectrum. Then these values are used in determining the tristimulus values. The SPD values are chosen in which the intensity of green is very poor. (4.8)
+
+56
+
+Figure 4-6 Image intensifier spectral response
+
+10
+
+2
+
+Sensitivity
+
+10
+
+1
+
+10
+
+0
+
+400
+
+450
+
+500
+
+550
+
+600
+
+650
+
+700
+
+750
+
+Wavelength(nm)
+
+Figure 4-7 Image intensifier spectral response along the visible spectrum
+
+57
+
+Since the restored colour image from the ranger has very high red and blue intensity and poor green intensity. So the white surface is viewed from the Ranger image and the values of kr, kg, and kb are normalised according to their intensity, that is, white surface is given by R = 0.8134, G = 0.1949 and B = 0.4558. To do this, maximum value of each intensity image is found and then those values are divided by the corresponding white surface values. The values obtained by performing above process are multiplied with kr, kg, and kb to obtain the normalisation with respect to the ranger image. Now the value of kr, kb is high when compared to kg (this response is same as the ranger).
+
+4.6 Fitness function used in genetic algorithm
+Since we given with only a triplet of input colour values our fitness function used in the experiment is given as a squared sum of differences between the input colour value from the ranger and those computed on the estimated reflectance spectrum plus some normalisation terms.
+
+fitness = ( R - X R ) 2 + (G - X G ) 2 + ( B - X B ) 2
+
+(4.8)
+
+where R, G and B are the input colour values of a pixel of the colour image from the ranger and XR, XG, and X B are the ranger tristimulus values calculated with estimated reflectance spectrum. The normalisation constants are added here to hold the reflectance R( ) values between 0 and 1. After restoring the RGB colour images from the ranger data, we estimated the weights in the equation 4-4 and 4.5 and then calculated the tristimulus values of the ranger using the fitness given above.
+
+58
+
+59
+
+5 Results
+In this section we present the restoration of RGB colour images from three sets of ranger data using three different illuminants and the estimation of the reflectance spectrum for the ranger data using genetic algorithms with fixed and variable Gaussian functions.
+
+5.1 Measured Ranger RGB colour images
+Ranger data were collected using three different illuminants (see section 4.1). Each set of data provides a single intensity image, and then they are merged together to give an RGB colour image as shown in figure 5-1. The colour image formed from the ranger data has a high intensity of red and blue and poor green intensity. The colour in the image from the Image Ranger is not very realistic looking. To do the colour correction, the reflectance spectrum of each pixel in the image is estimated using genetic algorithms and then the CRT colours are calculated according to the CIE standards.
+
+50 100 150 200 250 300 350 400 450 500 50 100 150 200 250 300 350 400 450 500
+
+Figure 5-1 Reconstructed Ranger RGB image of a garden gnome
+
+60
+
+5.2 Estimation of reflectance from Ranger RGB values
+Initially we computed the tristimulus values for three ranger values using fixed Gaussian functions for a given R(). The reflectance spectrum R() is calculated by estimating the weights in equation 4.4 using genetic algorithms. The reflectance functions obtained using 16 fixed Gaussian basis sets provides much variable ranger and tristimulus values and also the function is not smooth. An example fit to the ranger colour triplet (0.5, 0.6, 0.7) is shown in figure 5-2. So we choose to use the variable Gaussian functions approach.
+
+0.045 0.04 0.035 0.03 0.025 0.02 0.015 0.01 0.005 0 350
+
+400
+
+450
+
+500
+
+550
+
+600
+
+650
+
+700
+
+750
+
+800
+
+5-2 Reflectance spectrum of a pixel using 16 fixed Gaussian functions.
+
+Here we describe the reflectance functions of the variable Gaussian approach using three Gaussian functions to calculate the tristimulus values. Four sets of input ranger values are chosen and the fit is repeated 20 times for those set of values to estimate the consistency of the Genetic algorithms. The population size and number of generations in genetic algorithms were both set to 150. A trial was run for the ranger triplet input values R = 1, G = 0.24, B = 0.56 which, in fact,
+
+61
+
+corresponds to the measured ranger values for a viewed white surface. Therefore the CRT colour triplet should have equal values for R, G and B. The twenty trials of the ranger colour (1, 0.24, 0.56) are listed in table 5.1. The estimated reflectance functions (which should be a flat spectrum) for the twenty trials are shown in figure 5-3. Since the input ranger colour triplet are between 0 and 1, CRT colour triplet values are also scaled between 0 and 1. The results indicate that genetic algorithm is converging most of the time nevertheless with a quite a bit of variation between each run. If we look at mean and standard deviation values it is clear that genetic algorithms can provide better consistency by taking the mean of many runs.
+
+62
+
+Table 5-1 Calculated Ranger and CRT triplet values for twenty trial run of the ranger triplet Ranger colour Triplet R 1.02 1.00 0.48 1.00 0.75 0.98 0.64 0.88 0.91 0.94 0.61 1.03 1.06 1.04 0.81 1.04 1.73 1.84 1.12 0.91 Mean = 0.99 Std = 0.32 G 0.24 0.23 0.22 0.23 0.21 0.22 0.14 0.22 0.22 0.23 0.14 0.33 0.25 0.06 0.19 0.24 0.32 0.38 0.26 0.23 0.23 0.06 B 0.57 0.54 0.55 0.52 0.52 0.48 0.34 0.52 0.52 0.54 0.34 0.92 0.56 0.03 0.45 0.55 0.66 0.82 0.60 0.54 0.53 0.17 CRT colour Triplet R 0.55 0.54 0.29 0.53 0.41 0.53 0.34 0.47 0.49 0.51 0.32 0.55 0.57 0.52 0.44 0.56 0.93 1.00 0.61 0.50 0.53 0.16 G 0.62 0.60 0.51 0.58 0.52 0.56 0.37 0.55 0.55 0.57 0.36 0.79 0.63 0.24 0.49 0.60 0.86 1.00 0.66 0.57 0.58 0.16 B 0.60 0.56 0.57 0.54 0.55 0.50 0.35 0.55 0.54 0.57 0.36 1.00 0.59 0.02 0.47 0.58 0.68 0.85 0.63 0.56 0.55 0.19
+
+R = 1 G = 0.24 B = 0.56
+2 1.8 1.6
+
+Reflectance R()
+
+1.4 1.2 1 0.8 0.6 0.4 0.2 0
+
+400
+
+450
+
+500
+
+550
+
+600
+
+650
+
+700
+
+750
+
+Wavelength (nm)
+
+5-3 Reflectance function plot of a pixel value using variable Gaussian function
+
+We repeat the analysis with a new ranger triplet, chosen to be (0.1, 0.25, 0.1). This represents extremely green pixel with very less red and blue mixed in (recall that
+
+63
+
+the ranger does not measure green very well). Results of 20 runs are shown in table 5-2. The estimated reflectance functions (which should have high response in the green region) for the twenty trials are shown in figure 5-4.
+R = 0.1 G = 0.24 B = 0.16
+2 1.8 1.6
+
+Reflectance R()
+
+1.4 1.2 1 0.8 0.6 0.4 0.2 0
+
+400
+
+450
+
+500
+
+550
+
+600
+
+650
+
+700
+
+750
+
+Wavelength (nm)
+
+5-4 Reflectance function plot of a values R = 0.1 G= 0.26 B = 0.1
+
+Table 5-2 Calculated Ranger and CRT triplet values for twenty trial run for the input (0.1, 0.26, 0.1) Ranger colour Triplet R 0.09 0.08 0.06 0.02 0.05 0.17 0.11 0.17 -0.54 0.16 0.10 0.08 -0.54 0.11 0.11 0.10 0.02 -0.05 -0.17 0.01 Mean=0.01 Std =0.20 G 0.15 0.02 0.01 0.21 0.16 0.03 0.02 0.03 -0.009 0.04 0.21 0.01 -0.19 0.20 0.19 0.19 0.05 0.09 0.03 0.18 0.08 0.10 B 0.10 0.04 0.03 0.09 0.10 0.06 -0.004 0.06 -0.40 0.03 0.16 0.04 -0.49 0.17 0.11 0.13 0.02 -0.19 -0.36 0.10 -0.005 0.19 R 0.12 0.06 0.04 -0.006 -0.06 0.13 0.09 0.13 -0.46 0.28 0.0008 0.06 -0.43 0.09 0.03 0.04 -0.01 -0.09 -0.22 -0.07 -0.01 0.18 CRT colour Triplet G 0.46 0.06 0.04 0.53 0.32 0.11 0.07 0.11 -0.11 0.25 0.51 0.062 -0.57 0.56 0.49 0.52 0.09 0.21 0.01 0.41 0.21 0.28 B 0.13 0.06 0.04 0.11 0.12 0.09 0.001 0.09 -0.58 0.05 0.20 0.05 -0.68 0.20 0.13 0.17 0.03 -0.29 -0.54 0.11 -0.02 0.27
+
+64
+
+The reflectance spectrum for the input values with very high green intensity responses very well in the green region and the CRT values calculated also has higher green values for many runs. Next the same is repeated with high blue input values and the reflectance spectrum is given in figure 5-5 and the table 5.3 represents the results of twenty run.
+R = 0.1 G = 0.1 B = 0.56
+2 1.8 1.6
+
+Reflectance R()
+
+1.4 1.2 1 0.8 0.6 0.4 0.2 0
+
+400
+
+450
+
+500
+
+550
+
+600
+
+650
+
+700
+
+750
+
+5-5 Reflectance function plot of values R = 0.1 G= 0.1 B = 0.56
+
+Wavelength (nm)
+
+Table 5-3 Calculated Ranger and CRT triplet values for twenty trial run for the input (0.1, 0.1, 0.56) Ranger colour Triplet R 0.08 0.07 0.12 1.06 0.005 -0.005 0.04 0.68 0.10 0.0009 0.12 0.25 -0.18 0.02 0.08 0.09 0.10 0.10 0.08 0.006 Mean = 0.14 Std = 0.26 G 0.17 0.018 0.21 0.36 0.001 0.028 0.10 0.46 0.21 0.0002 0.21 0.17 0.02 0.005 0.24 0.08 0.23 0.16 0.09 0.05 0.14 0.1262 B 0.45 0.04 0.54 0.89 0.003 0.21 0.17 1.34 0.54 0.0006 0.54 0.64 0.05 0.01 0.77 0.33 0.55 0.32 0.26 0.28 0.40 0.3447 CRT colour Triplet R 0.012 0.02 0.03 0.35 0.002 -0.008 0.012 0.212 0.036 0.0004 0.029 0.081 -0.045 0.007 0.015 0.018 0.077 0.017 0.023 -0.008 0.0448 0.0888 G 0.18 0.06 0.23 0.47 0.002 0.02 0.11 0.54 0.23 0.0004 0.24 0.20 0.01 0.007 0.26 0.09 0.28 0.18 0.11 0.05 0.1660 0.1529 B 0.26 0.02 0.30 0.52 0.002 0.15 0.09 0.81 0.31 0.0004 0.30 0.42 0.03 0.007 0.46 0.20 0.32 0.18 0.14 0.20 0.2402 0.2075
+
+65
+
+The table and the reflectance spectrum given above mostly shows very high response for blue. The same steps are repeated again with high red input values and the reflectance spectrum is given in figure 5-6 and the table 5.4 represents the results of twenty run.
+R = 1 G = 0.1 B = 0.1
+2 1.8 1.6
+
+Reflectance R() lectanc e
+
+1.4 1.2 1 0.8 0.6 0.4 0.2 0
+
+400
+
+450
+
+500
+
+550
+
+600
+
+650
+
+700
+
+750
+
+Wavelength (nm)
+
+5-6 Reflectance function plot of a values R = 1 G= 0.1 B = 0.1 of
+
+Table 5-4 Calculated Ranger and CRT triplet values for twenty trial run for the input (1, 0.1, 0.1) Ranger colour Triplet R 0.86 0.56 0.99 0.07 0.15 0.41 0.82 1.00 1.45 0.99 0.99 0.58 0.97 1.49 0.43 0.33 0.16 0.87 0.41 0.98 Mean=0.73 Std= 0.40 G 0.003 0.07 0.09 0.01 0.01 0.19 0.09 0.09 0.12 0.09 0.10 0.07 0.09 0.11 0.03 0.05 0.05 0.07 0.05 0.09 0.08 0.04 B -0.20 0.11 0.10 0.04 0.02 0.50 0.09 0.09 0.11 0.10 0.09 0.11 0.10 0.10 0.04 0.08 0.10 0.06 0.09 0.09 0.09 0.11 CRT colour Triplet R 0.51 0.32 0.61 0.04 0.10 0.25 0.51 0.59 0.81 0.61 0.59 0.36 0.61 0.89 0.22 0.19 0.08 0.50 0.23 0.59 0.43 0.24 G 0.12 0.21 0.33 0.04 0.06 0.41 0.30 0.32 0.40 0.33 0.32 0.23 0.34 0.43 0.11 0.15 0.11 0.26 0.15 0.32 0.25 0.12 B -0.23 0.11 0.09 0.04 0.02 0.52 0.09 0.08 0.10 0.09 0.08 0.10 0.09 0.09 0.04 0.07 0.10 0.05 0.09 0.08 0.09 0.12
+
+66
+
+5.3 Ranger colour image and CRT colour image.
+The disadvantage of genetic algorithms is the processing speed; it takes around 40 seconds for each set of data, that is, for each pixel. If we increase the population and number of generation it improves the fit but takes far longer than 40 s to run! So it is impractical to find the reflectance for the whole image, that is, for 512 × 512 pixels. Thus a region of interest is chosen from the image that only includes the stumpy and excludes the background of the image: this region of interest has 371 × 249 pixels. Hence to reduce the number of pixels image is resized (by low pass filtering) to 46 X 31 pixels. Even this number of pixels took more than half a day for calculating the CRT colour images. Thus the reflectance spectra are calculated, then using these reflectance spectra and the CIE colour matching functions tristimulus values (XYZ) are determined. These tristimulus colour values are converted into basic RGB values using the matrix transformation given in equation 2.3. The cropped and resized ranger image (as taken by the ranger) shown in figure 5-7 and the colour restored image are shown in figure 5-8.
+
+5-7 Cropped and resized Ranger image (left) and CRT colour image (right)
+
+After looking at the images it is clear that genetic algorithm is working well to determine reflectance, but due to its processing we cannot able to run for the
+
+67
+
+whole image, instead cropped image. We can see the beard part of the garden gnome and also some of its leg parts in the restored image.
+
+68
+
+69
+
+6
+
+Conclusion
+
+The colour correction of colour image captured from the Waikato Ranger is performed in this study. We explored the method for estimating the reflectance spectrum from a triplet of ranger tristimulus values using the Gaussian linear models with only a. Genetic algorithms (GA) method of solving optimization problems is used to recover the reflectance spectrum. Both fixed and variable Gaussian sets are used to estimate the unknown weights.
+
+The reconstruction of RGB images was performed with the three sets of ranger data taken with three different illuminants (one red, one green and the other blue). Unfortunately the captured ranger data has an extremely high intensity of red and blue compared to green so a normalization constant is calculated according to their intensity level while estimating reflectance and RGB colour values. Two sets of spectroradiometer measurements were made for three set of illuminants by placing the LED panel at different distances, first with relative intensity for each set of LEDs and the other with high intensity for blue. The normalisation constant was computed with the spectral response of the image intensifier and the spectral power distributions of the red, green and blue LEDs.
+
+The fixed Gaussian basis function used as a parametric specification for the Reflectance spectrum as suggested by Schettini and Silvia was found to be unsuitable. Due to the better consistency of the variable Gaussian function parametric model; this was used in the thesis. Even so, good consistency can only be by taking the average of many runs. This is impractical as the genetic
+
+70
+
+algorithms are far too slow. The CRT colour image is not of a high standard; it suffers with much variation about the true values. Much more work is required to make CRT colour image realistic when compared to ranger colour image. .
+
+Future works
+In the future several works needed to be performed in this study to attain the good quality colour image. Firstly we must find a way convert ranger tristimulus values to the CIE system tristimulus values; this can be done when we are able to convert three illuminant to the single as specified by CIE. To get the overlapping between the SPD curves we might use four sets of LEDs instead of three set of LEDs. Using four set of LEDs will allow us to consider four variables in the fitness function this will make the fitness better. Genetic algorithms speed must be increased somehow to run the whole image than the resized low resolution image.
+
+71
+
+References
+A. A. Dorrington, D. A. Carnegie, and M. J. Cree, (2006)., Towards 1 mm depth precision with a solid-state full-field range imaging system, Proceedings of SPIE Volume: 6068 - Sensors, Cameras, and Systems for Scientific/Industrial Applications VIII, part of the IS&T/SPIE Symposium on Electronic Imaging, Paper Number 6068-22, pp 60680K1-60680K10, San Jose, CA. A. A. Dorrington, M. J. Cree, D. A. Carnegie, A. D. Payne, (2006), Selecting signal frequencies for best performance of Fourier-based phase detection, The 12th Electronics New Zealand Conference,, pp. 189-193, Auckland, New Zealand. A. Ford, A. Roberts, (1998), Colour Space Conversion. Bentham, 1997, "A Guide to the Spectroradiometry". D. A. Carnegie, M. J. Cree, A. A. Dorrington, "A High-Resolution Full-Field Imaging System", Review of Scientific Instruments, Vol 76, 2005. Colourware Ltd, 2001, "Colour Physics" .URL: http://www.colourware.co.uk/ David E. Goldberg., 1989. "Genetic Algorithms in search, Optimization & Machine Learning". Addison ­ Wesley Mark. D. Fairchild., 1998. "Color Appearance Models". Addison ­ Wesley. Hamamtsu, 2002, "Image Intensifiers", URL: http://www.hpk.co.jp/eng/products/ETD/iie/iie.htm
+
+72
+
+Hsien-Che Lee., 2005. "Introduction to Color Imaging Science". Cambridge University press. Lawrence Davis., 1987. "Genetic Algorithms and Simulated Annealing". Pitman London. The Math works, Inc, 1994-2006, "Genetic Algorithm and Direct Search Toolbox". URL: http://www.mathworks.com/ Osicom Technologies Inc., "Direct Digital Frequency Synthesis", URL: http://www.ehb.itu.edu.tr/~eepazarc/ddstutor.html A.D. Payne, D. A. Carnegie, A. A. Dorrington, and M. J. Cree, "Full Field Image Ranger Hardware", The third IEEE International Workshop on Electronic Design, Test & Applications, pp. 263-268. Peter Kaiser, 1996-2005, "The URL:
+
+joy
+
+of
+
+visual
+
+perception",
+
+http://www.yorku.ca/eye/toc.htm . Scott., 2006 "Colour Vision", URL: http://www.photo.net/photo/edscott/vis00010.htm Rafael C.Gonzalez, Richard E.Woods., 2002, "Digital Image Processing", Prentice Hall. S. J. Sangwine and R. E. N. Horne., 1998. "The Colour Image Processing Handbook". Chapman & Hall. Silvia Zuffi, Raimondo Schettini, 2004, "Reflectance functions estimation from tristimulus values", Color Imaging IX: Processing, Hardcopy, and Applications, pp 222-231, 20-22 Silvia Zuffi, Raimondo Schettini , 2006, " A computational strategy exploiting genetic algorithms to recover colour surface reflectance functions", Neural Computing & Applications, Pages 1 - 11, URL http://dx.doi.org/10.1007/s00521006-0049-7.
+
+73
+
+Silvia Zuffi, Raimondo Schettini , 2004," Estimating Surface Reflectance Functions from Tristimulus Values", Tecnologie Multispettrali, Aspetti Teorici ed Applicativi, Quaderni di Ottica e Fotonica (ISBN 88-7957-232-6) pp. 148-156. Stephen Westland., Caterina Ripomonti., 2004, "Computational Colour Science using MATLAB". John Wiley & Sons, Ltd. Visual expert, 2004, "SBFAQ Part 1: Basic Terms and Definitions", URL:www.visualexpert.com, Accessed: 17/8/2006. Yoshi Ohno., 2000, "CIE Fundamentals for Colour Measurements", International Conference on Digital Printing Technologies, pp. 540-545; ISBN / ISSN: 0-89208-230-5
+
+

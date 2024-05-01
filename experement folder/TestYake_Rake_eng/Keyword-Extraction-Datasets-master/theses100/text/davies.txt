@@ -1,0 +1,1143 @@
+The Characterisation and Role of Mighty during Myogenesis
+by
+
+Todd John Davies
+
+A thesis submitted in partial fulfilment of the requirements for the degree of
+
+Master of Science
+at the
+
+2006
+
+ABSTRACT
+Myogenesis, or skeletal muscle formation, begins during embryogenesis and involves the proliferation of myoblasts followed by their exit from the cell-cycle to differentiate and form myotubes. This formation of skeletal muscle is a complex process involving many genes and various signalling pathways. Mighty is a novel myogenic gene discovered at AgResearch by the Functional Muscle Genomics (FMG) group in a genetic screen performed on the muscle of myostatin null and wild-type mice. It was found that heavily muscled mice, lacking myostatin, had increased expression of the mighty gene. This gene was found to be conserved, with cognates found in mammals, amphibians, teleosts, and arthropods. Mighty was found to be expressed in a variety of tissues, but only skeletal muscle showed increased mighty mRNA expression in myostatin null mice, indicating the specific regulation of mighty by myostatin in skeletal muscle (Marshall, 2005).
+
+The aim of this study was to characterise the mighty protein and examine its role in myogenesis to elucidate mighty's function. To undertake this study, antibodies specific for the full-length mighty protein and antibodies specific for a peptide region of mighty were characterised. Results using these antibodies, showed endogenous mighty, from myoblasts, to be a low-abundant, nuclear protein which shows a mobility of ~52 kDa in SDS gels, different to that of recombinant mighty protein. The mobility difference of endogenous mighty compared to recombinant mighty appears to be due to phosphorylation and may involve other posttranslational modifications. In agreement, the determined isoelectric point (~5.7) of endogenous mighty also appears to be the result of phosphorylation. Interestingly, 52 kDa mighty was not detected in muscle extracts, but a ~30 kDa protein was
+
+i
+
+specifically detected, indicating multiple forms, and subsequent roles, for mighty protein. Mass spectrometry (MS) was also performed for further characterisation of the mighty protein and possible post-translational modifications. Although hits were achieved with both recombinant mighty proteins, endogenous mighty MS analysis was not accomplished due to its low-abundance.
+
+The function of the mighty protein in myoblasts was investigated during proliferation and differentiation. The results indicate that proliferating myoblasts have low levels of mighty in G0 and increased levels in G1/S during the cell cycle. This differential expression of mighty may involve cell cycle exit at the G1/S phase. Differentiation results showed mighty to be upregulated before MyoD during differentiation, placing mighty very early in the differentiation hierarchy. This agrees with previous results by Marshall (2005) which showed mighty to upregulate MyoD through IGF-II expression. Enhanced differentiation was also seen in double muscle bovine myoblasts concomitantly with increased mighty expression.
+
+In conclusion, mighty appears to be a post-translationally modified protein that plays an early role in myogenic differentiation. This role in differentiation appears to be upstream of MyoD through the upregulation of IGF-II and may be linked to cell cycle exit in the G1 phase of the cell cycle.
+
+ii
+
+ACKNOWLEDGEMENTS
+First of all, I would like to thank Dr Mridula Sharma for her guidance and support throughout this project, especially during the thesis writing. I would also like to thank Dr Ravi Kambadur for his contribution, beginning with my BSc(Tech) placement three years ago. Thanks to Dr Nick Ling for his advice and input into this thesis. Thanks to Mark Thomas and Trevor Watson in cell culture, your expertise and advice in cell culture helped immensely. A big thank-you to Grant Smolenski for use of his skills, and equipment, for isoelectric focusing, 2DE gels, and mass spectrometry. Also, for mass spectrometry work, thanks to Jonathon Puddick for much needed help during the final stages of my theisis. Thanks also to Alex Hennebry for his help in various experiments, especially the late nights/early mornings with cell cultures. Thanks also to my MSc partners in crime Bridgette Wilson and Kelly Dyer for their help throughout the Masters period. Thanks to everyone else in the lab, past and present, for making it an interesting three years: Amy, Carole, Craig, Erin, Gina, Janelle, Jen, Jeremy, Leanne, Mary-Anne, Monica, Nicky, Rachel, Ryan, Tesha, Vic, Yasuhiro, Yusuke. It has been a somewhat bizarre change from building sites to laboratories, but has opened many new possibilities. And thanks to Wendy, Mitchell, and Dayna for coping with my dramatic change in occupation and income over the last 5 years. Especially to Wendy, for having faith that it is all leading somewhere.
+
+iii
+
+CONTENTS
+Abstract................................................................................................................ i Acknowledgements ........................................................................................... iii Contents ............................................................................................................. iv List of Figures.................................................................................................... ix List of Tables .......................................................................................................x Abbreviations Used........................................................................................... xi
+
+Chapter 1 ­ Literature Review ..........................................................................1 1.1 1.1.1 1.2 1.2.1 1.2.2 1.2.3 1.2.4 1.2.5 1.2.6 1.3 1.3.1 1.3.2 1.3.3 1.4 1.4.1 1.4.2 Skeletal Muscle...........................................................................................1 Skeletal muscle structure .......................................................................2 Myogenesis and the embryonic origin of muscle ....................................4 Myogenic regulatory factors..................................................................6 MEF2 family ........................................................................................10 Myogenesis and the cell-cycle .............................................................11 Differentiating myoblasts.....................................................................17 Muscle stem cells and regeneration.....................................................18 Growth factors involved in myogenesis ...............................................21 Myostatin ..................................................................................................24 Myostatin structure and synthesis........................................................26 Myostatin function ...............................................................................28 Myostatin signalling and downstream factors.....................................30 Mighty .......................................................................................................31 Discovery of mighty .............................................................................31 Mighty overexpressing myoblasts ........................................................31
+
+iv
+
+1.4.3 1.4.4 1.5
+
+Mighty and myostatin...........................................................................32 Characteristics of the mighty protein ..................................................33 Aims of this thesis.....................................................................................35
+
+Chapter 2 ­ Materials and Methods................................................................37 2.1 2.1.1 2.1.2 2.1.3 2.1.4 2.2 2.2.1 2.2.2 2.2.2.1 2.2.2.2 2.2.2.3 2.2.2.4 2.2.2.5 2.2.2.6 2.2.3 2.2.3.1 2.2.3.2 2.2.4 2.2.5 2.2.6 Materials ...................................................................................................37 Solutions...............................................................................................37 Common laboratory chemicals and reagents ......................................41 Antibodies ............................................................................................42 C2C12 mouse myoblasts ......................................................................42 Methods.....................................................................................................43 Murine muscle removal........................................................................43 Myoblast cell culture............................................................................43 Isolation of primary murine myoblasts ................................................43 Isolation of primary bovine myoblasts.................................................44 Media components and culturing of C2C12 myoblasts .......................44 Trypsinisation of cultured myoblasts from 10 cm plates .....................44 Scraping of cultured myoblasts from 6-well plates .............................45 Protein extraction from cultured myoblasts ........................................45 Protein estimation................................................................................45 Bradford assay .....................................................................................45 2-D protein quantitation ......................................................................46 SDS polyacrylamide gel electrophoresis .............................................47 Western blotting ...................................................................................47 Statistics ...............................................................................................48
+
+v
+
+Chapter 3 ­ Characterisation of the mighty protein .....................................49 3.1 3.2 3.2.1 3.2.2 Introduction..............................................................................................49 Materials and Methods............................................................................52 Recombinant mighty proteins ..............................................................52 Antibody purification ...........................................................................52
+
+3.2.2.1 Antibodies to full-length bovine mighty: Mighty (bovine) antibody................................................................................................52 3.2.2.2 Antibodies to a C-terminal peptide of mighty: Mighty (peptide) antibody................................................................................................53 3.2.3 3.2.3.1 Myoblast cell culture............................................................................53 Transfection of C2C12 myoblasts with pcDNA3-Mighty.....................53
+
+3.2.3.2 Transfection of C2C12 myoblasts with Mighty-siRNA ........................54 3.2.4 3.2.4.1 3.2.4.2 3.2.5 3.2.6 3.2.7 3.2.8 3.2.9 3.2.10 3.3 3.3.1 3.3.2 3.3.3 Preparation of nuclear extracts ...........................................................54 Nuclear extraction from muscle tissue.................................................54 Nuclear extraction from C2C12 myoblasts..........................................54 Isoelectric fractionisation ....................................................................55 Two-dimensional polyacrylamide electrophoresis ..............................55 In-gel tryptic digestion.........................................................................57 Western blotting ...................................................................................58 Mass-spectrometry analysis.................................................................59 Protein sequence analysis....................................................................59
+
+Results .......................................................................................................60 Identification of endogenous mighty protein in C2C12 myoblasts......60 Endogenous mighty protein is nuclear localised .................................62 Isoelectric point determination of endogenous mighty protein ...........64 vi
+
+3.3.4 3.3.5 3.3.6 3.3.7 3.4
+
+Two-dimensional electrophoresis of endogenous mighty protein .......66 Possible peptide masses determined from sequence data....................68 Peptide mass determination of mMty and bMty ..................................70 Attempt to identify endogenous mighty by mass spectrometry ............72 Discussion..................................................................................................73
+
+Chapter 4 ­ Mighty expression during myoblast proliferation ....................78 4.1 4.2 4.2.1 4.2.2 4.2.3 4.3 4.3.1 4.3.2 4.3.3 4.4 Introduction..............................................................................................78 Materials and Methods............................................................................81 C2C12 myoblast cell cycle synchronisation ........................................81 Western blotting ...................................................................................81 Immunocytochemistry (ICC)................................................................82 Results .......................................................................................................83 MyoD, Myf-5, and cyclin A expression during the cell cycle ..............83 Mighty expression during the cell cycle...............................................84 Mighty expression during the cell cycle by immunocytochemistry......87 Discussion..................................................................................................89
+
+Chapter 5 ­ Mighty expression during myoblast differentiation .................92 5.1 5.2 5.2.1 5.2.2 5.2.3 5.2.4 5.3 Introduction..............................................................................................92 Materials and Methods............................................................................94 C2C12 myoblast differentiation...........................................................94 Primary bovine myoblast (NM and DM) differentiation .....................94 Mighty-siRNA treatment of C2C12 myoblasts during differentiation .95 Western blotting ...................................................................................96 Results .......................................................................................................98 vii
+
+5.3.1
+
+Expression profiles of MyoD, myogenin, p21, and MHC in C2C12 myoblasts during differentiation ..........................................................98
+
+5.3.2
+
+Expression profile of mighty in C2C12 myoblasts during differentiation.......................................................................................98
+
+5.3.3 5.3.4
+
+NM and DM primary bovine myoblast differentiation ......................101 Mighty-siRNA treatment of C2C12 myoblasts during differentiation.....................................................................................104
+
+5.4
+
+Discussion................................................................................................106
+
+Chapter 6 ­ Final discussion and future directions .....................................110 References........................................................................................................113
+
+viii
+
+List of Figures
+Figure 1.1 Skeletal muscle structure ....................................................................2 Figure 1.2 Somitogenesis .....................................................................................5 Figure 1.3 The cell cycle ....................................................................................12 Figure 1.4 Myostatin mutations in mice, humans and cattle..............................25 Figure 3.1 Apparent molecular weight of endogenous mighty ..........................61 Figure 3.2 Mighty protein in nuclear enriched fractions....................................63 Figure 3.3 Isoelectric determination of endogenous mighty protein..................65 Figure 3.4 Two-dimensional electrophoresis of endogenous mighty protein ...............................................................................................67 Figure 3.5 Possible peptide masses determined by sequence data.....................69 Figure 3.6 Peptide mass determination of mMty and bMty...............................71 Figure 4.1 Synchronisation of C2C12 myoblasts...............................................85 Figure 4.2 Mighty expression during the cell cycle ...........................................86 Figure 4.3 Mighty expression during the cell cycle by ICC ..............................88 Figure 5.1 MyoD, myogenin, p21, and MHC expression during differentiation in C2C12 myoblasts ..................................................99 Figure 5.2 Mighty expression during differentiation in C2C12 myoblasts......100 Figure 5.3 Primary bovine myoblasts during differentiation (NM and DM)...102 Figure 5.4 Mighty, MyoD, myogenin, and p21 expression during differentiation in bovine myoblasts (NM and DM) ........................103 Figure 5.5 Mighty, MyoD, myogenin, and p21 expression in differentiating C2C12 myoblasts treated with mighty-siRNA .......105
+
+ix
+
+List of Tables
+Table 2.1 Table 2.2 Table 2.3 Common solutions .........................................................................37 Chemicals and Reagent..................................................................41 Primary antibodies .........................................................................42
+
+x
+
+Abbreviations Used
+ ActR ATCC  bHLH BMERC BMP bp BrdU BSA
+o
+
+alpha activin receptor American Type Culture Collection beta basic helix-loop-helix Biomolecular Engineering research Group bone morphogenic protein base pair(s) Bromo-deoxyuridine bovine serum albumin degrees Celsius carbidomethyl CDK-activating kinase cyclin-dependent kinase complementary DNA chick embryo extract chromatin immunoprecitation protein kinase CK2 cyclin-dependent kinase inhibitor carboxyl-terminal double-muscle Dulbecco's modified Eagle's medium dorsal-medial lip dominant negative deoxyribonucleic acid days post coitum dithiothreitol endoplasmic reticulum electrospray-ionisation liquid chromatography tandem mass spectrometry fluorescence-activating cell sorting fetal bovine serum fibroblast growth factor
+
+C
+
+CAM CAK CDK cDNA CEE ChIP CK2 CKI C-terminal DM DMEM DML dn DNA d.p.c. DTT ER ESI LC-MS/MS FACS FBS FGF
+
+xi
+
+FMG FOX g G G0 G1 G2 GAPDH GDF h HGF HIV HLH HPLC HRP HS HU ICC IEF IGF kb kDa KO L LAP LIF m m. M mA MADS MALDI-ToF MAPK MEF
+
+Functional Muscle Genomics forkhead box gram(s) gravitational constant gap 0 phase (quiescent) gap 1 phase gap 2 phase glyceraldehydes-3-phosphate dehydrogenase growth and differentiation factor hour(s) hepatocyte growth factor human immunodeficiency virus helix-loop-helix high-performance liquid chromatography horseradish peroxidase horse serum hydroxyurea immunocytochemistry isoelectric focusing insulin growth factor kilobase(s) kilo Dalton(s) knock-out litre(s) latency associated peptide leukaemia inhibiting factor milli (10-3) musculus molar, moles per litre milliamp(s) MCM1 agamous deficiens and serum response factor matrix assisted laser desorption time of flight mitogen activated protein kinase myocyte enhancer-binding factor
+
+xii
+
+MEK µ MHC min MNF MPF M-phase Mr MRF mRNA MS Myf MyoD n NC NGS nm NM nt NT N-terminal OD ORF P13K PAGE Pax-3 PBS PCNA PEG pH pI PKC PMF PTM
+
+MAPK/extracellular signal-regulated kinase micro (10-6) myosin heavy chain minute(s) myocyte nuclear factor mitosis promoting factor mitosis phase molecular weight myogenic regulatory factor message RNA mass spectrometry myogenic regulatory family myogenic determination nano (10-9) notochord normal goat serum nanometer(s) normal-muscle nucleotide neural tube amino-terminal optical density open reading frame phosphatidylinositol 3-kinase polyacrylamide gel electrophoresis paired-box-gene-3 phosphate buffered saline proliferating cell nuclear antigen polyethylene glycol hydrogen ion concentration isoelectric point protein kinase C peptide mass fingerprinting post-translational modification
+
+xiii
+
+PVP Rb RNA RNAi rpm RT SAC SDS SE SEM SF SP S-phase SUMO TBST TGF- Tris V VLL v/v WT w/v
+
+polyvinylpyrrolidone retinoblastoma ribonucleic acid RNA interference revolutions per minute room temperature small animal colony sodium dodecyl sulphate standard error standard error of the mean scatter factor side population synthesis phase small ubiquitin-like modifier tris buffered saline containing tween transforming growth factor- 2-amino-2-(hydroxymethyl)-1,3-propanediol volts ventral-lateral lip volume per volume wild-type weight per volume
+
+xiv
+
+CHAPTER ONE
+LITERATURE REVIEW
+In this literature review, an overview of skeletal muscle physiology and structure is outlined, followed by a description of the process of myogenesis from embryo formation. This is followed by a review on myostatin including its structure, function, and signalling. The current information on the novel transcription factor mighty and its relationship to myostatin will then be given. Finally, the aims of this thesis will be stated along with the possible implications.
+
+1.1
+
+Skeletal Muscle
+
+Skeletal muscle is responsible for voluntary body movement by generating active force through the application of the skeletal system. Muscle cells highly specialised for contraction enable this movement to occur. These muscle cells originate during embryogeneis, with skeletal muscle developing through their terminal differentiation and fusion of myoblasts into multi-nucleate myotubes, forming the contractile muscle fibre. Within each muscle fibre is the myofibril protein structure which is responsible for force production. Each fibre is associated with a population of self-renewing satellite cells capable of dividing and fusing with muscle fibres. This fusion is an essential part of muscle growth and repair.
+
+1
+
+1.1.1
+
+Skeletal muscle structure
+
+Skeletal muscle consists of bundles of muscle fibres called fascicles. The fascicles are separated by connective tissue, the perimysium, and between each individual muscle fibre is a layer of connective tissue, the endomysium. Enclosing the entire muscle is another layer of connective tissue, the epimysium. Each muscle fibre is a multi-nucleated muscle cell containing smaller subunits called myofibrils which are the functional contractile units of skeletal muscle (Fig 1.1). Study of the myofibrils under the electron microscope shows the striated structure of their sarcomere units. The sarcomeres primarily consist of two types of protein structures: thick filaments and thin filaments. The thick filaments consist mainly of myosin protein whereas the thin filaments are mainly composed of the proteins: actin, troponin, and tropomyosin. The thick filaments interact with the thin filaments by myosin extensions (crossbridges). Muscle contraction is accomplished by the ATP-powered rotation of the cross-bridges along the thin filaments. The sarcomere unit is defined as the distance between adjacent Z-disks. The Z-disks (Zwischen-Scheibe, meaning interim disc) bisect the I-bands (isotropic bands). The I-bands are the region which consists of thin filaments only. The H-zone (Hele-Scheibe zone) contains only thick filaments and the central M-line (middle line). The A-band (anisotropic) includes the H-zone and dark portions either side which show the regions where the thick and thin filaments interdigitate. During contraction each sarcomere unit is shortened by the pulling of the thin filaments towards the centre of the sarcomere, the combined shortening of each sarcomere unit results in muscle contraction.
+
+2
+
+Figure 1.1 Skeletal muscle structure A, Skeletal muscle consists of bundles of muscle fibres called fascicles. Each muscle fibre is a multi-nucleated muscle cell composed of smaller subunits called myofibrils; B, Myofibrils are composed of highly organised repeated units called sarcomeres; C The sarcomeres primarily consist of two types of protein structures: thick filaments and thin filaments (Adapted from Randall et al., 1997).
+
+3
+
+1.2
+
+Myogenesis and the embryonic origin of muscle
+
+Muscle formation, or myogenesis, is an important part of embryo development. During embryogenesis, skeletal muscle forms in the embryo from clusters of cells known as the somites (Christ & Ordahl, 1995). The somites produce two distinct muscle populations: the cells that form the axial and trunk musculature, and a second migratory cell population that establishes the muscles of the developing limbs (Fig 1.2). The somites are found on either side of the neural tube and notochord after segmenting from the paraxial mesoderm (Ludolph & Konieczny, 1995). Signals from the neural tube and notochord induce the somites to differentiate into the dermomyotome (dorsal) and sclerotome (ventral). The dermomyotome can be further divided into the hypaxial and epaxial dermomyotome. Progenitor cells delaminate from the hypaxial dermomyotome and migrate to the limb bud. Once in the limb bud, the cells proliferate, express myogenic determination factors, and differentiate into skeletal muscle of the body wall and limbs. Cells originating from the epaxial dermomyotome give rise to skeletal muscle of the back. The sclerotome provides the cells of the vertebrae and ribs (Hawke & Garry, 2001).
+
+In the developing embryo, the delamination and migration of muscle progenitor cells from the somites to the limb buds depends on the presence of c-met. This tyrosine kinase receptor can interact with its ligand, hepatocyte growth factor/scatter factor (HGF/SF) which is produced by non-somitic mesodermal cells, therefore showing the migratory route (Dietrich et al., 1999). Transcription of the c-met gene occurs through the Pax3 transcription factor (Epstein et al., 1996). Tajbakhsh et al. (1997) have shown Pax3 mutant mice to be without limb muscles due to no cell migration from the hypaxial 4
+
+Figure 1.2 Somitogenesis Somites differentiate dorsally into the dermomyotome and ventrally into the sclerotome. The dermomyotome gives rise to a subpopulation of cells termed the myotome. The medial region of the myotome gives rise to back musculature (epaxial muscles), while myogenic precursor cells produced from the lateral myotome give rise to limb and body wall muscles (hypaxial muscles). NT (neural tube); NC (notochord); DML (dorsal-medial lip); VLL (ventral-lateral lip) (Adapted from Pownall et al., 2002).
+
+5
+
+dermomyotome occurring. Like Pax3, Lbx1 is a homeo-domain-containing transcription factor implicated in the migration of cells from the somites. In Lbx1 mutants, muscle progenitor cells delaminate from the dermomyotome but stay close to the somites and may adopt other cell fates (Schafer & Braun, 1999). Signals from Wnt proteins, originating from the dorsal ectoderm and neural-tube, direct multipotent cells of the somites to become committed muscle cells. Wnt6, produced by the surface ectoderm, has been implicated in the activation of the Pax3 gene (Fan et al., 1997).
+
+1.2.1
+
+Myogenic regulatory factors
+
+Early in embryogenesis, the myogenic determination genes are not yet activated in cells migrating from the somites. It is only when the muscle precursor cells are within the limb bud that Pax3 and Lbx1 expression ceases and myogenic regulatory factors (MRFs) and the MEF2 family of myocyte enhancer-binding factors begin to be expressed (Lassar et al., 1994; Tajbakhsh & Buckingham, 1994). MRFs are muscle-specific gene regulatory factors that include the important sub-group of the MyoD family of regulatory proteins, consisting of MyoD, myogenin, myf-5, and MRF4. The hierarchical expression of the MRF genes initiates a cascade of events that result in muscle cell differentiation. Myf-5 and MyoD expression can be seen in cultured myoblasts and continue to be expressed after differentiation. Myogenin is essential for differentiation and is expressed after myoblast fusion. MRF4 is expressed only after muscle differentiation and appears to be responsible for maintaining the differentiated state (Rudnicki et al., 1993).
+
+6
+
+The MRFs share a region of homology with two functionally significant domains, the helix-loop-helix (HLH) domain and the basic region domain, forming the basic-helix-loop-helix (bHLH) characteristic of this large family of transcriptional activators. The HLH domain facilitates dimerisation with members of the ubiquitously-expressed E-protein family. This family includes E12, E47, E2-2, E2-5, HEB, ITF1 and ITF2. Any of the E-proteins can form functional heterodimers with the MRFs, but the most prevalent heterodimers in myotube extracts contain E12. The basic region of the MRFs, which contains positively charged amino acids, mediates specific binding to DNA. The MRF/E-protein heterodimers bind to DNA consensus CANNTG (E-box) found in several muscle-specific promoters (Lassar et al., 1991). The genes encoding the MRFs also contain an E-box suggesting the MRFs regulate their own and each-others transcription. Interactions of MRFs with DNA can be prevented by members of a family of HLH factors known as `inhibitor of binding' or Id proteins. The Id proteins lack a basic region, so when bound to MRF proteins the complex is unable to bind to DNA and activate transcription. Id proteins appear to inhibit myogenesis during embryonic development and their downregulation then enables myogenesis to proceed by allowing MRFs to bind to the DNA of target genes (Wang et al., 1992).
+
+The MyoD family of basic helix-loop-helix factors play a vital role in embryogenesis; no skeletal muscle forms in MyoD/Myf5 double mutants due to the absence of the precursor myoblast population (Rudnicki et al., 1993). Also, both MyoD and Myf-5 have the ability to convert non-muscle cells to muscle cells when ectopically expressed in various cell-types from different germ layer origins (Choi et al., 1990). In gene knock-out experiments, mice that were null 7
+
+for either Myf-5 or MyoD genes developed normally (Rudnicki et al., 1992). MyoD knockout mice exhibited a 3-4 fold increase in Myf-5 expression which continued longer than usual. Normally, Myf-5 expression is significantly reduced at day 12 of gestation when MyoD mRNA first appears, suggesting that MyoD represses Myf-5 expression. The increase and prolongation of Myf-5 expression suggests Myf-5 compensated for the lack of MyoD. Whereas in Myf-5 knock-outs, the development of muscle was delayed until the normal expression of MyoD proceeded (Braun et al., 1994). These results indicated that the function of MyoD and Myf-5 may be redundant. However, Kitzmann et al. (1998) showed that cells positive for differentiation markers expressed MyoD and not Myf-5 whereas myoblasts that remain undifferentiated expressed Myf-5 and not MyoD. MyoD and Myf-5 also have very different expression profiles during the cell cycle. MyoD is low in G0 and high in G1 whereas Myf-5 is high in G0 and low in G1. In vivo, this difference in MyoD and Myf-5 is thought to be particularly relevant to the muscle stem cells known as satellite cells. These satellite cells are normally quiescent, do not express differentiation markers, and can reenter the cell cycle in response to released mitogens. In single cell analysis, subsets of freshly isolated satellite cells were found to express either MyoD of Myf-5 and after 24 h these cells could co-express both MyoD and Myf-5 (Cornelison & Wold, 1997). Therefore, expression of Myf-5 alone may allow satellite cells to proliferate and self-renew before either returning to quiescence or forming proliferative myoblasts through the up-regulation of MyoD resulting in myoblasts capable of proliferation and differentiation into myotubes (Sabourin & Rudnicki, 2000).
+
+8
+
+Myogenin has been shown to be an essential intermediate in myogenesis (Hasty et al., 1993; Nabeshima et al., 1993). Myogenin knockout mice initially develop normally with somites forming myotome, dermatome, and sclerotome. Muscle differentiation is initiated, but very few myofibres are formed. This difference between the myogenin knockouts and the wild-types becomes more pronounced as development continues with large amounts of un-differentiated myoblasts present in mutant muscle (Venuti et al., 1995). The myogenin knock-out mice have decreased levels of transcripts for some muscle-specific proteins, including muscle creatine kinase, myosin heavy chain, the alpha and gamma subunits of the acetylcholine receptor and MRF4. Normal amounts of MyoD transcripts were present, showing that MyoD appears to act upstream of myogenin (Hasty et al., 1993).
+
+Throughout muscle repair and growth, satellite cells repeat the MRF expression patterns seen during embryonic development. Quiescent satellite cells do not express MRFs until muscle injury or growth stimulation, they then proliferate and express Myf-5 and MyoD (Cornelison & Wold, 1997; Cooper et al., 1999). Myogenin expression follows and is associated with fusion and terminal differentiation (Smith et al., 1994; Yablonka-Reuveni & Rivera, 1994). Recent insights have been made into the extensive array of genes that are amplified by the MRFs and MEF2 using chromatin immunoprecipitation (ChIP) assays and genome-wide location analysis (Blais et al., 2005). These include transcription factors involved in stress-response pathways, synapse formation, and synaptic transmission. These results highlight the wide range of roles by MRFs in muscle development, growth, and repair.
+
+9
+
+1.2.2
+
+MEF2 family
+
+The myocyte enhancer factor-2 (MEF2) family is another class of muscle transcription factors which belong to the `MCM1 agamous deficiens and serum response factor' (MADS) superfamily of DNA binding proteins (Ludolph & Konieczny, 1995). In mammals, the MEF2 family consists of four distinct genes: MEF2A, MEF2B, MEF2C, and MEF2D. Proteins in the MADS superfamily all contain a 56-amino acid motif referred to as the MADS box which is responsible for DNA binding and protein dimerisation. MEF2 factors also contain a unique 29-amino acid sequence known as the MEF2 domain which indicates further DNA specificity. In contrast to the MRF genes, the MEF2 genes are expressed in a wide range of cell types, including skeletal, cardiac, and visceral muscle, also brain and neural crest cell derivatives (Edmondson et al., 1991). MEF2 isoforms from alternative mRNA splicing and post-transcriptional modifications may regulate cell-specific expression and activity of different MEF2 proteins.
+
+Muscle gene activation by MRFs is dependent on their association with MEF2 family members. The MEF2 factors work with the MRFs and are unable to activate muscle specific genes alone. MEF2 DNA binding sites are often positioned near MRF binding sites (E-boxes) in the regulatory regions of many muscle genes. Independent expression of myogenin or MyoD in 10T1/2 fibroblasts induces MEF2 DNA binding activity (Cserjesi & Olsen, 1991). Reciprocally, MEF2 proteins can activate expression of myogenin and MRF4 genes, this interaction is specific as the MADS domain of MEF2 recognises MRF bHLH domains but not non-myogenic bHLH domains (Naidu et al., 1995;
+
+10
+
+Cheng et al., 2002). Therefore, the MRF and MEF2 protein interactions occur only in the context of muscle development (Ludolph & Konieczny, 1995).
+
+1.2.3
+
+Myogenesis and the cell-cycle
+
+Proliferating myoblasts go through orderly stages of the cell-cycle (Fig 1.3) to enable the accurate duplication of DNA and the subsequent division into two identical daughter cells. The cell-cycle, or cell division cycle, can be divided into four distinct stages: during the synthesis phase (S phase) the genetic material is copied faithfully: in the mitosis phase (M phase) the duplicated chromosomes are equally separated to the two daughter cells. The phases in linking the S and M phases are gap-1 (G1) preceding the S phase and gap-2 (G2) preceding the M phase. The gap phases represent important regulatory check points and preparation for the following stage. During early G1, with the appropriate signals, a cell may withdraw from the cell-cycle into a resting quiescent state known as G0 or they may proceed to terminally differentiate.
+
+Various classes of cellular proteins are responsible for the orderly transition from one cell-cycle phase to another. The main class of cell-cycle proteins identified are the cyclin dependent kinases (CDKs). Members of this family of serine/threonine protein kinases are activated at specific stages of the cell-cycle, appearing and disappearing during the cell-cycle phases in a controlled cyclic manner (Sherr, 1996). Transcriptional activation of the cyclin genes and ubiquitin-mediated degradation of the cyclin proteins allows for a fast turnover of the CKIs. The acitivities of the cyclins are also regulated by binding of CDKinhibitors (CKIs) and through phosphorylation and dephosphorylation (Elledge, 1996). 11
+
+Figure 1.3 The cell cycle Signals promoting and inhibiting the different phases of the cell cycle as well as checkpoints monitoring the accurate completion of every phase of the cell cycle (Adapted from Tessema et al., 2004).
+
+12
+
+The order and timing of the cell-cycle transition is critical and so mammalian cells have various checkpoints to ensure correct progress of the cell-cycle. In addition to halting defective cell-cycles, checkpoints also enable repair of DNA damage. An important cell-cycle check-point is near the end of the G1 phase and is termed the G1/S transition check-point or restriction point. The G1/S checkpoint represents a commitment to cell division; beyond this checkpoint cells proceed with the cell-cycle until completion and no longer respond to external signals. The low level of the CDKs combined with their suppression by high CKI activity halt the cell-cycle in early G1 and during G0 (Sherr, 2000). The result of inactive CDKs is hypophosphorylated retinoblastoma protein (Rb) which remains bound to E2F. The E2F family of proteins enable transcription of genes important for the replication of DNA and are only active when free from Rb. Specific extracellular signalling initiates the proliferation pathway and D-type cyclins start to accumulate due to increased expression and reduced proteolysis (Molinari, 2000). The partially active CDK4/6-cyclin D complex is then formed which becomes fully active through phosphorylation by CDKactivating kinase (CAK). The CDK4/6-cyclin D holoenzyme then
+
+phosphorylates Rb which leads to the release of E2F transcription factors resulting in the transcription of genes required for S-phase entry (Tessema, 2004). Rb is inactivated by active CDK2/cyclin E and CDK4/6-cyclin D holoenzymes, and allows the induction of more E2F-responsive genes to initiate DNA replication. This further induces more CDK2/cyclin E as a positive feedback loop. CDK2/cyclin E facilitates degradation of inhibitory factors like Hct1 and p27 (Sherr, 2000). Without appropriate mitogenic signals and in the presence of anti-proliferative factors (e.g. myostatin) or defective DNA, cellcycle progression is halted at the G1/S checkpoint. The two families of CKI 13
+
+active at the G1/S checkpoint are the INK4 family and the CIP/KIP family. The INK4 family members (p15INK4b, p16INK4a, p18INK4c, and p19INK4d) function only at G1 to inhibit CDK4/6. Whereas the CIP/KIP family (p21CIP1, p27KIP1, and p57KIP2) are active as CKIs in all four cell-cycle phases (Sherr & Roberts, 1999).
+
+During S phase the precise duplication of the cell's chromosomes occurs and begins when the required proteins reach a sufficient level. In eukaryotes, replication of DNA is initiated at multiple sites of the chromosome simultaneously. As in G1, the progression during S phase is regulated by CDK activities. Various phosphorylations by CDK2/cyclin A of components of DNA replication machinery are important for the initiation of DNA replication. Levels of cyclin A accumulate during S phase and are rapidly degraded via ubiquitin-mediated proteolysis before metaphase. Cyclin A synthesis is activated by E2F, in a negative feedback loop, E2F activity is inhibited by CDK2/cyclin A through phosphorylation of the E2F heterodimerisation partner DP1 (Yam et al., 2002). After all of the chromosomes have been duplicated, the cell is then able to enter G2.
+
+At the G2 phase of the cell-cycle, the cell contains two copies of its chromosomes. Before the process of cell-division can start, checks are made to ensure all genetic material and important cellular structures are accurately duplicated. Arrest of the cell-cycle can occur at G2 if there is damage to the DNA and/or incomplete duplication has resulted during the S phase. In addition to its role in G1 arrest, p21 is also involved with inducing G2 arrest through blocking the interaction between CDC25C phosphatase and `proliferation cell 14
+
+nuclear antigen' (PCNA). The p21 gene is a direct target of transcriptional activation by the tumour suppressor protein, p53. The p53 protein functions to maintain genomic integrity by inducing cell-cycle arrest and subsequently repair or apoptosis (Stewart et al., 2003).
+
+The M phase is a combination of mitosis and cytokinesis. Mitosis, the segregation of the cellular components, is induced by increased activity of the CDK1/cyclin B holoenzyme, also known as `mitosis promoting factor' (MPF). Activated MPF phosphorylates proteins important for chromosome
+
+condensation, motor and microtubule-binding proteins, nuclear envelope breakdown, spindle assembly, and centrosome separation (Nigg, 2001).
+
+The cell-cycle stages outlined above are tightly linked processes that are regulated by growth factor activity. The arrest of the cell cycle is essential during skeletal muscle differentiation and occurs before S phase during the G1 phase of the cell cycle (Nadal-Ginard, 1978; Clegg et al., 1987). Once terminally differentiated, myotubes are generally unable to reenter the cell cycle in response to growth factors. The antagonism that exists between proliferation and differentiation requires that signalling pathways driving proliferation are suppressed to allow the initiation of differentiation and the maintenance of permanent cell cycle withdrawal in myotubes (Kitzmann et al., 1998).
+
+During myogenesis, these different cell cycle regulatory pathways can be inhibited or reinforced by muscle-specific regulators of the MyoD family. MyoD, Myf-5, myogenin, and MRF4 are essential transcriptional activators throughout myogenesis, but only MyoD and Myf-5 are expressed in 15
+
+proliferating myoblasts (Weintraub et al., 1993). In C2C12 myoblasts, MyoD has been shown to be absent in G0, peaking in mid G1, and falling to a minimum level at G1/S and reaugmenting from S to M. Conversely, Myf-5 is high in G0, decreasing during G1, then increasing at the end of G1 and maintained until mitosis (Kitzmann et al., 1998). In muscle cells, cell-cycle arrest occurs through MyoD activation of p21 and p57 (Wei & Paterson, 2001). The enhancement of p21 expression by MyoD ultimately leads to the downregulation of cdks. Additionally, MyoD interacts with the
+
+hypophosphorylated form of Rb, possibly maintaining Rb in its active form resulting in the inhibition of the E2F-mediated transcription of genes required for S phase (Gu et al., 1993). MyoD has also been shown to downregulate cyclin B expression (Chu et al., 1997), which inhibits MPF phosphorylation of various proteins involved in mitosis. Therefore, variations in MyoD levels and/or activity appear to affect the balance between proliferation and differentiation. This has been observed in various cell lines, where the ability of cells to differentiate appears strongly linked to the level of MyoD expression (Montarras et al., 1996).
+
+The known positive inducers of myogenesis such as insulin like growth factors, thyroid hormones, and retinoic acid, enhance both MyoD expression and muscle differentiation (Pinset et al., 1988; Florini et al., 1991a; Carnac et al., 1992; Albagli-Curiel et al., 1993). Myostatin, a negative regulator of myogenesis, inhibits MyoD activity and expression resulting in the inhibition of myoblast differentiation (Langley et al., 2002). These results imply that a minimal level of MyoD must be reached before differentiation can be achieved. In agreement, MyoD levels have been observed to vary considerably in the 16
+
+nuclei of proliferating myoblasts by immunocytochemistry, whereas MyoD was seen to be homogeneously high in myotubes (Tapscott et al., 1988). Therefore, the induction of differentiation at a specific stage of the cell cycle, presumably G1, appears to be related to the level of MyoD (Kitzmann, 1998).
+
+1.2.4
+
+Differentiating myoblasts
+
+Andres and Walsh (1996) described skeletal myogenesis as a highly ordered process of temporally separable events that direct the transition from the proliferative myoblast to the terminally differentiated myotube. They showed that in vitro myogenesis involves at least four temporally separable events: first, the entry of myoblasts into the differentiation pathway as indicated by the initiation of myogenin expression; second, the irreversible withdrawal from the cell cycle as indicated by the expression of p21; third, phenotypic differentiation as indicated by the induction of MHC; fourth, the fusion of differentiated myocytes to form myotubes. Myogenin expression signals a cells entry into differentiation, and later, structural protein expression is seen including MHC. The significance of myogenin can be observed in myogenin KO mice, where deficient transcripts of various muscle-specific proteins are seen, including MHC, muscle creatine kinase, the alpha and gamma subunits of the acetylcholine receptor, and MRF4 (Hasty et al., 1993). Once a myoblast enters the differentiation pathway, expresses myogenin and exits the cell cycle, it is committed to become skeletal muscle and is unable to proliferate.
+
+Two temporally distinct waves of myotube formation occur during the differentiation of muscle cells. Early forming primary myotubes provide a support for the later forming secondary myotubes which can be distinguished 17
+
+from primary myotubes by their relatively smaller diameter (Wigmore & Dunglison, 1998). Primary and secondary myotubes grow by cell fusion, eventually separating and maturing into primary and secondary muscle fibres. These two types of muscle fibre express different myosin heavy chain (MHC) isoforms. It is the MHC protein isoforms that are partly responsible for the fast (primary, glycolytic) and slow (secondary, oxidative) contraction rates displayed by these fibres (Schiaffino & Reggiani, 1996). A proportion of primary and secondary fibres switch fibre type, resulting in the distribution of fibres seen in adult skeletal muscle.
+
+The differentiation of myoblasts is controlled by various factors. In cell culture experiments, differentiation of cells can be induced by depriving cycling myoblasts of serum, which results in the formation of committed myotubes. Myoblast differentiation is often viewed as being negatively regulated by medium components referred to as "mitogens." However, stimulators of differentiation also occur, for example, members of the `insulin growth factor' (IGF) family. IGF-II is a secreted factor required for terminal differentiation and is up-regulated upon transfer to low-serum differentiation medium. IGF-II can also enhance differentiation when added to media (Florini et al., 1991a).
+
+1.2.5
+
+Muscle stem cells and regeneration
+
+The postnatal growth, repair, and maintenance of skeletal muscle are accomplished by a sub-population of myogenic precursor cells known as satellite cells. Muscle satellite cells are located between the basal lamina and the muscle fibre, and are often referred to as muscle stem cells (Seale & Rudnicki, 2000). In mice, satellite cells account for 30% of the sublaminar 18
+
+muscle nuclei at birth, dropping to approximately 5% in adults (Bishoff, 1994). This decrease appears to be due to the contribution of satellite cells during postnatal muscle growth and development (Gibson & Schultz, 1983; Seale and Rudnicki, 2000). Adult satellite cells are mitotically quiescent until activated in response to various stimuli, including injury, exercise, stretching, and electrical stimulation (Rosenblatt et al., 1994; Grounds, 1998). Quiescent satellite cells can be identified by their expression of various cell markers. These include transcription factors such as Myf5 (Beauchamp et al., 2000), Pax7 (Seale et al., 2000), and myocyte nuclear factor (MNF) (Garry et al., 1997): also expressed are the surface markers M-cadherin (Irintchev et al., 1994), CD34 (Beauchamp et al., 2000), and c-met (Cornelison & Wold, 1997).
+
+Expression of Myf5, MNF, and M-cadherin show commitment to the myogenic lineage (Beauchamp et al., 2001). M-cadherin is thought to be specifically involved in the adhesion of satellite cells to the basal lamina of the muscle fibre, and the migratory response of satellite cells to stimuli (Hawke and Garry, 2001). The induction of MNF and Pax7 are thought to induce the specification of satellite cells through the restriction of other differentiation programs. Pax7 is present in quiescent and proliferating satellite cells and its importance is seen with pax7-null mice which are devoid of satellite cells (Seale et al., 2000). CD34 is a transmembrane glycoprotein also expressed on endothelial cells and hematopoietic stem cells, while c-met is a receptor for HGF and is thought to be involved in satellite cell activation.
+
+Activated satellite cells become myogenic precursor cells, which are able to proliferate prior to differentiating and fusing with existing or new muscle fibres 19
+
+(Grounds & Yablonka-Reuveni, 1993; Bischoff, 1994; Seale et al., 2000). The exact process of satellite cell activation is unclear, but is thought to involve the interaction between `hepatic growth factor' (HGF) and its receptor c-met in quiescent satellite cells. HGF is believed to be released from the basal lamina after damage, and to be produced by myofibres in response to physiological stimuli. The expression of MyoD and/or Myf5 follows satellite cell activation and the subsequent generation of muscle progenitor cells (Seale and Rudnicki, 2000). Other growth factors, such as IGF-1, have been implicated in the proliferation of muscle progenitor cells into differentiated myotubes (Adams, 1998). Signalling between cells of the immune system and satellite cells are also thought to facilitate muscle regeneration (Seale & Rudnicki, 2000). Leukocytes infiltrating the site of injury express the surface protein VLA-4, a coreceptor for the cell adhesion molecule VCAM1, which is expressed by quiescent satellite cells. Macrophages, along with the phagocytosis of necrotic debris, also release mitogens such as `leukaemia inhibitory factor' (LIF) and interleukin-(IL-6) which stimulate the proliferation of cultured myoblasts (Kurek et al., 1996).
+
+A further population of pluripotent stem cells or side population (SP) cells have recently been identified. These SP cells can be isolated by fluorescenceactivated cell sorting (FACS) through dye exclusion (Gussoni et al., 1999; Seale et al., 2000). Both Myf5 and CD34 are not expressed by SP cells but they do express the early haematopoietic stem cell marker Sca1 (Beauchamp et al., 2000; Buckingham, 2001). SP cells transplanted from bone marrow or muscle have been found to participate in muscle regeneration. However, only musclederived stem cells appear to give rise to muscle satellite cells (Gussoni et al., 20
+
+1999). It is not clear whether SP cells are the same as satellite cells, satellite cell precursors, or a different population of cells (Seale et al., 2000).
+
+1.2.6
+
+Growth factors involved in myogenesis
+
+Growth factors play important roles at various stages during myogenesis. The determination, proliferation, differentiation, and regeneration of cells during myogenesis involves factors such as fibroblast growth factors (FGFs), insulinlike growth factors (IGFs), scatter factor/hepatocyte growth factor (SF/HGF), and transforming growth factor  (TGF-) superfamily members.
+
+Fibroblast growth factors (FGFs) and their ligands are essential factors during embryonic development and contribute to the formation of skeletal, smooth, and cardiac muscle (Scata et al., 1999). The FGF family shares a conserved 120 amino acid core region and consists of 23 members (Dickson et al., 1989; Fernig & Gallagher, 1994; Kirikoshi et al., 2000). Signalling by FGF members is mediated through FGF ligand interactions with four specific tyrosine kinase receptors to activate various signalling pathways (Partanen et al., 1992; Fernig and Gallagher, 1994; Scata et al., 1999; Nishimura et al., 2000). With cultured muscle cells, FGFs have been found to stimulate proliferation and inhibit differentiation (Linkhart et al., 1980; Linkhart et al., 1981; Olwin & Hauschka, 1986; Rando & Blau, 1994).
+
+Insulin-like growth factors (IGFs) are strongly involved in the formation and maintenance of skeletal muscle. They are secreted factors which elicit their effect by binding to cell surface receptors to initiate signalling cascades. The three known receptors that bind IGFs are the insulin, IGF-I, and IGF-II 21
+
+receptors. The insulin receptor predominately binds insulin but also IGF-I and IGF-II to a far lesser extent. The IGF-I receptor binds with high affinity to IGFI and with 10 fold less affinity to IGF-II and 100 fold less to insulin (Ballard et al., 1988; Florini et al., 1996). The IGF-II receptor binds IGF-II with high affinity and can also bind IGF-I to a much lesser extent. The most commonly accepted function of the IGF-II receptor is that of a sink for excess IGF-II, although it may transduce some of the IGF-II signal within the cell (Kornfeld, 1992; Florini et al., 1996).
+
+Overexpression of a dominant negative IGF-I receptor in mice results in reductions in the size of muscles at birth to 5 weeks of age. This reduction occurs due to a delay in myogenic proliferation and differentiation. However, compensatory hyperplasia occurs by eight weeks of age to recover most of the lacking muscle. Mice devoid of IGF-I receptor expression have severe muscle hypoplasia resulting in death at birth due to respiratory failure (Liu et al., 1993). In contrast, mice lacking the IGF-II receptor have elevated IGF-II serum levels and an increased growth rate. These mice are 135% the normal body weight at birth but usually die perinatally. Mutants lacking both the IGF-I and the IGF-II receptors show a rescue of this phenotype, indicating that IGF-II signals mainly through the IGF-I receptor with the IGF-II receptor removing excess IGF-II from serum (Ludwig et al., 1996).
+
+IGF-I and IGF-II have been shown to be critically involved in skeletal muscle development (Florini et al., 1991a) and in adult muscle regeneration and hypertrophy through satellite cell activation and differentiation (Rosenblatt et al., 1994; Barton-Davis et al., 1999). In cell culture studies, differentiating 22
+
+C2C12 cells have been shown to express significantly higher levels of IGF-II than IGF-I (Tollefsen et al., 1989). IGF-II has been shown to be essential for the differentiation of satellite cells through the ability of IGF-II antisense oligonucleotides to block differentiation (Florini et al., 1991b).
+
+Scatter factor/hepatocyte growth factor (SF/HGF) is involved in the disruption of cell-cell contacts and cell migration in vitro (Matsumoto et al., 1994). SF/HGF has an important role in the recruitment and migration of muscle precursor cells from the dermomyotome to the limb buds, including maintaining the cells' undifferentiated state, enhancing cell motility, and influencing the direction of muscle precursor migration (Scaal et al., 1999). SF/HGF functions by activating the c-met transmembrane tyrosine kinase through phosphorylation (Ludwig et al., 1996). In mice lacking either SF/HGF or the c-met receptor, no muscle precursor cells enter the limb buds and no musculature forms in the limb buds, distal tongue, or the diaphragm (Brand-Saberi et al., 1989; Bladt et al., 1995).
+
+The transforming growth factor beta superfamily (TGF-) consists of more than thirty different members which share several common structural features. These common features include: a hydrophobic core of amino acids in the N-terminal region that functions as a secretory signal; a RSRR proteolytic processing signal in the C-terminal region; nine cysteine residues in the C-terminal portion that facilitate the formation of a `cysteine knot' structure after cleavage at the processing site (McPherron & Lee, 1996). TGF- family members have a variety of effects during development as well as in regulating tissue function during adult life. The growth and differentiation factor (GDF) family is a 23
+
+subgroup of the TGF- superfamily. GDF8, also known as myostatin, has been shown to negatively regulate muscle mass, with dramatic increases in muscle seen through non-functional myostatin mutations. More detail on myostatin is given in the following section.
+
+1.3
+
+Myostatin
+
+Myostatin is a Transforming Growth Factor-beta (TGF-) family member that negatively regulates skeletal muscle growth (Fig 1.4). When myostatin is disrupted in mice, muscle mass increases up to three-fold due to both muscle cell hyperplasia and hypertrophy (McPherron et al., 1997). Natural myostatin mutations are present in heavily muscled Belgian Blue, Piedmontese, and Asturiana de los Valles cattle breeds (Kocamis et al., 2002). Although there are different myostatin gene mutations present in these breeds, they have the same condition of muscular hypertrophy primarily resulting from hyperplasia relative to normal cattle (Kambadur et al., 1997; Grobet et al., 1998). A myostatin mutation has also been detected in a young male human. This individual's quadricep muscle has a cross-sectional area of over two-fold larger than control subjects of the same age and gender. Significantly smaller subcutaneous fat pads are also seen compared to control subjects. This particular myostatin mutation was identified as a G to A transition within the non-coding region of the first intron. In cultured muscle and non-muscle cells, this mutation results in a splicing error of the precursor mRNA to include the first 108 bp of the first intron (Schuelke et al., 2004).
+
+24
+
+25
+
+Figure 1.4 Myostatin mutations in mice, humans and cattle A, Wild-type mouse forelimb; B, Myostatin-null mouse forelimb (Adapted from McPherron et al., 1997); C, Myostatin-null human boy, aged 7 months (Adapted from Schuelke et al., 2004); D, Myostatin-null Belgian Blue bull (Image from the Haliba Genetics Artificial Insemination Centre of Belgium catalogue, 1996). 26
+
+The expression of myostatin is predominately in skeletal muscle but low-level expression is seen in the heart (Sharma et al., 1999), mammary glands (Ji et al., 1998), and brain (Ostbye et al., 2001). Myostatin expression is detected in embryonic, foetal, and postnatal myogenic cells. It is initially detected in the developing murine somites at 9.5 days post-coitum (d.p.c.) and is detected in a wide range of developing muscles in later stages of embryogenesis (McPherron et al., 1997). Myostatin expression continues throughout myogenesis and is detected postnatally in various axial and paraxial muscles (McPherron et al., 1997; Jeanplong et al., 2001). In cell culture studies, myostatin has been shown to inhibit the progression of myoblasts at the G1 and G2 phases of the cell cycle. This cell cycle arrest occurs through the up-regulation of p21, and downregulation of cyclin-dependent-kinase-2 (Cdk2) resulting in inhibition of progression into the S phase of the cell cycle by hypophosphorylation of Retinoblastoma protein (Rb) (Thomas et al., 2000). Along with myoblast proliferation, myostatin has also been shown to be an inhibitor of myoblast differentiation. This inhibition appears to be through the induction of Smad3 phosphorylation and increased Smad3·MyoD association, therefore interfering with MyoD activity and expression (Langley et al., 2002). Along with muscle formation and growth, myostatin is also associated with the loss of skeletal muscle mass and increased myostatin levels have been shown in various muscle wasting conditions (Artaza et al., 2002), and appears to have a role in muscle regeneration (Kirk et al., 2000).
+
+1.3.1
+
+Myostatin structure and synthesis
+
+The myostatin gene maps to chromosome 2 in humans (McPherron et al., 1997), and to chromosome 1 in the mouse (Szabo et al., 1998). The myostatin 27
+
+protein is encoded by a 7.8 kb gene which consists of three exons with two intervening introns. The myostatin gene is processed to an approximately 3.1 kb mRNA transcript, and in humans, results in the translation of a 375 amino acid protein (Gonzalez-Cadavid, 1998). The mouse myostatin amino acid sequence has 90% identity over the entire protein when aligned to the human sequence, and homology increases to 100% when the mature proteins are compared (McPherron et al., 1997). The predicted structure of the myostatin protein displays classic features of the TGF- family of signalling proteins. These common features include: a hydrophobic core of amino acids in the N-terminal region that functions as a secretory signal; a RSRR proteolytic processing signal in the C-terminal region; and nine cysteine residues in the C-terminal portion that facilitate the formation of a `cysteine knot' structure (Sharma et al., 1999).
+
+The proteolytic cleavage of the 375 amino acid myostatin precursor occurs at the RSRR (263-266) site. The resulting myostatin propepetide consists of a small N-terminal signal sequence followed by a 28 kDa region known as the latency associated protein or LAP-fragment, and a 12 kDa `mature' region at the C-terminus (McPherron et al., 1997). The N-terminal signal sequence is required for processing and secretion, whereas the LAP-fragment regulates the biological activity of myostatin.
+
+Myostatin protein can be present in an active or an inactive (latent) form, which is dependent on a series of post-translational modifications (McPherron et al., 1997; Thies et al., 2001; Hill et al., 2002). These post-translational modifications consist of three main processes: first, disulphide bonds are formed in regions of myostatin forming a homodimeric protein: second, specific 28
+
+proteolytic cleavage of myostatin occurs to form a propeptide and mature region: third, non-covalent forces between the propeptide and mature region forms a stable protein complex (Zimmers, 2002).
+
+Myostatin is also differentially processed between male and female mice. Although no change is seen in myostatin mRNA, the expression of the 28 kDa processed LAP-fragment is 40-60% lower in male muscle. This decrease in processed myostatin is associated with the increased skeletal muscle mass apparent in male compared to female mice (McMahon et al., 2003).
+
+1.3.2
+
+Myostatin function
+
+The expression of myostatin in skeletal muscle is mainly associated with fast type-IIb fibres (Carlson et al., 1999; Kirk et al., 2000). Consequently, doublemuscled cattle have been found to have an increase in number and size of fasttype/white fibres and myostatin-null mice have an increase in the proportion of fast type-II/glycolytic fibres (West, 1974; Girgenrath et al., 2005). In mice, this fibre-type-specific expression of myostatin has been shown to be driven by sequences within the 2.5 kb region of the murine myostatin promoter (Salerno et al., 2004).
+
+Myostatin also appears to be involved in muscle regeneration after injury. Kirk et al. (2000) found high levels of myostatin in necrotic fibres and connective tissue during the early stages after notexin injury. After this initial damage phase, a reduction in myostatin protein was observed along with new fibre synthesis. Myostatin expression was shown to be differentially expressed between fibres that survived injury and regenerating fibres. Kirk et al. (2000) 29
+
+believed that myostatin may act as a chemoattractant in damaged muscle for phagocytes and inflammatory cells, or as an inhibitor of their proliferation. Muscle wasting conditions where increased myostatin levels have been shown in serum and skeletal muscle include severe HIV infection (Gonzalez-Cadavid et al., 1998), prolonged bed rest (Zachwieja et al., 1999), old age, and microgravity conditions during space flight (Lalani et al., 2000).
+
+Various studies have shown myostatin to inhibit the differentiation of myoblasts in a dose-dependant manner (Langley et al., 2002; Rios et al., 2002; Joulia et al., 2003). In addition, Langley et al. (2002) showed this inhibition by myostatin to be reversible. Excess myostatin during differentiation inhibits the mRNA and protein levels of MyoD, myogenin, p21, and MHC, and inhibited the activity of creatine kinase (Langley et al., 2002; Rios et al., 2002). In agreement, Joulia et al. (2003) showed that overexpression of myostatin anti-sense upregulated MyoD mRNA and p21 protein levels. However, overexpression of MyoD did not rescue the myostatin-induced inhibition of myoblast differentiation (Langley et al., 2002).
+
+In addition to the regulation of the proliferation and differentiation of myoblasts during development, myostatin appears to continue to be involved in postnatal muscle growth and repair. The continuing expression of myostatin in adult muscle has been detected by various investigators (Kambadur et al., 1997; McPherron et al., 1997; Gonzalez-Cadavid et al., 1998; Ji et al., 1998).
+
+30
+
+1.3.3
+
+Myostatin signalling and downstream factors
+
+Myostatin has been shown to bind to activin receptor type-IIb (ActRIIB) and to a lesser extent ActRIIA receptors. The activin type-II (ActRII) receptors are a family of serine/threonine kinase transmembrane receptors on target cells. The binding of myostatin to ActRII receptors results in the phosphorylation and subsequent activation of the activin type-I receptor (Lee et al., 2001). This initiates an intracellular signalling cascade through the phosphorylation of the receptor-regulated proteins Smad2 and Smad3, which form heterodimers with a co-Smad known as Smad4. The activated Smad complex then translocates from the cytoplasm to the nucleus where the transcription of target genes can then occur (Langley et al., 2002; Shi et al., 2003).
+
+Lee and McPerron (2001) demonstrated that the heavy muscled phenotype could be seen through the inhibition of myostatin and ActRIIB. This was achieved with transgenic mice expressing high levels of the myostatin propeptide, the activin-binding protein follistatin, or a dominant negative form of ActRIIB using a muscle specific promoter. Dramatic increases in muscle mass were seen in independent transgenic mouse lines for each construct, suggesting the potential of molecules that block signalling through this pathway for enhancing muscle growth.
+
+31
+
+1.4
+1.4.1
+
+Mighty
+Discovery of mighty
+
+To further understand downstream signalling of myostatin, a genetic screen was performed on the skeletal muscle of myostatin-null and wild-type mice. It was found that heavily muscled mice, lacking myostatin, had increased mRNA expression of a novel gene with no previously characterised function. This novel gene was found to be conserved, with cognates found in mammals, amphibians, teleosts, and arthropods. The novel gene, later named mighty, was found to be expressed in a variety of tissues. Mighty mRNA expression is upregulated in myostatin-null m. biceps femoris, m. tibialis anterior, m. gastrocnemius, m. quadriceps femoris, m. masseter, and the diaphragm. This upregulation varies between different muscles which may be due to differences in myostatin expression. Other tissues shown to express mighty mRNA include the liver, kidney, heart, testes, and brain, suggesting a ubiquitous role. However, these tissues do not show increased mighty mRNA expression in myostatin null mice, indicating the specific regulation of mighty by myostatin in skeletal muscle (Marshall, 2005).
+
+1.4.2
+
+Mighty overexpressing myoblasts
+
+With mighty gain-of-function C2C12 myoblast clones, cells show significant hypertrophy of both myoblasts and myotubes. These cells dramatically overexpress IGF-II and have increased levels of phospho-Akt in actively growing and differentiating conditions. Enhanced differentiation of mighty overexpressing myoblasts is also observed. This enhanced differentiation involves earlier formation of multinucleated myotubes and increased and earlier
+
+32
+
+expression of myogenic differentiation markers MyoD, p21, myogenin, and MHC.
+
+1.4.3
+
+Mighty and myostatin
+
+Dose-dependent inhibition of mighty promoter expression was seen with increasing concentrations of myostatin, indicating myostatin regulation of gene expression from the mighty promoter. This inhibition was not rescued by the protein synthesis inhibitor cycloheximide, showing that myostatin regulation of the mighty gene is not mediated through denovo protein synthesis (Marshall, 2005). Myostatin's previously characterised signalling pathway through ActRIIB, ALK5, Smad2, and Smad3 (Lee and McPherron, 2001; Langely et al., 2002; Rebbapragada et al., 2003; Zhu et al., 2004) was shown to also regulate mighty expression (Marshall, 2005). This was shown by using either dominant negative (dn) ActRIIB, ALK5, Smad2, or Smad3 cotransfected with the mighty 1.1 kb promoter. All these dn-constructs rescued the levels of mighty promoter expression in the presence of myostatin. Myostatin may also signal the mighty gene via the MEK MAPK pathway, as shown by the rescue of myostatin inhibition of the mighty promoter in the presence of the MEK inhibitor, PD98059.
+
+The mighty 1.1 kb promoter (+129 through -960) contains five MRF binding sites (E-boxes) which were identified using TFSEARCH to be consensus binding sites specific for MyoD. In agreement, cotransfection experiments with the mighty promoter showed a 2.5-fold upregulation of mighty promoter activity with MyoD cotransfection, whereas no significant increase was seen with Myf5 or myogenin. Therefore, the upregulation of mighty mRNA 33
+
+expression during myogenic differentiation may be due to MyoD increasing mighty promoter activity (Marshall, 2005).
+
+The mighty 1.1 kb promoter also contains ten GATA sites. In previous studies, GATA2 has been shown to play a role in skeletal muscle hypertrophy (Musaro et al., 1999; Sakuma et al., 2003; De Arcangelis et al., 2005). Cotransfection of GATA1, -2, and -3 expression constructs with the mighty 1.1 kb promoter showed a positive effect (1.4-1.7 fold induction) on mighty promoter expression in C2C12 myoblasts. This indicates that hypertrophic stimuli, leading to GATA2 expression, could result in upregulation of mighty gene expression.
+
+1.4.4
+
+Characteristics of the mighty protein
+
+The predicted ORF for mighty from mouse cDNA (Genbank accession number BC003291) is 576 bp long and codes for a 191 amino acid protein. The mouse mighty protein was predicted to have a molecular weight of 21676 Da and a pI of 8.91. Homology searches showed the mouse mighty protein to have 98% sequence homology with the rat and 93% homology with human mighty. Homology was lower with non-mammalian species; 37% for Drosophilia melanogaster and 27% for Caenorhabitis elegans, although N-terminal and Cterminal sequences share greater homology (Marshall, 2005). The function of the mighty-like protein in Caenorhabitis elegans has been briefly investigated using RNA interference (RNAi). This knockdown by RNAi resulted in embryonic lethality in Caenorhabitis elegans, indicating a vital role for mighty (Maeda et al., 2001).
+
+34
+
+The mouse mighty protein was predicted to be nuclear-localised with a reliability of 94.1% using the Reinhardt's method (Reinhardt & Hubbard, 1998) for cytoplasmic/nuclear discrimination (Marshall, 2005). In agreement, immunolocalisation studies show that endogenous mighty protein localises to the nucleus and the ER. Several possible phosphorylation sites within the mighty protein sequence were detected using PROSITE. These included five potential protein kinase C (PKC) phosphorylation sites and one potential protein kinase CK2 (CK2) phosphorylation site. The PKC sites are at amino acids 6-8 (TLK), 22-24 (SPK), 65-67 (SER), 132-134 (TLR), and 160-162 (STK) and were predicted from the consensus sequence S/T-X-R/K where the S or T is the phosphorylation site (PROSITE: PS00005). The CK2 site was predicted at amino acids 97-100 (SqsE) and was predicted according to the consensus sequence (S/T)-X-X-(D/E) where S or T is the phosphorylation site. Two potential myristoylation sites were also predicted at amino acids 117-122 (GSpgAF) and 183-188 (GTprTS) (PROSITE: PDOC00008). However, for myristoylation to occur the glycine residue must be made N-terminal by protein cleavage (Marshall, 2005).
+
+The secondary structure of the mighty protein was predicted using the Biomolecular Engineering Research Centre (BMERC) protein structure prediction program. This data estimates three -helices from amino acid residues 12-18, 74-102, and 138-180 with predominately loop structures for the remainder of the protein. The tertiary structure is more difficult to predict as the mighty protein sequence does not share a large degree of homology with any protein sequence of known function. The BLOCKS database showed the mighty protein may contain a forkhead transcription-factor domain from amino 35
+
+acids 49-89. Although the mighty protein shows poor homology with known forkhead domains listed on NCBI, there is large variation within the forkhead domains of known forkhead transcription factors. In addition, the secondary structure of mighty was predicted to be similar to the forkhead domain seen in the DNA binding proteins histone H5, E2F4, and DP2 (Marshall, 2005).
+
+1.5
+
+Aims of this thesis
+
+The formation of muscle is a complex process involving many genes and various signalling pathways. A novel gene mighty is up-regulated in myostatinnull mice which display extensive muscle growth, therefore mighty appears to act downstream of myostatin as a positive regulator of muscle growth. Based on sequence and protein domain analysis it appears that mighty is a myogenic factor involved in early myogenesis by having a role in the
+
+determination/proliferation and/or differentiation stages of skeletal myoblasts.
+
+This study aimed to characterise the endogenous mighty protein and determine its role during myogenesis. This study had three main objectives to achieve its aim: to characterise the mighty protein; to determine if mighty is differentially expressed during the cell-cycle; and to establish the expression profile of mighty during myoblast differentiation. 1. Characterisation of the mighty protein. This involved the use of two
+
+separate mighty anitibodies to assess mighty expression during over-expression, knockdown, in different cell types and tissues, and in nuclear extracts. The mighty protein was also to be purified and examined by mass-spectrometry analysis.
+
+36
+
+2.
+
+Mighty expression during the cell-cycle. This involved synchronising
+
+myoblasts at various stages of the cell-cycle and determining mighty protein expression. 3. Mighty expression during differentiation. This involved analysis of mighty
+
+expression during differentiation with C2C12 myoblasts and with normalmuscle (NM) and double-muscle (DM) bovine primary myoblasts. Also, RNAi was used to assess the effect of knocking down mighty expression.
+
+37
+
+CHAPTER TWO
+MATERIALS AND METHODS
+This chapter contains general information on chemicals and reagents. Common methods used in this project are described with specific methods or alterations described within the individual chapters.
+
+2.1
+2.1.1
+
+Materials
+Solutions
+
+Common solutions and their compositions are listed in Table 2.1. Table 2.1 Common Solutions Solution BSA blocking solution (Western) Composition 0.3 g BSA 1 g PVP 1 g PEG to 100 mL with TBST Cell Nuclear Extraction (Buffer A) 10 mM hepes 1.5 mM MgCl 10 mM KCl 1 mM DTT 1X protease inhibitor (Complete; Roche) Cell Nuclear Extraction (Buffer B) 20 mM hepes 25 % glycerol 420 mM KCl 0.2 mM EDTA mM DTT 1X protease inhibitor (Complete; Roche)
+
+38
+
+Solution IEF Sample Buffer (IEF-SB)
+
+Composition 8.0 M urea 3.0 M thiourea 65 mM DTT 65 mM CHAPS few grains of bromophenol blue Milli-Q water
+
+Lysis Buffer (protein extraction)
+
+50 mM Tris (pH 7.5) 250 mM NaCl 5 mM EDTA 0.1% (v/v) NP-40 1X protease inhibitor (Complete; Roche)
+
+Milk Blocking Solution (Western)
+
+5% (w/v) solution of low fat milk in TBST
+
+Muscle Nuclear Extraction (Binding buffer)
+
+20 mM hepes-NaOH (pH 7.9) 2 mM MgCl 40 mM KCl 10 % glycerol 1X protease inhibitor (Complete; Roche)
+
+Muscle Nuclear Extraction (Buffer 1)
+
+10 mM hepes-NaOH (pH 7.9) 10 mM MgCl 5 mM KCl 0.1 mM EDTA 0.1% triton X-100 1X protease inhibitor (Complete; Roche)
+
+39
+
+Solution Muscle Nuclear Extraction (Buffer 2)
+
+Composition 20 mM hepes-NaOH (pH 7.9) 1.5 mM MgCl 500 mM NaCl 0.2 mM EDTA 25 % glycerol 1X protease inhibitor (Complete; Roche)
+
+PBS
+
+1 phosphate buffered saline tablet (Oxoid) to 100 ml with Milli-Q water
+
+Protein Sample Buffer (NuPAGE® LDS)
+
+10% glycerol 141 mM Tris base 106 mM Tris HCl LDS 2% 0.51 mM EDTA 0.22 mM SERVA® Blue G250 0.175 mM phenol red pH 8.5
+
+Rehydration Buffer
+
+8.0 M urea 2.0% (w/v) CHAPS 6 mM DTT 2.0% (w/v) ampholytes, pH 3.5-10.0 few crystals of Orange-G Milli-Q water
+
+Resolving Gel Solution (250 ml)
+
+1.5 M Tris (pH 8.8) Milli-Q water 30% Stock acrylamide 10% APS TEMED
+
+62 ml 83 ml 104 ml 2 ml 100 µl
+
+40
+
+Solution Stacking Gel Solution (60 ml)
+
+Composition 0.5 M Tris (pH 6.8) Milli-Q water 30% stock acrylamide 10% APS TEMED 15 ml 36.7 ml 8 ml 270 µl 30 µl
+
+Stock acylamide
+
+30% (w/v) acrylamide 0.8% (w/v) bis-acrylamide Filter through Whatman No.1
+
+TBST
+
+50 mM Tris (pH 7.5) 150 mM NaCl 0.1% (v/v) Tween 20
+
+TE
+
+10 mM Tris-Cl (at desired pH) 1 mM EDTA (pH 8.0)
+
+Transfer Buffer (Western)
+
+25 mM Tris 190 mM glycine 20% (v/v) methanol
+
+Trypsin (10X) Western Running Buffer (NuPAGE® MES SDS)
+
+2.5% (v/v) trypsin in PBS 50 mM MES pH 7.2 50 mM Tris base 0.1% (v/v) SDS 1 mM EDTA pH 7.3
+
+41
+
+2.1.2
+
+Common laboratory chemicals and reagents
+
+All common laboratory chemicals and reagents are specified in Table 2.2. All chemicals and reagents are Analar grade unless otherwise stated. Table 2.2 Chemicals and Reagents Chemical or Reagent Ethanol; glycerol; hydrochloric acid; methanol; sodium chloride; Tween-20; EDTA; sodium hydroxide (pelleted); isopropanol; glucose Source BDH Ltd
+
+Bradford protein assay
+
+BioRad
+
+Ultra pure agarose; ethidium bromide; formamide; sodium dodecyl sulphate (SDS); Tris; SeeBlue® Plus2 prestained protein ladder; glycine; NuPAGE 4-12% Bis-Tris precast protein gels; DMEM (dulbeccos modified eagle medium);
+
+Invitrogen (Gibco BRL)
+
+Kodac imaging film (X-OMAT AR)
+
+Radiographic Supplies
+
+Me (Beta-mercaptoethanol)
+
+Sigma-Aldrich
+
+42
+
+2.1.3
+
+Antibodies
+
+Antibodies used in this thesis and their sources are listed in Table 2.3.
+
+Table 2.3 Primary antibodies Antibody Mouse anti-GAPDH Mouse anti-p21 Mouse anti-tubulin Rabbit anti-cyclinA Rabbit anti-MHC (MF-20) Rabbit anti-mighty (bovine) Rabbit anti-mighty (peptide) Rabbit anti-Myf-5 Rabbit anti-MyoD Rabbit anti-myogenin Rabbit anti-SP1 Source Research Diagnostics Incorporated BD Biosciences Pharmingen Sigma Santa Cruz Biotechnology, Inc DSHB, University of Iowa AgResearch QED Biosciences Santa Cruz Biotechnology, Inc Santa Cruz Biotechnology, Inc Santa Cruz Biotechnology, Inc Abcam
+
+2.1.4
+
+C2C12 mouse myoblasts
+
+Immortalised C2C12 mouse myoblasts were obtained from the American Type Culture Collection (ATCC) (Yaffe and Saxel, 1977). C2C12 cells express myogenic regulatory factors important in myogenisis and cell cycle regulation.
+
+43
+
+2.2
+
+METHODS
+
+Experiments were all performed with Milli-Q purified water (17.5 M) at room temperature unless otherwise stated. All cell culture work was carried out in laminar flow hoods in a tissue culture suit. Commonly used methods are listed below, whilst methods specific to a particular chapter are listed in the appropriate section.
+
+2.2.1
+
+Murine muscle removal
+
+4 week old mice were killed by asphyxiation with CO2 and cervical dislocation as required by the Ruakura Small Animal Colony (SAC). Ethics approval was granted from both AgResearch and The University of Waikato. The murine hind limb muscle were removed and either placed in PBS or immediately frozen in liquid nitrogen.
+
+2.2.2 2.2.2.1
+
+Myoblast cell culture Isolation of murine primary myoblasts
+
+Hind limb muscles were removed from 4-week old mice, minced thoroughly and digested with 0.2% collagenase 1A in DMEM (no serum) at 37oC with shaking (70 rpm) for 90 min. The digest was triturated with a 10 ml pipette repeatedly until no lumps were visible. The suspension was then filtered The filtered suspension was
+
+through a 100 µm and then a 70 µm filter.
+
+centrifuged at 4,000 rpm for 10 min and the pellet resuspended in 8 ml of warm satellite cell proliferation medium [DMEM, 20% foetal bovine serum (FBS), 10% horse serum (HS), 1% chick embryo extract (CEE)]. The cell suspension was pre-plated on uncoated 10 cm plates for 1.5 h, then transferred to 10% matrigel plates and incubated for 48 h at 37°C. After 48 h the media was 44
+
+changed to proliferation media [DMEM + 10% FBS]. After approximately 24 h in actively growing conditions the cells were treated depending on the specific experiment undertaken.
+
+2.2.2.2
+
+Isolation of primary bovine myoblasts
+
+Bovine normal muscle (NM) and double muscle (DM) myoblasts were isolated by Mark Thomas at AgResearch (Ruakura) from day 90 foetal bovine muscle.
+
+2.2.2.3
+
+Media components and the culturing of C2C12 myoblasts
+
+C2C12 myoblasts were cultured in Proliferation Medium which contained Dulbecco's Modified Eagle Medium (DMEM; Invitrogen), 10% FBS (Invitrogen), 7.22 nM phenol red (Sigma), 1 x 105 IU/L penicillin (Sigma), 100 mg/l streptomycin (Sigma). The medium was buffered with 41.9 mM NaHCO3 (Sigma) and gaseous CO2. All medium components were filter-sterilised with 0.22 µm pore filters. C2C12 myoblasts were cultured in incubators at 37oC, in 5% CO2 at specific experimental conditions.
+
+2.2.2.4
+
+Trypsinisation of cultured myoblasts from 10 cm plates
+
+The harvesting of myoblasts was achieved by the removal of the medium, followed by two washes with 5 ml of phosphate buffered saline (PBS). 5 ml of 1X trypsin (Invitrogen) was added to each plate and left at RT for 30 s. About 4 ml was removed and the cells were incubated at 37oC until the cells had detached (~ 10 min). Cells were washed off the plate with 5 ml of Proliferation Medium and transferred to a centrifuge tube. The cells were pelleted at 4,000 G and washed in 5 ml of PBS. The cells were then pelleted again at 4,000 G, the
+
+45
+
+supernatant removed, and the cells resuspended in 100-200 µl of lysis buffer. The cells were stored at -80oC until protein extraction.
+
+2.2.2.5
+
+Scraping of cultured myoblasts from 6-well plates
+
+Cultured myoblasts grown on 6-well plates had their medium removed and were then washed twice with 5 ml of PBS per well. 100-200 µl of Lysis Buffer was added to each well and the cells scraped with the blunt end of a 1 ml pipette tip. After approximately 1 min of scraping per well, the liquid was transferred to a 1.5 ml Eppendorf tube and frozen at -80oC until protein extraction.
+
+2.2.2.6
+
+Protein extraction from cultured myoblasts
+
+Total protein was extracted from cultured myoblasts for analysis by Western Blotting. After harvesting of the cells, the cell lysate was passed through a 0.45 mm gauge syringe needle 10 times. The cell lysate was then centrifuged at 12,000 G for 10 min with the supernatant removed and the resulting protein solution stored at -80°C.
+
+2.2.3 2.2.3.1
+
+Protein estimation Bradford assay
+
+The Bradford Assay (Bradford, 1976) was used to estimate the total protein concentration in protein extract samples. Sample protein was added to PBS to give a final volume of 100 µl. Bradford Reagent concentrate (BioRad) was diluted 1:5 with Milli-Q water and 1.2 ml was added to the diluted protein sample. Samples were then mixed and the absorbance measured at 595 nm using a UV spectrophotometer (Thermo Spectronic). The absorbances of BSA standards (0, 5, 10, 15, 20 µg/ml) were measured to generate a standard curve 46
+
+with which the unknown sample protein was compared and the protein concentration estimated.
+
+2.2.3.2
+
+2-D protein quantitation
+
+The 2-D Quant Kit (Amersham Biosciences) is designed for the accurate quantitation of protein concentration in samples for high resolution electrophoretic techniques such as 2-D electrophoresis. The procedure quantitatively precipitates proteins while leaving interfering substances in solution. The assay is based on the specific binding of copper ions to protein and the colour density is inversely related to the protein concentration. The assay has a linear response to protein in the range of 0-50 µg. 500 µl of precipitant was added to each tube, vortexed briefly and incubated for 2-3 min at RT. 500 µl of co-precipitant was then added to each tube and mixed briefly by vortexing. The tubes were then centrifuged at 15,000 G for 5 min to pellet the protein. The supernatant was then decanted and the tubes briefly centrifuged again, the remaining liquid was then removed using a micropipette. 100 µl of copper solution and 400 µl of Milli-Q water were then added to each tube and vortexed briefly. 1 ml of working colour reagent (100 parts colour reagent A with 1 part colour reagent B) was added to each tube and mixed by inversion. The samples were then incubated at room temperature for 15-20 min before reading the absorbance at 480 nm. The unknown samples were compared with BSA standards (0, 10, 20, 30, 40, 50 µg) to determine the protein concentration of the samples.
+
+47
+
+2.2.4
+
+SDS polyacrylamide gel electrophoresis
+
+Separation of protein for Western blotting was achieved using NuPage 4-12% gradient Bis-Tris pre-cast polyacrylamide gels (Invitrogen) in the XCELL II Mini gel apparatus (Novex) with 1X Nupage MES SDS running buffer (Invitrogen). Samples were mixed with 4X NuPage Sample Buffer (Invitrogen) and -mercaptoethanol before boiling for 5 min. Samples were run with the SeeBlue Plus2 Pre-Stained Standard (Invitrogen) to give a guide to the molecular weights of the proteins in the gel.
+
+2.2.5
+
+Western blotting
+
+Following electrophoresis, the acrylamide gels were removed from their pre-cast casing and washed in Western Blot Transfer Buffer. The protein was transferred to Trans-Blot (Bio-Rad) nitrocellulose membrane by electroblotting using the XCell II Blot Module (Invitrogen). The membranes were then stained with Ponceau S. solution for 5 min. Excess stain was washed off with Milli-Q water and the blot scanned to show effective transfer of protein. After washing the membranes for 5 min in TBST, the membranes were blocked in the appropriate blocker. Once blocking was complete, the membranes were incubated with the specified 1o antibody and the Horseradish Peroxidase (HRP) conjugated 2o antibody. Specific details on blockers, antibodies, and the detection of specific proteins is described in the appropriate experimental section. Western Lightning Chemiluminescence Reagent (PerkinElmer) was used to produce the luminescence reaction. Chemiluminescence was visualised using BioMax XAR film (Kodak). The bands were subsequently analysed by densitometry with a GS-800 Calibrated Densitometer (BioRad).
+
+48
+
+2.2.6
+
+Statistics
+
+Power studies are used by AgResearch statisticians to use the minimum number of animals while obtaining statistically valid results. Power is a property of a statistical significance test which needs to be approved by a statistician for AgResearch ethics approval. Results were analysed and the significance of the results determined by Student's t-test. The aim is to achieve at least 80% power with a level of significance of 0.05. For each variable, analysis of variance (SEM) will be used to determine the statistical significance. Quantitation was generally performed by densitometry analysis using a GS-800 Calibrated Densitometer (BioRad). Data were transformed if necessary.
+
+49
+
+CHAPTER THREE
+CHARACTERISATION OF THE MIGHTY PROTEIN 3.1 Introduction
+
+To fully understand the role of a particular protein, knowledge about its individual characteristics is required. In comparison to DNA, the study of proteins can be extremely challenging. While the genome of the cell is constant and nearly identical for all cells of an organism, the proteome is very complex and dynamic as it responds to various external factors. Proteins are also timeand cell-specific and can include isoforms and post-translationally modified (PTM) forms. Over 100 different PTMs have been identified so far which can dramatically alter the characteristics of a particular protein (O'Donovan et al., 2001). In addition, the dynamic range of protein expression within the proteome can vary by as much as 7-12 orders of magnitude (Pandey & Mann, 2000).
+
+Most of the previous work on characterising the mighty protein has involved the hypothetical characteristics established from sequence data. The hypothetical mouse mighty protein resulting from the predicted ORF (Genbank accession number BC003291) is 191 amino acids long with a predicted molecular weight of 21675 Da and pI of 8.91. The mouse mighty protein was predicted to be nuclear localised with a reliability of 94.1% using the Reinhardt's method for cytoplasmic/nuclear discrimination (Reinhardt and Hubbard, 1998). Six possible phosphorylation sites within the mighty protein sequence were detected using PROSITE. Two potential myristoylation sites were also predicted. The BLOCKS database showed the mighty protein may contain a forkhead transcription-factor domain. In addition, the secondary structure of mighty was
+
+50
+
+predicted to be similar to the forkhead domain seen in the DNA binding proteins Histone H5, E2F4, and DP2. Experimental work on recombinant mighty protein has shown that mighty does appear to be nuclear localised by both Western blotting and ICC using V5 and GFP antibodies (Marshall, 2005).
+
+Most of the work in this chapter will focus on characterising the endogenous mighty protein through the use of mighty antibodies. Two mighty antibodies will be used; one raised against the full-length bovine recombinant protein and the other raised against a conserved synthetic peptide of the mighty protein. Western blotting for endogenous mighty protein from various sources will then be established using these antibodies along with mighty overexpression and knockdown to ensure correct protein identification. Nuclear enrichment will be used to identify the localisation of endogenous mighty. The approximate isoelectric point of mighty will be established using the Rotofor (BioRad) system, which will also be a purification step for two-dimensional gel electrophoresis (2-DE). Various purification methods will be trialled, such as immunoprecipitation, to prepare mighty for mass-spectrometry analysis (MS).
+
+Various MS systems are available, however, experiments in this chapter will use "matrix-assisted laser desorption ionization time of flight" (MALDI-ToF) and "electrospray-ionization liquid chromatography tandem mass spectrometry" (ESI LC-MS/MS). Mass spectrometry analysis allows for protein identification and possible identification of splice variants, isoforms, and PTMs. Purified protein samples will be digested by trypsin to produce specific peptides which are more soluble and give more precise results for mass detection. The detected peptide masses are compared to the theoretical masses of peptides obtained by 51
+
+the in silico digest of the entire protein database. This method is known as peptide mass fingerprinting (PMF) and, depending on the matches obtained, can enable protein identification. Analysis of these peptides by tandem MS enables the amino acid composition and the sequence to be determined. This not only gives more rigourous protein identification but also can potentially give the sites of post-translational modifications as well as previously unrecognised splice variants and protein isoforms (Neverova & Eyk, 2005).
+
+This chapter aims to identify various characteristics of endogenous mighty protein which can potentially give clues to the role of mighty in myogenesis.
+
+52
+
+3.2
+3.2.1
+
+Materials and Methods
+Recombinant mighty proteins
+
+The recombinant murine (mMty) and bovine (bMty) protein were generated and purified by Amy Marshall at AgResearch. pRSETA vector (Invitrogen) was digested with BamH1 and Kpn1 and purified. The 655 bp BamH1/Kpn1 fragment of the IMAGE: clone 3498569 (Resgene) containing the murine ORF for mighty was cloned into the pRSETA vector in-frame with the N-terminal His tag. The bovine mighty ORF sequence was cloned into Pvu11 and BamH1 digested pRSETB (Invitrogen). The ligated constructs were transformed into DH5 cells and the recombinants analysed by restriction digests to verify correct insertion and orientation. The constructs were then transformed into BL21 cells and grown to sufficient density. The mMty and bMty recombinant proteins were purified using Ni-NTA Agarose resin chromatography (Qiagen).
+
+3.2.2 3.2.2.1
+
+Antibody purification Antibodies to full-length bovine mighty; Mighty (bovine) antibody
+
+The rabbit inoculation and blood collection was performed by the Ruakura Small Animal Colony. Blood from a rabbit inoculated with full-length bMty protein was spun at 2,000 rpm for 15 min at 4oC. The serum was separated from the clot and pH adjusted with 1/10th volume of 1.0 M Tris (pH 8.0). 2.5 ml of Protein-A agarose beads were added to an affinity chromatography column. The column was then washed with 10 bed volumes (25 ml) of 100 mM Tris (pH 8.0). The serum solution was passed through the column (5.5 ml), and the recovered solution passed through the column again. Beads were washed with 10 column volumes (25 ml) of 100 mM Tris (pH 8.0). A second wash was performed using 10 column volumes (25 ml) of 10 mM Tris (pH 8.0). The antibodies were then 53
+
+eluted from the beads using 500 µl of 100 mM glycine (pH 3.0). The eluate was collected in tubes containing 50 µl of 1 M Tris (pH 8.0). The tubes were then mixed gently to bring the pH back to neutral. The immunoglobulin-containing fractions were identified using the Bradford method for protein estimation (Bradford, 1976).
+
+3.2.2.2
+
+Antibodies to a C-terminal peptide of mighty; Mighty (peptide) antibody
+
+These antibodies were produced by QED Bioscience Inc by inoculating rabbits with a synthetic peptide corresponding with the 18 amino acid C-terminal region of the mighty protein. The serum was collected and the specific antibodies purified by affinity chromatography using the mighty peptide ligand attached to agarose beads.
+
+3.2.3 3.2.3.1
+
+Myoblast cell culture Transfection of C2C12 myoblasts with pcDNA3-Mighty
+
+C2C12 myoblasts were plated on four 10 cm plates and the cells grown until approximately 60% confluent. Per plate, 12.4 µg of pcDNA3-Mighty was diluted in 0.8 ml DMEM (no serum) and 12.4 µg of pcDNA3 (control) was diluted in 0.8 ml DMEM (no serum). 40 µl of Lipofectamine 2000 (Invitrogen) was diluted in 0.8 ml DMEM (no serum) per plate. The diluted DNA and diluted Lipofectamine was then combined and incubated for 20 min at RT. 3.6 ml of media was removed from each plate, leaving approximately 2.4 ml of media. 1.6 ml of the appropriate DNA/Lipofectamine solution was then added to each plate dropwise with gentle mixing. After 24 h from transfection, the plates were removed from the incubator and the protein extracted as in Section 2.2.2.6.
+
+54
+
+3.2.3.2 Transfection of C2C12 myoblasts with Mighty-siRNA Refer to Chapter 5, section 5.2.3.
+
+3.2.4 3.2.4.1
+
+Preparation of nuclear extracts Nuclear extraction from muscle tissue
+
+200 mg of frozen murine-hindlimb muscle (WT and myostatin-null) was placed in 1 ml of ice-cold `buffer 1' and homogenised on ice. 100 µl of homogenate was put aside for analysis and frozen at -80o C. The remaining homogenate was centrifuged at 3,000 G for 5 min at 4oC. The supernatant was collected for the cytoplasmic fraction and frozen at -80oC. The pellet was resuspended by trituration in 400 µl of ice-cold `buffer 2' and incubated on ice for 30 min. The suspension was then centrifuged at 3,000 G for 5 min. 200 µl of the supernatant was transferred to an Ultrafree filter unit (Millipore, Bedford, Ma, USA) and 200 µl of `binding buffer' was added. The unit was centrifuged at 4,500 G for 30 min at 4oC. The nuclear extract remaining in the top portion of the column was frozen at -80oC. The protein content was estimated by the Bradford assay.
+
+3.2.4.2 Nuclear extraction from C2C12 myoblasts Five 10 cm plates were grown in Proliferation Medium until approximately 80% confluent. Each plate was then washed twice with 5 ml of PBS. 8 ml of Differentiation Medium was then added to each plate and the cells incubated for 20 h. After incubation, the cells were trypsinised as in Section 2.2.2.4 except the pellet was resuspended in 400 µl of Buffer A and passed through a 0.45 mm gauge needle 10 times. The cells were then centrifuged at 20,000 G for 15 s. The supernatant (cytoplasmic extract) was removed and stored at -80oC. The pellet was then resuspended in 300 µl of Buffer B and left on ice for 20 min. After 20 55
+
+min, the solution was passed through a 0.45 mm gauge needle 10 times. The solution was then centrifuged at 20,000 G for 15 s. The supernatant (nuclear extract) was removed and stored at -80oC.
+
+3.2.5
+
+Isoelectric fractionization
+
+The MicroRotofor cell (BioRad) was used to separate C2C12 nuclear-extract protein by isoelectric focusing (IEF) in solution. The ion exchange membranes were equilibrated in electrolyte solution overnight prior to use: the anode membrane in 0.1 M H3PO4, and the cathode membrane in 0.1 M NaOH. The focusing components were then assembled as outlined in the manufacturer's instructions. 833 µl (6 µg/µl) of C2C12 nuclear-extract protein was diluted to 3 ml in Sample Buffer (IEF-SB) containing 60 µl of ampholytes (Bio-Lyte, pH 310). 2.5 ml of the diluted sample was then loaded into the chamber until all of the compartments were filled. 6 ml of 0.1 M H3PO4 was added to the vent hole of the anode assembly, and 6 ml of 0.1 M NaOH was added to the vent hole of the cathode assembly. The rotofor cell was then run at 20oC at 500 V until the mA levels remained consistent (~3.5 h). After focusing, the fractions were collected using the harvesting station. The fractions were then transferred into eppendorf tubes and frozen at -80oC.
+
+3.2.6
+
+Two-Dimensional polyacrylamide electrophoresis
+
+60 µl of fraction 5 Rotofor (BioRad) sample was made up to 125 µl with Sample Buffer (IEF-SB). The diluted sample was incubated for 1 h at RT with periodic vortexing to keep the sample in solution. After 225 µl of Rehydration Buffer was added, the sample was vortexed and incubated at room temperature for 1 h. The sample was then vortexed and centrifuged at 12,000 G for 10 min to pellet 56
+
+insoluble material. The 350 µl sample was pipetted evenly along a lane in a rehydration cassette (Pharmacia Biotech). The plastic cover strip was then removed from an immobilised pH gradient (IPG) strip (Pharmacia Biotech, pH 3.0-10.0) and the excess plastic cut from the basic end. The acidic end was then held with tweezers and lowered, gel side down, into the well containing the sample. After the lid was sealed on the rehydration tray, the sample was left overnight at RT with slow rocking. The isoelectric focusing was performed on the Bio-Rad Protean II IEF Cell. The pre-cut electrode wicks were dampened with Milli-Q water and excess water removed. The wicks were then placed across the electrode wire in the IEF cell lane. 1 ml of parraffin oil was added to the lane between the wicks. The fully rehydrated strip was added to the IEF tray with the acidic end towards the anode and the gel side down. The strip was then covered with 1.7 ml of Shell medicinal oil and the lid placed on the IEF tray. The IEF tray was placed in the IEF cell and ran overnight at RT. The 2 DE gels were run on a Protean II Multicell (BioRad) with the gels cast using a Protean II Multigel casting chamber (BioRad) for a 20 cm x 18 cm x 1.0 mm vertical gel. 250 ml of Resolving Gel Solution (without TEMED) was degassed under vacuum for 10 min. 100 µl of TEMED was then added, gently swirled, and pipetted between the glass plates in the casting chamber. 500 µl of watersaturated butanol was pipetted over the gel solution and the gel left to polymerise overnight. The butanol layer was then removed and washed with 1.5 M Tris (pH 8.8). Degased Stacking Gel Solution was pipetted above the set resolving gel up to an IPG strip width from the top of the plates. The IPG strip was then placed between the plates and set in place by overlaying with 0.5% (w/v) agarose. After approximately 1 h to set, the gel cassette was assembled in
+
+57
+
+the electrophoresis tank and ran for 25 mA/gel until the dye front reaches the gel base.
+
+3.2.7
+
+In-gel tryptic digestion
+
+The specific mighty spot was cut from the gel and placed into a 0.6 ml eppendorf tube. 100 µl of 25 mM ammonium bicarbonate/ 50% acetonitrile was added to the gel fragment and placed on a shaker at RT for 30 min, the liquid was then spun down and removed. This washing procedure was repeated until the gel piece was completely destained. 20 µl of 100% acetonitrile was then added to the gel fragment until it turned opaque. The gel fragment was then dried thoroughly in a vacuum centrifuge. The dried gel fragment was rehydrated with 10 µl of 0.1 µg/µl trypsin for 1 h at 37oC. 25 µl of 25 mM ammonium bicarbonate solution was then added and incubated at 37oC overnight. The gel was then sonicated for 10 min and the liquid transferred to a new tube and the pipette tip retained. 20 µl of 25 mM ammonium bicarbonate solution was then added to the gel fragment and placed in the sonicating water bath for 10 min. Using the same tip as previously, the solution was transferred to the tube containing the other supernatant. 10 µl of acetonitrile and 10 µl of 0.5% TFA (trifluoric acid) were then added to the gel fragment and sonicated for 10 min. The supernatant was transferred to the other supernatant tube using the previously saved pipette tip. 10 µl of acetonitrile was then added to the gel fragment, sonicated for 10 min, and the supernatant transferred as before. The white gel fragment was then discarded and the supernatant lyophilised in the vacuum dryer for 1.5 h. The lyophilised protein was then resuspended in 5% (v/v) formic acid/ 50% acetonitrile and stored at -20oC until use.
+
+58
+
+3.2.8
+
+Western blotting
+
+Total protein (15 µg) was separated by SDS-PAGE (4-12% gradient, pre-cast gels, Invitrogen) and transferred to nitrocellulose membrane (Bio-Rad) by electroblotting as described in Section 2.2.5. For the antibody incubations for mighty (bovine), SP1, tubulin, and GAPDH, the transferred membranes were blocked in 5% milk (w/v) in TBST at 4oC overnight. Primary antibody incubations were performed for 3 h at RT in 5% milk (w/v) in TBST at the following dilutions; mighty (bovine), 1:2000 dilution of a purified rabbit polyclonal anti-mighty antibody (AgResearch); SP1, 1:5000 dilution of a purified rabbit polyclonal anti-SP1 antibody (ab13370; Abcam); tubulin, 1:5000 dilution of a purified mouse monoclonal anti-tubulin antibody (T-9026 clone DM 1A; Sigma); GAPDH, 1:5000 dilution of a purified mouse monoclonal antirabbit glyceraldehyde-3-phosphate dehydrogenase (GAPDH) antibody (RDITRK5G4-6C5; Research Diagnostics Incorporated). Following the incubation, the membranes were washed (5 X 5 min) with TBST. After washing, membranes were incubated with secondary antibody (1:2000) for 1 h at RT. Either anti-mouse IgG HRP conjugate (PO447; DakoCytomation) or anti-rabbit IgG HRP conjugate (PO448; DakoCytomation) was used depending on the primary antibody. The membranes were then washed (5 X 5 min) in TBST. HRP activity was then detected using Western Lightning (PerkinElmer) Western Blot Chemiluminescence Reagent. The antibody incubations with mighty (peptide) used a different buffer system. The transferred membranes were blocked in a BSA buffer (0.3% BSA, 1% PVP, 1% PEG, TBST) for 3 h at RT to block nonspecific antibody binding. The blots were incubated with rabbit anti-mighty antibody (peptide) at 1:5000 dilution in BSA solution at 4°C overnight, with gentle shaking. Following the incubation, the membranes were washed (5 X 5 59
+
+min) with TBST. The membranes were then incubated with goat anti-rabbit conjugated to Horseradish Peroxidase (HRP) (Amersham) 1:2000 dilution in BSA solution for 1 h. Following washing (5 x 5 min in TBST), HRP activity was detected with ECL reagent (Western Lightning Chemiluminescense Reagent Plus). The bands were subsequently analysed by densitometry with a GS-800 Calibrated Densitometer (BioRad). For detection of mighty from muscle extracts using mighty (peptide) antibodies, the procedure was altered by incubating the secondary antibody in 5% milk solution.
+
+3.2.9
+
+Mass-spectrometry analysis
+
+Mass-spec analysis was performed by either The University of Waikato (MALDI-ToF) or HortResearch (ESI LC-MS/MS). The MALDI-ToF (matrixassisted laser desorption ionization time of flight) was used to detect peptide masses which were compared to the theoretical masses of peptides obtained by the in silico digest of the entire protein database (MASCOT). The ESI LCMS/MS (electrospray-ionisation liquid chromatography tandem mass
+
+spectrometry) is a more sensitive technique which enables the amino acid composition and the sequence to be determined.
+
+3.2.10
+
+Protein sequence analysis
+
+To predict the molecular weight and pI of the mighty protein the protein molecular weight prediction tool at http://au.expasy.org/tools/pi_tool.htm was used. For the prediction of phosphorylation sites and the predicted pI effect, the ProMoST prediction tool at http://proteomics.mcw.edu/promost/index.jsp was used. For the prediction of potential sumoylation sites the SUMOplotTM tool at http://www.abgent.com/doc/sumoplot was used. 60
+
+3.3
+3.3.1
+
+Results
+Identification of endogenous mighty protein in C2C12 myoblasts
+
+Mighty (bovine) and mighty (peptide) antibodies were used to detect the apparent endogenous mighty in C2C12 myoblasts. Recombinant mighty protein (bMty and mMty) were used as a comparison. Figure 3.1A shows mighty (bovine) antibody detecting recombinant bMty and mMty at approximately their expected size. No mighty band was visible in the expected size range (~22 kDa) in C2C12 cells but a band was detected at approximately 52 kDa. Figure 3.1B shows mighty (peptide) antibody did not appear to detect recombinant bMty but did detect recombinant mMty at the expected size. Like mighty (bovine) antibody, mighty (peptide) antibody detected protein at approximately 52 kDa in C2C12 myoblasts. Mighty overexpression (Figure 3.1C) and mighty knockdown (Figure 3.1D) was used to further investigate the apparent 52 kDa endogenous mighty to confirm its evident molecular weight. 52 kDa mighty levels were increased approximately two-fold (p<0.05) through transient-transfection with pcDNA3-Mighty. Conversely, 52 kDa mighty levels were decreased by approximately 67% (p<0.005) through transfection with mighty-siRNA.
+
+61
+
+Figure 3.1. Apparent molecular weight of endogenous mighty Western blots detecting recombinant (bMty and mMty) and endogenous mighty protein with: A, Mighty (bovine) antibodies; and B, Mighty (peptide) antibodies. C, Mighty overexpression in C2C12 myoblasts; D, Mighty knockdown in C2C12 myoblasts. Expression of the mighty controls was termed 100 and relative expression was plotted. Bars represent the relative mean ± SEM of three separate experiments. GAPDH and tubulin protein expression levels are provided to show even loadings. Upregulation of mighty by overexpression was significant by t-test (*p<0.05). Knockdown of mighty by mighty siRNA was also significant by t-test (**p<0.005). 62
+
+3.3.2
+
+Endogenous mighty protein is nuclear localised
+
+Cell and muscle lysates were nuclear enriched to establish the cellular localisation of the mighty protein. Mighty (peptide) antibodies were used for mighty protein detection. Figure 3.2A shows 52 kDa mighty to be nuclear localised in cell extracts from C2C12 myoblasts. Sp1 was used as a marker of the nuclear fraction to show the efficiency of the nuclear enrichment technique. Figure 3.2B shows 52 kDa mighty protein to be enriched in the nuclear fraction of both normal-muscle (NM) and double-muscle (DM) bovine myoblasts. There also appeared to be more 52 kDa mighty present in the DM than the NM cells. Figure 3.2C shows protein detected in murine muscle extracts was approximately 30 kDa. No protein was detected at 52 kDa. The protein detected in the muscle extracts at 30 kDa was also nuclear localised and appeared to be more abundant in the myostatin KO fraction.
+
+63
+
+64
+
+Figure 3.2. Mighty protein in nuclear enriched fractions Western blots of nuclear and cytoplasmic enriched fractions from various extracts. A, Cell extracts from C2C12 myoblasts; B, Cell extracts from NM and DM bovine primary myoblasts; C, Muscle extracts from WT and KO murine muscle. 65
+
+3.3.3
+
+Isoelectric point determination of endogenous mighty protein
+
+The approximate isoelectric point of endogenous mighty was determined by isoelectric focusing of the nuclear enriched fraction from C2C12 cells. Figure 3.3A shows the Rotofor (BioRad) fractions by Coomassie Blue stain. Figure 3.3B shows the Western blot of the Rotofor fractions with mighty protein seen predominately in fraction 5. Figure 3.3C shows the pH values of the various Rotofor fractions. The mighty containing Fraction 5 had a pH value of 5.7.
+
+66
+
+67
+
+Figure 3.3. Isoelectric determination of endogenous mighty protein A, Coomassie blue stained SDS gel of rotofer fractions; B, Western blot of rotofer fractions; C, Bar graph of pH values from rotofer fractions. 68
+
+3.3.4
+
+Two-dimensional electrophoresis of endogenous mighty protein
+
+Fraction 5 of the previously purified Rotofor fractions (Section 3.3.3) was separated by two-dimensional electrophoresis (2DE). Two 2DE gels were run under the same conditions simultaneously. One gel was Coomassie Blue stained to enable spots to be removed and analysed by mass spectrometry. Figure 3.4A shows the entire Ponceau S. stained membrane and the protein present from fraction 5. Figure 3.4B shows the Western blot portion of the 2DE transferred gel incubated with mighty (peptide) antibody. Protein was only detected in the 45-66 kDa portion of the membrane. Figure 3.4C shows the same Western blot previously incubated with mighty (peptide), re-incubated with mighty (bovine) antibody.
+
+69
+
+70
+
+Figure 3.4. Two-dimensional electrophoresis of endogenous mighty protein A, Ponceau S. stained membrane of fraction 5; B, Western blot of fraction 5 using mighty (peptide) antibody; C, Western blot of fraction 5 using mighty (bovine) antibody.
+
+71
+
+3.3.5
+
+Possible peptide masses determined from sequence data
+
+The expected peptide masses were first determined by sequence data to enable identification and comparisons to be made. Figure 3.5A shows the expected murine peptide masses after trypsin digestion and the resulting peptide masses after cysteine modification by carbidomethyl (CAM) from sequence data. Figure 3.5B shows the expected murine amino acid sequence with the possible sites of post-translational modifications derived from sequence information. Possible post-translational modifications identified are: five potential protein kinase C (PKC) phosphorylation sites and one potential protein kinase CK2 (CK2) phosphorylation site, two potential myristoylation sites, and three potential sumoylation sites.
+
+72
+
+Figure 3.5. Possible peptide masses determined by sequence data A, Expected peptide masses from murine mighty sequence; B, Possible posttranslational modifications of murine mighty protein.
+
+73
+
+3.3.6
+
+Peptide mass determination of mMty and bMty
+
+Both recombinant mighty proteins (mMty and bMty) were analysed by MALDIToF mass spectrometry to confirm their presence and to determine the expected peptides from endogenous mighty. Figure 3.6A shows the peptide coverage achieved from mMty by mass spectrometry and gives the total peptides determined from the murine mighty sample and shows the intensity of the various peaks. MASCOT search parameters were used for recombinant mMty protein identification (data not shown). A score of 121.00 was achieved which is well above the >69.00 required to achieve p<0.05 significance. Figure 3.6B shows the peptide coverage achieved from bMty by mass spectrometry and gives the total peptides determined from the bovine mighty sample and shows the intensity of the various peaks. MASCOT search parameters were used for recombinant bMty protein identification (data not shown). A score of 136.00 was achieved which is also well above the >69.00 required to achieve p<0.05 significance.
+
+74
+
+75
+
+Figure 3.6. Peptide mass determination of mMty and bMty A, The mMty sequence coverage and peak intensities using Flex analysis; B, The bMty sequence coverage and peak intensities using Flex analysis.
+
+76
+
+3.3.7
+
+Attempt to identify endogenous mighty by mass spectrometry
+
+Twelve spots identified by Western blotting were cut from the Coomassie stained 2DE gel and the subsequent digested peptides examined by MS analysis. `spot A' (Figure 3.4A) was analysed by LC-MS/MS at HortResearch, the MS data identified the protein vimentin in `spot A' (data not shown). The other eleven spots were analysed by MALDI-ToF at the University of Waikato. In addition, four bands were cut from a Coomassie stained 1DE gel from various samples purified by affinity chromatography and analysed by MALDI-ToF at the University of Waikato. No significant hits were obtained from any of these samples for endogenous mighty (data not shown).
+
+77
+
+3.4
+
+Discussion
+
+The theoretical molecular weight of the mighty protein, based on sequence data, is approximately 22 kDa. However, Western blot data shows the apparent molecular weight of endogenous mighty to be approximately 52 kDa (Fig 3.1). The recombinant mighty proteins (mMty and bMty), migrated at approximately 30 kDa, which is expected due to the sequence additions from the pRSETA and pRSETB vectors. Mighty (peptide) does not appear to detect recombinant bMty; this may be due to a possible blocking of the peptide epitope by surrounding amino acids from the pRSETA plasmid. There are various possibilities to account for why endogenous mighty is detected at 52 kDa and not the expected 22 kDa including dimerisation, phosphorylation, and sumoylation. Although dimers are expected to denature during Western blotting there are examples of dimers that resist strong denaturing conditions in the literature. These include dimers of -amyloid (Galeazzi et al., 1999), tubulin, tekin (Stephens, 1998), and pilin (Parge et al., 1990). In addition, endogenous mighty appears to be in the 52 kDa region during 2DE which is carried out under extremely denaturing conditions, making endogenous mighty existing as a dimer unlikely. Sequence data of mighty shows a possible six phosphorylation sites. Although a single phosphorylation adds only 97.9 Da to the mass of a protein, the negative charge due to phosphorylation can have a large influence on the migration of proteins by electrophoresis. Changes in protein mobility in SDS gels by phosphorylation have been shown previously. Phospholamban (Wegener & Jones, 1984), the regulatory subunit of type II cAMP-dependent protein kinase (Hofmann et al., 1975), glycogen synthase kinase (Ahmad et al., 1982), and the 21-kDa oncogene product coded for by the Harvey murine sarcoma virus (Shih et al., 1979) have all been reported to exhibit phosphorylation-induced mobility decreases in SDS 78
+
+gels. This effect can result in large mobility differences. Julien & Mushynski (1982) reported an increase in the apparent Mr of approximately 25 kDa for P200, and examples of 30-40% increases in Mr were given by Kaufmann et al. (1984) for various neurofilament proteins. Protein mobility shifts in SDS gels from phosphorylation is thought to involve either a decrease in the phosphoprotein's ability to bind SDS, or a direct effect of phosphorylation on the tertiary structure (Wegener & Jones, 1984). Similarly, phospholamban and -adrenergic receptor have both been shown to have more than one mobility form depending upon the level of phosphorylation (Stadel et al., 1983; Wegener & Jones, 1984). Another possible post-translational modification occurring with endogenous mighty is sumoylation. SUMO is an abbreviation for `small ubiquitin-like modifier' and many known SUMO substrates are transcription factors or coregulators of transcription. Sumoylation is the covalent addition of a 98 amino acid polypeptide to a consensus SUMO-acceptor site. This modification has been shown to alter protein mobility in SDS-PAGE, with Perdomo et al. (2005) reporting an apparent 24 kDa increase with sumoylated BKLF (basic Kruppel-like factor). Mighty contains three potential sumoylation sites with the most likely site having a score of 0.94 (SUMOplotTM). However, the sumoylation/desumoylation cycle appears to be highly dynamic, with only a small fraction of SUMO substrates detected in their sumoylated form at a given time (Dohmen, 2004). Therefore, it would be expected that mighty would be detected more strongly in its expected position (~25 kDa), than the approximately 50 kDa sumoylated form. It is possible that the mighty (peptide) antibodies are only detecting the sumoylated form due to possible conformational changes, but this is highly unlikely for mighty (bovine) antibodies which were raised against the entire mighty protein, and therefore 79
+
+should have various mighty epitopes. So although it appears likely that mighty can be sumoylated, it seems unlikely that sumoylation is responsible for the apparent size difference observed by electrophoresis. Therefore phosphorylation appears to be the most likely reason to account for the migration difference observed with endogenous mighty protein.
+
+In addition to the large difference in apparent molecular weight of endogenous mighty protein, it was also shown to have a very different isoelectric point than expected by sequence data. The isoelectric point estimated by amino acid sequence data was pH 8.91, whereas the isoelectric point of endogenous mighty, as shown by isoelectric focusing (Fig 3.3), was approximately pH 5.7. Both phosphorylation and sumoylation can affect a protein's net charge. Sumoylation structural analysis has shown that SUMO proteins possess a surface negative charge potential, so could alter the net charge of mighty (Huang et al., 2004). Unlike sumoylation, the effect of phosphorylation on the net charge of proteins has been well characterised. Phosphorylation influences a protein's charge depending on the protein's initial isoelectric point. By using ProMoST, the isoelectric point of mighty with 6 phosphorylations was given as pH 5.69. The negative charge of mighty would make it unlikely for mighty to bind to DNA directly. Therefore, if mighty does have a role in transcription, it would probably be in conjunction with another protein. It is also possible that mighty is inactive in its phosphorylated state and only binds to DNA when de-phosphorylated. This could possibly account for the approximately 30 kDa nuclear protein specifically seen in muscle extracts with mighty antibodies.
+
+80
+
+Two-dimensional electrophoresis showed a grouping of spots around the 45 to 66 kDa range when incubated with mighty antibodies (peptide). However, none of these spots gave significant hits for mighty when analysed by mass spectrometry. Other proteins which occur abundantly were detected including tubulin, vimentin, and IgG. The inability to detect endogenous mighty by mass spectrometry was probably due to it being a protein of low abundance. Large differences in protein distribution in organisms and cells is recognised as a major limitation in the identification and characterisation of low-abundant proteins (Ahmed & Rice, 2005). The 2DE protein sample in this chapter was purified by nuclear extraction and isoelectric focusing. In addition, affinity chromatography was also attempted with 1DE electrophoresis which also did not achieve sufficient purity. Therefore, a more rigourous protein purification method will probably have to be developed to allow endogenous mighty to be examined by mass spectrometry. For example, Wang et al. (2005) described a combination of methods used to successfully identify and characterise 75 low abundant proteins from serum. Immunodepletion was used to remove high abundant proteins before the separation of proteins in three dimensions according to their charge, hydrophobicity, and molecular masses. The subsequent use of mass spectrometry allowed for the identification of proteins in the micro to femtomolar range.
+
+The MS results on the recombinant mighty proteins (mMty and bMty) showed a relatively small coverage of the entire protein sequence. This may be due to the inherent nature of the peptides resulting from the tryptic digest of the mighty protein. Not all peptides are easily detected by mass spectrometry. Small (<500 Da), large (>3000 Da), and hydrophobic peptides are resistant to MS detection 81
+
+(Gygi et al., 2000). This can significantly limit the peptides available for protein identification and characterisation. In addition, post-translational modifications can block sites of trypsin digestion and alter peptide masses resulting in unrecognisable peptides. Sensitive MS techniques can potentially identify posttranslationally modified peptides but requires very pure protein samples. Therefore, MS is a potentially powerful technique for protein identification and characterisation but has limitations with low abundant and post-translationally modified proteins.
+
+82
+
+CHAPTER FOUR
+MIGHTY EXPRESSION DURING MYOBLAST PROLIFERATION 4.1 Introduction
+
+Proliferating myoblasts go through orderly stages of the cell-cycle to enable the accurate duplication of DNA and the subsequent division into two daughter cells. The cell-cycle, or cell division cycle, can be divided into four distinct stages: during the synthesis phase (S phase) the genetic material is copied faithfully; in the mitosis phase (M phase) the duplicated chromosomes are equally separated to the two daughter cells. The phases linking the S and M phases are gap-1 (G1) preceding the S phase and gap-2 (G2) preceding the M phase. The gap phases represent important regulatory check points and preparation for the following stage. During early G1, with the appropriate signals, a cell may withdraw from the cell-cycle into a resting quiescent state known as G0 or they may proceed to terminally differentiate (Tessema et al., 2004).
+
+Cell cycle exit and early differentiation are closely linked processes that depend on the presence of growth factors. For differentiation to proceed, cell cycle arrest must occur, this happens during the G1 phase of the cell cycle. Signalling pathways during proliferation are suppressed to allow differentiation, for example, the inactivation of cyclin-dependent kinase (cdk) activity during G1/S by cyclin-dependent kinase inhibitors (CKI) such as p21, block cell cycle progression before the S phase permitting the differentiation pathway (NadalGinard, 1978; Clegg et al., 1987).
+
+83
+
+MyoD and Myf-5 are two myogenic proteins that have very different expression profiles during the myoblast cell-cycle. MyoD is low in G0 and is at its highest in G1; MyoD levels drop at G1/S and subsequently increase from S to M. In contrast, Myf-5 is at its highest in G0 and decreases dramatically during G1, reappears during G1/S and remains stable from S to M. This implies specific functions for MyoD and Myf-5 during the cell cycle and establishes a correlation between their ratios and the capacity of myoblasts to differentiate. This entry into differentiation occurs in G1, when myoblasts express high levels of MyoD, but not in G0 when cells express high levels of Myf-5 (Kitzmann et al., 1998). Cyclin A is another protein that has a characteristic expression pattern during the various phases of the cell cycle. Cyclin A is seen as an early marker of the S phase (Girard et al., 1991). Cyclin A increases during S phase and the levels decline before metaphase via ubiquitin-mediated proteolysis (Yam et al., 2002). Therefore, MyoD, Myf-5, and cyclin A will be used as cell cycle markers in this chapter to examine the potential role of mighty in myoblast differentiation.
+
+Previous research in our laboratory on mighty overexpressing clones (Marshall, 2005) has shown that overexpression of mighty in C2C12 cells does not alter the rate of proliferation or the duration of the cell cycle phases. The levels of mighty mRNA were similar in the G1, G1/S, and S phases of the cell cycle but reduced in the G0 phase. Myoblasts in G0 are considered to be quiescent and similar to a subset of myoblasts in culture referred to as reserve cells. Reserve cells express Myf-5 and CD34 and do not differentiate, but with the appropriate signals, are able to re-enter the cell cycle. Reserve cells are therefore often considered to be the in vitro equivalent of quiescent satellite cells in muscle tissue. 84
+
+Hence to determine the role of mighty during proliferation, C2C12 myoblasts were synchronised to G0, G1, G1/S, S, and M according to the method of Kitzmann et al. (1998) and Western blotting was used to detect MyoD, Myf-5, and cyclin A protein during the cell cycle stages as markers for synchronisation. The levels of mighty protein expression at these cell cycle stages were then established to determine if mighty protein is differentially expressed during the cell cycle. In addition, mighty protein expression was detected by ICC during the cell cycle to compare with the Western results and to assess any possible spatial differences in mighty expression.
+
+85
+
+4.2
+4.2.1
+
+Materials and Methods
+C2C12 myoblast cell cycle synchronisation
+
+C2C12 myoblasts were seeded at a density of 15,000 cells/cm2 on 6-well plates (Nunc) to correspond to G0, G1, G1/S, S, and M stages of the cell cycle. Cells were left to attach overnight followed by the addition of DMEM (1 % (v/v) FCS) without methionine to all plates and incubated for 36 h. Protein from cells arrested in G0 was then extracted. Media was removed from the remaining plates and replaced with Proliferation Media (10 % FBS). After 1 h the media was removed from the G1/S, S, and M plates and replaced with Proliferation Media containing hydroxyurea (1 mM). After 3 h from the addition of Proliferation Medium, protein from the G1 plate was extracted. After 15 h from the addition of Proliferation Medium containing hydroxyurea, protein from the G1/S plate was extracted and the media changed to Proliferation Medium with the remaining S and M plates. Protein was extracted after 2 h for the S plate, and after 5 h for the M plate from the previous media change. Cells were harvested as in Section 2.2.2.5 and protein extracted as in Section 2.2.2.6.
+
+4.2.2
+
+Western blotting
+
+Total protein (15 µg) was separated by SDS-PAGE (4-12% gradient, pre-cast gels, Invitrogen) and transferred to nitrocellulose membrane (Bio-Rad) by electroblotting as described in Section 2.2.5. The transferred membranes were blocked in 5% milk (w/v) in TBST at 4oC overnight. Primary antibody incubations were performed for 3 h at RT in 5% milk (w/v) in TBST at the following dilutions; MyoD, 1:400 dilution of a purified rabbit polyclonal antiMyoD antibody (sc-304; Santa Cruz Biotechnology, Inc.); Myf-5, 1:400 dilution of a purified rabbit polyclonal anti-Myf-5 antibody (sc-302; Santa Cruz 86
+
+Biotechnology, Inc.); cyclin A, 1:400 dilution of a purified rabbit polyclonal anti-cyclin A antibody (sc-751; Santa Cruz Biotechnology, Inc.); GAPDH, 1:5000 dilution of a purified mouse monoclonal anti-rabbit glyceraldehyde-3phosphate dehydrogenase (GAPDH) antibody (RDI-TRK5G4-6C5; Research Diagnostics Incorporated). Following the incubation, the membranes were washed (5 X 5 min) with TBST. After washing, membranes were incubated with secondary antibody (1:2000) for 1 h at RT. Either anti-mouse IgG HRP conjugate (PO447; DakoCytomation) or anti-rabbit IgG HRP conjugate (PO448; DakoCytomation) was used depending on the primary antibody. The membranes were then washed (5 X 5 min) in TBST. HRP activity was then detected using Western Lightning (PerkinElmer) Western Blot Chemiluminescence Reagent. For the detection of mighty, the transferred membranes were blocked in a BSA buffer (0.3% BSA, 1% PVP, 1% PEG, TBST) for 3 h at RT to block nonspecific antibody binding. The blots were incubated with rabbit anti-mighty antibody (peptide) at 1:5000 dilution in BSA solution at 4°C overnight, with gentle shaking. Following the incubation, the membranes were washed (5 X 5 min) with TBST. The membranes were then incubated with goat anti-rabbit conjugated to horseradish peroxidase (HRP) (Amersham) 1:2000 dilution in BSA solution for 1 h. Following washing (5 x 5 min in TBST), HRP activity was detected with ECL reagent (Western Lightning Chemiluminescense Reagent Plus). The bands were subsequently analysed by densitometry with a GS-800 Calibrated Densitometer (BioRad).
+
+4.2.3
+
+Immunocytochemistry
+
+C2C12 cells were grown and synchronised as described in Section 4.2.1 in Permanox 4 well chamber slides (Invitrogen). After the appropriate 87
+
+synchronisation treatment, the medium was removed and the cells washed once with 500 µl of PBS for 2 min. The cells were then fixed with 500 µl 20:2:1 (70% ethanol:formalin:acetic acid) per well for 30 s. The fixative was then removed and cells washed 3 x in PBS for 2 min with gentle shaking. The cells were then permeabolised with 0.5% Triton X-100 in PBS for 10 min at RT. Each well was then rinsed in 500 µl PBS. The cells were blocked with 5% BSA and 5% normal goat serum (NGS) in PBS for 4 h at RT with gentle shaking (300 µl/well). Following blocking, the cells were then washed 3 x PBS for 2 min with gentle shaking. Cells were incubated with mighty antibody (peptide) at 1:200 in 2.5% BSA and 2.5% NGS in PBS at 4oC with gentle shaking overnight (200 µl/well). After incubation, the cells were washed 3 x in TBST for 5 min with gentle shaking. The secondary antibody AF488 (A11008; Molecular Probes) was used at a 1:300 dilution in 2.5% BSA and 2.5% NGS in PBS, incubated for 1 h at RT with gentle shaking in the dark (200 µl/well). The cells were then washed 2 x with TBST for 5 min with gentle shaking in the dark (500 µl/well). Cells were mounted in Fluorescence Mounting Solution (DakoCytomation) and visualised by using green (WIB) filters with a U-ULH burner (Olympus Optical). Micrographs were taken using an Olympus BX50F microscope (Olympus Optical) and a spot RTTM-KE slider camera (Diagnostics Instruments).
+
+88
+
+4.3
+4.3.1
+
+Results
+MyoD, Myf-5, and cyclin-A expression during the cell cycle
+
+MyoD and Myf-5 are two myogenic proteins that have very different expression profiles during the cell-cycle. The protein levels of MyoD, Myf-5, and cyclin A were examined by Western blotting in synchronised C2C12 myoblasts. As shown in Fig 4.1A, MyoD was at its lowest in G0 and highest in G1. Also as expected, MyoD levels decreased at G1/S and increased from S to M. Fig 4.1B shows Myf-5 to be at its highest in G0 and decreasing dramatically during G1. The levels of Myf-5 remained low throughout G1/S, S, and M phases. Fig 4.1C shows cyclin A expression which was very low in G0 and G1, then dramatically increased at G1/S and S phases as expected. However, cyclin A levels remained high during the M phase.
+
+4.3.2
+
+Mighty expression during the cell cycle
+
+Fig 4.2 shows no significant difference between G0 and G1 in mighty protein expression. Compared with levels in G0 and G1, mighty protein expression was slightly higher during G1/S and M, and slightly lower in S phase.
+
+89
+
+Figure 4.1 Synchronisation of C2C12 myoblasts Western blots and corresponding bar-graphs of specific protein expression in C2C12 myoblasts synchronised at G0, G1, G1/S, S, and M stages of the cell cycle. Maximum expression was termed 1.0 and relative expression at various time points was plotted. Bars represent the relative mean ± SEM of three separate experiments with Westerns performed twice on each protein sample. GAPDH protein expression levels are provided to show even loadings. A, MyoD expression; B, Myf5 expression; C, Cyclin A expression.
+
+90
+
+Figure 4.2 Mighty expression during the cell cycle Western blot and corresponding bar-graph of mighty protein expression in C2C12 myoblasts synchronised at G0, G1, G1/S, S, and M stages of the cell cycle. Maximum expression was termed 1.0 and relative expression at various time points was plotted. Bars represent the relative mean ± SEM of three separate experiments with Westerns performed twice on each protein sample. GAPDH protein expression levels are provided to show even loadings. 91
+
+4.3.3
+
+Mighty expression during the cell cycle by immunocytochemistry
+
+Western blotting was previously used to quantitatively examine mighty expression at various stages of the cell cycle (Fig 4.2). Immunocytochemistry was also used to qualitatively examine the expression of mighty at G0, G1, G1/S, S, and M phases of the cell cycle (Fig 4.3). Mighty distribution appeared to be perinuclear with lowest intensity seen in the G0 phase, whereas the highest intensity appeared to be in the G1/S phase of the cell cycle. In G1 and G1/S phases of the cell cycle, mighty also appeared to be localized to the golgi. Mighty expression in S and M phases appeared to be of similar intensity, however, mighty expression was diffuse in M phase and was detectable in the cytoplasm of the myoblasts.
+
+92
+
+93
+
+Figure 4.3 Mighty expression during the cell cycle by ICC ICC micrographs from C2C12 myoblasts at G0, G1, G1/S, S, and M phases of the cell cycle using mighty antibody (pep) to detect endogenous mighty protein. Mighty antibody staining was visualised with an Alexa Fluor 488 conjugate.
+
+94
+
+4.4
+
+Discussion
+
+In developing the synchronisation technique used in this study, Kitzmann et al., (1998) did various checks to validate its effectiveness. BrdU incorporation during DNA synthesis and antibodies were used to confirm the different stages of the cell cycle. To obtain myoblasts in a quiescent state (G0) without entry into differentiation, cells were grown in methionine-depleted medium. Methionine is an essential amino acid for growth but is not vital for cell viability (Nadal-Ginard, 1978). The commitment to quiescence is made near the end of the G1 phase; beyond this checkpoint, cells no longer respond to signals and complete their determined fate (Sherr, 2000). Therefore, cells should cycle until the G1 checkpoint where methionine depletion can trigger cell cycle exit and entry into quiescence. The cells grown in methionine-depleted medium by Kitzmann et al. (1998) did not incorporate BrdU and therefore appeared to be quiescent, and they also did not differentiate as shown by the lack of myogeninpositive nuclei. Therefore, the method of methionine-deprivation appears to be effective to arrest myoblasts in a quiescent and non-differentiated state. These quiescent myoblasts are able to either proliferate or differentiate depending on the subsequent growth medium used. Once the quiescent myoblasts were placed in proliferation medium, the most ideal timepoints were ascertained for the various cell cycle phases. In addition, hydroxyurea (HU) was used to prevent DNA replication and synchronise cells at the G1/S boundary. This block by HU is fully reversible and allows cells to be further synchronised into the S phase. Using this method, Kitzmann et al. (1998) estimated the percentage of cells in the S phase to be >90% in a period less than 4 h, with a peak between 1 and 3 h (~70%) after HU release. After 6 h from HU release, ~40% of myoblasts were observed to enter mitosis. This is a high proportion, as mitosis only lasts <1 h in 95
+
+the 20-22 h myoblast cell cycle after release from quiescence. Therefore, the synchronisation of C2C12 myoblasts by the double-block of G0-methionine deprivation and G1/S-HU blocking, appears to give insight to the G0, G1, G1/S, S, and M phases of the cell cycle. However, these phases are only enriched under the particular experimental conditions. It is expected that the G0, G1, and G1/S phases are the most highly enriched, whereas the S phase should be around 70% enriched and the M phase around 40% enriched. The M phase would have the most potential to be missed as it only lasts <1 h. This may explain some of the slight variation seen in my results compared to Kitzmann et al. (1998), especially with cyclin A in the M phase. Overall, my results agreed with those shown by Kitzmann et al. (1998), allowing for determination of mighty protein expression during the cell cycle.
+
+The protein levels of mighty were not completely consistent between the Western and ICC results. The differences seen appeared to be in G0 and M, where low levels of mighty were seen by ICC compared by Western. These differences could be due to slight experimental variation with the synchronisation experiment, as they were performed at different times with different batches of components. Although these variations should be small, the short duration of the M phase could potentially alter the results. Another possible reason for variations between ICC and Western could be due to differences in the nature of the protein samples. With ICC, the protein is in a more `natural' state in its cellular environment, whereas with Western blotting the protein is extracted from the lysed cells and denatured through treatment with SDS and -mercaptoethanol. The possibility exists that interactions between mighty and other proteins could block antibody binding by ICC. The 96
+
+separation of these protein interactions during Western blotting could potentially give different results. Also, differences in mighty cellular localisation were seen by ICC during the cell cycle. Mighty intensity appeared to be mainly perinuclear or localised to one side of the nucleus, indicating golgi localisation. This may be due to the addition of post-translational modifications occurring within the golgi. This is consistent with possible mighty phosphorylation occurring on newly synthesised protein during G1 and G1/S phases of the cell cycle.
+
+Taken together, the results from mighty mRNA and protein by ICC and Western appear to show mighty to be low in G0 and highest in G1/S. Low levels of mighty in G0 is consistent with the non-detection of mighty protein in quiescent satellite cells isolated from mouse muscle (unpublished results). Therefore, low levels of mighty during G0 (quiescence) may be due to high levels of myostatin present in G0 (McCroskey et al., 2003; Amthor et al., 2006) which may be required to keep cells in quiescence and stop myoblasts either proliferating or differentiating. Higher levels of mighty in G1/S could possibly correlate to the exit of myoblasts from the cell cycle to differentiate. This cell cycle exit is known to occur during G1 before the S phase, and is thought to involve increasing levels of MyoD during G1. Mighty is therefore possibly involved with the switch from proliferation to differentiation in myoblasts.
+
+97
+
+CHAPTER FIVE
+MIGHTY EXPRESSION DURING MYOBLAST DIFFERENTIATION 5.1 Introduction
+
+Skeletal myogenesis was described by Andres and Walsh (1996) as a highly ordered process of temporally separable events that direct the transition from the proliferative myoblast to the terminally differentiated myotube. They showed that in vitro myogenesis, using C2C12 myoblasts, involved at least four temporally separable events: first, the entry of myoblasts into the differentiation pathway was indicated by the initiation of myogenin expression; second, the irreversible withdrawal from the cell cycle was indicated by the expression of p21; third, phenotypic differentiation was indicated by the induction of MHC; fourth, the fusion of differentiated myocytes to form myotubes. The significance of myogenin can be observed in myogenin KO mice, where deficient transcripts of various muscle-specific proteins is seen, including MHC, muscle creatine kinase, the alpha and gamma subunits of the acetylcholine receptor, and MRF4 (Hasty et al., 1993). Once a myoblast enters the differentiation pathway, expresses myogenin and exits the cell cycle, it is committed to become skeletal muscle and is unable to proliferate.
+
+The differentiation of myoblasts is controlled by various factors. In cell culture experiments, differentiation of cells can be induced by depriving cycling myoblasts of serum, which results in the formation of committed myotubes. Myoblast differentiation is often viewed as being negatively regulated by medium components referred to as "mitogens." However, stimulators of differentiation also occur, for example IGF-II is a secreted factor required for
+
+98
+
+terminal differentiation and is up-regulated upon transfer to low-serum differentiation medium, IGF-II can also enhance differentiation when added to media (Florini et al., 1991b).
+
+Various studies have shown myostatin to inhibit the differentiation of myoblasts in a dose dependent manner (Langley et al., 2002; Rios et al., 2002; Joulia et al., 2003). In addition, Langley et al. (2002) showed this inhibition by myostatin to be reversible. Excess myostatin during differentiation inhibits the mRNA and protein levels of MyoD, myogenin, p21, and MHC, and inhibited the activity of creatine kinase (Langley et al., 2002; Rios et al., 2002). In agreement, Joulia et al. (2003) showed that overexpression of myostatin anti-sense upregulated MyoD mRNA and p21 protein levels. However, overexpression of MyoD did not rescue the myostatin induced inhibition of myoblast differentiation (Langley et al., 2002).
+
+A downstream target of myostatin, mighty appears to be a positive regulator of myoblast differentiation. Mighty overexpressing C2C12 myoblast clones have been shown to have enhanced differentiation (Marshall, 2005). This enhanced differentiation involves earlier formation of multinucleated myotubes and increased and earlier expression of myogenic differentiation markers MyoD, p21, myogenin, and MHC.
+
+This chapter aims to further investigate the role of mighty in differentiation of myoblasts. This will involve analysis of mighty expression during differentiation, firstly with C2C12 cells, and secondly with normal-muscle (NM) and double-muscle (DM) bovine primary myoblasts. The expression profile of 99
+
+mighty will be established in these cells and compared with other proteins known to be involved in differentiation: MyoD, p21, myogenin, and MHC. Finally, the knockdown of mighty protein by RNAi will be investigated to examine the effect on MyoD, p21, and myogenin protein expression during differentiation.
+
+5.2
+5.2.1
+
+Materials and Methods
+C2C12 myoblast differentiation
+
+C2C12 myoblasts were plated on six-well plates in Proliferation Medium until approximately 70% confluent. The cells were then washed twice in PBS and Differentiation Medium (DMEM + 2% horse serum) added to the cells. The myoblasts were harvested as described in Secton 2.2.2.5 after 0, 2, 4, 6, 8, 12, 24, 48, and 72 h time points after the addition of Differentiation Medium. The extraction of the protein from the cells was performed as outlined in Section 2.2.2.6.
+
+5.2.2
+
+Primary bovine myoblast (NM and DM) differentiation
+
+Bovine normal-muscle (NM) and double-muscle (DM) myoblasts were isolated by Mark Thomas (FMG, Ruakura) from day 90 foetal bovine muscle. The myoblasts were plated on 10 cm plates until approximately 70% confluent. The cells were then washed twice in PBS and Differentiation Medium (DMEM + 2% horse serum) added to the cells. The myoblasts were harvested by trypsinization as described in Section 2.2.2.4 after 0, 2, 4, 6, 8, 12, 24, and 48 h after the addition of Differentiation Medium. The extraction of the protein from the cells was performed as outlined in Section 2.2.2.6.
+
+100
+
+5.2.3
+
+Mighty-siRNA treatment of C2C12 myoblasts during differentiation
+
+The effect of knocking down mighty expression was investigated using siRNA specifically targeted for mighty mRNA. Mighty-siRNA duplexes were procured from Qiagen which were designed using the HiPerformance Design Algorithim (Novartis AG), integrated with a stringency homology analysis tool. This was based on information from the mighty gene accession number
+
+(6330407G11Rik), locus ID (68050), and species (mouse). The target region for 3HP is 1342-1362, and the target sequence is CTG CAA ATA CGT GGT GAG AAA. The mighty-siRNA was resuspended in 250 µl of Suspension Buffer (Qiagen) and heated to 90oC for 1 min. The resuspended siRNA (20 µM siRNA) was then incubated at 37oC for 1 h. A 2 µM working solution was made by further diluting an aliquot of 20 µM siRNA with Suspension Buffer. siRNA was stored at -20oC until required.
+
+C2C12 cells were plated and grown to 50-80% confluency at the time of transfection. Immediately prior to transfection, the medium was removed and the cells were washed once in 5 ml PBS. After the removal of the PBS, 2.3 ml of Differentiation Medium was added to each well. 5 nM siRNA was diluted in 100 µl of DMEM (no serum), 5 µl of HiPerfect Transfection Reagent (Qiagen) was added to the diluted siRNA and mixed by vortexing. The siRNA was then incubated for 5-10 min at RT to allow the formation of transfection complexes. The siRNA complexes were then added dropwise to the appropriate wells. The plates were gently agitated to allow even distribution of the transfection complexes. The cells were then incubated for 48 h after transfection before the protein was extracted as in Section 2.2.2.6. Negative controls consisting of HiPerfect only and HiPerfect plus non-target siRNA were used. 101
+
+5.2.4
+
+Western blotting
+
+Total protein (15 µg) was separated by SDS-PAGE (4-12% gradient, pre-cast gels, Invitrogen) and transferred to nitrocellulose membrane (Bio-Rad) by electroblotting as described in Section 2.2.5. For the antibody incubations for mighty (Bovine), MyoD, myogenin, p21, MHC, and tubulin, the transferred membranes were blocked in 5% milk (w/v) in TBST at 4oC overnight. Primary antibody incubations were performed for 3 h at RT in 5% milk (w/v) in TBST at the following dilutions; Mighty (bovine), 1:2000 of purified rabbit polyclonal anti-mighty antibody (AgResearch); MyoD, 1:400 dilution of purified rabbit polyclonal anti-MyoD antibody (sc-304; Santa Cruz Biotechnology, Inc.); myogenin, 1:400 dilution of purified rabbit polyclonal anti-myogenin antibody (sc-576; Santa Cruz Biotechnology, Inc.); p21, 1:400 dilution of purified mouse monoclonal anti-p21 antibody (BD Biosciences Pharmingen); MHC (MF-20), 1:1000 of purified rabbit polyclonal anti-MF-20 antibody (DSHB, University of Iowa); tubulin, 1:5000 dilution of purified mouse monoclonal anti-tubulin antibody (T-9026 clone DM 1A; Sigma). Following primary incubation, the membranes were washed (5 X 5 min) with TBST. After washing, membranes were incubated with secondary antibody (1:2000) for 1 h at RT. Either antimouse IgG HRP conjugate (P0447; DakoCytomation) or anti-rabbit IgG HRP conjugate (P0448; DakoCytomation) was used depending on the primary antibody. The membranes were then washed (5 X 5 min) in TBST. HRP activity was then detected using Western Lightning (PerkinElmer) Western Blot Chemiluminescence Reagent. The antibody incubations using mighty (peptide) used a different buffer system. The transferred membranes were blocked in BSA solution (0.3% BSA, 1% PVP, 1% PEG, TBST) for 3 h at RT to block nonspecific antibody binding. Primary antibody incubation used rabbit anti-mighty 102
+
+(peptide) antibody (QED Biosciences) 1:5000 dilution in BSA solution at 4°C overnight, with gentle shaking. Following primary incubation, the membranes were washed (5 X 5 min) with TBST. The membranes were then incubated with goat anti-rabbit conjugated to horseradish peroxidase (HRP) (Amersham) 1:2000 dilution in BSA solution for 1 h. Following washing (5 x 5 min in TBST), HRP activity was detected with ECL reagent (Western Lightning Chemiluminescense Reagent Plus). The bands were subsequently analysed by densitometry with a GS-800 Calibrated Densitometer (BioRad).
+
+103
+
+5.3 5.3.1
+
+Results
+Expression profiles of MyoD, myogenin, p21, and MHC in C2C12 myoblasts during differentiation
+
+The protein levels of MyoD, myogenin, p21, and MHC were monitored to check the efficiency of the differentiation experiment and to establish where mighty is expressed in the genetic hierarchy of differentiation. Fig 5.1 shows the expression profiles of MyoD, myogenin, p21, and MHC protein in C2C12 cells during differentiation. MyoD levels were first to increase at approximately 6-12 h and peak at about 24 h. MyoD was also present in all the early timepoints at approximately one third the peak expression. This was expected as MyoD is involved in proliferation in addition to differentiation. Myogenin and p21 levels were the next to increase at approximately 12 h, with peak expression at about 48 h. MHC levels followed, increasing at approximately 24 h with peak expression at about 72 h. Taken together, these results show the characteristic differentiation profile and allowed the subsequent comparison with mighty expression to be made.
+
+5.3.2
+
+Expression profile of mighty in C2C12 myoblasts during differentiation
+
+Fig 5.2A shows the very early expression of mighty at approximately 4 h with peak expression at about 12 h. Like MyoD, mighty protein was present in proliferating myoblasts. There also appeared to be a decrease in mighty protein initially from 0 h to 4 h before increased expression was seen. Mighty protein levels also reduced to a basal level at 48 h. Fig 5.2B shows the relative expression of mighty compared to MyoD, myogenin, p21, and MHC. This figure shows that peak mighty expression appeared to be considerably earlier than the other proteins tested. 104
+
+Figure 5.1 MyoD, myogenin, p21, and MHC expression during differentiation in C2C12 myoblasts Western blots and corresponding graphs of specific protein expression in C2C12 myoblasts during differentiation. Maximum expression was termed 1.0 and relative expression at various time points was plotted. Each point represents the relative mean ± SEM of at least three separate experiments with Westerns performed twice on each protein sample. GAPDH protein expression levels are provided to show even loadings. A, MyoD expression; B, Myogenin expression; C, p21 expression; D, MHC expression.
+
+105
+
+Figure 5.2 Mighty expression during differentiation of C2C12 myoblasts Western blots and corresponding graphs of specific protein expression in C2C12 myoblasts during differentiation. Maximum expression was termed 1.0 and relative expression at various time points was plotted. Each point represents the relative mean ± SEM of at least three separate experiments with Westerns performed twice on each protein sample. GAPDH protein expression levels, detected by anti-GAPDH antibodies, are provided to show even loadings. A, Mighty expression; B, Relative mighty expression compared with MyoD, myogenin, p21, and MHC.
+
+106
+
+5.3.3
+
+NM and DM primary bovine myoblast differentiation
+
+As myostatin-null mice have increased levels of mighty, it was expected that DM bovine cells will have increased mighty and also show enhanced differentiation compared to NM bovine cells. Fig 5.3 shows NM and DM bovine cells during differentiation. The cells were counted before plating to ensure similar cell densities, and at the 0 timepoint there was no visible difference between NM and DM cells. At 6 h from the addition of Differentiation Medium, there were visibly more DM cells than NM cells. By 12 h, there were visibly more DM cells than NM cells. By 24 h, some myotubes were visible in the DM cells. There appeared to be no myotubes in the NM cells and they appeared to have a similar density as the DM cells at 12 h. At 48 h, some myotubes were present in the NM cells whereas the DM cells had many multi-branched myotubes. Fig 5.4 shows the Western blots and corresponding graphs from the protein taken from the cells shown in Fig 5.3. Increased expression was seen for mighty, MyoD, myogenin, and p21 in the DM cells compared to the NM cells. The largest increases were seen with MyoD and p21 which also peaked earlier in the DM cells than the NM cells. Both mighty and myogenin showed the same general pattern of expression between the NM and DM cells, but with higher levels seen in the DM compared to the NM cells.
+
+107
+
+Figure 5.3 Primary bovine myoblasts during differentiation (NM and DM) Representative brightfield image of NM and DM myoblasts after 0, 6, 12, 24, and 48 hrs in the differentiation medium. 108
+
+Figure 5.4 Mighty, MyoD, myogenin, and p21 expression during differentiation in bovine myoblasts (NM and DM) Western blots and corresponding graphs of specific protein expression in primary bovine myoblasts (NM and DM) during differentiation. Maximum expression was termed 1.0 and relative expression at various time points was plotted. GAPDH protein expression levels are provided to show even loadings. A, Mighty expression; B, MyoD expression; C, Myogenin expression; D, p21 expression.
+
+109
+
+5.3.4
+
+Mighty-siRNA treatment of C2C12 myoblasts during differentiation
+
+RNA interference (RNAi) is a technique that knocks-down the expression of a protein by specifically degrading its mRNA. Fig 5.5A shows the knockdown of mighty protein expression by mighty-siRNA (Qiagen). The expression of mighty in C2C12 myoblasts transfected with mighty-siRNA was reduced by approximately 67% compared to cells transfected with non-target siRNA. A reduction in MyoD protein expression by approximately 31% was seen by mighty-siRNA (Fig 5.5B). Fig 5.5C shows an approximate 42% reduction in myogenin expression by mighty-siRNA, and Fig 5.5D showed that expression of p21 was reduced by approximately 34% by mighty-siRNA.
+
+110
+
+Figure 5.5 Mighty, MyoD, myogenin, and p21 expression in differentiating C2C12 myoblasts treated with mighty-siRNA Western blots and corresponding graphs of specific protein expression in C2C12 myoblasts treated with mighty-siRNA compared to cells treated with non-target siRNA during differentiation. Control expression was termed 100 and relative expression of mighty-siRNA treated cells was plotted. Each point represents the relative mean ± SEM of at least three separate experiments. GAPDH protein expression levels are provided to show even loadings. Knockdown of mighty by mighty siRNA is significant by t-test (**p<0.005). The reduction of MyoD, myogenin, and p21 expression is also significant by t-test (*p<0.05). A, Mighty expression; B, MyoD expression; C, myogenin expression; D, p21 expression. 111
+
+5.4
+
+Discussion
+
+The known positive inducers of myogenesis, such as insulin-like growth factors, enhance both MyoD expression and muscle differentiation (Pinset et al., 1988; Florini et al., 1991a; Albagli-Curiel et al., 1993; Carnac et al., 1993). Conversely, myostatin inhibits MyoD activity and expression resulting in the inhibition of myoblast differentiation (Langley et al., 2002). These results imply that a minimal level of MyoD must be reached before differentiation can be achieved. In agreement, MyoD levels have been observed to vary considerably in the nuclei of proliferating myoblasts by immunocytochemistry, whereas MyoD was seen to be homogeneously high in myotubes (Tapscott et al., 1988). During the terminal differentiation of skeletal myoblasts, MyoD appears to be upregulated before myogenin and p21, which are expressed in close succession. Andres & Walsh (1996) showed myogenin to be expressed before p21, as myogenin-positive cells remained capable of replicating DNA, whereas subsequent expression of p21 in differentiating myoblasts resulted in the postmitotic state. The appearance of structural proteins, such as myosin heavy chain (MHC) signals the phenotypic differentiation and subsequent fusion of differentiated myoblasts to form myotubes.
+
+To understand the role of mighty during muscle differentiation, the expression of mighty in C2C12 myoblasts was characterised. The differentiation profiles of MyoD, myogenin, p21, and MHC in this chapter (Figure 5.1) show the characteristic hierarchical expression during differentiation. The peak
+
+expression of mighty was at approximately 12 h, whereas MyoD expression peaked at approximately 24 h (Figure 5.2), indicating that mighty is possibly upstream of MyoD. In agreement, the knockdown of mighty by RNAi in C2C12 112
+
+myoblasts reduced the levels of MyoD protein (Figure 5.5B). Subsequent reductions were also seen with myogenin and p21, indicating that the knockdown of mighty may affect the entire myoblast differentiation pathway. Although a large (67%) reduction in mighty protein was achieved through RNAi, not all cells would be transfected with mighty-siRNA. These nontransfected cells would probably be producing normal amounts of IGF-II which is secreted into the medium. Therefore, even if transfected cells were not expressing mighty, they would still be receiving differentiation signals from other cells. So although significant reductions of differentiation markers were achieved using mighty-siRNA, extreme changes would not be expected.
+
+The role of mighty in differentiation has been predominately studied using mighty overexpressing clones derived from C2C12 myoblasts (Marshall, 2005). The use of primary myoblasts isolated from double muscle (DM) bovine muscle, gives an opportunity to study the effect of increased mighty expression through the non-functional myostatin seen in DM cattle. The comparison of DM to normal muscle (NM) cattle during differentiation offers a model which is similar to what is occurring in vivo to be examined. The myoblast images (Figure 5.3) clearly show the enhanced proliferation, and apparent enhanced differentiation, of the DM compared to the NM myoblasts. Figure 5.4 shows that higher levels of mighty in DM myoblasts corresponded with increased levels of MyoD, myogenin, and p21. There were especially large increases in MyoD and p21 protein levels, which also appeared to peak earlier in the DM compared to the NM cells. These results appear to show DM myoblasts to have enhanced differentiation, a phenotype seen in mighty overexpressing cells, which may be linked to mighty expression. 113
+
+As mighty appears to be upregulated before MyoD, and the expression of MyoD is reduced by mighty-siRNA, mighty appears to be upstream of MyoD. However, Marshall (2005) has shown that mighty, through promoter analysis, does not directly increase the expression of MyoD. The direct effect of mighty on the p21 promoter was also investigated in a similar way and also does not appear to be directly regulated by mighty. Therefore, if mighty does upregulate MyoD expression during differentiaion, it would require an intermediate factor. Results by Marshall (2005) indicate this factor to be IGF-II. Increased IGF-II promoter activity, expression, and secretion were observed with mighty overexpression in C2C12 myoblasts along with an upregulation of the phosphatidylinositol 3-kinase (P13K) pathway. This pathway has been previously shown by Pinset et al. (1997) to participate in IGF receptor dependent differentiation of muscle cells after exposure to IGF-II, followed by the expression of MyoD and myogenin. It has also been shown that IGF-II mRNA levels increase within a few hours of treatment of C2C12 cells with 2% horse serum (Florini et al., 1991b). Marshall (2005) also demonstrated that conditioned media taken from cultures of mighty overexpressing clones resulted in the enhanced differentiation of control cells in comparison to control conditioned medium. In agreement, the increased mighty mRNA seen in myostatin-null mice correlates with an increase in IGF-II mRNA in comparison to wild-type mice (Marshall, 2005). The mechanism of IGF-II mRNA upregulation by mighty overexpression was also investigated. No differences in mRNA stability were seen when actinomycin D, an inhibitor of RNA synthesis was used. However, mighty overexpression was shown to have an effect on IGF-II transcription through transient co-transfection with a mighty expression construct. Increased IGF-II promoter activity was observed in the presence of 114
+
+mighty overexpression, but only with the HDAC inhibitor, TSA. HDAC proteins have histone deacetylase activity, and the resulting deacetylation of histones prevents transcription factor access to DNA through more compact chromatin (Mal et al., 2001). Therefore, mighty appears to upregulate IGF-II expression in a HDAC dependent manner resulting in enhanced myogenic differentiation through the upregulation of MyoD expression
+
+The stage where mighty appears to be upregulated may involve the transition from proliferation to differentiation in myoblasts. Although mighty does not appear to be involved with the increased proliferation seen in myostatin-null animals, it may be an important factor in initiating myoblast differentiation. This gives mighty promise for treating muscle disorders where impaired differentiation is seen. For example, sarcopenia in aged muscle appears to be not only due to a limitation of satellite cells to proliferate, but also to their weakened capability to differentiate (Lorenzon et al., 2004; Bortoli et al., 2005).
+
+115
+
+CHAPTER SIX
+FINAL DISCUSSION AND FUTURE DIRECTIONS
+Mighty was originally discovered through the presence of higher levels of mighty mRNA in the muscle of myostatin-null mice compared to wild-type mice. Thus the role of mighty was investigated to determine its possible function in the myostatin-null phenotype. Results from this thesis appear to show that mighty plays an early role in myogenic differentiation. This role in differentiation appears to be upstream of MyoD through the upregulation of IGF-II and may be linked to cell cycle exit in the G1 phase of the cell cycle. Therefore, mighty may be involved in the enhanced differentiation seen in myostatin-null animals. Future work could use transgenic animals to further investigate the role of mighty in myogenesis. Transgenic animals could be generated to examine the effect of mighty overexpression and removal (mightynull). Although experiments using C. elegans indicate that mighty removal is lethal, the success of RNAi in this study could be further enhanced by constructing stably producing mighty-siRNA mutants. This could enable full knockdown of mighty expression, in addition, mighty knockdown at specific stages could be investigated through an inducible mighty-siRNA promoter. The use of a muscle-specific promoter could also allow the investigation of mighty knockdown specifically in skeletal muscle.
+
+The characterisation of the mighty protein revealed it to be a low-abundant nuclear protein which appears to be regulated by phosphorylation and sumoylation. The large difference in apparent molecular weight and charge of endogenous mighty protein, in addition to mighty sequence data, indicate that
+
+116
+
+endogenous mighty exists in a phosphorylated form (~52 kDa) during myoblast proliferation and differentiation. Interestingly, this 52 kDa form was not detected in muscle tissue, but a specific band was detected at ~30 kDa in nuclear extracts from muscle tissue. In addition, there also appeared to be more of this 30 kDa protein in myostatin-null muscle compared to control muscle. Therefore, the 30 kDa protein may be mighty in a hypophosphorylated form, possibly indicating a different function for mighty in fully-differentiated muscle compared to proliferating and differentiating myoblasts. The fact that mighty is a nuclear protein, of low-abundance, and contains a possible forkhead transcription-factor domain, appears to indicate that mighty acts as a transcription factor. However, the negative charge of 52 kDa mighty makes binding to DNA unlikely in this form. This raises the possibility that the 30 kDa hypophosphorylated form of mighty is active in muscle tissue through being positively charged, enabling DNA binding. However, as the levels of 52 kDa mighty were seen to increase, and subsequently decrease, during the early stages of differentiation, it is unlikely that the 52 kDa form is inactive. A more likely possibility is that 52 kDa mighty exerts its effects on transcription by forming a protein complex with another protein/s. As mighty overexpression in C2C12 myoblasts increases IGF-II promoter activity (Marshall, 2005), a direct interaction between mighty and DNA appears to be occurring.
+
+To investigate the possibility of the interaction of mighty with other proteins, various techniques could be employed. Western blotting could be performed under non-denaturing conditions to indicate if mighty is associated with another protein. The yeast two-hybrid assay could be used to assess the potential binding of mighty, but would be limited to the use of known proteins. Recombinant 117
+
+mighty protein (rMty) may also allow the binding and subsequent isolation of an interacting protein. The use of rMty would be preferred due to the ease of isolating large amounts of relatively pure rMty in comparison to endogenous mighty. If sufficient quantities of pure endogenous protein are required, a robust purification method will need to be developed. This may require methods to remove abundant proteins, such as immunoprecipitation, and subsequent use of `high performance liquid chromatography' (HPLC) methods to successfully isolate endogenous mighty protein from complex cellular lysates. Pure endogenous mighty should allow for robust MS analysis, potentially allowing for the identification of post-translational modifications (PTMs). The mighty gene could also be manipulated with the use of truncations and mutations of possible PTM sites. This could potentially give valuable information on PTMs and potential protein interactions. Also, the high probability of mighty sumoylation merits further investigation.
+
+In conclusion, results in this thesis indicate that mighty plays an early role in myogenic differentiation. Although insights were gained through mighty characterisation studies, more work is required to fully understand the function of mighty in myogenesis. Mighty may play an important role postnatally by enabling satellite cells to differentiate in repairing or growing muscle. This could be potentially a target for therapies where inadequate muscle repair occurs through the lack of myoblast differentiation into myotubes and subsequent muscle fibres.
+
+118
+
+References
+Adams, G. R. (1998). Role of insulin-like growth factor-I in the regulation of skeletal muscle adaptation to increased loading. Exerc Sport Sci Rev 26: 31-60. Ahmad, Z., A. A. DePaoli-Roach, et al. (1982). Purification and characterization of a rabbit liver calmodulin-dependent protein kinase able to phosphorylate glycogen synthase. J Biol Chem 257(14): 8348-55. Ahmed, N. and G. E. Rice (2005). Strategies for revealing lower abundance proteins in two-dimensional protein maps. J Chromatogr B Analyt Technol Biomed Life Sci 815(1-2): 39-50. Albagli-Curiel, O., G. Carnac, et al. (1993). Serum-induced inhibition of myogenesis 10. Amthor, H., A. Otto, et al. (2006). Myostatin imposes reversible quiescence on embryonic muscle precursors. Dev Dyn 235(3): 672-80. Andres, V. and K. Walsh (1996). Myogenin expression, cell cycle withdrawal, and phenotypic differentiation are temporally separable events that precede cell fusion upon myogenesis. J Cell Biol 132(4): 657-66. Artaza, J. N., S. Bhasin, et al. (2002). Endogenous expression and localization of myostatin and its relation to myosin heavy chain distribution in C2C12 skeletal muscle cells. J Cell Physiol 190(2): 170-9. Ballard, F. J., M. Ross, et al. (1988). Specific binding of insulin-like growth factors 1 and 2 to the type 1 and type 2 receptors respectively. Biochem J 249(3): 721-6. Barton-Davis, E. R., D. I. Shoturma, et al. (1999). Contribution of satellite cells to IGF-I induced hypertrophy of skeletal muscle. Acta Physiol Scand 167(4): 301-5. is differentially relieved by retinoic acid and triiodothyronine in C2 murine muscle cells. Differentiation 52(3): 201-
+
+119
+
+Beauchamp, J. R., L. Heslop, et al. (2000). Expression of CD34 and Myf5 defines the majority of quiescent adult skeletal muscle satellite cells. J Cell Biol 151(6): 1221-34. Bischoff, R. (1994). The embryonic origin of muscle. New York, McGraw-Hill. Bladt, F., D. Riethmacher, et al. (1995). Essential role for the c-met receptor in the migration of myogenic precursor cells into the limb bud. Nature 376(6543): 768-71. Blais, A., M. Tsikitis, et al. (2005). An initial blueprint for myogenic differentiation. Genes Dev 19(5): 553-69. Bortoli, S., V. Renault, et al. (2005). Modifications in the myogenic program induced by in vivo and in vitro aging. Gene 347(1): 65-72. Bradford, M. M. (1976). A rapid and sensitive method for the quantitation of microgram quantities of protein utilizing the principle of protein-dye binding. Anal Biochem 72: 248-54. Brand-Saberi, B., V. Krenn, et al. (1989). The control of directed myogenic cell migration in the avian limb bud. Anat Embryol (Berl) 180(6): 555-66. Braun, T., E. Bober, et al. (1994). MyoD expression marks the onset of skeletal myogenesis in Myf-5 mutant mice. Development 120(11): 3083-92. Buckingham, M. (2001). Skeletal muscle formation in vertebrates. Curr Opin Genet Dev 11(4): 440-8. Carlson, C. J., F. W. Booth, et al. (1999). Skeletal muscle myostatin mRNA expression is fiber-type specific and increases during hindlimb unloading. Am J Physiol 277(2 Pt 2): R601-6. Carnac, G., O. Albagli-Curiel, et al. (1993). 9-cis-retinoic acid regulates the expression of the muscle determination gene Myf5. Endocrinology 133(5): 2171-6. Cheng, Z. L., D. H. Zhu, et al. (2002). [MEF2 and myogenesis]. Yi Chuan 24(5): 581-5. 120
+
+Choi, J., M. L. Costa, et al. (1990). MyoD converts primary dermal fibroblasts, chondroblasts, smooth muscle, and retinal pigmented epithelial cells into striated mononucleated myoblasts and multinucleated myotubes. Proc Natl Acad Sci U S A 87(20): 7988-92. Christ, B. and C. P. Ordahl (1995). Early stages of chick somite development. Anat Embryol (Berl) 191(5): 381-96. Chu, C., J. Cogswell, et al. (1997). MyoD functions as a transcriptional repressor in proliferating myoblasts. J Biol Chem 272(6): 3145-8. Clegg, C. H., T. A. Linkhart, et al. (1987). Growth factor control of skeletal muscle differentiation: commitment to terminal differentiation occurs in G1 phase and is repressed by fibroblast growth factor. J Cell Biol 105(2): 949-56. Cooper, R. N., S. Tajbakhsh, et al. (1999). In vivo satellite cell activation via Myf5 and MyoD in regenerating mouse skeletal muscle. J Cell Sci 112 (Pt 17): 2895-901. Cornelison, D. D. and B. J. Wold (1997). Single-cell analysis of regulatory gene expression in quiescent and activated mouse skeletal muscle satellite cells. Dev Biol 191(2): 270-83. Crescenzi, M., T. P. Fleming, et al. (1990). MyoD induces growth arrest independent of differentiation in normal and transformed cells. Proc Natl Acad Sci U S A 87(21): 8442-6. Cserjesi, P. and E. N. Olson (1991). Myogenin induces the myocyte-specific enhancer binding factor MEF-2 independently of other muscle-specific gene products. Mol Cell Biol 11(10): 4854-62. De Arcangelis, V., D. Coletti, et al. (2005). Hypertrophy and transcriptional regulation induced in myogenic cell line L6-C5 by an increase of extracellular calcium. J Cell Physiol 202(3): 787-95. Dickson, C., R. Deed, et al. (1989). The structure and function of the int-2 oncogene. Prog Growth Factor Res 1(3): 123-32. 121
+
+Dietrich, S., F. Abou-Rebyeh, et al. (1999). The role of SF/HGF and c-Met in the development of skeletal muscle. Development 126(8): 1621-9. Dohmen, R. J. (2004). SUMO protein modification. Biochim Biophys Acta 1695(1-3): 113-31. Edmondson, D. G., T. J. Brennan, et al. (1991). Mitogenic repression of myogenin autoregulation. J Biol Chem 266(32): 21343-6. Elledge, S. J. (1996). Cell cycle checkpoints: preventing an identity crisis. Science 274(5293): 1664-72. Epstein, J. A., D. N. Shapiro, et al. (1996). Pax3 modulates expression of the cMet receptor during limb muscle development. Proc Natl Acad Sci U S A 93(9): 4213-8. Fan, C. M., C. S. Lee, et al. (1997). A role for WNT proteins in induction of dermomyotome. Dev Biol 191(1): 160-5. Fernig, D. G. and J. T. Gallagher (1994). Fibroblast growth factors and their receptors: an information network controlling tissue growth, morphogenesis and repair. Prog Growth Factor Res 5(4): 353-77. Florini, J. R., D. Z. Ewton, et al. (1996). Growth hormone and the insulin-like growth factor system in myogenesis. Endocr Rev 17(5): 481-517. Florini, J. R., D. Z. Ewton, et al. (1991a). Hormones, growth factors, and myogenic differentiation. Annu Rev Physiol 53: 201-16. Florini, J. R., K. A. Magri, et al. (1991b). Spontaneous differentiation of skeletal myoblasts is dependent upon autocrine secretion of insulin-like growth factor-II. J Biol Chem 266(24): 15917-23. Galeazzi, L., P. Ronchi, et al. (1999). In vitro peroxidase oxidation induces stable dimers of beta-amyloid (1-42) through dityrosine bridge formation. Amyloid 6(1): 7-13. Garry, D. J., Q. Yang, et al. (1997). Persistent expression of MNF identifies myogenic stem cells in postnatal muscles. Dev Biol 188(2): 280-94. 122
+
+Gibson, M. C. and E. Schultz (1983). Age-related differences in absolute numbers of skeletal muscle satellite cells. Muscle Nerve 6(8): 574-80. Girard, F., U. Strausfeld, et al. (1991). Cyclin A is required for the onset of DNA replication in mammalian fibroblasts. Cell 67(6): 1169-79. Girgenrath, S., K. Song, et al. (2005). Loss of myostatin expression alters fibertype distribution and expression of myosin heavy chain isoforms in slow- and fast-type skeletal muscle. Muscle Nerve 31(1): 34-40. Gonzalez-Cadavid, N. F., W. E. Taylor, et al. (1998). Organization of the human myostatin gene and expression in healthy men and HIV-infected men with muscle wasting. Proc Natl Acad Sci U S A 95(25): 14938-43. Grobet, L., D. Poncelet, et al. (1998). Molecular definition of an allelic series of mutations disrupting the myostatin function and causing doublemuscling in cattle. Mamm Genome 9(3): 210-3. Grounds, M. D. (1998). Age-associated changes in the response of skeletal muscle cells to exercise and regeneration. Ann N Y Acad Sci 854: 7891. Grounds, M. D. and Z. Yablonka-Reuveni (1993). Molecular and cell biology of skeletal muscle regeneration. Mol Cell Biol Hum Dis Ser 3: 210-56. Gu, Y., C. W. Turck, et al. (1993). Inhibition of CDK2 activity in vivo by an associated 20K regulatory subunit. Nature 366(6456): 707-10. Gussoni, E., Y. Soneoka, et al. (1999). Dystrophin expression in the mdx mouse restored by stem cell transplantation. Nature 401(6751): 390-4. Gygi, S. P., G. L. Corthals, et al. (2000). Evaluation of two-dimensional gel electrophoresis-based proteome analysis technology. Proc Natl Acad Sci U S A 97(17): 9390-5. Hasty, P., A. Bradley, et al. (1993). Muscle deficiency and neonatal death in mice with a targeted mutation in the myogenin gene [see comments]. Nature 364(6437): 501-6.
+
+123
+
+Hawke, T. J. and D. J. Garry (2001). Myogenic satellite cells: physiology to molecular biology. J Appl Physiol 91(2): 534-51. Hill, J. J., M. V. Davies, et al. (2002). The myostatin propeptide and the follistatin-related gene are inhibitory binding proteins of myostatin in normal serum. J Biol Chem 277(43): 40735-41. Hofmann, F., J. A. Beavo, et al. (1975). Comparison of adenosine 3':5'monophosphate-dependent protein kinases from rabbit skeletal and bovine heart muscle. J Biol Chem 250(19): 7795-801. Huang, W. C., T. P. Ko, et al. (2004). Crystal structures of the human SUMO-2 protein at 1.6 A and 1.2 A resolution: implication on the functional differences of SUMO proteins. Eur J Biochem 271(20): 4114-22. Irintchev, A., M. Zeschnigk, et al. (1994). Expression pattern of M-cadherin in normal, denervated, and regenerating mouse muscles. Dev Dyn 199(4): 326-37. Jeanplong, F., M. Sharma, et al. (2001). Genomic organization and neonatal expression of the bovine myostatin gene. Mol Cell Biochem 220(1-2): 31-7. Ji, S., R. L. Losinski, et al. (1998). Myostatin expression in porcine tissues: tissue specificity and developmental and postnatal regulation. Am J Physiol 275(4 Pt 2): R1265-73. Joulia, D., H. Bernardi, et al. (2003). Mechanisms involved in the inhibition of myoblast proliferation and differentiation by myostatin. Exp Cell Res 286(2): 263-75. Julien, J. P. and W. E. Mushynski (1982). Multiple phosphorylation sites in mammalian neurofilament polypeptides. J Biol Chem 257(17): 1046770. Kambadur, R., M. Sharma, et al. (1997). Mutations in myostatin (GDF8) in double-muscled Belgian Blue and Piedmontese cattle. Genome Res 7(9): 910-6. 124
+
+Kaufmann, E., N. Geisler, et al. (1984). SDS-PAGE strongly overestimates the molecular masses of the neurofilament proteins. FEBS Lett 170(1): 814. Kirikoshi, H., N. Sagara, et al. (2000). Molecular cloning and characterization of human FGF-20 on chromosome 8p21.3-p22. Biochem Biophys Res Commun 274(2): 337-43. Kirk, S., J. Oldham, et al. (2000). Myostatin regulation during skeletal muscle regeneration. J Cell Physiol 184(3): 356-63. Kitzmann, M., G. Carnac, et al. (1998). The muscle regulatory factors MyoD and myf-5 undergo distinct cell cycle-specific expression in muscle cells. J Cell Biol 142(6): 1447-59. Kocamis, H. and J. Killefer (2002). Myostatin expression and possible functions in animal muscle growth. Domest Anim Endocrinol 23(4): 447-54. Kornfeld, S. (1992). Structure and function of the mannose 6-
+
+phosphate/insulinlike growth factor II receptors. Annu Rev Biochem 61: 307-30. Kurek, J., J. Bower, et al. (1996). Leukaemia inhibitory factor treatment stimulates muscle regeneration in the mdx mouse. Neurosci Lett 212(3): 167-70. Lalani, R., S. Bhasin, et al. (2000). Myostatin and insulin-like growth factor-I and -II expression in the muscle of rats exposed to the microgravity environment of the NeuroLab space shuttle flight. J Endocrinol 167(3): 417-28. Langley, B., M. Thomas, et al. (2002). Myostatin inhibits myoblast differentiation by down-regulating MyoD expression. J Biol Chem 277(51): 49831-40. Lassar, A. B., R. L. Davis, et al. (1991). Functional activity of myogenic HLH proteins requires hetero- oligomerization with E12/E47-like proteins in vivo. Cell 66(2): 305-15. 125
+
+Lassar, A. B., S. X. Skapek, et al. (1994). Regulatory mechanisms that coordinate skeletal muscle differentiation and cell cycle withdrawal. Curr Opin Cell Biol 6(6): 788-94. Lee, S. J. and A. C. McPherron (2001). Regulation of myostatin activity and muscle growth. Proc Natl Acad Sci U S A 98(16): 9306-11. Linkhart, T. A., C. H. Clegg, et al. (1981). Myogenic differentiation in permanent 19-30. Linkhart, T. A., C. H. Clegg, et al. (1980). Control of mouse myoblast commitment to terminal differentiation by mitogens. J Supramol Struct 14(4): 483-98. Liu, J. P., J. Baker, et al. (1993). Mice carrying null mutations of the genes encoding insulin-like growth factor I (Igf-1) and type 1 IGF receptor (Igf1r). Cell 75(1): 59-72. Lorenzon, P., E. Bandi, et al. (2004). Ageing affects the differentiation potential of human myoblasts. Exp Gerontol 39(10): 1545-54. Ludolph, D. C. and S. F. Konieczny (1995). Transcription factor families: muscling in on the myogenic program. Faseb J 9(15): 1595-604. Ludwig, T., J. Eggenschwiler, et al. (1996). Mouse mutants lacking the type 2 IGF receptor (IGF2R) are rescued from perinatal lethality in Igf2 and Igf1r null backgrounds. Dev Biol 177(2): 517-35. Maeda, I., Y. Kohara, et al. (2001). Large-scale analysis of gene function in Caenorhabditis elegans by high-throughput RNAi. Curr Biol 11(3): 171-6. Mal, A., M. Sturniolo, et al. (2001). A role for histone deacetylase HDAC1 in modulating the transcriptional activity of MyoD: inhibition of the myogenic program. Embo J 20(7): 1739-53. clonal mouse myoblast cell lines: regulation by macromolecular growth factors in the culture medium. Dev Biol 86(1):
+
+126
+
+Marshall, A. E. (2005). Myostatin signalling to the novel gene mighty in myogenesis. Auckland, The University of Auckland. Matsumoto, K., T. Nakamura, et al. (1994). Hepatocyte growth factor/scatter factor induces tyrosine phosphorylation of focal adhesion kinase (p125FAK) and promotes migration and invasion by oral squamous cell carcinoma cells. J Biol Chem 269(50): 31807-13. McCroskery, S., M. Thomas, et al. (2003). Myostatin negatively regulates satellite cell activation and self-renewal. J Cell Biol 162(6): 1135-47. McFarlane, C. D. (2003). Regulation of p21 (CIP1/WAF1) by myostatin during myogenesis. Waikato, The University of Waikato. McMahon, C. D., L. Popovic, et al. (2003). Sexual dimorphism is associated with decreased expression of processed myostatin in males. Am J Physiol Endocrinol Metab 284(2): E377-81. McPherron, A. C., A. M. Lawler, et al. (1997). Regulation of skeletal muscle mass in mice by a new TGF-beta superfamily member. Nature 387(6628): 83-90. McPherron, A. C. and S. Lee (1996). The transforming growth factor-b superfamily. Growth Factors Cytokines Health Dis 1B: 357-393. Molinari, A. M., P. Bontempo, et al. (2000). Estradiol induces functional inactivation of p53 by intracellular redistribution. Cancer Res 60(10): 2594-7. Montarras, D., F. Aurade, et al. (1996). Autonomous differentiation in the mouse myogenic cell line, C2, involves a mutual positive control between insulin-like growth factor II and MyoD, operating as early as at the myoblast stage. J Cell Sci 109 (Pt 3): 551-60. Musaro, A., K. J. McCullagh, et al. (1999). IGF-1 induces skeletal myocyte hypertrophy through calcineurin in association with GATA-2 and NFATc1. Nature 400(6744): 581-5.
+
+127
+
+Nabeshima, Y., K. Hanaoka, et al. (1993). Myogenin gene disruption results in perinatal lethality because of severe muscle defect [see comments]. Nature 364(6437): 532-5. Nadal-Ginard, B. (1978). Commitment, fusion and biochemical differentiation of a myogenic cell line in the absence of DNA synthesis. Cell 15(3): 855-64. Naidu, P. S., D. C. Ludolph, et al. (1995). Myogenin and MEF2 function synergistically to activate the MRF4 promoter during myogenesis. Mol Cell Biol 15(5): 2707-18. Neverova, I. and J. E. Van Eyk (2005). Role of chromatographic techniques in proteomic analysis. J Chromatogr B Analyt Technol Biomed Life Sci 815(1-2): 51-63. Nigg, E. A. (2001). Mitotic kinases as regulators of cell division and its checkpoints. Nat Rev Mol Cell Biol 2(1): 21-32. Nishimura, T., Y. Nakatake, et al. (2000). Identification of a novel FGF, FGF21, preferentially expressed in the liver. Biochim Biophys Acta 1492(1): 203-6. O'Donovan, C., R. Apweiler, et al. (2001). The human proteomics initiative (HPI). Trends Biotechnol 19(5): 178-81. Olwin, B. B. and S. D. Hauschka (1986). Identification of the fibroblast growth factor receptor of Swiss 3T3 cells and mouse skeletal muscle myoblasts. Biochemistry 25(12): 3487-92. Ostbye, T. K., T. F. Galloway, et al. (2001). The two myostatin genes of Atlantic salmon (Salmo salar) are expressed in a variety of tissues. Eur J Biochem 268(20): 5249-57. Pandey, A. and M. Mann (2000). Proteomics to study genes and genomes. Nature 405(6788): 837-46.
+
+128
+
+Parge, H. E., S. L. Bernstein, et al. (1990). Biochemical purification and crystallographic characterization of the fiber-forming protein pilin from Neisseria gonorrhoeae. J Biol Chem 265(4): 2278-85. Partanen, J., S. Vainikka, et al. (1992). Diverse receptors for fibroblast growth factors. Prog Growth Factor Res 4(1): 69-83. Perdomo, J., A. Verger, et al. (2005). Role for SUMO modification in facilitating transcriptional repression by BKLF. Mol Cell Biol 25(4): 1549-59. Pinset, C., A. Garcia, et al. (1997). Wortmannin inhibits IGF-dependent differentiation in the mouse myogenic cell line C2. C R Acad Sci III 320(5): 367-74. Pinset, C., D. Montarras, et al. (1988). Control of myogenesis in the mouse myogenic C2 cell line by medium composition and by insulin: characterization of permissive and inducible C2 myoblasts. Differentiation 38(1): 28-34. Pownall, M. E., M. K. Gustafsson, et al. (2002). Myogenic regulatory factors and the specification of muscle progenitors in vertebrate embryos. Annu Rev Cell Dev Biol 18: 747-83. Randall, D., W. Burggren, et al. (1997). Eckert Animal Physiology, Mechanisms and Adaptations, W.H. Freeman and Company, New York. Rando, T. A. and H. M. Blau (1994). Primary mouse myoblast purification, characterization, and transplantation for cell-mediated gene therapy. J Cell Biol 125(6): 1275-87. Rebbapragada, A., H. Benchabane, et al. (2003). Myostatin signals through a transforming growth factor beta-like signaling pathway to block adipogenesis. Mol Cell Biol 23(20): 7230-42. Reinhardt, A. and T. Hubbard (1998). Using neural networks for prediction of the subcellular location of proteins. Nucleic Acids Res 26(9): 2230-6.
+
+129
+
+Rios, R., I. Carneiro, et al. (2002). Myostatin is an inhibitor of myogenic differentiation. Am J Physiol Cell Physiol 282(5): C993-9. Rosenblatt, J. D., D. Yong, et al. (1994). Satellite cell activity is required for hypertrophy of overloaded adult rat muscle. Muscle Nerve 17(6): 60813. Rudnicki, M. A., T. Braun, et al. (1992). Inactivation of MyoD in mice leads to up-regulation of the myogenic HLH gene Myf-5 and results in apparently normal muscle development. Cell 71(3): 383-90. Rudnicki, M. A., P. N. Schnegelsberg, et al. (1993). MyoD or Myf-5 is required for the formation of skeletal muscle. Cell 75(7): 1351-9. Sabourin, L. A. and M. A. Rudnicki (2000). The molecular regulation of myogenesis. Clin Genet 57(1): 16-25. Sakuma, K., J. Nishikawa, et al. (2003). Calcineurin is a potent regulator for skeletal muscle regeneration by association with NFATc1 and GATA2. Acta Neuropathol (Berl) 105(3): 271-80. Salerno, M. S., M. Thomas, et al. (2004). Molecular analysis of fiber typespecific expression of murine myostatin promoter. Am J Physiol Cell Physiol 287(4): C1031-40. Scaal, M., A. Bonafede, et al. (1999). SF/HGF is a mediator between limb patterning and muscle development. Development 126(21): 4885-93. Scata, K. A., D. W. Bernard, et al. (1999). FGF receptor availability regulates skeletal myogenesis. Exp Cell Res 250(1): 10-21. Schafer, B. W., T. Czerny, et al. (1994). Molecular cloning and characterization of a human PAX-7 cDNA expressed in normal and neoplastic myocytes. Nucleic Acids Res 22(22): 4574-82. Schiaffino, S. and C. Reggiani (1996). Molecular diversity of myofibrillar proteins: gene regulation and functional significance. Physiol Rev 76(2): 371-423.
+
+130
+
+Schuelke, M., K. R. Wagner, et al. (2004). Myostatin mutation associated with gross muscle hypertrophy in a child. N Engl J Med 350(26): 2682-8. Seale, P. and M. A. Rudnicki (2000). A new look at the origin, function, and stem-cell status of muscle satellite cells. Dev Biol 218(2): 115-24. Seale, P., L. A. Sabourin, et al. (2000). Pax7 is required for the specification of myogenic satellite cells. Cell 102(6): 777-86. Sharma, M., R. Kambadur, et al. (1999). Myostatin, a transforming growth factor-beta superfamily member, is expressed in heart muscle and is upregulated in cardiomyocytes after infarct. J Cell Physiol 180(1): 1-9. Sherr, C. J. (1996). Cancer cell cycles. Science 274(5293): 1672-7. Sherr, C. J. (2000). The Pezcoller lecture: cancer cell cycles revisited. Cancer Res 60(14): 3689-95. Sherr, C. J. and J. M. Roberts (1999). CDK inhibitors: positive and negative regulators of G1-phase progression. Genes Dev 13(12): 1501-12. Shi, Y. and J. Massague (2003). Mechanisms of TGF-beta signaling from cell membrane to the nucleus. Cell 113(6): 685-700. Shih, T. Y., M. O. Weeks, et al. (1979). Identification of a sarcoma virus-coded phosphoprotein in nonproducer cells tranformed by Kirsten or Harvey murine sarcoma virus. Virology 96(1): 64-79. Smith, C. K., 2nd, M. J. Janney, et al. (1994). Temporal expression of myogenic regulatory genes during activation, proliferation, and differentiation of rat skeletal muscle satellite cells. J Cell Physiol 159(2): 379-85. Sorrentino, V., R. Pepperkok, et al. (1990). Cell proliferation inhibited by MyoD1 independently of myogenic differentiation. Nature 345(6278): 813-5.
+
+131
+
+Stadel, J. M., P. Nambi, et al. (1983). Catecholamine-induced desensitization of turkey erythrocyte adenylate cyclase is associated with phosphorylation of the beta-adrenergic receptor. Proc Natl Acad Sci U S A 80(11): 3173-7. Stephens, R. E. (1998). Electrophoretic resolution of tubulin and tektin subunits by differential interaction with long-chain alkyl sulfates. Anal Biochem 265(2): 356-60. Stewart, S. A., I. Ben-Porath, et al. (2003). Erosion of the telomeric singlestrand overhang at replicative senescence. Nat Genet 33(4): 492-6. Szabo, G., G. Dallmann, et al. (1998). A deletion in the myostatin gene causes the compact (Cmpt) hypermuscular mutation in mice. Mamm Genome 9(8): 671-2. Tajbakhsh, S. and M. E. Buckingham (1994). Mouse limb muscle is determined in the absence of the earliest myogenic factor myf-5. Proc Natl Acad Sci U S A 91(2): 747-51. Tajbakhsh, S., D. Rocancourt, et al. (1997). Redefining the genetic hierarchies controlling skeletal myogenesis: Pax- 3 and Myf-5 act upstream of MyoD. Cell 89(1): 127-38. Tapscott, S. J., R. L. Davis, et al. (1988). MyoD1: a nuclear phosphoprotein requiring a Myc homology region to convert fibroblasts to myoblasts. Science 242(4877): 405-11. Tessema, M., U. Lehmann, et al. (2004). Cell cycle and no end. Virchows Arch 444(4): 313-23. Thies, R. S., T. Chen, et al. (2001). GDF-8 propeptide binds to GDF-8 and antagonizes biological activity by inhibiting GDF-8 receptor binding. Growth Factors 18(4): 251-9. Thomas, M., B. Langley, et al. (2000). Myostatin, a negative regulator of muscle growth, functions by inhibiting myoblast proliferation. J Biol Chem 275(51): 40235-43. 132
+
+Tollefsen, S. E., R. Lajara, et al. (1989). Insulin-like growth factors (IGF) in muscle development. Expression of IGF-I, the IGF-I receptor, and an IGF binding protein during myoblast differentiation. J Biol Chem 264(23): 13810-7. Venuti, J. M., J. H. Morris, et al. (1995). Myogenin is required for late but not early aspects of myogenesis during mouse development. J Cell Biol 128(4): 563-76. Wang, H., S. G. Clouthier, et al. (2005). Intact-protein-based high-resolution three-dimensional quantitative analysis system for proteome profiling of biological fluids. Mol Cell Proteomics 4(5): 618-25. Wang, Y., R. Benezra, et al. (1992). Id expression during mouse development: a role in morphogenesis. Dev Dyn 194(3): 222-30. Wegener, A. D. and L. R. Jones (1984). Phosphorylation-induced mobility shift in phospholamban in sodium dodecyl sulfate-polyacrylamide gels. Evidence for a protein structure consisting of multiple identical phosphorylatable subunits. J Biol Chem 259(3): 1834-41. Wei, Q. and B. M. Paterson (2001). Regulation of MyoD function in the dividing myoblast. FEBS Lett 490(3): 171-8. Weintraub, H. (1993). The MyoD family and myogenesis: redundancy, networks, and thresholds. Cell 75(7): 1241-4. West, R. L. (1974). Red to white fiber ratios as an index of double muscling in beef cattle. J Anim Sci 38(5): 1165-75. Wigmore, P. M. and G. F. Dunglison (1998). The generation of fiber diversity during myogenesis. Int J Dev Biol 42(2): 117-25. Yablonka-Reuveni, Z. and A. J. Rivera (1994). Temporal expression of regulatory and structural muscle proteins during myogenesis of satellite cells on isolated adult rat fibers. Dev Biol 164(2): 588-603.
+
+133
+
+Yaffe, D. and O. Saxel (1977). A myogenic cell line with altered serum requirements for differentiation. Differentiation 7(3): 159-66. Yam, C. H., T. K. Fung, et al. (2002). Cyclin A in cell cycle control and cancer. Cell Mol Life Sci 59(8): 1317-26. Zachwieja, J. J., S. R. Smith, et al. (1999). Plasma myostatin-immunoreactive protein is increased after prolonged bed rest with low-dose T3 administration. J Gravit Physiol 6(2): 11-5. Zhu, X., S. Topouzis, et al. (2004). Myostatin signaling through Smad2, Smad3 and Smad4 is regulated by the inhibitory Smad7 by a negative feedback mechanism. Cytokine 26(6): 262-72. Zimmers, T. A., M. V. Davies, et al. (2002). Induction of cachexia in mice by systemically administered myostatin. Science 296(5572): 1486-8.
+
+134
+
+

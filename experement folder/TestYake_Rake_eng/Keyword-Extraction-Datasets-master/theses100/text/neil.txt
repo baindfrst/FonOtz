@@ -1,0 +1,1874 @@
+CHAPTER ONE: INTRODUCTION
+
+CHAPTER ONE
+
+Introduction
+1.1. Background
+The coastal township of Whangamata sources its potable water supply solely from fractured rhyolites and andesite aquifers. For most of the year the aquifers are not put under pressure, however large demand over the summer vacation period requires a greater extraction rate. Approximately 3,555 residents live in Whangamata, however this balloons out to around 20,000 between December 26th and January 15th. In 2003 a population study was undertaken in which a maximum of 48,385 occupied the town on December 31st (Baker, 2004). During this peak period water extraction volumes triple despite heavy water restrictions.
+
+In recent years well water level drawdowns have consistently been below sea level. As a result sea water intrusion is a realistic threat with the township's close proximity to the Pacific Ocean. Of the 7 major bores 6 are located within 500 metres of sea water. Sea water intrusion has previously been recognized as a major threat with Thames Coromandel District Council commissioning 4 consultant investigations in the past 10 years. The primary purpose of the studies was to provide information on increasing water abstraction to meet demand in a sustainable manner. The studies provided good information on the aquifer system and because of the lack of any information to suggest otherwise concluded that the aquifers were largely isolated from the sea water (PDP, 1995; Rekker and Greig, 2001; Simpson, 2006; Simpson and Fraser, 2005). Close monitoring was recommended by all the reports to continually ensure that sea water was not being drawn into the freshwater system.
+
+In late 2005 Waireka Place Bore 2 exceeded its consented electrical conductivity level and was forced to close. Implemented as a resource consent condition, electrical conductivity is used as an indicator measurement for sea water intrusion. Although it measures total dissolved solids electrical conductivity is generally associated with sea
+
+1
+
+CHAPTER ONE: INTRODUCTION
+
+water in a coastal locality. The consent breach suggests that the aquifers have a close interaction with seawater and over extraction can be detrimental to water quality.
+
+Since Waireka Place Bore 2 exceeded its consented electrical conductivity limit 2 other bores have shown increasing trends. Sustainable extraction rates are needed in the bores in order to prevent further loss of water supply in a town already reaching limits of available water.
+
+1.2. Objectives of study
+The main objectives of this thesis are to; (1) Analyse historical bore water information to determine bore water trends, (2) Create an empirical model to predict seasonal bore water level fluctuations and long term trends and (3) Investigate alternative approaches to meeting water demand in Whangamata to mitigate any possible sea water intrusion.
+
+1.3. Thesis outline
+Chapter two characterizes the study area and geology, climate, bore details and hydraulic characteristics. Particular emphasis is given to environmental and human influences on the groundwater system.
+
+Chapter three reviews relevant literature associated with Whangamata groundwater. Key areas such as sea water intrusion, modelling to determine sustainable pumping rates, sustainable groundwater management, and integrated management are reviewed. International and local examples are used to help identify similarities and best practices in comparable environments.
+
+Chapter four studies the available data regarding bore water abstraction and water levels.
+
+2
+
+CHAPTER ONE: INTRODUCTION
+
+Chapter five studies the available data regarding water conductivity. The information is primarily based on weekly conductivity measurement taken from production bores. The conductivity is used as a proxy measurement for possible sea water intrusion.
+
+Chapter six presents the development of a model to forecast well water levels. Both multiple linear regression and neural network models are used and their effectiveness is compared and discussed. Several pumping scenarios are looked at using the most effective model to give an understanding of possible future water levels.
+
+Chapter seven discusses possible alternative management options available to decrease the pressure on Whangamata groundwater.
+
+Chapter eight discusses conclusions and recommendations.
+
+3
+
+CHAPTER TWO: SITE DESCRIPTION
+
+CHAPTER TWO
+
+Site description
+2.1. Introduction
+Whangamata is located on the lower eastern coast line of the Coromandel Peninsula. The Whangamata township lies at the foot of the Coromandel Range approximately 120km south east of Auckland. The population of Whangamata is approximately 3,555 (www.stats.govt.nz/census/, 23 December 2006 ). The town water supply is provided primarily from groundwater. 10 bores are located in close proximity to the town and abstract water from fractured rhyolite and andesite aquifers. Of the 10 bores only 6 abstract groundwater all year round, the remaining four are used primarily during the summer high demand period. Figure 2.1 depicts the location of the well fields. Beverly Hills (3 production bores), Waireka Place (2 production bores) and State Highway 25 (1 main production bore) wellfields are used all year round while Manuka Place, Insha Alah and Wentworth Valley bores are utilised primarily during the summer months (increased water demand).
+Insha Alah Bore
+
+This Following chapter describes site specific influences in the groundwater abstraction including geology, rainfall, hydraulic aquifer information, aquifer recharge and bore details.
+
+4
+
+CHAPTER TWO: SITE DESCRIPTION
+
+Insha Alah Bore
+
+State Highway 25 wellfield Waireka Place wellfield Manuka Place Bore
+
+Wentworth Valley wellfield
+
+Beverly Hills wellfield
+
+Figure 2. 1 Whangamata aerial photograph with well locations.
+
+2.2. Geology
+Whangamata lies in the Coromandel Volcanic Zone (CVZ), which forms part of the late Cenozoic Hauraki Volcanic Region of New Zealand. The CVZ is regarded as a tectonic precursor to the currently active Taupo Volcanic Zone (Adams et al., 1994). The CVZ has been the subject of many geological studies (see review by Skinner (1986), however, none of these have focused directly on Whangamata. Briggs and Fulton (1990) studied the Tunaiti caldera just south of Whangamata (Whiritoa) which is the closest study to this research field area. However, based on bore logs and general Coromandel geology studies (Adams et al., 1994; Skinner, 1986), Whangamata can be categorised into 2 main rock types; quaternary sand deposits and tertiary volcanic rocks. 2.2.1. Quaternary deposits As seen in Figure 2.2, quaternary age (less than 2 million years old) beach, alluvial and colluvial sediments lie atop the volcanic rocks on the coastal plains.
+
+5
+
+CHAPTER TWO: SITE DESCRIPTION
+
+Whangamata township is located on top of the sand deposits which range between 6-12m in depth. Deposits of these quaternary sands, silts, muds and clays are also found in the Otahu and Moanaanuanu estuaries.
+
+2.2.2. Tertiary volcanic rocks A thick sequence of volcanic rocks occur throughout the Whangamata area, either exposed in places or below the quaternary deposits. The igneous rocks range from late Miocene to Pliocene in age and are comprised of ignimbrites, rhyolites and andesites. Table 2.1 shows the different geological units mapped in the Coromandel area. Of particular interest to Whangamata hydrogeology are the rhyolites and andesites.
+
+Table 2. 1 Summary of the regional geological units mapped in the Coromandel, relevant to Whangamata (adapted from Skinner, (1986))
+Stratigrahic unit Group Sub group Beach Deposits Alluvial and colluvial deposits Minden Rhyolite Coroglen Coromandel Omahine Waiwawa Age Quaternary Quaternary Late Miocene to Pliocene Late Miocene to Early Pliocene Late Miocene to Pliocene Early late Miocene Lithological Description Unconsolidated, sandy to muddy; pebbly and shellybeach ridges Sand; silt, mud and clay with local gravel and peat beds Rhyolite flow and dome complexes with associated breccias and tuffs Ignimbrite flows, pumice breccias and epiclastic sediment Predominantly andesitic (some dacite) lava flows and intrusives Andesite and dacite flows and domes with intercalated tuff.
+
+Whitianga
+
+Whangamata groundwater supply is provided predominantly from fractured rhyolites. The Minden rhyolites are Miocene to Pliocene age and typified by widespread rhyolites flows and dome complexes(Adams et al., 1994). Beverly Hills wellfield extracts water from a rhyolite aquifer while State Highway 25, Waireka Place and Manuka Place wellfields are located in rhyolite/andesite transitions zone. The rhyolites can be separated into two separate `zones'. The upper zone has undergone weathering and is clay rich with no fractures present. The lower zone is hard fractured rhyolite. The upper zone acts as a confining layer to the lower zone creating a confined fractured aquifer (bore logs attached in Appendix 1). Figure 2.2 shows the geology of the Whangamata area and bore locations.
+
+6
+
+CHAPTER TWO: SITE DESCRIPTION
+
+Fractured Andesite is utilised for groundwater abstraction in Wentworth Valley. The andesite rocks also show weathering in upper stratigraphy. Andesite at depth is hard and fractured, although some weathering is still seen at the bores terminal depth of 180m below ground level (URS, 2006).
+
+Basement rock has not been struck in any Whangamata bores. A 1,100m deep well in Pauanui (just north of Whangamata) encountered a series of ignimbrites and rhyolites without reaching basement rock.
+
+Figure 2. 2 Geological map of Whangamata (taken from URS, 2005)
+
+2.3. Rainfall
+Whangamata, located at the base of the Coromandel Ranges receives on average 2.1m of rainfall annually. Generally winter months receive the most rainfall (July average 247.8mm) with summer months having the lowest precipitation (January average 113.2). Figure 2.3 shows the average rainfall for each month. A notable focal point of the graph is the elevated February rainfall. Whangamata is subject
+
+7
+
+CHAPTER TWO: SITE DESCRIPTION
+
+to tropical cyclones during late summer (February-March) which can make February a particularly wet month. Figure 2.4 below illustrates the rainfall variability in February over the last 10 years and shows the contrast in years affected by tropical storms. 2001 and 2003 in particular were subject to large tropical cyclones which affected the Coromandel, contrasting to 1999 and 2000 which received minimal rainfall.
+300 250 Average rainfall (mm) 200 150 100 50 0
+ay ne Ju ly em b D e c er em be r ua ry Fe br ua ry M ar ch us t il Ja n Au g m be Ju r ob er ct O Ap r M
+
+te
+
+Month
+
+Figure 2. 3 ­ Average monthly rainfall in Whangamata.
+
+450 Total February Rainfall (mm) 400 350 300 250 200 150 100 50 0 1997 1998 1999 2000 2001 Year 2002 2003 2004 2005
+
+Figure 2. 4 ­ Total February rainfall (mm).
+
+8
+
+Se p
+
+N ov
+
+CHAPTER TWO: SITE DESCRIPTION
+
+2.4. Hydraulic aquifer information
+There is limited hydraulic aquifer information available. However some studies have been conducted, generally associated with consent compliance. Table 2.3 summarises the hydraulic information available and its source. Pumping test information is available for all bores except State Highway 25 Bore 1 and Waireka Place wellfield. The table shows a much larger transmisivity than any other wellfield. Beverly Hills abstracts around 60% of Whangamata's potable water supply and the high transmisivity reflects the productive nature of this wellfield. This high transmisivity is slightly misleading because of the lack of data for Waireka Place wellfield and State Highway 25 Bore1. These bores are the other main production bores (aside from Beverly Hills wellfield) in Whangamata and would most probably have a high transmisivity as well.
+
+Table 2. 2 Aquifer parameters measured from previous work. Well field/bore Beverly Hills Waireka Place State Highway 25 Bore 1 State Highway 25 Bore 2 Wentworth valley Manuka Place Insha Alah Transmisivity (m2day-1) 1570 4.1 44 8 12 Storativity (dimensionless) 4.4*10-4 1.0*10-4 1.0*10-2 2.7*10-4 Source Montgomery watson, 2001 Blueprint 7, 2001 pdp, 1999 URS, 2006 pdp, 2001 pdp, 1997
+
+2.5. Aquifer recharge
+The rhyolite and andesite aquifers are presumed to be recharged in the Coromandel Range. The groundwater flows through the fractured volcanic rock and discharges somewhere at depth below the ocean floor. For this to be true, the groundwater would need to be of considerable age. Young groundwater would suggest vertical recharge through the upper weathered lithology. 2.5.1. Water age
+
+A one off isotope dating of groundwater occurred in May 2000. Tritium isotope analysis at Beverly Hills wellfield showed that water of greater than 45 years was sampled (Montgomery Watson, 2001). This suggests the recharge zone is a
+
+9
+
+CHAPTER TWO: SITE DESCRIPTION
+
+considerable distance from the sampling site, the most likely zone of recharge is the upper Coromandel Ranges .
+
+2.6. Bore details
+2.6.1. State Highway 25 wellfield The State Highway 25 wellfield consists of 2 production bores (SH-1 and SH-2) located on the north-west margin of the township. It is approximately 400m south of the Whangamata Harbour. Both of the bores extract water from a fractured rhyolite aquifer.
+
+State Highway 25 Bore 1 (SH-1) was drilled in 1991 to a depth of 104m. It has a 200mm diameter steel casing to a depth of 18.6m below ground level. A 150mm diameter steel casing extends to a depth of 58m of which the bottom 5m are screened. From 58m to 104m the bore remains open (geological logs for all bores are located in Appendix 1). SH-1 has a consented pumping limit of 1100m3day-1.
+
+State Highway 25 Bore 2 (SH-2) was also drilled in 1991 but not used as an extraction bore until 2000. SH-2 was drilled to a depth of 150m. However it has a 150mm diameter steel casing for the first 10m and from 10m to 150m remains open. The bore has a consented pumping limit of just 250m3day-1.
+
+2.6.2. Waireka Place wellfield
+
+Waireka Place wellfield is located 500m south east of the State Highway 25 wellfield on the northern edge of town. Consisting of two production bores (WP-2 and WP-3) and one monitoring bore (MP-1) Waireka Place is within 400m of Whangamata Harbour and 550m of Moanaanuanu estuary.
+
+Waireka Place Bore 2 (WP-2) was drilled in 1993. Unfortunately no bore information exists other than the hole having a 150mm steel casing. The depth and
+
+10
+
+CHAPTER TWO: SITE DESCRIPTION
+
+screen details are not known. WP-2 has been closed since December 2005 due to the breach of a consent condition (see Chapter five for full explanation).
+
+Waireka Place Bore 3 (WP-3) was drilled to a depth of 150m in 1992. The bore has a 150mm steel casing for the top 66m. From 66-150m the bore is open with no screen at any stage. The combined consented extraction limit for Waireka Place is 666m3day-1.
+
+A 70m deep monitoring bore was installed in 1994 (MP-1) with a water level transducer. The bore has a 50mm diameter steel casing the full 70m of which the last 12m is screened. Waireka Place Bore 1 drilled in 1973 (WP-1) has been abandoned hence the first production bore is called WP-2.
+
+2.6.3.
+
+Beverly Hills wellfield
+
+Beverly Hills Wellfield is made up of 3 production bores (BH-1, BH-2 and BH-3) and 1 monitoring bore (BV-1). The Wellfield is located on the south eastern edge of the township approximately 450m north of the Otahu estuary and 1200m west of the Whangamata coastline. All of the bores penetrate into a fractured rhyolite aquifer.
+
+Beverly Hills Bore 1 (BH-1) was drilled in 1985 to a depth of 105m. BH-1 has a 150mm steel casing to 45m. Below 45m the bore is open with no screen. The well was widened in 1994 from 100mm to the current 150mm to increase the extraction capacity. During this resizing the casing depth was altered from 76m up to 45m. The bore has a pump capacity of 1200m3day-1.
+
+Beverly Hills Bore 2 (BH-2) was the first bore drilled in the wellfield in 1964. The bore has a 150mm casing for the top 26 of 102m. As for BH-1, BH-2 is not screened, instead just an open hole exists from 25-102m. BH-2 has a pump capacity of 610m3day-1.
+
+11
+
+CHAPTER TWO: SITE DESCRIPTION
+
+Bevely Hills Bore 3 (BH-3) was drilled in 1987 to a depth of 60m. A 200mm steel casing encapsulates the bore to a depth of 43m. Below the casing two separate screen intervals of 49-55m and 57-59m are in place. BH-3 has a pump capacity of 2500m3day-1.
+
+A monitoring bore (BV-1) with permanent water level transducer was installed in 1994. BV-1 is drilled to a depth of 60m with a 50mm steel casing slotted for the final 12m.
+
+2.6.4. Wentworth Valley wellfield The Wentworth Valley wellfield is located 3.2km inland if the Whangamata Harbour and 1.5km north of the Otahu River southwest of the township. Seven exploratory wells were drilled in 1999 however only one is currently consented to extract water (WV-7). All of the bores penetrate fractured andesite.
+
+Wentworth Valley Bore 7 (WV-7) has a 150mm steel casing for the first 52m of the 130m deep bore. The remaining 78m is an open hole with no screen. WV-7 has a consented extraction limit of 1250m3day-1. Currently an application is being submitted to increase the wellfields extraction volumes (discussed further later in this chapter).
+
+2.6.5. Moana Point seasonal bores Two smaller bores are used in Whangamata to cover the high summer demand. These bores are located close to Waireka Place and State Highway 25 wellfields at Moana Point.
+
+Insha Alah The Insha Alah Bore is located 500m east of Whangamata Harbour, north of State Highway 25. The bore was installed in 1996 and drilled to a depth of 109m. The bore has a steel casing to a depth of 67.5m after which the bore is an unscreened
+
+12
+
+CHAPTER TWO: SITE DESCRIPTION
+
+open hole. Insha Alah has a consented maximum of extraction rate of 360m3day-1. However for three days per year the bore can extract up to 1000m3.
+
+Manuka Place Manuka Place has a bore that is also used only in the summer high demand period. The bore is located 500m southwest of Waireka Place wellfield and 450m north of the Moanaanuanu Estuary. The 158.5m deep bore was drilled in 1999 with the top 21m having a 200mm steel casing. From 21 ­ 93m a 150mm steel casing is in place with the final 65.5m reducing to a 100mm open hole. Manuka Place has a consented water abstraction limit of 300 m3day-1 over 100 days in any 12 month period.
+
+13
+
+CHAPTER TWO: SITE DESCRIPTION
+
+Table 2. 3 Summary of Whangamata bore details Monitoring wells Installation date 1991 1991 1993 1987 1994 1994 1964 1987 1994 1999 1996 1999 Total depth (m) 104 150 Not known 150 70 105 102 60 60 130 109 158.5 Casing depth (m) 58 10 Not known 66 70 45 26 43 60 52 67.5 21 + 72 Casing Diameter (mm) 150 150 150 150 50 150 150 200 50 150 150 200 & 150 Screen depth (m) 53-58 No screen Not known No screen 78-70 No screen No screen 49-55 48-60 No screen No screen No screen N/A 1250 360 300 3000 N/A Consented pumping limit (m3day-1) 1000 250 666
+
+Bores Wellfield State Highway 25 Waireka Place SH-1 SH-2 WP-2 WP-3
+
+Northing 664117.0
+
+Easting 396903.9
+
+663944.5 663919.2 MP-1 663947.8 661240.8 661235.2 661276.9 BV-1 661257.1 643825.0 663701.8 663701.7
+
+397233.6 397184.0 397255.2 397973.7 397932.0 397955.3 397955.3 276300.0 396847.4 396874.4
+
+Beverly Hills
+
+BH-1 BH-2 BH-3
+
+Wentworth Valley Insha Alah Manuka Place
+
+WV-7 Insha Alah Manuka Place
+
+14
+
+CHAPTER TWO: SITE DESCRIPTION
+
+15
+
+CHAPTER THREE: LITERATURE REVIEW
+
+CHAPTER THREE
+
+Literature Review
+3.1. Introduction
+Coastal aquifers act as the main potable fresh water supply in Whangamata. When managed correctly coastal groundwater can provide an area with the required fresh water. However poor management or high water demand can lead to deterioration in the resource. Coastal townships are prone to an increased population over summer months resulting in a high demand on water resources.
+
+A coastal aquifers boundary with saline seawater is known as the fresh/seawater interface. There is abundant literature involving this topic because of the importance coastal aquifers in some regions. The fresh/seawater zone lies in equilibrium unless a change in water flow occurs. There are many possible reasons for a change in water availability such as Landuse change, climate change and more commonly, exploitation. Over Exploitation of fresh water aquifers leads to the inland migration of the fresh/saltwater interface. This results in a deterioration of water quality that can lead to well abandonment.
+
+In order to maintain and the fresh/seawater interface in equilibrium, a sustainable pumping rate is needed. Groundwater modelling has been used to identify sustainable pumping rates based on site hydrological information. A variety of models are used in literature depending on site parameters. When there is a large amount of information available, a conceptual or numerical model can be used. However often data is limited and other methods are investigated. Multiple linear regression and artificial neural networks are examples of `black box' models used when site information is limited.
+
+Integrated water resource management can help to reduce pressure on coastal aquifers. Alternative water sources such as rainfall tanks, unconfined sand lens aquifers, and artificial recharge have been used to supplement main water supplies in different cities.
+
+15
+
+CHAPTER THREE: LITERATURE REVIEW
+
+The purpose of this chapter is to review the literature related to: - Seawater intrusion, - Modelling coastal aquifer to define sustainable pumping rates and - Integrated approaches to coastal groundwater resource management.
+
+3.2. Sea water intrusion
+3.2.1. Coastal aquifers and seawater interaction Coastal aquifers can serve an important purpose to seaside populations, providing a fresh water resource in an area which may be devoid of other potable water sources. Groundwater is generally considered a renewable resource. However this is only the case in a coastal aquifer when an equal balance exists between recharge and discharge in the aquifer. Extracting water in a sustainable manner results in an underground, beneficial reservoir that can be used indefinitely. Extraction above a safe yield can cause deterioration in water level and more importantly quality due to seawater intrusion (Ergil, 2000). Most coastal aquifers interact with seawater as it discharges below the ocean floor. The transition zone between fresh and seawater is illustrated in Figure 3.1. Although not to scale it does show well the interaction as lighter freshwater rides up the heavier (due to more dissolved solids) seawater. Under steady-state conditions a state of equilibrium is established between seawater and freshwater (Demirel, 2004). However a change in conditions can lead to migration of the interface.
+
+16
+
+CHAPTER THREE: LITERATURE REVIEW
+
+Figure 3. 1 Fresh/seawater interface. Not to scale
+
+3.2.2. Fresh/salt water interface migration Migration of the fresh/salt water interface is due to a change in available water. A retreating sea level can move the interface seaward while more commonly a lack of fresh water shifts the boundary inland. Inland migration of the interface or `salt water intrusion' can be detrimental to coastal water supplies extracted from the aquifer. Salt water intrusion has multiple causes which can be either naturally or human induced. The major threat to Whangamata groundwater is through over exploitation. As such relevant literature will be discussed associated with this topic
+
+Over Exploitation The most common cause of seawater intrusion in coastal aquifers is through over extraction of freshwater. Freshwater can be exploited through poor management or a lack of knowledge about the aquifer. The critical problem associated with this form of saline intrusion is the potential to contaminate the extraction zone. Once the resource is corrupted it can take a long duration for sea water to recede during which time the well fields have to be abandoned (Park et al., 2005).
+
+17
+
+CHAPTER THREE: LITERATURE REVIEW
+
+Over extraction in coastal aquifers is a world wide problem. Italy (Capaccioni et al., 2005), Greece (Petalas and Lambrakis, 2006), Korea (Park et al., 2005), Turkey (Demirel, 2004) and Tunisia (Trabelsi et al., 2005) all have recent cases of sea water intrusion. New Zealand having a coastal dominated population is also subject to a migrating interface due to pumping (Wilson et al., 2006). Saline intrusion is a global environmental issue. Table 3.1 lists some recent studies undertaken due to the over exploitation of a coastal aquifer. As can be seen by the table, a variety of countries with coastal areas suffer from overexploitation of coastal aquifers.
+Table 3. 1 Recent studies undertaken on migration of the fresh/seawater interface.
+
+Location Kyuhu, Japan Tallin, Estonia Tunisia Thrace, Greece Korinthia, Greece Northern Greece South Korea Jeju Island, Korea Mersin, Turkey Sicily, Italy Tamil Nadu, India Dead Sea, Jordan
+
+Study (Don et al., 2005) (Karro et al., 2004) (Trabelsi et al., 2005) (Petalas and Lambrakis, 2006) (Voudouris, 2006) (Kallioras et al., 2006) (Park et al., 2005) (Kim et al., 2003) (Demirel, 2004) (Capaccioni et al., 2005) (D'Ozouville et al., 2006) (Batayneh, 2006)
+
+Kapiti Coast, New Zealand (Wilson et al., 2006)
+
+18
+
+CHAPTER THREE: LITERATURE REVIEW
+
+3.3. Modelling to determine sustainable pumping rates
+3.3.1. Introduction Models to determine sustainable pumping rates are of high importance in coastal aquifers to predict saline intrusion. The main criteria in modelling coastal water extraction is to optimise pumping rates. Despite being a valuable resource, groundwater is still demanded at a higher rate than is generally available. As well as resident populations around coastal areas, summer periods result in an influx of holiday makers. New Zealand is a prime example of this coastal population expansion with the classic `kiwi' summer holiday general involving a coastal location This over demand drives the first criteria to pump as much groundwater as is sustainable (Mantoglou, 2004). Various models achieve this through different solutions. Various solutions are generally driven by study site information. A high level of information about the aquifer and its seawater interaction allow a detailed model with large number of parameters. However limited information often requires a different approach using statistical methods or other means as a modelling tool.
+
+3.3.2. Numerical models Numerical models are regularly used in coastal aquifers where there is a large amount of information. Using Zhou (2003) as an example, detailed bore logs define aquifers and three aquitards in the Leizhouz peninsula, China. A relatively uniform geology of the aquifers allows accurate hydraulic information(Zhou et al., 2003). Detailed pumping history and water level information allow a quasi-three dimensional finite element model with 457 nodes, and 833 elements to simulate groundwater levels in the aquifer.
+
+The major advantage of a numerical model is that it uses a physical model of the coastal aquifer. Interactions are modelled between studied variables which create a greater understanding of the study site. As apposed to a `black box' method which provides an answer without any physical model of the groundwater field. For this reason numerical models are widely used to create a greater 19
+
+CHAPTER THREE: LITERATURE REVIEW
+
+understanding of a particular study site. However the main constraint is the large amount of information needed in order to generate a realistic forecasting tool. This information is often not available and other modelling options may have to be investigated instead.
+
+3.3.3. Multiple linear regression Sustainable pumping rates can be modelled using regression methods. Uddameri (2007), uses regression to forecast water levels in a south Texas bore. Water levels in relation to abstraction rates are important to be able to predict in order to prevent over exploitation (Uddameri, 2007).
+
+Multiple linear regression (MLR) is a widely used modelling approach in hydrological studies when data is limited. A `black box' model, MLR uses simple linear weightings for independent variables to generate a relationship with dependant variables. y = b1x1 + b2x2 + ... + bnxn + c The regression equation (above) where y is the dependant variable, b is the independent variable, x is the regression weighting for the independent variable and c is the initial starting point. Because of its simplicity often studies utilising MLR are compared to other advancing methods such as neural networks (Maier and Dandy, 2000; Riad et al., 2004a; Uddameri, 2007).
+
+Shao and Campbell (2002) use regression methods to model groundwater trends in Western Australia. Segmented regression is used to model salinity in the vulnerable agricultural lands of South Western Australia. The results show that using regression can effectively model for sustainable pumping rates.
+
+Limitations The major limitation with using MLR is that it uses a linear relationship between independent and dependant variables. MLR cannot be used to model non-linear trends. Unfortunately hydrological processes do not normally have linear relationships which make MLR difficult to employee. The other major limitation
+
+20
+
+CHAPTER THREE: LITERATURE REVIEW
+
+of MLR is the `black box' nature of the model. Unlike a numerical model, MLR does not give an insight into physical properties of a study area.
+
+3.3.4. Artificial neural networks (ANN's) Introduction Artificial neural networks are used in literature to predict sustainable pumping rates. There is abundant current literature on sustainable yields in groundwater management (Coppola et al., 2007; Giustolisi and Simeone, 2006; Hani et al., 2006; Karahan and Ayvaz, 2006; Nayak et al., 2006; Rao et al., 2006). Artificial neural networks are becoming an integral part of water resources and are used to forecast sustainable pumping rates from coastal aquifers.
+
+The concept for using artificial neurons was developed in 1943 (McCulloch and Pitts, 1943). However it was not until the late 1980's that artificial neural network applications were researched in depth following the development of back propagation training algorithms for feed forward ANN's in 1986 (Rumelhart et al., 1986). ANN's can thus be considered a relatively new method for predictions and forecasting.
+
+Assuming adequate data and a specific theoretical knowledge of the problem is available then a full numerical model is normally the most desirable method for hydrological forecasting. However a lack of data or high complexity of the problem decreases theoretical understanding and statistical approaches are required. Previously multiple linear regression was a standard procedure. ANN's have been shown to be effective alternatives to more traditional statistics such as regression (Maier and Dandy, 2000).
+
+A variety of ANN models exist that are currently being used in the literature. Multiple layer perceptron, radial basis function (RBF) and general regression neural network (GRNN) are the most widely used. The main focus of this study is on multiple layer perceptron models, as such other models will not be discussed in detail.
+
+21
+
+CHAPTER THREE: LITERATURE REVIEW
+
+Multilayer perceptron design Multilayer perceptron is perhaps the most popular network architecture in use today, due originally to Rumelhart (1986). The multi layer perceptron can be trained to approximate virtually any smooth measurable variable (Gardner and Dorling, 1998). Unlike other statistical techniques the multilayer perceptron makes no prior assumptions concerning the data distribution. It has the ability to model highly non-linear functions (calibration) and can be trained to accurately generalise when presented with new, unseen data (validation). These features of the multilayer perceptron make it an attractive alternative to using statistical techniques or developing complex numerical models(Gardner and Dorling, 1998).
+
+The MLP model is made up of a system of interconnected neurons, or nodes. Figure 3.2 illustrates nonlinear mapping between an input node (independent variable) and an output node (dependant variable). The nodes are connected by weights and output signals which are a function of the sum of inputs to the node modified by a simple nonlinear transfer, or activation function. The addition of many simple nonlinear transfer functions allows the model to approximate extremely non-linear functions. Due to its easily computed derivative a commonly used transfer function is the logistic function (as shown in figure 3.3). The output node is scaled by the connecting weight and fed forward to be an input to the nodes in the next layer of the network. This implies a direction of information processing, hence the multilayer perceptron is known as a feed-forward neural network (Gardner and Dorling, 1998).
+
+Figure 3. 2 Multilayer perceptron framework taken from Gardner and Dorling (1998).
+
+22
+
+CHAPTER THREE: LITERATURE REVIEW
+
+Figure 3. 3 The logistic function y=1/(1-exp(-x)) taken from Gardner and Dorling (1998)
+
+The Back Propagation Method The most widely used method for training a multilayer perceptron model is the back propagation algorithm. In back propagation, the gradient vector of the error surface is calculated. An error surface as illustrated in figure 3.3 can be described as the 3 dimensional plotting of the network error. The gradient vector points in the direction of steepest decent from the current point, so a short movement along it will decrease the error. A sequence of such moves will eventually find a minimum of some sort which is viewed as the lowest possible error. In practise most problems are much more complex and a plot of the errors is not possible due to the large number of weights. Instead the back propagation algorithm is used.
+
+Figure 3.4- An error surface for a two weight multilayer perceptron. Taken from Garder and Dorling (1998).
+
+23
+
+CHAPTER THREE: LITERATURE REVIEW
+
+Applications in water resources ANN's have been increasingly used to replace conventional statistical methods such as regression. Table 3.2 lists studies undertaken using ANN's since 2004 in the field of water resources. Many of the studies compare conventional methods with ANN's to improve previous models (Pereira and dos Santos, 2006).
+
+Riad et al (2004a) compared an ANN model with a more traditional multiple linear regression model. The study in Morocco was restricted due to the lack of data in much the same way as Whangamata. Due to the lack of information a numerical model was not practical and the previous standard model was multiple linear regression. The ANN model proved superior to the regression model. The ANN approach is similar to regression in that it is a generic technique for mapping the relationships between inputs and outputs without the need to know the details of these relationships between the parameters(Riad et al., 2004a).
+
+Several studies over the last 2 years have compared traditional statistical models with MLP. The main benefits of the MLP model are the simplicity and limited site data needed to create an effective model. Huang et al (2004) used an MLP model to improve accuracy in flow forecasting for the Apalachicola River in Florida, USA. The previously used model was an autoregressive integrated moving average (ARIMA) forecasting model. The ANN provided a more accurate forecasting tool than the more traditional ARIMA model. The correlation coefficients were high for the ANN models with 0.98, 0.95, 0.91, 0.83 for daily, monthly, quarterly and yearly forecasting respectively(Huang et al., 2004).
+
+24
+
+CHAPTER THREE: LITERATURE REVIEW
+
+Table 3. 2 Artificial neural network studies related to water resources from 2004-present. The abbreviations in column two are as follows. Artificial neural network (ANN), Multilayer perceptron (MLP), radial basis function (RBF), generalised regression neural network (GRNN) and root mean squared neural network (RMSNN).
+
+Area of study Suspended sediment
+
+ANN MLP MLP and RBF RBF
+
+Study (Cigizoglu, 2004) (Tayfur and Guldal, 2006) (Alp and Cigizoglu, 2007) (Cigizoglu and Alp, 2006) (Cigizoglu, 2005) (Huang et al., 2004) (Nour et al., 2006) (Riad et al., 2004a) (Moradkhani et al., 2004) (Daliakopoulos et al., 2005) (Yan and Minsker, 2006) (Nayak et al., 2006) (Rao et al., 2006)
+
+River flow forecasting
+
+GRNN MLP
+
+RBF Groundwater modelling MLP and RBF MLP MLP MLP
+
+water quality Desalination Drought forecasting
+
+MLP and RBF RBF RMSNN
+
+(Chaves et al., 2004) (Chen and Kim, 2006) (Mishra and Desai, 2006)
+
+Rainfall-runoff
+
+MLP
+
+(Parida et al., 2006) (Pereira and dos Santos, 2006) (Riad et al., 2004b)
+
+Limitations ANN's have several limitation that restrict its use and need to be considered before studies are undertaken using the neural network method.
+
+ANN's have been described as the ultimate `black box' model for prediction purposes. Unlike numerical or conceptual models, physical properties and parameters of a study area are not enlightened by using ANN's. The models do not take into account any field characteristics unless used as input variables. The purpose of an ANN is to provide accurate predictions as apposed to actual physics.
+
+Despite needing less data than a numerical model an ANN is still bound by the data set. In an ideal situation infinite training and validation data would be 25
+
+CHAPTER THREE: LITERATURE REVIEW
+
+available to produce the best model. However this is never the case and several factors relating to the data set can create major errors in an ANN. Often site characteristics change over time and training data is typically historical. If circumstances have changed, relationships that held in the past may no longer hold.
+
+Another limitation relating to the data set is that all relevant eventualities must be covered. A neural network can only learn from cases that are present. For example when trying to predict extreme drawdowns in a well, say over 50m the model must have similar data in the its training set. If no similar responses have been seen before then the model will not be an accurate predictive tool.
+
+An important limitation to note is that a neural network learns the easiest features it can to produce the correct output. The classic example of this is a vision project designed to automatically recognise tanks. A neural network is trained on two hundred pictures, half of which contain tanks. The training achieves 100% accuracy. However on validation it performs poorly. The reason is that the original pictures of tanks were all taken on overcast and rainy days while the pictures without tanks were sunnier. The model was not selecting tanks it was selecting light intensity. To be an effective tool, a training set needs to incorporate a wide range of variations.
+
+ANN models suffer from the same over fitting (over learning) as multiple linear regression. Often in the testing or calibration stage a wide range of input variables are used which each marginally increases the accuracy. However when validation is undertaken the model performs poorly because it is taking into account to many variables with little relevance to the actual information.
+
+Although there are limitations associated with ANN models. When used correctly they can be effective tools for forecasting data with limited information.
+
+26
+
+CHAPTER THREE: LITERATURE REVIEW
+
+3.4. Integrated approaches to coastal aquifer management
+3.4.1. Introduction Although groundwater is the primary freshwater resource in Whangamata and many coastal aquifers, its vulnerability means that other options should be assessed. An integrated water strategy involving several water resources can reduce groundwater abstraction, allowing sustainable pumping in high demand times. The following list of possible integrated water resources are examples that hold relevance in a small coastal town such as Whangamata. i) ii) iii) 3.4.2. .Rainfall tanks The use of individual household rainfall tanks is in no way a new technology. It is almost a step backwards to suggest this as a viable alternative. Prior to main town water supplies providing water, most households relied on rainfall tanks as the sole water source. Currently a large number of rural households and small towns in New Zealand still rely on individual tanks as a means of freshwater. Rainfall tanks, Unconfined coastal sand aquifer and Artificial recharge
+
+The obvious disadvantage of rainfall tanks is that they require rainfall. The high demand period as previously outlined is during summer months, characterised by low rainfall. However with Whangamata being located at the foot of the Coromandel Ranges it does receive around 2 metres of rainfall per year. A standard sized household tank would provide most of the required water with the possibility of groundwater only being used during low rainfall periods. This would allow aquifer recovery during the winter and substantially less abstraction all year round.
+
+Several states in Australia are suffering a heavy drought period. Currently in Canberra it is a requirement for new houses to install rainfall tanks. In Victoria new houses must install either a solar heating system or rainfall tanks and in New South Wales rebates and government assistance is aiming to reduce reticulated 27
+
+CHAPTER THREE: LITERATURE REVIEW
+
+water supply by 40% (www.dwlbc.sa.gov.au, 3 December, 2006) This reduces demand and eases some of the pressure on the main water supply
+
+Meadows, a small town in South Australia has incorporated rainfall tanks into the entire town. The town does not have a reticulated supply and connecting to the cities would be too costly. Instead rainfall tanks are used for all potable sources and a combination of stormwater and recycled effluent are used for non-potable supply such as toilet flushing. The main advantage of this approach is that the town will be able to generate enough water as the population increases as apposed to regularly having to increase a reticulated supply (Marks et al., 2006). 3.4.3. Unconfined sand aquifer/artificial recharge The primary water shortage period in most coastal areas, especially New Zealand is during the drier summer months. Populations increase in coastal areas as a result of typical holiday periods (Christmas, New Year public holidays). The main peak demand period only last 3-4 weeks, an alternative water source may only be needed for this short period. An unconfined sandy aquifer could be used for such a situation. Some coastal towns have a sand lens (Whangamata) that sits on top of the main rock lithology. By extracting water from this 5-10m thick sand lens it could be possible to supplement normal abstraction to reduce drawdowns in the main production bores.
+
+The unconfined sand aquifer could also be used for artificial recharge. Artificial recharge involves pumping water back into an aquifer during low demand periods, which can be extracted when water resources are in high demand (Bouwer, 2000). During winter months excess water can be added to the unconfined aquifer to allow for abstraction over the Christmas holiday period. However investigation is needed to characterise the unconfined aquifers relationship with the ocean and the underlying aquifers.
+
+Artificial recharge has been used to increase supply and reduce over exploitation risk. In several instances reclaimed waste water has been used as a water source for the artificial recharge (Sheng, 2005; Tapias et al., 2006). Whangamata
+
+28
+
+CHAPTER THREE: LITERATURE REVIEW
+
+however is not short of high quality fresh water during the winter months. Water storage through artificial recharge would be more appropriate in Whangamata. Bouwer (2000) discusses the difficulties surrounding artificial recharge in third world countries due to a lack of money and water. Whangamata is not lacking water which makes this alternative appealing. Artificial recharge case studies have shown that used correctly the (Ambast et al., 2006; Masciopinto, 2006; Phien-wej et al., 1998) recharge can prevent groundwater decline while also providing additional water for abstraction.
+
+3.5. Summary
+Modelling to determine sustainable pumping rates in coastal aquifers is driven by the threat of seawater intrusion. Various types of models are used throughout the literature from numerical models to empirical models such as multiple linear regression and artificial neural networks. This review focussed on the empirical approach due to the limited data set available. Multiple linear regression is a more traditional forecasting tool used in water resources studies. Artificial neural networks are a relatively new `black box' approach and are being used frequently in (water resources) current literature. Often regression models are used as comparisons in neural network modelling.
+
+Integrated approaches such as rainfall tanks or artificial recharge of an unconfined aquifer been implemented in areas and are of key relevance to Whangamata. The need to reduce summer abstraction could be solved though using these approaches as it has been in other areas.
+
+29
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+CHAPTER FOUR
+
+Bore abstraction volumes and water levels
+4.1. Introduction to the Whangamata groundwater data set
+
+The data set received from Thames Coromandel District Council spans 6 years from May 2000 to June 2006. The data set is located in Appendix 2 and forms the basis of the research data for the Whangamata area. The data is consent related so that all the measurements recorded are due to consent conditions for each bore or wellfield. Different measurements are taken with different frequencies depending on the condition and a summary is listed below in Table 4.1.
+Table 4. 1- A summary of the type of data collected and its frequency for each bore in Whangamata. Measurement Total pump hours extraction Volume pH Conductvity Aquifer water levels Units Hours m3 pH mS/m m Frequency Daily Daily Weekly Weekly Weekly
+
+4.2.
+
+Introduction to the well water level data
+
+4.2.1.
+
+Well water level data
+
+Aquifer water level data is recorded in metres below the top of the bore. The data was converted to metres above sea level once acquired for this research. An important point to note is that the aquifer water levels are taken during periods of both `nonpumping' and `pumping'. As a result the water levels can show a great deal of fluctuation between measurements depending on the status of the pumps. Figure 4.1 illustrates this mode of monitoring. The different water levels can clearly be seen when measurements are taken with either the pumps turned on or off. The pump status is not recorded in the data set. It is only by plotting a time series of the water levels
+
+30
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+that it is possible to see whether measurements were taken with the pump turned on or off.
+
+The time of pumping and water level measurements are also not recorded. For example on the 1st of May 2000 the pump on Beverly Hills Bore 3 ran for 5.43 hours and the water level was measured to be 5.3m below the top of the bore. The 5.43 hours could have occurred at any time during the day. The water level could have been taken during the pumping or outside the pumping time but this is not recorded.
+
+The data set is not totally complete and contains large gaps of information especially in the early years. From May 2000 until the 6th August 2001 pumping volumes are recorded as total wellfield volumes as apposed to individual well extraction. Individual well extractions are not recorded until after August 2001. This is by far the largest gap in data however there are several others including a month (June 2004) where no information was recorded at all. In June 2004 monitoring contractors changed from Waste Management to United Water. During this period no measurements were taken.
+
+31
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+2 0 -2
+
+Water level measured with pump turned off
+
+Well water level (m.a.s.l)
+
+-4 -6 -8 -10 -12 -14 -16 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Water level measured with pump turned on
+
+Date
+Figure 4. 1 Beverly Hills Bore 3 well water levels (metres above sea level). Note the distinct difference between measurements when the pump is turned on and off
+
+4.3.
+4.3.1.
+
+Bore water abstraction and water levels
+Beverly Hills abstraction volumes
+
+Beverly Hills Wellfield provides approximately 60% of Whangamata's water supply. Containing 3 bores, the wellfield extracts around 500,000m3 per year. The 3 bores are consented as a combined wellfield as opposed to other wellfields such as State Highway 25 which has individually consented bores. The total consented extraction volume for Beverly Hills is 3000m3day-1. Beverly Hills is similar to all other bores in Whangamata in that it only reaches this capacity for the weeks during December ­ January. Table 4.2 shows the largest volumes extracted between 29th December and 4th January. The consented limit of 3,000m3day-1 is breached every summer (Figure 4.2 also shows the breached consented limit) except for 2004-2005 where another wellfield (Wentworth Valley) was undergoing a pumping test. The weekly limit of 21,000m3 (seven days at 3000 m3day-1) is also
+
+32
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+exceeded in 4 of the 6 recorded summers. Consented limits have been surpassed with verbal permission from Environment Waikato (Consenting authority) on the basis that a pump test is taking place to test the aquifers potential. Unfortunately no pump test related measurements have been recorded with the exception of one summer (2001) where Montgomery Watson conducted a long term pumping test (see Chapter 2 for pump test results).
+
+Table 4. 2 - Peak extraction and annual volumes abstracted from Beverly Hills Wellfield. Year (1st July - 30th June) 2000-2001 2001-2002 2002-2003 2003-2004 2004-2005 2005-2006 29th Dec - 4th Jan (21,000m3 consented) 31219 21048 26212 28480 15480 19408 Maximum daily volume extracted (3000m3 consented) 4666 3770 4180 4804 2628 3078 Total annual volume (m3) 558706 505408 504448 503035 472933 450459
+
+Beverly Hills Bore 3 Beverly Hills Bore 3 (BH-3) is currently the main extraction bore. BH-3 is pumped daily with few exceptions. The bore provides all of the extracted water from Beverly Hills during low demand periods with BH-1 and BH-2 only being used over the peak summer period. This pumping regime has only been in place for the past 2 years. Previously all of the bores were pumped simultaneously to meet demand. Consequently extraction volumes have increased from BH-3 during the 2 years while BH-1 and BH-2 have decreased to almost nil. Figure 4.3 shows all 3 bores and a moving average of their daily extraction volume.
+
+33
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+5000
+
+4000 Daily abstracted volume (m3)
+
+3000
+
+Consented limit
+
+2000
+
+1000
+
+0 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date
+Figure 4. 2 - Daily water abstraction from Beverly Hills Wellfield (m3day-1)
+
+2500 Beverly Hills bore 1 Beverly Hills bore 2 Beverly Hills bore 3 2000
+
+Average daily abstracted water volume (m3)
+
+1500
+
+1000
+
+500
+
+0 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date
+
+Figure 4. 3 20 day moving average of abstracted water volumes from BH-1, BH-2 and BH-3
+
+Beverly Hills Bores 1 and 2
+
+34
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+Beverly Hills Bore 1 (BH-1) is currently used only during peak demand periods. Despite previously being used daily, BH-1 was only used for 4 days in 2005. Beverly Hills Bore 2 (BH-2) is also only used during high demand times having not been pumped since January 2005. BH-1 and BH-2 are capable of much greater extraction and were previously used in conjunction with the third bore (BH-3). Figure 4.3 shows the dominance BH-1 used to have compared to the very low current extraction.
+
+4.3.2.
+
+Beverly Hills well water level trends
+
+Beverly Hills Bore 1 Beverly Hills Bore 1 water levels show both seasonal variation and long term decline. Seasonal trends are evident where the drawdowns are reflecting abstracted volume. Summer peak demands cause the largest drawdowns while winter low demands result in a recovering well water level. The largest summer drawdown occurs in January 2004 (13.3m) coinciding with the largest volume pumped from Beverly Hills wellfield (28,480m3 in 7 days).
+
+The well water level recoveries show a greater variation after December 2004. This is due to the change in pumping regime where BH-1 ceased abstracting water (except for several days during the high demand period). The upper water level after December 2004 is measuring a drawdown effect from BH-3 not from BH-1 pumping volumes.
+
+The long term trends evident in Figure 4.4 show that the upper water level (measured while no pumping is occurring) is lowering over the observed record. The winter recoveries become consistently lower each year with the average well water level decreasing to below mean sea level. It should be noted that the since December 2004 the water level decline has been a result of the change in pumping regime as mentioned above.
+
+The lower water levels (pump turned on) long term trends are relatively flat with a slight decrease over the time series. There is only limited data for the lower set due to the lack of abstraction from BH-1 after December 2004. Essentially BH-1 became a
+
+35
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+monitoring bore after it stopped pumping in 2004, ceasing measurement taken while pumping.
+
+4 2 0
+
+Well Water level (m.a.s.l)
+
+-2 -4 -6 -8 -10 -12 -14 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date Figure 4. 4 - Beverly Hills Bore 1 water levels (m.a.s.l)
+
+Beverly Hills Bore 2 Beverly Hills Bore 2 reacts slightly differently to other bores in Whangamata. The seasonal fluctuations are larger than daily drawdowns. This means that measurements taken when the pump is turned on and turned off are difficult to distinguish. At most other bores (as seen earlier with BH-1), the water levels can clearly be defined as either taken during pumping or `non-pumping'. Figure 4.5 illustrates the variation in seasonal trends (from winter recovery to summer drawdowns) is easily distinguished, where as the measurements taken during different modes of pumping are not as clear.
+
+The long term trend, displayed as a quadratic fit on Figure 4.5 shows the water level decline between 2000 and 2004. In recent years however (since 2004), BH- 2 has barely been used. The last day used for extraction was January 22, 2005. A recovering water level is prominent from this point onwards. Summer drawdown does still occur in the summer of 2005/2006 due to BH-1 and BH-3 abstracting water in close
+
+36
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+proximity. BH-2 water levels are influenced predominantly by BH-3 and occasionally BH-1 abstraction (after January 2005).
+
+2 1 0
+
+Well water level (m.a.s.l)
+
+-1 -2 -3 -4 -5 -6 -7 -8 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+BH-2 ceased pumping
+
+Date
+
+Figure 4. 5 ­ BH- 2 water levels (m.a.s.l) with a linear fit to data prior to July 2004.
+
+Beverly Hills Bore 3 Currently the main bore in Beverly Hills, BH-3 recorded the largest drawdown in the wellfield at 14.1m below sea level. The large drawdown occurred over the last summer pumping period when only BH-3 was abstracting water. Figure 4.6 plots water levels of BH-3 with the large drawdown prominent near the end of the record. Increased summer drawdowns appear as a trend in Figure 4.6. The first summer recorded (2000/2001) is surpassed by 2002/2003 which in turn is surpassed by 2003/2004 and 2005/2006 has the largest recorded drawdown. The increasing trend is caused by two modes of pumping. Firstly, between 2001-2004 peak summer pumping volumes increase annually resulting in deeper drawdowns. However both 2004/2005 and 2005/2006 summers had considerably less water extracted (see Table 4.2). The increased drawdowns in these summers are caused by only pumping from BH-3. By increasing the abstracted volume at BH-3, water levels have decreased.
+
+37
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+The increased pumping from BH-3 has resulted in declining lower (pump-on) water levels. Figure 4.6 has a linear plot through the lower water levels which shows considerable decline. The decrease in water levels is worrying in terms of drawing water in from further away. However the upper water level (no-pumping) long term trend appears very static showing good recovery. So despite an increased drawdown each summer during high demand periods, the aquifer water levels appear to recover to previous levels.
+
+2 0 -2
+
+Well water level (m.a.s.l)
+
+-4 -6 -8 -10 -12 -14 -16 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date
+Figure 4. 6 - Beverly Hills Bore 3 water levels (m.a.s.l)
+
+4.3.3.
+
+Waireka Place abstraction volumes
+
+Waireka Place Wellfield has had a major change in its pumping regime as of September 2005. Waireka Place Bore 2 (WP-2) exceeded its consented electrical conductivity trigger level for water quality. The bore was closed and has not been reopened since, leaving WP-3 as the only production bore left. WP-2 has a pumping capacity twice that of WP-3. Its loss has resulted in a major decrease of abstraction from the wellfield. As can be seen in Table 4.3, the 2005-2006 pumping season only extracted 57% of the previous year's volume. Table 4.3 also shows that Waireka Place 38
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+does not reach its consented extraction capacity of 243,090m3 or get close. The largest abstraction year drew 145,399m3 of groundwater, almost 100,000m3 less than consented. Again, Waireka Place like other wellfields in Whangamata reaches its maximum abstraction volume during the summer (see table 4.4) when holiday makers significantly increase the town's population.
+Table 4. 3 - Waireka Place annual water abstraction (m3) from July 1 - 30th June to incorporate a full summers pumping in each year. Year (1st July - 30th June) Abstraction Volume (m3) 2000-2001 124035 2001-2002 138324 2002-2003 145399 2003-2004 134413 2004-2005 126530 2005-2006 72636
+
+Table 4. 4- Average daily water abstraction (m3day-1) from Waireka Place. The 2 bold numbers refer to pumping after WP-2 was closed. Year 2000 2001 2002 2003 2004 2005 2006 February - November (m3day-1) 323 307 368 318 330 330 156 December -January (m3day-1) 566 491 638 628 325 202
+
+39
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+400
+
+350
+
+Waireka Place Bore 2 stopped
+300
+
+Extracted Volume (m3)
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date
+Figure 4. 7- Water abstraction from WP-3 (m3day-1).
+
+WP-3 has a relatively small extraction capability. With a peak extraction around 300m3day-1 WP-3 ranks 7th of 10 production bores in Whangamata. It has the smallest extraction rate of the `year-round' consented bores. However, since the closing of WP-2 extraction has increased to meet the town's demand. Figure 4.7 plots daily abstraction volumes and an increasing trend is evident. Since late 2005 it can be seen that WP-3 has increased the volume of extracted water. Although the volume is not close to the consented limit (666m3day-1) it is more than has ever been pumped from WP-3 in a previous years.
+
+4.3.4.
+
+Waireka Place well water level trends
+
+Waireka Place Bore 2
+
+WP-2 closed in 2005 due to exceedence of consented electrical conductivity. Before 2005 this bore was the main extraction well from Waireka Place. There is potential to extract from the bore again so it is still important to look at available data.
+
+40
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+WP-2 shows one of the more severe examples of sampling while the bore is turned on or off. Measurements fluctuate by approximately 30m depending on the pump status. A benefit of the water level measuring procedure is an observation of the bores during pumping. The aquifer has a large drawdown response to pumping which could be a factor in drawing in saline water. Also, water level measurements are taken from the bore itself, not a monitoring bore, so the measured drawdown is also the maximum local aquifer drawdown at that time. It is important to remember the probability is high that measured drawdown is not peak drawdown for that pumping period.
+
+The well water levels show a distinct seasonal trend. It can be seen in Figure 4.8 that the largest drawdowns occur just after December of each year. This coincides with maximum abstraction volumes. Winter months with lower pumping rates show a recovering water level before declining again into summer. The summer water levels are of particular concern with peak drawdowns measured between 40 and 50m below sea level. A drawdown of this magnitude is not measured anywhere else in Whangamata and could have drawn water from a distance sufficient to increase the electrical conductivity beyond its consented limit.
+
+Waireka Place Bore 2 shows interesting water levels after its closure. The recovering water level does not rise above sea level. Instead the recovered level seems to be around 4-5 metres below sea level. A possible reason for this is that WP-2 is affected by WP-3 pumping and the water level is not a true recovered level.
+
+41
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+10
+
+Waireka Place Bore 2 stopped
+0
+
+Well water level (m.a.s.l)
+
+-10
+
+-20
+
+-30
+
+-40
+
+-50 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date
+Figure 4. 8 - WP-2 water levels (m.a.s.l)
+
+Waireka Place Bore 3
+
+WP-3 is showing a decline in water levels. Figure 4.9 shows the measured water levels since May 2000 with a linear fit plotted to each set of water levels. Although a linear fit is not representative of the aquifer's decline it does show long term trends well. As discussed WP-3 has had an increasing water abstraction rate over the past five years. Increasing the pumping volumes has resulted in larger drawdowns. Located close (within 100m) to the closed WP-2, increasing drawdown could cause the same increase in electrical conductivity. Chapter 5 has a particular focus on electrical conductivity levels, but it is important to note that the increased pumping is causing greater drawdowns and deterioration in water quality. More importantly with the consented abstraction volume still much larger than current extraction, the trend could continue with increased demand.
+
+Seasonally, WP-3 fluctuates in a similar manner to WP-2. The deepest drawdowns occur during December and January. 2002/2003 and 2003/2004 summers had
+
+42
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+particularly severe drawdowns almost reaching 40m below sea level. During autumn and winter the water levels recover before being drawn down again late in the year. In Figure 4.9 a good period of recovery is evident for several months from June to August 2003. No pumping took place during this time and the water level rose steeply from 10m to 3m below sea level. An important factor with this recovery is that WP-2 was not extracting water, allowing the aquifer around Waireka Place to recover as a whole. However due to high demand the following summer water levels lowered to a record 37.5m below sea level. Since that summer of 2003/2004 a similar recovery period has not been seen due to several factors including increased demand and the closure of WP-2.
+
+Analysing the water levels separately it seems that deeper drawdowns are not as significant in the last recorded summer of 2005/2006 (Figure 4.9) despite higher abstraction volumes than any previous summer. With WP-2 in such close vicinity, previous drawdown cones overlapped creating a larger drawdown in both bores. With no pumping occurring from WP-2 (which abstracts twice the volume of WP-3) the drawdown in 2005/2006 was reduced.
+
+The upper water levels do pose a cause for concern. A key difference between WP-3 and BH-3 is the long term recovered water levels. BH-3 has also increased its abstraction volume over the last 2 years. At BH-3 this has resulted in deeper summer drawdowns but the water level has recovered to similar heights each winter (low demand period). WP-3 however, is showing a decline in recovered water levels, despite wellfield abstraction decreasing as a whole. The decreasing water level is cause for concern due to the increasing electrical conductivity shown at the wellfield .
+
+43
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+0
+
+Well water level (m.a.s.l)
+
+-10
+
+-20
+
+-30
+
+-40
+
+Dec-2000
+
+Dec-2001
+
+Dec-2002
+
+Dec-2003
+
+Dec-2004
+
+Dec-2005
+
+Date
+Figure 4. 9 ­ WP-3 water levels (m.a.s.l)
+
+4.3.5.
+
+State Highway 25 abstraction volumes
+
+State Highway 25 Bore 1 (SH-1) has a consented upper limit of 1,100m3day-1 and a maximum weekly abstraction total of 6650m3. The average daily abstraction rate is 432m3day-1 with the consented limit only being reached during high demand periods, primarily over the Christmas-New Year public holidays. The maximum rate of 1,100 m3day-1 only lasts for 1-2 weeks before dropping off to a lower 700-800m3day-1 for the remainder of January. Other summer holidays such as Auckland Anniversary Weekend (last Monday of January), Waitangi day (6th February) and Easter also show high abstraction rates due to the increased population at these times.
+
+As can be seen in Table 4.5 the average abstraction volume in low demand periods (February to November) is 300-500m3day-1 while the high summer demand (December to January) averages twice that of winter low demand. Another important trend that is evident in Table 4.5 is an increasing average abstraction during low demand times. The increasing trend is especially evident in the current year 2006 due
+
+44
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+to the closure of a major bore (Waireka Place Bore 2) in late 2005*. Consequently the demand has been filled by pumping more water from other bores including SH-1. Figure 4.10 illustrates this increase in abstraction. The graph shows daily abstraction volume. An increasing trend is evident especially in the low demand period of 2006, related to the closer of Waireka Place Bore 2.
+Table 4. 5- Average daily abstraction volume (m3day-1) from the State Highway 25-1 production bore. High demand period between December and January compared to lower demand from February to November. Also included is the total annual volume abstracted. Year 2000 2001 2002 2003 2004 2005 2006 February-November (m3day-1) 361 265 402 395 399 443 511 December -January (m3day-1) 703 569 721 704 550 653 Yearly Total (1st July - 30 June) 141183 132670 169722 150871 159306 188200
+
+1200
+
+1000
+
+Daily abstracted water volume (m3)
+
+800
+
+600
+
+400
+
+200
+
+0 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date
+Figure 4. 10 Daily water abstraction from SH-1 (m3day-1), showing an increase in winter abstraction between 2005-present.
+
+Waireka Place Bore 2 was closed in late 2005 due to excedence of a consented level for electrical conductivity. This is discussed later in the water quality chapter.
+
+*
+
+45
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+State Highway 25 Bore 2 (SH-2) has a small consented limit of 250m3day-1 for 70 days per year (17,600m3 annual abstraction limit), used to cover high water demand periods. In terms of the overall affect on Whangamata groundwater, SH-2 can be considered minimal. The main purpose of the bore is to help provide additional water during the summer vacation period.
+
+4.3.6.
+
+State Highway 25 well water level trends
+
+The main bore at State Highway 25 (SH-1) reacts much differently to the Waireka Place bores despite being only 500m northwest. Figure 4.4 shows the bores water levels since May 2000 and the plot varies greatly from both Waireka Place bores. The difference between pumping and non pumping water levels is less than 10m whereas Waireka Place was closer to 30m. The smaller fluctuations allow the seasonal trends to be clearer. Summer drawdowns are quite obvious as indicated on the graph which reflects the increase in pumping over the high demand period. As discussed in the water abstraction section (4.3.5) the volume of pumped water doubles over the summer period of December ­ January. The increased drawdown is evident, reaching between 35-40m below sea level.
+
+A long term decreasing trend is also visible in Figure 4.11. A linear fit shows the decrease in water levels over the recorded period. Of particular interest is from 2005 onwards. The low demand winter periods have not recovered as much as previous years. Particularly 2006 has yet to show a recovery of any significance (although data is only up to 30 June 2006). As with WP-3, SH-1 has undergone an increase in abstraction volumes. Related to increased demand the problem has been compounded by the closure of WP-2. The low demand period (February ­ November) average daily extraction has increased from 399m3 in 2004 to 511m3 so far in 2006. A 28% increase over 2 years is significant and explains the lack of recovery. A lack of water recovery could have a detrimental effect on water quality as in the case of WP- 2. In fact electrical conductivity is increased at SH-1 which is discussed in Chapter 5.
+
+46
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+5 0 -5
+
+Well water level (m.a.s.l)
+
+-10 -15 -20 -25 -30 -35
+
+Peak Summer Drawdowns
+-40 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date
+Figure 4. 11 ­ SH-1 water levels (m.a.s.l)
+
+4.3.7.
+
+Wentworth Valley well abstraction and water level trends
+
+At the time of writing this thesis (December 2006), Thames Coromandel District Council were in the process of applying for an increased abstraction volume from Wentworth Valley. The proposed increase is from 1250m3day-1 to 1250 m3day-1 continuously and 3000m3day-1 for up to 30 days per year. Currently the wellfield only extracts water from one bore. If the consent is granted, the wellfield will utilize 5 bores for abstraction. Because this is still in the application process only the current abstraction regime will be discussed under this chapter.
+
+Wentworth Valley Bore 7 (WV-7) began pumping in December 2004. WV-7 has only been utilized over the two summers of 2004-2005 and 2005-2006. It has not been used during the low demand periods (March ­ November). Because the bore has only been operated during the high demand season it regularly extracts a daily volume close to the consented maximum. In 2005 the bore pumped for 85 days at an average rate of 936m3. In 2006 the bore as at 30th June had abstracted an average 1009m3 over 127 pumping days. WV-7 has a consented yearly extraction maximum of 456,250m3 with 47
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+neither 2005 (79,560m3) nor 2006 (128,143m3) getting close to that limit. Figure 4.12 plots the daily abstraction volumes from WV-7 and 2006 is a particularly good example of the peak summer pumping close to the consented maximum while the rest of the year is minimal.
+
+Figure 4.12 shows a comparison between abstracted daily water volume and measured water levels. The nil winter pumping results in several months of recovery. Summer abstraction results in major water level drawdowns, presumably measured while the bore is being pumped. The drawdowns are significant, (up to 30m below sea level) however the lengthy periods of no abstraction (April ­ November) allows for considerable water level recovery.
+1750 WV-7 abstraction volume WV-7 water level 10 5 0 1250 -5 1000 -10 -15 -20 500 -25 250 -30 0 Dec-2004 Mar-2005 -35 Jun-2005 Sep-2005 Dec-2005 Mar-2006 Jun-2006 Sep-2006
+
+1500
+
+Extracted water Volume (m3)
+
+750
+
+Date
+Figure 4. 12 - Daily water abstracted from Wentworth Valley bore 7 (m3day-1) and measured water levels (m.a.s.l).
+
+48
+
+Water level (m.a.s.l)
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+4.3.8.
+
+Moana Point Seasonal Bores
+
+Insha Alah Insha Alah and Manuka Place bores are consented to boost the total extracted water volumes over the summer period. Insha Alah has an upper abstraction limit of 360m3day-1 and up to 1000m3day-1 for 3 days per year. A maximum of 50,000m3year-1 equates to 35 days at 360m3day-1. Although the bore reaches daily consented limits it has not gone close to reaching the annual limit set by Environment Waikato, nor has it ever pumped close to the 1000m3day-1, 3 day limit. Table 4.6 shows the annual total extraction from Insha Alah since 2000, the largest year being 15,007m3 just 30% of the consented limit.
+Table 4. 6- Total water volume (m3) extracted from Insha Alah bore. The consented limit for this bore is 50,000m3year-1 Year (1st July - 30th Annual Daily Peak June) Abstraction volume (m3) 2000-2001 12731 360 2001-2002 11202 328 2002-2003 14871 374 2003-2004 15007 374 2004-2005 8045 369 2005-2006 2619 308
+
+30 400 Insha Alah water level Insha Alah abstraction volume 20 350 10
+
+300
+
+Water level (m.a.s.l)
+
+250
+
+0
+
+200 -10 150 -20 100 -30
+
+50
+
+0 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+-40
+
+Date
+
+Figure 4. 13 Daily water abstracted from Insha Alah bore (m3day-1) and measured water levels (m.a.s.l).
+
+49
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+Figure 4.13 shows the daily abstraction volume of Insha Alah bore as well as measured water levels. The water levels recover during winter months as a result of nil abstraction. The water levels measured `during-pumping' do appear to have a long term decline. However, it is very difficult to make an assessment on this declining trend because of the very limited water level data for each high demand period. From the information presented in Figure 4.13, the bore can be seen to have a large drawdown during high abstraction periods, but also has considerable recovery time during the winter months where no water is abstracted.
+
+Manuka Place The consent related to Manuka Place reflects the seasonal nature of the bore. With a consented 100 maximum days of pumping at 300m3day-1, the bore is only used at high demand times generally between December and March. Unlike other bores in Whangamata, the resource consent matches usage. Despite this the bore still extracts well below the consented maximum. 2004-2005 was the closest Manuka Place came to reaching the consented limit of 30,000m3, extracting 26,400m3 (see Table 4.7). Contrasting to Insha Alah which barely reaches 20% of its annual abstraction quota, the Manuka Place consent better reflects the actual usage of the bore.
+Table 4. 7 - Total water volume (m3) extracted from Manuka Place bore. The consented limit for this bore is 30,000m3year-1 Year (1st July - 30th Annual Daily Peak June) Abstraction volume (m3) 2002-2003 18111 296 2003-2004 11802 274 2004-2005 26359 275 2005-2006 20563 261
+
+Figure 4.14 illustrates that Manuka Place acts in a similar manner to Insha Alah, Wentworth Valley and SH-2 bores in that water is only abstracted during high demand periods (summer months). As a result, water levels remain consistent and above sea level for the majority of the year. Summer abstraction results in drawdowns, some considerably large (over 60m below sea level) that only last for a small period (1-2 months). A large amount of water level data is missing from January 2004 - October 2005 which makes long term trends difficult to assess. However due to the extended recovery periods the bore seems to recover well each `off season'.
+
+50
+
+CHAPTER FOUR: BORE ABSTRACTION AND WATER LEVELS
+
+350 Manuka Place water level Manuka Place abstraction volume 300
+
+30 20 10
+
+250
+
+0 -10 -20
+
+Water level (m.a.s.l)
+
+200
+
+150
+
+-30 -40 -50
+
+100
+
+50 -60 0 Dec-2001 -70 Dec-2006
+
+Dec-2002
+
+Dec-2003
+
+Dec-2004
+
+Dec-2005
+
+Date
+
+Figure 4. 14 Daily water abstracted from Manuka Place bore (m3day-1) and measured water levels (m.a.s.l).
+
+4.4.
+
+Bore water abstraction and water level summary
+
+Whangamata bore water abstraction and water levels are characterised by a high summer demand. Water abstraction increases dramatically during the summer vacation period. As a consequence of high abstraction rates, bore water levels show a marked lowering during these peak demand periods. Increased annual abstraction has resulted from both the closure of WP-2 and an increased demand. This long term increase in water abstraction is resulting in an overall decline in water levels for several main bores. WP-3, SH-1 and BH-3 are all showing a water level decline as a result of increased abstraction.
+
+51
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+CHAPTER FIVE
+
+Bore water quality
+5.1. Introduction to water quality data
+5.1.1. Data collection Whangamata water quality is monitored predominantly using electrical conductivity. Measurements are taken from each bore once per week. The time of measurement (like water levels) is not recorded only the actual day is known. Therefore samples could have been taken before, during or after the day's allocated pumping time. Measurements do not have to be taken if the bore is not being used. This mainly applies to seasonal bores which are only used for extraction during peak periods.
+
+In this chapter several graphs are shown to illustrate electrical conductivity. There is a clear change in measurement procedures to note. In late 2004 when monitoring contractors changed, it appears that rounding of data also changed. In Figure 5.1 the change over between contractors is labeled. All data prior to the change is rounded to the nearest whole number, the new data is recorded to several decimal places. Although the old data is not incorrect is does appear staggered on some graphs due to the low range of the x axis.
+
+52
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+25
+
+20
+
+Electrical conductivity (mS/m)
+
+15
+
+10
+
+5
+
+Change in Contractors
+
+0 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date
+Figure 5. 1 ­ Electrical Conductivity at Waireka Place Bore 3. Note the change in monitoring accuracy since new contractors, United Water began sampling in July 2004.
+
+5.1.2. Data errors Some of the water quality data appears inaccurate. From May 2000 ­ December 2001 the recorded electrical conductivity levels appear erratic between measurements. Figure 5.2 shows an example using WP- 3 electrical conductivity measurements. The initial data up to December 2001 clearly varies from any other recorded EC data. Conductivity jumps rapidly up to 80mS/m then back down to between 10-30mS/m. Significant changes between samples suggest that this information may not be correct. There have been previous errors associated with EC recordings at Whangamtata. A study undertaken by Pattle Delamore Partners (1999) concluded that false data was being recorded as a result of equipment malfunction. Unfortunately no such study exists on data between May 2000 and December 2001. However, because of the clear difference in readings the initial data will be removed for water quality assessment.
+
+53
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+90 80 70 60 50 40 30 20 10 0 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Electrical conductivity (mS/m)
+
+Date
+Figure 5.2 - Electrical conductivity at Waireka Place Bore 3. Note the erratic measurements up to December 2001.
+
+5.2. Bore water conductivity trends
+5.2.1. Beverly Hills wellfield The Beverly Hills Wellfield does not appear to be suffering from water quality deterioration. Electrical conductivity levels have increased marginally over the past 5 years. Increasing pumping volumes and drawdowns levels do not appear to have affected water quality.
+
+Figure 5.3 depicts all 3 bore conductivity trends at Beverly Hills Wellfield. Since February 2005 only BH-3 has been monitored because no pumping has occurred from BH-1 or BH-2 in this period. Since February 2005 a very flat EC trend shows that current abstraction from BH-3 seems to be at a sustainable rate. Prior to February 2005, both BH-1 and BH-2 did not show any long term increase in EC.
+
+54
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+Consented Maximum
+
+Figure 5. 3 - Beverly Hills Wellfield electrical conductivity levels.
+
+There does appear to be a slight seasonal trend in conductivity with BH-1. Figure 5.4 illustrates that over the summer peak abstraction period there is a marginal increase in EC (approximately 5mS/m). In the context of breaching the consent the increase can be considered negligible. However it is important to recognize that with extreme pumping situations it appears water quality begins to deteriorate in BH-1. Due to the change in pumping regime BH-1 no longer abstracts large volumes and the bore is rarely measured for EC.
+
+55
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+Increased conductivity coinciding with increased abstraction
+
+Figure 5. 4- Beverly Hills Bore 1 electrical conductivity and daily water abstraction showing the slight increase in EC during times of high water abstraction.
+
+5.2.2. Waireka Place wellfield Waireka Place Bore 2
+
+As mentioned briefly in section 2.5.2 , WP-2 is no longer operational. Pumping ceased on the 1st of November 2005 after the consented electrical conductivity level of 50mS/m was exceeded. Figure 5.5 shows that since mid 2003, conductivity levels have been steadily increasing. WP-2 was not pumping in a sustainable manner and the deterioration increased to the point of consent breach. A lack of data analysis meant that the rising EC level was not picked up. However a simple time series graph (Figure 5.5) shows that the bore was not being used in a sustainable mode.
+
+A disappointing result of the consent breach is a lack of collected data after the main incident. The last electrical conductivity measurement was recorded on the 14th of January 2006. Because resource consent conditions state that water quality measurements are not compulsory during periods of nil abstraction, no further EC readings have been taken. A lack of information after the consent breach makes
+
+56
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+monitoring water quality recovery very difficult. If any recovery is taking place it cannot be defined.
+60
+
+50
+
+Consented Maximum
+
+Electrical Conductivity (mS/m)
+
+40
+
+30
+
+20
+
+10
+
+0 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date Figure 5. 5 - Electrical conductivity data for Waireka Place Bore 2.
+
+Waireka Place Bore 3
+
+In late 2005 when WP-2 exceeded its resource consent, WP-3 had a considerably lower electrical conductivity. The bores are located less than 100m apart and penetrate the same aquifer. WP-3 pumps half the volume of WP-2 however drawdown depths are not too different. Yet in late 2005 when WP-2 was closed, WP-3 had an EC consistently around 20-22mS/m. WP-2 and WP-3 appear to be semi-independent of each other. Had both bores being drawing the same water EC levels would be similar. This is not the case with WP-3 where EC levels (2022mS/m) are less than half that of WP-2 (51mS/m).
+
+Despite the much lower recorded EC in WP-3 than WP-2 there is still cause for concern over declining water quality. When plotted as a time series, an increasing trend is evident at WP-3 (see Figure 5.6). The increasing trend begins in August 2005 and rises almost in a linear fashion. A linear fit has been calculated for the
+
+57
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+data starting October 2005 ­ present. Data from August 2005- October 2005 was not used because the rate of increase is not representative of the current trend. If the linear trend continues at the current rate (positive gradient of 0.012mS/m/day), the consented limit of 50mS/m will be breached in mid 2012.
+
+The reason for an increase in conductivity can be put down to information discussed in Chapter 4. As discussed earlier WP-3 has had both increasing drawdown levels and abstraction volumes. Consistently increasing abstraction rates have caused deeper drawdowns of water levels resulting in drawing water from a greater distance. The proximal location of Waireka Place to the coast means that it is susceptible to sea water intrusion and appears to be increasingly suffering from it.
+25
+
+20
+
+Electrical conductivity (mS/m)
+
+15
+
+10
+
+5
+
+0 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date
+
+Figure 5. 6 - Waireka Place Bore 3 electrical conductivity data with a linear fit showing the deteriorating water quality at 0.012mS/m/day.
+
+5.2.3. State Highway 25 wellfield
+
+58
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+State Highway 25 Bore 1 has a major water quality issue. An increasing EC trend is rapidly nearing the consented limit. As Figure 5.7 shows, an exponential rate of increase seems to be occurring. If this rate continues SH-1 will exceed the consented EC level in mid 2007. WP-3 was loosely predicted earlier in this chapter to breech its consented limit in mid 2012, around 5 years from when this is being written (December 2006). SH-1 however is deteriorating at such a rate that 4 months is a realistic breaching point (March 2007).
+
+The increasing exponential trend in Figure 5.7 does not seem to be influenced by seasonal pumping volumes. High summer and low winter abstraction rates cannot be defined by looking at the increasing EC levels. Peak abstractions which consequently cause the largest drawdowns occur between December and January. No detectable rise over this period is evident. Conversely over the lower abstraction period (lesser drawdowns) EC does not stabilize or decrease.
+
+The rising trend could be a result of the increasing water abstraction resulting in decreasing well water levels, especially during winter months. Figure 5.8 shows a comparison between water levels and electrical conductivity. Although peak drawdowns do not appear to have increased over time, winter recovery of water levels has significantly changed. During the off peak periods of 2002 and 2003, water levels average approximately -10m.a.s.l consistently for several months. However the recoveries shown in 2005 and 2006 off peak periods are considerable lower. The lack of recovery during winter months could be causing the rising EC levels. This would explain why the conductivity is rising consistently as apposed to a step increase which would be associated solely with peak summer drawdowns. It appears that the winter recoveries previously experienced at SH-1 were allowing enough freshwater replenishment in the aquifer to keep a stable EC level.
+
+59
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+50
+
+Consented Maximum
+
+Electrical Conductivity (mS/m)
+
+40
+
+30
+
+20
+
+10
+
+0 Dec-2002 Dec-2003 Dec-2004 Dec-2005 Dec-2006
+
+Date
+
+Figure 5. 7 - State Highway 25 Bore 1 electrical conductivity.
+10 50 0
+
+Electrical Conductivity (mS/m)
+
+40 -10
+
+30 -20
+
+20
+
+-30
+
+10
+
+-40
+
+0 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+-50
+
+Date
+
+Figure 5. 8 State Highway 25 Bore 1 electrical conductivity (left axis) compared to well water levels (right axis).
+
+60
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+5.2.4. Wentworth Valley Wellfield Limited data makes interpretation of WV-7 difficult. EC measurements have only been taken since early 2005 with large gaps occurring while the bore is not being pumped (winter months). From what is available WV-7 appears to fluctuate in conductivity. Figure 5.9 shows that there seems to be a consistent level of EC around 15mS/m with several sporadic rises to above 30mS/m. It is unlikely that these are linked to pumping due to the occurrence throughout the year even when no pumping is taking place. Figure 5.10 compares daily abstracted volume with EC and there is no link between the two.
+
+There are several possibilities as to why EC could be elevated. The bore is located further away from the coast (over 1km) than any other bore in Whangamata so sea water intrusion is unlikely.
+
+Hydrothermally altered water is a possibility. WV-7 is located closer to the Coromandel Ranges than any other Whangamata bore. The bore could have been pumping water in from the hydrothermally altered Coromandel ranges resulting in a higher EC. However if this were the case it should be more prominent during periods of high pumping. Yet it occurs predominantly whilst no extraction is taking place
+
+The elevated EC could be a result of measurements errors. Slight contamination of water samples can increase the EC considering the relatively low levels being analyzed. This would also explain why there is no relationship with water extraction. No elevated levels have been recorded since October 2005 which could be a result of an increase in quality control.
+
+Close monitoring of WV-7 is required to ensure the EC level is not rising however the previous elevated levels are most likely a result of testing error.
+
+61
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+50
+
+Consented Maximum
+
+Electrical Conductivity (mS/m)
+
+40
+
+30
+
+20
+
+10
+
+0 Dec-2004
+
+Mar-2005
+
+Jun-2005
+
+Sep-2005
+
+Dec-2005
+
+Mar-2006
+
+Jun-2006
+
+Date Figure 5. 9 - Wentworth Valley Bore 7 electrical conductivity
+
+Figure 5. 10 - Comparison of water abstraction and EC levels in WV-7
+
+62
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+5.2.5. Moana Point seasonal bores The Moana Point seasonal bores all seem to be in a relatively stable state in regards to electrical conductivity levels. As can be seen in Figure 5.11, conductivity appears consistent in the first half of the record before some erratic levels are measured. Disregarding these sporadic elevations, water quality has not shown a deteriorating trend.
+
+The lack of collected data since mid 2004 makes it difficult to accurately assess the high EC levels. Due to consent conditions, EC levels are only measured when the bore is being used. During the winter when the bores are not required, no EC levels are recorded. As a result EC levels vary significantly between measurements partially due to time difference (several months between measurements).
+
+Consented Maximum
+
+Figure 5. 11 - Electrical conductivity levels in the Moana Point seasonal bores
+
+63
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+5.3. Electrical conductivity summary
+Water quality (electrical conductivity) in Whangamata seems dependant on the area in which a particular bore is located. Deteriorating trends are evident at Moana Point, excluding seasonal bores which are difficult to assess because of a lack of year round data. However across town at Beverly Hills, EC levels do not show any significant rise over the past 5 years. Figure 5.12 shows the localities and EC trends of Whangamata bores.
+
+State Highway 25 Rising EC Waireka Place Rising EC Moana Point
+
+Beverly Hills Stable EC
+
+Figure 5. 12 ­ Water quality geographically. Note the elevating EC levels are all located at Moana Point.
+
+The three main production bores at Moana Point are Waireka Place Bores 2 and 3 and State Highway 25 Bore 1. All of these bores are consistently deteriorating in water quality (increasing water conductivity). WP-2 has been closed since November 2005 as a result of EC breaching consent EC levels. WP-3 is showing an increasing trend that if current rates continue a consent breach would occur on 4-5 years time. SH-1 EC level is of most concern, rising at a rate which would exceed consented levels in six months to a year. WP-2, WP-3 and SH-1 are all
+
+64
+
+CHAPTER FIVE: BORE WATER QUALITY
+
+located within 500m of each other which suggests the aquifer in which water is being extracted is not sustainable and water of lesser quality is being drawn in.
+
+All three Beverly Hills bore's (BH-1, BH-2 and BH-3) show stable EC levels. BH-3 in particular has had a very consistent EC level (22-33mS/m) since December 2004. BH-3 is the predominant bore at Beverly Hills and a stable EC level suggests the wellfield is not currently threatened by seawater intrusion.
+
+65
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+CHAPTER SIX
+
+Modelling to forecast well water levels: linear regression and neural networks
+6.1. Introduction
+Groundwater extracted from Whangamata's fractured rhyolites and andesite aquifers provide the town with all of its potable freshwater supply. Of the 7 main production bores, most bore water levels have a decreasing trend. Several bores are also abstracting water showing an increasing electrical conductivity (EC) trend. One bore has already exceeded its consented EC level (Waireka Place Bore 2) and two other bores are following a similar trend. The increasing EC levels may be related to saltwater intrusion as a consequence of lowered bore water levels from increased pumping. There is a need therefore to model bore water levels to evaluate the effect of increasing abstraction volumes. Unfortunately a limited data set rules out the possibility of using a numerical model effectively (see section 3.3.2). Instead an empirical approach is needed to model well water levels in Whangamata. It was decided to use multiple linear regression and artificial neural networks as empirical approaches to modeling and forecasting bore water levels. Multiple linear regression is a widely used statistical method and was implemented in this study to create a model of water levels as linear functions of pumping volumes. Due to the limited data associated with Whangamata bores (see 6.2.1 for further explanation), regression is a pragmatic approach to model the well water levels. As well, an artificial neural network (ANN) was also evaluated as an empirical model. ANN's are a relatively new method for modeling after first being used in 1986 (Rumelhart et al., 1986). Recently, many studies have shown that ANN's can have increased accuracy in forecasting compared to traditional statistical approaches (for a more detailed description of the ANN used, see chapter 3). The
+
+66
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+`STATISITICA' package was used for ANN model generation, training (calibration) and testing (validation).
+
+6.2. Development of predictive models
+6.2.1. Data set information The water level information available from the bores consists of weekly measurements of water level over the period May 2000 - June 2006. Figure 6.1 shows a time series of water levels. Two distinct sets of data can be seen, which represent the state of the well with respect to pumping or recovery mode (see 4.2.1 for full description). Water levels are measured independently of whether the bores are pumping or not. Consequently two sets of information are inadvertently collected, the upper group of water levels are measured when the bore is not extracting water and the lower group of water levels are sampled while the bore is pumping. Due to the nature of the data set, two separate models were developed for each bore. The first model attempted to match data while no pumping was taking place, the second was applied to data obtained during periods of pumping. A key issue involving the development of any predictive model is the size of the available data set. The data received from Thames Coromandel District Council spanned 6 years (May 2000 ­ June 2006) with weekly water level measurements. Each bore has around 260-300 water level measurements, depending on gaps in the historical record (see section 4.2.1 for missing data information). After each bore is classified into `pumping' and `non-pumping' water level measurements, there are only 130-150 data points in total to be used for calibration and validation subsets. Generally a data set is divided into two for model calibration and validation purposes. However for this study only 60 data points were used for validation, leaving the remainder for calibration. This allowed for a greater number of variables to be encountered by the model during calibration. Another important aspect involving the data is the collection mode. No information is recorded about the time of measurement so it is not known with 67
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+certainty if a water level is taken during pumping or recovery. However, from a time series plot (Figure 6.1) it is generally possible to identify the measurements taken during and after pumping. The water levels recorded during recovery range from 0m to 15m below mean sea level (for this particular bore). Measurements taken while the bore is pumping range from 30m ­ 49m below mean sea level (for this particular bore). The actual observation time is just as important as the pumping status for modelling purposes, however this is not recorded. For example, if the pump had only recently been turned on, the water level would be higher than if it were measured just before the pump was turned off. However both these measurements would fall into the `pumping' data set for that particular bore. Also, measurements taken during pumping will always be higher than the maximum drawdown (at the end of pumping a period). A more important implication of the poor time resolution is the measurements taken during recovery. As can be seen in Figure 6.1 there are several points which do not fit into the `pumping' or `recovery' categories. A possible explanation is that the pumps had recently been turned off and the well water levels were in a state of rapid recovery. These data points have been removed for the modeling process. It would not be possible to model these `outliers' because of poor time resolution relative to the rate of water level change.
+
+68
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+0
+
+-10
+
+Well water level (m.a.s.l)
+
+-20
+
+-30
+
+-40
+
+-50
+
+'non-pumping' water levels 'during-pumping' water levels 'during rapid recovery' water levels
+
+-60 Dec-2000 Dec-2001 Dec-2002 Dec-2003 Dec-2004 Dec-2005
+
+Date
+Figure 6. 1 Well water levels at Waireka Place Bore 2. Note the `black circle' water levels represent water measurements possibly taken during rapid recovery.
+
+6.2.2. Independent variables
+
+Both daily multiple linear regression and artificial neural network models were generated using pumped volumes as independent variables. Daily total volumes pumped from the bores that are likely to have an affect on drawdown at the modeled bore were used, as well as from the bore supplying water levels. For example Beverly Hills Bore 1 levels are influenced by pumping from this bore, but BH-2 and BH-3 pumping rates could also have an effect. Pumping volumes from previous days were also used as variables. This took into account the influence of pumping over time on well water levels. Independent variables for BH-1 are the total daily pumped volumes from BH-1 and/or BH-2 and/or BH-3 up to 4 days prior to the water level measurement. The direct relationship between pumping and water levels make daily pumping volumes a logical choice as variables, taking into account the course daily time scale of water level observations
+
+69
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+The independent variables were first rescaled to zero mean and unit standard deviation in the usual way (equation 6.1, where µ is the mean of the variable and  is the standard deviation of the variable). z=x - µ  (6.1)
+
+A wide range of alternative variables were also tested in the calibration stage. However, the best results came from daily pumped volumes. Variables tested that failed to aid explanation in the empirical models predictive ability included; - cumulative pumping - rainfall - daily hours pumped - time since pumping stopped - atmospheric pressure Independent variable selection using multiple linear regression A subset of independent variables was selected from the original set of 4 days prior pumping (4 separate variables) for each bore affecting the modelled bore. Stepwise regression was used to identify the most influential variables. Stepwise regression is a model building technique that finds a subset of independent variables that most adequately predicts the dependant variable.
+
+Independent variable selection using artificial neural networks The `intelligent problem solver' tool in STATISTICA is the neural network equivalent to stepwise regression. The `intelligent problem solver' creates a model using some of the independent variables which can be used to best predict the dependant variable. The main difference between stepwise regression and the `intelligent problem solver' is the number of models generated. While stepwise regression generates one predictive linear equation, the neural network tool generates as many models as requested, each individual and using a different combination of independent variables. This can lead to calibration over-fitting, but this can be checked using the validation data.
+
+70
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.2.3. Model-based analysis ­ goodness of fit
+
+Because of the poor time resolution, the models of water level data can really only hope to predict the long term trends rather than closely match data points. A single weekly water measurement at an unknown time of day is extremely difficult to predict because of the daily time resolution of extracted water volumes and bore water level data. However, for water resource purposes the seasonal fluctuations are the focus of the models with the point levels left as unexplained variation. The mean summer drawdowns and winter recoveries are important in terms of sustainable management. A predictive model that effectively forecasts these seasonal effects is the main focus of this study. Inevitably, all fit measures will appear poor when measured against matching to individual recorded water levels. The Correlation Coefficient (r2), Coefficient of Efficiency (E) and Index of agreement (d) all show that the model does not match data points well and a low value will result (Legates and McCabe, 1999). The modified index of agreement (equation 6.2) has been selected to use as a goodness of fit measure because it does not involve squaring errors, reducing the influence of large outliers (Legates and McCabe, 1999). However, even using the modified equation resulted in a moderate fit measure for the validation data set. However, as is shown in sections 6.3 ­ 6.7, the models often showed the ability to anticipate trends in the validation data set. The most important analysis tool for these models is a comparison of the model prediction against actual trends in the data as obtained from running means of observed and validated data.
+
+n |Oi - Pi|j
+i=1
+
+dj = 1.0 ­
+
+ (|Pi-O'|+ |Oi-O'|)j
+i=1
+
+n
+
+(6.2)
+
+6.2.4. Formation of neural network models The same set of independent variables used prior to stepwise regression was also used in the neural network models. The neural network models were designed by 71
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+trial and error. Several different forms of multi layer perceptron (MLP) models were tested until a model showed good predictive qualities. The neural network program in STATISTICA is particularly useful for this trial and error stage. An `intelligent problem solver' function is used to create and test as many models as requested. By inputting model constraints (described in Chapter 3) the `intelligent problem solver' will design unique, independent models using chosen independent variables to predict the dependant variable and rank them by performance. The best model validations can then be plotted and compared to see which predicts the long term water level trends best. A multi layer perceptron model is categorized by the number of nodes and hidden layers (see chapter 3 for full description of MLP layout.) For example an MLP 4:4-3-2-1:1 has 4 input (independent) variables, two hidden layers (the first containing 3 nodes, the second containing 2) and one output or dependant variable. Model complexity increases with the number of hidden layers and nodes. All of the models used in this study had either one or two hidden layers (see Chapter 3 for full description of MLP). The remainder of this chapter will present the utilised neural network and linear regression models applied to each bore. The models are checked for forecasting ability in validation data sets using the modified index of agreement and a comparison between moving means of observed and validated data. The regression fits are compared to neural network fits to evaluate which is the best for predicting well water level trends in the validation sets.
+
+72
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.3. Beverly Hills Bore 1
+6.3.1. BH-1 `non-pumping' regression model BH-1 `non-pumping' regression model was generated using stepwise regression which selected five independent variables by fitting to the calibration data set (Appendix 3). Daily pumping volumes from all three bores in Beverly Hills were used to calibrate the `non-pumping' model. The initial independent variables were pumped volumes from 4 prior days for BH-1, BH-2 and BH-3 (A total of 12 independent variables). Five independent variables were attained by running a stepwise regression to identify the most influential variables: BH-1 `non-pumping' model independent variables: - Beverly Hills Bore 1 (BH-1) extracted water volume in the day prior to the day in which the water level measurement was made - BH-1, 2 days prior - BH-1, 3 days prior level measurement - BH-3, 3 days prior (x1) (x2) (x3) (x4) (x5)
+
+- Beverly Hills Bore 3 (BH-3) total pumped volume on the day of water
+
+BH-1 `non-pumping' calibration range ­ data points 61 ­ 211 (211 total data points, data set located in Appendix 3) BH-1 `non-pumping' fitted equation wl= -0.088x1 ­ 0.354x2 ­ 213x3 ­ 0.282x4 ­ 0.476x5 ­ 0.454 The fitted regression equation (equation 6.3) shows a negative correlation for all coefficients towards well water level. Water abstraction results in well water level decrease so it was promising not to see any positive variables. One clear limitation of the model is water level prediction when no pumping takes place for several days. Long term water level recovery is not modeled therefore no pumping, results in no recovery. Several independent variables were used to attempt to model this facet of water level variation (see 6.2.2) however none proved (6.3)
+
+73
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+successful. The data set has hardly any such situations where there is nil pumping so this is not a major disadvantage. As mentioned previously, fitting to point data was not expected to yield high goodness of fit results (due to the poor data set). Instead goodness of fit was measured by comparing moving averages which resulted in a relatively good index of agreement (0.67). The model was effective in modeling general bore seasonal water level variations. Figure 6.2 shows that drawdowns associated with high demand periods (December/January 2000/2001) are predicted well in validation. Winter recoveries (caused by reduced pumping) are also modeled effectively making this model a practical forecasting tool (as long as pumps are not turned off completely over winter). Figure 6.4 shows a 5 point moving average of observed and predicted data. The validated data slightly under predicts the summer drawdowns and winter recovery. 6.3.2. BH-1 `non-pumping' neural network model.
+
+The model that best predicted BH-1 upper water levels in both calibration and validation was a MLP 5:5-3-1:1 which translated to 5 independent variables being fed into one hidden layer containing 3 nodes and the output was to one node (dependant variable). The major disadvantage with this particular STATISTICA `black box' model was that weightings of each independent variable are not given nor was the actual number of independent variables used (5 of 12 in this case). The neural network model did a reasonable job of predicting seasonal bore water levels in validation (Figure 6.3 and 6.5). The general trends are predicted but not very effectively. The model largely overpredicts the seasonal well water level variations (Figure 6.5). Comparing Figure 6.2 with 6.3, the regression equation performs a better prediction of the seasonal well water levels. This was reflected when index of agreements are compared. The regression model (0.68, applied to smoothed validation data) rated much higher than the ANN (0.35, applied to smoothed validation data)). BH-1 `non-pumping' water levels seem to be best modeled using regression methods.
+
+74
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 2 Beverly Hills Bore 1 `non-pumping' regression model calibration, validation and observed water levels.
+
+Figure 6. 3 Beverly Hills Bore 1 `non-pumping' ANN model calibration, validation and observed water levels.
+
+75
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 4 Beverly Hills Bore 1 `non-pumping' regression model, with a 5 point moving average for the validation data set.
+
+Figure 6. 5 Beverly Hills Bore 1 `non-pumping' ANN model, with a 5 point moving average for the validation data set.
+
+76
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.3.3. BH-1`during pumping' regression model The data set for BH-1 water levels `during pumping' is very limited. There are only 52 pumping measurements taken during the entire record. Because the bore has barely been used in the last two years, no data has been collected over that time with drawdowns while pumping. The limited data means that a different ratio for calibration and validation was used. For other bores 60 data points were used for validation and the remainder (generally 80-130) for calibration. Due to the limited data of BH-1 water levels `during pumping', the data set was split in half with 26 data points used for calibration and 26 for validation. Despite the very low number of data points available for calibration, the model still appears to give a reasonable validation (Figure 6.4 and 6.8) with a high (in the context of this study) goodness of fit value to the smoothed validation data (0.74). This was most likely because of the dominance of BH-1 during both the calibration and validation periods. The model was only subjected to one pumping regime where BH-1 abstracted the majority of ground water. Such a small data set could limit the practicality of the model, especially considering that BH-3 is currently the dominant bore with BH-1 rarely used. The `during pumping' regression equation (equation 6.4) shows a good negative correlation between pumping volumes and well water levels. This is what would be expected because increased pumping results in water level decrease. BH-3, 1 day prior pumped volume (x5) was positively correlated which was unexpected. A possible explanation is that when BH-3 was pumped, less water was abstracted from BH-1 creating a rise in water level. BH-1`during pumping' regression independent variables BH-1 pumped volume that day BH-1, 3 days prior pumped volume BH-2, 3 days prior pumped volume BH-3, pumped volume that day BH-3, 1 day prior pumped volume BH-3, 2 days prior pumped volume (x1) (x2) (x3) (x4) (x5) (x6)
+
+77
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+BH-1 `during pumping' fitted equation
+
+(6.4)
+
+wl=-0.246x1 ­ 0.212x2 ­ 0.198x3 ­ 1.18x4 + 1.12x5 ­ 1.232x6 ­ 8.84 BH-1 `during pumping' calibration range ­ data points 27-52 (of 52 data points, see Appendix 3 for full data set)
+
+6.3.4. BH-1 `during pumping' neural network model The `during-pumping' neural network model used for BH-1 was an MLP 6:6-135-1:1 (see 6.2.4 for a break down of the ANN description). This model was different to BH-1 `non-pumping' neural network model in that it contained 2 hidden layers, the first having 13 nodes and the second having 5, 6 independent variables were used (12 possible for use). This results in a very good calibration and validation (Figure 6.7). The model predicts validation bore water level variation well (0.72 index of agreement with 5 point moving averages of validation data set). The validation set was very small (26 data points) but figure 6.9 shows that the model replicates the summer (2000-2001) drawdown well. The high level of model complexity (large number of nodes in hidden layers) is slightly worrying. The very small data set and highly complex model could result in over-fitting. As such, the usefulness of the ANN model is not fully known yet. Because the model has only been calibrated and validated to a single pumping regime, (not the current regime) variation in pumping volumes from bores may not be taken into account. In terms of the small calibration set however, the model performs well in validation (keeping in mind the real world situation encountered during calibration and validation is simple in this particular instance).
+
+78
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 6 Beverly Hills Bore 1 `during pumping' regression model calibration, validation and observed water levels.
+
+Figure 6. 7 Beverly Hills Bore 1 `during pumping' ANN model calibration, validation and observed water levels.
+
+79
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 8 Beverly Hills Bore 1 `during pumping' regression model, with a 5 point moving average for the validation data set.
+
+Figure 6. 9 Beverly Hills Bore 1 `during pumping' ANN model, with a 5 point moving average for the validation data set.
+
+80
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.4. Beverly Hills Bore 2
+6.4.1. BH-2 regression model BH-2 water levels appear significantly different to most other bores in Whangamata. Drawdowns are small due to low pumping volumes, with a lowest recorded water level of 7m below mean sea level. As a result of the low drawdowns it is difficult to define when measurements are taken with the pump turned on or off. Instead of attempting to separate the measurements into two sets, all data was modeled with one regression equation. A slightly different approach was taken for separating the data into calibration and validation sets than described in 6.2.1. The data set was split equally for calibration (145 data points) and validation (144 data points). The data set was split evenly because of the large amount of data points available. The most effective regression equation for BH-2 was developed using 5 independent variables. A higher number of variables led to over-fitting and erratic validation results. The equation shows that large pumping volumes from BH-1 and BH-3 (x1, x2, x4 and x5) have a considerable influence on the bore with negatively correlated coefficients. Pumping from BH-2 itself was only represented by one independent variable from stepwise regression, with the volume pumped on the day of measurement (x3). BH-2 model independent variables: BH-1, 2 days prior pumped volume BH-1, 3 days prior pumped volume BH-2 volume pumped that day BH-3 volume pumped that day BH-3 3 days prior pumped volume BH-2 fitted equation wl= 0.216x1 ­ 0.774x2 ­ 0.670x3 ­ 0.291x4 ­ 0.354x5 ­ 1.868 (x1) (x2) (x3) (x4) (x5) (6.5)
+
+81
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+BH-2 calibration range ­ data points 145-289 (of 289 data points, see Appendix 3 for full data set) The model validation performed well in terms of matching seasonal peaks and troughs, without matching point data. A reasonable index of agreement (0.62 goodness of fit for a 5 point moving mean validation set) suggests that the model matches general bore water level trends. Figure 6.11 compares a 5 point moving mean of observed and validated data. The plot shows a good correlation between mean bore water levels and predicted values.
+
+Figure 6. 10 Beverly Hills Bore 2 regression model calibration, validation and observed water levels.
+
+82
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 11 Beverly Hills Bore 2 regression model with a 5 point moving average for the validation data set.
+
+6.4.2. BH-2 neural network model The water level data was treated in a similar manner to the regression model. The data was not split, instead modeled as a whole allowing more data points for calibration and validation. The ratio for calibration and validation points was the same as the regression method, with 145 points used for calibration and 144 for validation. Independent variables were selected in the same manner as all other ANN models. The best attained model was an MLP 6:6-5-1:1 (one hidden layer and 6 independent variables). The results shown in Figure 6.12 and 6.13 were similar to BH-1 `non-pumping' ANN model. Some of the general trends are predicted in validation, however winter recovery is not modelled well and several large outliers make the regression model more appealing. A low index of agreement (0.4 with data points) emphasizes the lack of predictive ability shown by the neural network in validation.
+
+83
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 12 Beverly Hills Bore 2 ANN model calibration, validation and observed water levels.
+
+Figure 6. 13 Beverly Hills Bore 2 ANN model with a 5 point moving average for the validation data set.
+
+84
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.5. Beverly Hills Bore 3
+6.5.1. BH-3 `non-pumping' regression model Beverly Hills Bore 3 was split into two data sets similar to BH-1.The upper set of water levels (`non-pumping') was modelled using 6 independent variables (selected using stepwise regression) out of a possible 12. Figure 6.14 shows calibration and validation for BH-3 upper model which matches the seasonal fluctuations well. Figure 6.16 shows the summer drawdowns and winter recoveries are modelled well in validation. An index agreement factor of 0.70 (goodness of fit for moving mean validation data set) shows that general bore water level fluctuations are modeled well. The regression equation (equation 6.6) shows highly negative correlation for BH3 abstraction (x4, x5 and x6) which is expected for proximal drawdown related variables. The weightings seem to be a fair reflection of the wellfields where BH1 and BH-3 have the capability to extract a larger amount than BH-2. BH-2 is only represented by one independent variable while BH-1 has two and the modeled bore (BH-3) has three. BH-3 `non-pumping' regression model independent variables: BH-1 volume pumped on that day BH-1, 3 days prior pumped volume BH-2, 3 days prior pumped volume BH-3, 1 day prior pumped volume BH-3, 2 days prior pumped volume BH-3, 3 days prior pumped volume (x1) (x2) (x3) (x4) (x5) (x6)
+
+BH-3 `non-pumping' calibration range ­ data points 61 ­ 157 (157 total data points, data set located in Appendix 3) BH-3 `non-pumping' fitted equation 1.46. 85 (6.6)
+
+wl= -0.328x1 ­ 0.349x2 ­ 0.153x3 ­ 0.232x 4 ­ 0.161x5 ­ 0.313x6 ­
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 14 Beverly Hills Bore 3 `non-pumping' regression model calibration, validation and observed water levels.
+
+Figure 6. 15 Beverly Hills Bore 3 `non-pumping' ANN model calibration, validation and observed water levels.
+
+86
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 16 Beverly Hills Bore 3 `non-pumping' regression model with a 5 point moving average for the validation data set.
+
+Figure 6. 17 Beverly Hills Bore 3 `non-pumping' ANN model with a 5 point moving average for the validation data set.
+
+87
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.5.2. BH-3 `non-pumping' neural network model The best ANN model (best validation) for BH-3 `non-pumping' water levels was an MLP 9:9-12-6-1:1. This is quiet complex, with two hidden layers and a large number of nodes. As a result, the model was able to fit very accurately to the calibration data. Not only is the calibration following general trends but it is matching most dependant variable points. The Model validation however was not as accurate but does follow seasonal bore water level variations. Water level recovery in the winter months of 2000 and 2001 (related to low volumes abstracted over this period) can be seen in Figure 6.17 and a lowering of water levels during the 2000/2001 summer (high abstracted water volumes) was also modeled. The actual predictive ability of the model was limited. Neither high nor low actual water levels are reached in validation (Figure 6.15). Seasonal fluctuations that were modelled are much more reduced than observed fluctuations. This was reflected in a low index of agreement (0.48) when compared to a 5 point moving mean of observed values. The model seems to be constricted by over learning in the calibration stage. The regression model appears superior to the neural network approach for this particular data set. Water level variations were well modelled in validation using regression and although the neural network did predict these variations in validation, it was not to the same degree of accuracy. Regression showed a much higher index of agreement (0.70) than the neural network (0.48). For a means of forecasting well water levels the regression model would be the better choice.
+
+88
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.5.3. BH-3 `during pumping' regression model The `during pumping' regression model used 5 independent variables (equation 7). The model had a modified index of agreement of 0.63 with moving mean validation data. This relatively good fit value is reflected in Figure 6.20 which shows the BH-3 'during pumping' regression model follows the seasonal variations shown in well water levels. The actual drawdowns were slightly over predicted (Figure 6.18) which has led to a not so bad index of agreement (0.65) between moving means of validated and observed data, however the ability to model seasonal fluctuations was still prominent. BH-3 `during pumping' regression independent variables `during pumping' BH-1, 2 days prior volume BH-2, 2 days prior volume BH-3, volume pumped that day BH-3 1 day prior volume BH-3, 3 days prior volume (x1) (x2) (x3) (x4) (x5)
+
+BH-3 `during pumping' calibration range ­ data points 61 ­ 141 (141 total data points, data set located in Appendix 3) BH-3 `during pumping' fitted equation wl= ­ 0.411x1 ­ 0.438x2 ­ 1.10x3 + 0.751x4­ 0.702x5 ­ 9.42. The fitted regression equation (equation 6.7) for BH-3 `during pumping' regression was largely influenced by BH-3 (3 of the 5 independent variables). However one independent variable (x4) was positively correlated which seems unrealistic. It would be expected that all BH-3 variables would be negatively correlated. Any pumping from the bore should create a drawdown. Removing this variable from the equation resulted in a drastic decrease in validation accuracy. This is the disadvantage of using regression approach. The model may work well in validation even though the coefficients are clearly not reflective of real world situations. (6.7)
+
+89
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 18 Beverly Hills Bore 3 `during pumping' regression model calibration, validation and observed water levels.
+
+Figure 6. 19 Beverly Hills Bore 3 `during pumping' ANN model calibration, validation and observed water levels.
+
+90
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 20 Beverly Hills Bore 3 `during pumping' regression model with a 5 point moving average for the validation data set.
+
+Figure 6. 21 Beverly Hills Bore 3 `during pumping' ANN model with a 5 point moving average for the validation data set.
+
+91
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.5.4. BH-3`during pumping' neural network model
+
+The BH-3 `during-pumping' neural network approach proved a good predictor (in validation) of seasonal bore water level fluctuations. The MLP 11:11-10-1:1 model has just one hidden layer but uses 11 of the 12 available independent variables. As can be seen in Figure 6.19 the accuracy shown in calibration was also transferred to the validation. The `during pumping' model predicts well water level fluctuations effectively. Drawdown in high demand (December/January 2000 and 2001) periods was represented by the model as were the two winter recoveries (2000 and 2001) (Figure 6.21). A reasonable index of agreement (0.62 goodness of fit for moving mean validation data) is a good indication that although not point fitting, the model was predicting long term water level changes well. The main disadvantage of this neural network model is the poor validation of the 2002/2003 summer which was largely underpredicted. The regression model appears to be the better predictor of water level variations for BH-3 `during pumping' data. Not only does it have a greater index of agreement (0.65) than the regression model (0.62) but it visibly predicts water level fluctuations with greater accuracy when comparing mean predicted and observed data. The neural network model still performs well and appears to be useful as a future forecasting tool.
+
+92
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.6. Waireka Place Bore 2
+
+6.6.1. WP-2 `non-pumping' regression model Waireka Place bores incur large drawdowns during pumping which makes separating the water level data into two sets (pumping and non-pumping) possible. Waireka Place Bore 2 `non-pumping' water level modeling was optimal using 6 independent variables (8 potential variables). The variables were similar to Beverly Hills with pumping volumes from lagged days used. Two bores are used at Waireka Place so both pumping volumes were used for independent variables. WP-2 `non-pumping' model used the following independent variables, selected from stepwise regression: WP-2 `non-pumping' regression independent variables WP-3 volume pumped on that day WP-3, 1 day prior pumped volume WP-3, 2 days prior pumped volume WP-3, 3 days prior pumped volume WP-2, 1 day prior pumped volume WP-2, 3 days prior pumped volume (x1) (x2) (x3) (x4) (x5) (x6)
+
+WP-2 `non-pumping' calibration range ­ data points 61 ­ 179 (179 total data points, data set located in Appendix 3) WP-2 `non-pumping' fitted equation (6.8)
+
+wl= - 0.683x1 + 0.461x2 ­ 0.477x3 ­ 0.567x4 ­ 0.996x5 ­ 0.638x6 ­ 7.12 The fitted regression equation (equation 6.8) is predominantly influenced by WP3. Four of the six independent variables are from WP-3 despite WP-3 being the modelled bore. Due to the lack of pumping from WP-2 since late 2005 (reasons for nil bore pumping are discussed in section 5.2.1), WP-3 has been the only bore abstracting water, which consequently had a large influence on the calibrated data set. WP-2 does have two large negatively correlated variables which suggest that the model is influenced by WP-2 abstraction as well as WP-3. 93
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+The two bores at Waireka Place (WP-2 and WP-3) show a greater range of water levels compared to Beverly Hills. The `non-pumping' water level ranged from around 0 ­ 5 m below mean sea level for Beverly Hills bores while Waireka Place `non-pumping' water levels range between 0 ­ 15 m below mean sea level. The larger range of bore water level variation made modeling the data points difficult (although this was not the primary focus of the study). Figure 6.22 illustrates this with the `non-pumping' regression model. General bore water level seasonal fluctuations were mimicked by the model in both calibration and validation, however point fitting is poor. The index of agreement figure of 0.45 (fit of validation to actual data) should not be taken as full representation of the models ability to predict well water seasonal fluctuations. A slightly improved goodness of fit (0.50) is found when comparing a 5 point moving average of observed and validated data. Figure 6.24 allows a better understanding of the validation predictions. Although general trends are modelled, winter recovery predictions are poor which limit the usefulness of the model.
+
+6.6.2. WP-2 `non-pumping' neural network model The same 8 independent variables were used for the Waireka Place regression and neural network models. The neural network selected for WP-2 upper water levels was an MLP 6:6-6-1:1. In terms of previous neural networks used this model has fewer variables, nodes and just one hidden layer. The more simplistic model still performed well in calibration and validation. Figure 6.23 shows higher extraction rates resulting in drawdown's (summer 2000) and low demand resulting in winter recoveries were very well modelled in validation. A reasonable agreement factor of 0.61 between moving means of validated and observed data reflects the good predictive nature of the model. Figure 6.25 shows that the neural network model performed a better validation than the regression model (Figure 6.24). The general well water trends were modeled to a greater degree of accuracy than was seen using regression. Comparison of validation results in Figures 6.24 and 6.25 suggests that the neural network is the most appropriate for use as a forward forecasting tool. 94
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 22 Waireka Place Bore 2 `non-pumping' regression model calibration, validation and observed water levels
+
+Figure 6. 23 Waireka Place Bore 2 `non-pumping' ANN model calibration, validation and observed water levels
+
+95
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 24 Waireka Place Bore 2 `non-pumping' regression model with a 5 point moving average for the validation data set.
+
+Figure 6. 25 Waireka Place Bore 2 `non-pumping' ANN model with a 5 point moving average for the validation data set.
+
+96
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.6.3. WP-2 `during pumping' regression model
+
+The `during-pumping' regression model suffered from similar circumstances to the BH-1 `during-pumping' model. `During-pumping' water levels were not present post December 2005 due to WP-2 breaching its conductivity consent and closing. With only 100 data points the set was split in two to allow 50 points for calibration and 50 for validation. In this circumstance calibration agreement was high due to the low number of data points (Figure 6.26). However several outliers give the model a poor index of agreement (0.37 fit to actual data) in validation. Even when comparing a 5 point moving average of validated and observed data the goodness of fit (0.40) is relatively low, suggesting the model is not predicting bore water level trends to a high degree of accuracy. The seasonal trends are modeled but it is difficult to follow due to the noisy and limited validation data. By using a comparison of moving averages (Figure 6.28) validation results become easier to assess. Seasonal fluctuations are modelled in validation, however they did not predict mean summer drawdowns accurately. Both the summer drawdowns (increased water abstraction) in the validation set were underpredicted by the model which could be related to the simple regression equation. The fitted regression equation (equation 6.8) reflects the limited data available, using only 3 independent variables selected using stepwise regression (out of a possible 8) to model highly variable water levels. The limited input parameters cause the noisy validation results seen in Figure 6.26. The regression equation is modelling a small number of data points in calibration so a good fit could be found with few variables. However when transferred to validation the equation was restricted by having just 3 independent variables, only one of which is from WP-2 itself. WP-2 `during pumping' regression dependant variables; WP-3 volume pumped on the day of measurement (x1) WP-3, 3 days prior pumped volume WP-2, 1 day prior pumped volume 97 (x2) (x3)
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+WP-2 `during pumping' calibration range ­ data points 51-100 (100 total data points, see Appendix 3 for full data set) WP-2 `during pumping' fitted equation wl= 0.849x1 ­ 1.123x2 ­ 2.749x3 ­ 35.157 (6.8)
+
+6.6.4. WP-2 `during pumping' neural network model Due to the very low number of data points available for calibration a very simplistic neural network resulted in the best predictions. The MLP 1:1-1-1-1:1 model is very linear with two hidden layers but only 1 node in each layer. As a result the validation predictions were not very accurate (Figure 6.27) but seasonal fluctuations are still modeled (Figure 6.29). Despite showing seasonal fluctuations the accuracy of the validation was not good. Winter recoveries were generally over predicted while summer drawdowns, slightly under predicted (Figure 6.29). Once again because of the limited information on the neural network, it was unclear why these errors are shown. However because of the very limited data set the fact that seasonal fluctuations are modelled was encouraging. The neural network model is very similar in terms of predictions to the regression model. A slightly higher agreement factor of 0.44 (the regression model was 0.40) suggests that the neural network model may be a better model. However due to the small data set, validation was limited to 50 data points so a diverse range of information was not predicted. It is very difficult to assess which model is better for forecasting purposes or if either is suitable. However using the index of agreement the neural network model would have to be slightly favoured.
+
+98
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 26 Waireka Place Bore 2 `during pumping' regression model calibration, validation and observed water levels
+
+Figure 6. 27 Waireka Place Bore 2 `during pumping' ANN model calibration, validation and observed water levels.
+
+99
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 28 Waireka Place Bore 2 `during pumping' regression model with a 5 point moving average for the validation data set.
+
+Figure 6. 29 Waireka Place Bore 2 `during pumping' ANN model with a 5 point moving average for the validation data set.
+
+100
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.7. Waireka Place Bore 3
+6.7.1. WP-3 `non-pumping' regression model The same independent variables have been used to generate WP-3 regression models as were in WP-2 models. Due to the close proximity of WP-2 and WP-3, pumping is likely to have an effect on both bore water levels. The independent variables used for the generation of WP-2 `non-pumping' regression model were: WP-3 `non-pumping' regression independent variables; WP-3 volume pumped on the day of measurement (x1) WP-3, 3 days prior pumped volume WP-2, 1 day prior pumped volume (x2) (x3)
+
+WP-3 `non-pumping' calibration range ­ data points 60-147 (147 total data points, see Appendix 3 for full data set) WP-3 `non-pumping' fitted equation wl=­ 0.730x1 ­ 0.698x4 ­ 1.396x6 ­ 7.64 The regression model performs well, successfully predicting the seasonal water level trends in validation (Figure 6.30). The index of agreement (0.40 validation fit to observed data) does not reflect the models predictive ability. The regression equation (equation 6.9) was limited to just three independent variables which creates some errors in the validation predictions. The outliers generated, skewer the assessment and instead a moving average of predicted and observed water levels gives a better understanding of the model (Figure 6.32). However the moving averages result in a low goodness of fit (0.46). This is due to winter validated recoveries (resulting from low pumping volumes) not recovering as high as observed water levels. Summer drawdowns as a result of large pumping volumes are modeled well in validation. ( 6.9)
+
+101
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 30 Waireka Place Bore 3 `non-pumping' regression model calibration, validation and observed water levels.
+
+Figure 6. 31 Waireka Place Bore 3 `non-pumping' ANN model calibration, validation and observed water levels.
+
+102
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 32 Waireka Place Bore 3 `non-pumping' regression model with a 5 point moving average for the validation data set.
+
+Figure 6. 33 Waireka Place Bore 3 `non-pumping' ANN model with a 5 point moving average for the validation data set.
+
+103
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.7.2. WP-3 `non-pumping' neural network model The neural network model designed for WP-3 upper water levels used an MLP 2:2-2-2-1:1. Figure 6.31 suggests that the model had `over learnt' due to the extremely accurate calibration. However with only 2 independent variables selected and two small hidden layers, it is unlikely that the model was suffering from over-learning. Instead it could be incurring the same problems seen by the WP-3 `non-pumping' regression model. With only two independent variables used the model was prone to having large errors in validation. Despite this, validation trends are promising. The validation was good with seasonal peaks and troughs predicted well. However some outliers affect the analysis and the index of agreement was a low 0.38 (validation fit to observed data). The poor agreement factor was not a true indication of the model's ability to predict trends in the validation data. By assessing the moving averages of validated and observed data (Figure 6.33), the model's ability becomes evident. The model predicted general bore seasonal fluctuations but was let down by one particular part in validation. The summer of 2001/2002 was predicted as a recovery period. This period coincided with large abstracted volume from both bores and recovery should not have been modelled. The observed data clearly forms a summer drawdown making the model a poor predictor on this occasion. A goodness of fit (0.38) with moving averages of the validation data set confirms that the error in prediction results in a poor fit to observed bore water level trends The regression and neural network models were similar in moving average modified index of agreement factors (0.46 for regression and 0.38 using the neural network). Both have lower than expected agreement factors but despite this general trends are modelled effectively. The most appropriate model would be regression because of its slightly better ability to predict seasonal variations in water levels. The neural network model was let down by a summer prediction of water level recovery which actual data shows was clearly a drawdown period.
+
+104
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.7.3. WP-3 `during pumping' regression model The `during pumping' regression model for WP-3 was highly successful in modelling well water level trends. As can be seen in Figure 6.34 the seasonal fluctuations are predicted and a relatively high level of agreement (0.61, moving averages of validation data set) is achieved. The seasonal fluctuations are more subtle than other bores yet the model predicts peaks and troughs successfully (Figure 6.36). The last drawdown shown in the validation (the summer of 2002/2003) was the only section of validation significantly different from observed data. The drawdown is considerably underpredicted. Other than this blemish, the model performs well predicting seasonal bore water level trends as well as the overall decline in water level. The regression equation (equation 6.10) allows for good validation predictions with 5 independent variables used (selected using stepwise regression), all negatively correlated to well water levels. WP-3 `during pumping' regression independent variables WP-3 volume pumped on the day of measurement (x1) WP-3, 2 days prior pumped volume WP-3, 3 days prior pumped volume WP-2, 1 day prior pumped volume WP-2, 2 days prior pumped volume (x2) (x3) (x4) (x5)
+
+WP-3 `during pumping' calibration range ­ data points 61-139 (139 total data points, see Appendix 3 for full data set) WP-3 `during pumping' regression equation wl= -0.300x1 ­ 0.196x3 ­ 0.338x4 ­ 0.716x6 ­ 0.146x7 ­ 33.21 (6.10)
+
+6.7.4. WP-3 `during pumping' neural network model The selected MLP model for WP-3 lower data set had a configuration of 5:5-51:1. The model performed adequately in predicting seasonal trends however these fluctuations did not have a particularly good fit in validation. The declining 105
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+gradient of water levels was predicted well but general water level variations were not. An index of agreement of 0.56 (fit to moving averages observed data) for validated data shows that there was a general following of water levels but a comparison between moving averages of observed and validated data (Figure 6.37) suggests water levels are not predicted well. Bore seasonal water level fluctuations were picked up, but only very marginally. The neural network model seemed to be out performed by the regression model. Not only did the regression model have a higher agreement factor (0.61) but moving averages of validated and observed data show that it has a greater ability to predict well water level fluctuations.
+
+106
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6.34 Waireka Place Bore 3 `during pumping' regression model calibration, validation and observed water levels.
+
+Figure 6. 35 Waireka Place Bore 3 `during pumping' ANN model calibration, validation and observed water levels.
+
+107
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 36 Waireka Place Bore 3 `during pumping' regression model with a 5 point moving average for the validation data set.
+
+Figure 6. 37 Waireka Place Bore 3 `during pumping' ANN model with a 5 point moving average for the validation data set.
+
+108
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.8. State Highway 25 Bore 1
+6.8.1. SH-1 regression model State Highway 25 Bore 1 reacts to pumping in a similar manner to Beverly Hills Bore 2. The difference between `pumping' and `non-pumping' measurements is overshadowed by the seasonal well water level fluctuations. The difference between BH-2 and SH-1 is that the abstraction rate at SH-1 is high. A high transmisivity however, results in a low drawdown on a day by day basis. It is therefore not easy to separate the data into two separate sets. This would reduce the number of data points available for calibration and the seasonal fluctuations are well represented without the need for separate data. Also the calibration and validation data sets were split evenly because of the large data set available. 140 points were used for calibration and 140 points were used for validation. A slightly different approach with the SH-1 regression model was used for selecting independent variables. Because SH-1 is the only major bore in its vicinity, independent variables were limited to the one bore. Up to 10 lagged days of pumping were trialed for variables. 3 days seemed to be optimal (equation 6.11). Using more than 3 days resulted in a decrease of validation success possibly linked to over learning. The independent variables used for SH-1 regression model are. SH-1 regression independent variables; SH-1 volume pumped on the day of measurement SH-1, 3 days prior pumped volume SH-1, 7 days prior pumped volume (x1) (x2) (x3)
+
+SH-1 calibration range ­ data points 140-280 (280 total data points, see Appendix 3 for full data set) SH-1 fitted equation wl= -3.103x1 ­ 2.801x2 ­ 2.299x3 ­21.94 (6.11)
+
+109
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Despite the lower number of variables the model performed well in validation. As Figure 6.38 shows, the regression model predicts seasonal bore water level peaks and troughs well without matching individual points. The highest index of agreement (0.75 goodness of fit for moving averages of validation data set) for all bore models was attained despite the single data set. Figure 6.40 compares a moving average of observed and validated data. The figure highlights how well the regression model follows the general water level trends in validation. Observed trends were modeled very closely using regression. Both mean summer drawdowns and winter recoveries were predicted well by the validation data set.
+
+6.8.2. SH-1 ANN `all water level' model.
+
+The ANN model used is an MLP 8:8-5-1:1. The large quantity of data points available for calibration allowed a very good validation despite variable water levels (Figure 6.39). As can be seen in Figure 6.41 the model followed seasonal water level trends well. Summer drawdowns (high abstraction rate) are predicted as are recoveries during winter months (low abstraction rate). A big advantage of this particular ANN model was that there seemed to be no extreme outliers predicted. As a result the index of agreement was quiet high at 0.68 (with a moving mean of observed). This was a very promising result considering individual water levels are not matched but general trends are predicted well. Figure 6.41 compares a moving average of observed and validation data. The result is that the model predicts general water level movements well in validation. The drawdowns during high demand periods were predicted with good accuracy. According to index of agreement analysis, the regression model was a slightly better predictor. However both models performed a very good job of predicting well water level variations.
+
+110
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 38 State Highway 25 Bore 1 regression model calibration, validation and observed water levels.
+
+Figure 6. 39 State Highway 25 Bore 1 ANN model calibration, validation and observed water levels.
+
+111
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 40 State Highway 25 Bore 1 regression model with a 5 point moving average for the validation data set.
+
+Figure 6. 41 State Highway 25 Bore 1 ANN model with a 5 point moving average for the validation data set.
+
+112
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.9. Model conclusions
+The results presented in this chapter suggest both multiple linear regression and artificial neural networks can be used as an empirical approach to model bore water level seasonal fluctuations. Although it appears that the regression model has a slight edge in predictive ability (validation), neural networks also show a reasonable goodness of fit to observed data in validation. The major restricting factor on all the models appears to be small calibration data sets. Because the models only have a small calibration data set the learning stage is limited which is reflected in validation. BH-1 `during pumping' water level models represent the best example of limited data. There are only 50 data points which are split evenly between calibration and validation. Both calibration and validation perform well in predicting bore water level seasonal variations, although it should be noted that the modeled real world situation is simple because of the small data set. Once the data set has been taken into consideration most of the results are very promising. Seasonal trends in the validation data sets are predicted, illustrated using a comparison to a 5 point moving average of observed. Both high demand (summer) drawdowns and low demand (winter) recovery are predicted by the models. In terms of assessing seasonal water level trends, the models can be used for forecasting purposes. It is difficult to assess which model (regression or ANN) is a better forecasting tool. However on a bore by bore basis there is generally a prefered model. BH-1 `non-pumping' water levels are best modeled using regression. The modified index of agreement clearly shows that the regression model is superior (see following Table 6.1), backed up by a comparison of observed and predicted moving averages. BH-1 `during pumping' models as mentioned earlier are limited because of a small data set. The high index of agreement is due to the low number of data points analyzed. However the regression model appears to model the trends most effectively and can be considered the more appropriate model.
+
+113
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS Table 6. 1 A comparison between the regression and ANN models using the Modified Index of Agreement method (M.I.O.A).
+Regression model (M.I.O.A) observed data 0.59 0.68 0.56 0.63 0.63 0.45 0.37 0.43 0.60 0.68 ANN model (M.I.O.A) observed data 0.39 0.65 0.37 0.46 0.60 0.52 0.44 0.39 0.57 0.62 Regression model (M.I.O.A) 5 point moving average 0.67 0.74 0.62 0.70 0.65 0.50 0.40 0.46 0.61 0.75 ANN model (M.I.O.A) 5 point moving average 0.35 0.72 0.61 0.48 0.62 0.61 0.44 0.38 0.56 0.68
+
+Bore Models BH-1 'non-pumping' BH-1 'pumping' BH-2 all water levels BH-3 'non-pumping' BH-3 'pumping' WP-2 'non-pumping' WP-2 'pumping' WP-3 'non-pumping' WP-3 'pumping' SH-1 all water levels
+
+Best model regression regression regression regression regression ANN ANN regression regression regression
+
+BH-2 was modelled using the whole data set because of the difficulty differentiating between `pumping' and `non-pumping' water levels. The resulting models still performed well in predicting general bore water level variations. Once again the regression model appears the better choice with a slightly better ability in validation. BH-3 `non-pumping' water levels were best modelled using the regression approach despite the ANN also proving useful. BH-3 `pumping' water level models performed equally and very well. The regression model was slightly better because of the ability to predict the 2001/2002 summer drawdown with greater accuracy than the neural network method. WP-2 `non-pumping' bore water levels are evenly modelled between regression and ANN. Differing index of agreements suggest the ANN is best suited however by assessing the validation plots both models appear evenly matched in forecasting bores seasonal water variations. WP-2 `pumping' water levels suffer from a lack of data to create a reasonable model. Both the models show some large outliers but from a comparison of observed and validated moving averages, the neural network model performs marginally better. WP-3 is best modelled by regression in both `pumping' and `non-pumping `water level sets. Once again the different modeling approaches result in very similar
+
+114
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+validation success. Either model would be suitable for forecasting purposes but the regression models have a slightly higher index of agreement (Table 6.1). SH-1 is difficult to separate into two data sets, instead one model is generated to predict all water levels. Both models perform well despite the single data set. The regression model seems slightly better, with the validation modelling seasonal bore water level fluctuations as seen by the moving averages plot (Figure 6.40). A high index of agreement (0.75) and comparison between moving averages concludes that the regression method is best suited to forecasting bore seasonal water levels, despite ANN performing well. Table 6.1 shows that the regression approach yields a slightly better modified index of agreement factor than the neural network approach. Only WP-2 is modelled more accurately using a neural network in terms of goodness of fit. In all but one of the models regression is superior. Despite this, neural networks perform well in validation and although not as accurate as the regression approach they do model bore water level variations. Regression holds advantages over ANN models with some insight given into the model. Independent variable weightings are given for a regression model making it possible to identify poor variables and causes of outliers. Neural network models do not allow this opportunity because of the very black box approach. The major advantage of a neural network model over regression is its ability to model highly complex non-linear relationships. However the data used in this study is limited to the extent where a more simplistic approach (regression) is often just as effective or better.
+
+115
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+6.10.
+
+Scenario simulations
+
+6.10.1. Introduction In this section two forms of scenarios are presented. Firstly, bore water levels showing long term decline are modelled to define pumping rates that do not result in annual net water level decrease. Waireka Place Bore 3 and State Highway 25 Bore 1 are the main bores showing a declining water level trend. The second form of scenario simulates water levels in all modelled bores to assess the affect of increasing water abstraction volumes. An error value about forecast trends is calculated for each model using deviations between predicted levels and validation data values. The average of the absolute residuals for a validation set is used for an error buffer on each model. This is a simplistic approach to attaining a possible error for each forecast data point. The aim of the error `envelope' is to give an idea of the most probably locality of actual water levels in relation to forecasted levels. Normal confidence limits were not used because the residuals were often correlated.
+
+6.10.2. Seeking optimal pumping to decrease drawdowns in State Highway 25 Bore 1
+
+Increasing electrical conductivity is threatening the long term use of SH-1. The apparent cause (discussed fully in 5.2.2) of the increasing trend is linked to water level recovery. Large drawdowns during peak demand periods have not increased over the course of the data set. Instead the main change has been the increasing drawdowns during winter months as result of greater pumping volumes during these times due to WP-2 closing. The increase in winter pumping over the last two years has resulted in lower water levels, possibly reducing freshwater recharge in the aquifer. If water levels are allowed to recover during the winter period, the aquifer could remain sustainable for pumping use. The simulated scenario for this particular bore is to reduce winter pumping to similar volumes abstracted prior to WP-2 closing.
+
+116
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Using the regression model created in 6.8.1, similar pumping volumes with the range previously seen can be used to model water levels. The primary goal of this forecasting is to allow water levels to recover during low demand periods (winter months). Reducing pumping over the winter periods, allows water levels to rise in a similar manner to when electrical conductivity was stable. Table 6.2 shows the model pumping volumes imposed for different months. As can be seen these values are similar to pumping prior to WP-2 closing (20002005). The major change in the modelled pumping volumes is a considerable reduction during July-August. Previously, an average of 289m3 was pumped per day. The model input however is just 150m3day-1 during July and August. As a result the water level recovers to a higher level than the previous year and is sustained for 2 months. Either side of this low pumping period volumes are also relatively low. Simulated data during May- June is lowered from 287m3day-1 (2000-2004 average) to 200 m3day-1 which is considerably lower than 2006 volumes (487 m3day-1). Once again the lower value is used to allow water level recovery. Figure 6.42 illustrates the simulated model and compares it to a moving average of observed water levels. Winter low demand allows the simulated water level to recover to similar levels to those seen in 2001, 2002 and 2003. Recovered water levels are also sustained for several months which was the aim of reducing pumping rates. The summer drawdown is a notable point of the simulation. Drawdowns are slightly larger compared to previous years. This is due to the increased pumping simulated to allow for high demand periods moving forward. The figure has an error buffer running 3.17m either side of the simulated water levels. This error envelope is the mean of the absolute residuals calculated from validation data.
+
+117
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS Table 6. 2 A comparison of 2000-2005, 2005-2006 and simulated (2006-2007) average daily water abstraction volumes (m3) from SH-1 Year Average daily abstraction (m3) 29th Dec - 4th Jan 753 824 900 5th Jan 28th Feb 556 708 600 March - April 400 467 500 May June 287 487 200 July Aug 289 n/d 150 Oct Nov 526 n/d 550 1-29th Dec 604 n/d 700 Total annual abstraction (m3) 155304 154150
+
+2000-2005 2005-2006 simulated
+
+Sep 332 n/d 300
+
+Figure 6. 42 State Highway 25 Bore 1 mean observed and simulated water levels. The simulated water levels have an error envelope of 3.17m.
+
+6.10.3. Seeking optimal pumping to decrease drawdowns in Waireka Place Bore 3
+
+Waireka Place wellfield is suffering from an increase in electrical conductivity. WP-2 has already closed due to EC exceeding its consented level. WP-3 is still operational although it is also showing an increasing EC trend. Both recovered
+
+118
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+water levels (`non-pumping' measurements) and observed drawdowns (`during pumping' measurements) in WP-3 are showing declining water levels. The aim of this simulation is to decrease winter abstraction volumes to allow bore water level recovery. The simulated winter abstraction volumes are similar to those used prior to WP-2 closing. Summer abstraction volumes are equal to 2005 data to allow for high demand over this period. The two models (WP-3 `non-pumping' and WP-3 `during pumping') simulate water levels using similar water volumes used prior to the closure of WP-2. From May ­ August 70 m3day-1 is used to model water levels. This is comparable to average volumes extracted from 2000-2004. As can be seen in Figure 6.43, the water levels recover higher than seen in both 2004 and 2005 (EC began to increase mid 2004). The recovery is sustained for the majority of the year with only the high demand period causing significant drawdown. Despite the relatively high abstraction volumes during peak times, the model drawdowns are not as prominent as previously observed.
+Table 6. 3 Average daily pumping volumes (m3) at volumes used to simulate future water levels. 29th Dec 5th Jan March Year - 4th Jan 28th Feb April 2000-2004 163 129 101 2005-2006 247 219 151 simulated 250 150 100
+
+Waireka Place Bore 3 and average daily May June 76 135 70 July Aug 67 n/d 70 Oct Nov 126 n/d 125 1-29th Dec 141 n/d 140
+
+Sep 90 n/d 100
+
+119
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+Figure 6. 43 WP-2 mean observed and simulated data with an error envelope for simulated data.
+
+6.10.4. Anticipated pumping increase from projected population growth.
+
+Whangamata can be expected to increase in both residential and seasonal population for the foreseeable future. The popularity of a `Kiwi' summer holiday at a coastal location will result in seaside populations expanding during the summer months. The actual occupant population can also be expected to grow with current subdivisions under construction as well as a new marina expected to be constructed in the near future. Census results from 2001 showed that a population increase of 25% occurred between 1992 and 2001 (statistics New Zealand, 2002). A 25% increase in annual water volumes was modelled as a realistic simulation for the increased demand over the next ten years. July 2005 ­ June 2006 daily abstraction volumes were increased by 25% and the increased amount used to simulate bore water levels. Table 6.4 shows the average water level change from each bore. Increased drawdown is forecast in most wells. The higher simulated 120
+
+CHAPTER SIX: MODELLING TO FORECAST WELL WATER LEVELS: LINEAR REGRESSION AND NEURAL NETWORKS
+
+abstraction volumes have resulted in drawdowns increasing. The worst affected bores are located at Moana Point. State Highway 25 Bore 1 (SH-1) has a dramatic increase in drawdowns, with water levels dropping by up to 10.3 metres in peak abstraction periods. Waireka Place is also significantly affected by the increase in abstracted volumes. WP-3 shows an increased drawdown of 2m during winter months and 1.5m during high demand periods. Beverly Hills wellfield is affected by the increase but not to the same extent as Waireka Place and State Highway 25 bores.
+
+Table 6. 4 Simulated change in water levels with a 25% increase in abstracted water volume Bore BH-1 BH-2 BH-3 WP-2 WP-3 SH-1 Model `non pumping' `during pumping' All water levels `non pumping' `during pumping' `non pumping' `during pumping' `non pumping' `during pumping' All water levels Dec 25 Feb -0.3 n/a -0.7 -0.6 0.5 -1.5 n/a n/a -1.5 -10.3 Mar-Apr 0.4 n/a -0.4 0.4 0.3 -0.6 n/a -1.8 -0.5 -5.7 May-Aug -1.1 n/a -1.6 -1.1 -0.6 -2.7 n/a -2.9 -2.0 -6.4 Sep-Dec 25 -1.6 n/a -2.0 -1.6 -1.2 -2.7 n/a -3.0 -1.8 -10.3
+
+The bores simulated to suffer the most significant water level decline as a result of the increased pumping (WP-2, WP-3 and SH-1) are also the bores suffering from increasing electrical conductivity levels. The simulated results suggest that increasing current abstraction volumes of both WP-3 and SH-1 would not be recommended considering their current vulnerability to electrical conductivity.
+
+121
+
+CHAPTER SEVEN: MANAGEMENT OPTIONS
+
+CHAPTER SEVEN
+
+Management options
+7.1. Introduction
+With increasing demand on what appears to be an already strained water resource, Whangamata will at some stage in the future require an alternative water source or management practice. Currently the expansion of Wentworth Valley wellfield is intended to cope with increasing water demand. Other means of water supply need to be assessed as well with demand only expected to increase. There is also the possibility to alter current wellfield management to decrease well water level drawdowns.
+
+Several possibilities do exist for practical alternative water sources. The major factor affecting Whangamata drawdowns is high summer peak abstraction resulting in large drawdowns. The remainder of the year abstracts much lower volumes. This low winter demand could be utilised for several purposes. Bores vulnerable to seawater intrusion could undergo artificial recharge from reticulated water during winter months or the low demand winter months might also be used for pumping to fill household storage tanks for summer peak use. Household tanks could also be filled using rainwater. Alternatively the high summer water demand could be covered by abstracting water from the small unconfined sand aquifer located in the town centre.
+
+7.2. Wellfield management
+
+Beverly Hills Beverly Hills Wellfield has undergone a change in pumping regime as of November 2004. Where previously all three bores pumped simultaneously now only BH-3 is utilised. BH-1 and BH-2 are used very rarely, only for a few days in peak summer abstraction per year. Since the change, drawdowns seem to be greater than before especially during high demand periods. The fractured rhyolites 122
+
+CHAPTER SEVEN: MANAGEMENT OPTIONS
+
+at Beverly Hills Wellfield do not appear to be uniform, with semi-independence between bores. By comparing the contrasting pumping regimes over two separate summers it is possible to evaluate this hypothesis.
+
+Table 7.1 compares two high demand summer periods (2002-2003 and 20052006) which have different pumping regimes. The summer of 2002-2003 has a high average pumping volume (max weekly average of 3398m3day-1 between thr 4th-10th Feb) and the largest drawdown in the well field is BH-3 between 1111.65m. The extracted water is split between all three bores with BH-1 being the dominant bore. The summer of 2005-2006 extracts less water than 2002-2003 with a highest week averaging 2701m3day-1. However the drawdowns are all higher than 2002-2003 despite the lower abstraction. In particular the end of January which has a high water demand reaches 12.35m below sea level. This is 0.7m larger than any drawdown in 2002-2003. An interesting aspect shown in the highest demand period (31st December ­ 6th January) is that this corresponds to the lowest drawdown. This can be explained by a decreased abstraction from BH3 (the lowest over the high demand period) with the excess water being pumped from BH-1.
+
+A change in pumping regime has the potential to reduce drawdowns at Beverly Hills. Due to the preferential flow pathways in the fractured rhyolite, bores in this wellfield seem to be semi-independent. If all three bores are pumped simultaneously, a lower total drawdown will be incurred than abstracting the same volume from one bore. As previously discussed in Chapter 4, water levels in Beverly Hills are lowering over time. It is important to try and reduce this as much as possible to prevent the possibility of seawater intrusion. It would be a relatively simple change in regime as it has been implemented successfully before. Two of the three bores are currently acting more like monitoring wells. If they are all used in conjunction, drawdowns will be lower than the current regime (at equal abstraction volumes). Ideally pumping rates for each bore would be adjusted so that drawdowns are equal at all three pumped bores.
+
+123
+
+CHAPTER SEVEN: MANAGEMENT OPTIONS
+
+Table 7. 1 Abstraction volumes and water level information for Beverly Hills Wellfield over 2 summers with contrasting pumping regimes. Week Week beginning ending Average volume per day (m3) Water level (m.a.s.l) Total Bore 2 Bore 3 Bore 1 Bore 2 Bore 3 2002-2003 Bore 1 24-Dec 30-Dec 1245 459 939 2642 -10.43 -5.25 -11.25 31-Dec 6-Jan 1992 471 962 3424 -10.13 -3.45 -11.15 28-Jan 3-Feb 921 430 838 2189 -10.03 -7.05 -11.05 4-Feb 10-Feb 2058 428 913 3398 -10.63 -5.65 -11.65 2005/2006 23-Dec 29-Dec 0 0 2418 2418 -1.73 -2.35 -11.85 31-Dec 6-Jan 469 0 2232 2701 -2.13 -2.75 -11.45 7-Jan 13-Jan 0 0 2362 2362 -2.73 -3.45 -11.95 14-Jan 19-Jan 0 0 2603 2603 -2.93 -3.25 -12.35
+
+7.3. Winter recharge of vulnerable wells
+Whangamata has several bores that appear vulnerable to seawater intrusion. One possibility to decrease the risk of seawater intrusion in these susceptible wells is to artificially recharge the aquifer in low demand periods (winter months). Artificial recharge would involve pumping additional water to the town's demand and using the excess water to recharge vulnerable wellfields. Whangamata winter water demand is low (average of 1750m3day-1 during winter months) meaning additional water could be pumped without straining other aquifers.
+
+Waireka Place Bores 2 and 3 and State Highway 25 Bore 1 are the three bores currently suffering from increasing water conductivity. The increasing electrical conductivity suggests these bores are possibly drawing in sea water. Both Waireka Place and State Highway 25 wellfields are within 400m of the nearest salt water body, making sea water intrusion a likely cause of the increasing water conductivity. These three bores are the best candidates for artificial recharge because of their deteriorating water quality.
+
+Due to the low water demand during winter months, additional water could be gravity fed or pumped back (greater cost than gravity fed recharge) into WP-2, WP-3 and SH-1 allowing significant winter water level recovery. Beverly Hills and Wentworth Valley wellfields could be utilised for abstracting the additional water for recharge. The consented limit of Wentworth Valley is 1250m3day-1
+
+124
+
+CHAPTER SEVEN: MANAGEMENT OPTIONS
+
+while Beverly Hills can abstract up to 3000m3day-1. Obviously it would be undesirable to put Beverly Hills and Wentworth Valley wellfields under pressure from over abstraction, so the maximum consented limit may not be sensible for extended periods. However 70% of the abstracted limit would provide approximately 3000m3day-1. Average water demand in Whangamata between 1st of May and 31st September is 1750m3day-1(calculated using data from 2000 ­ 2006), which would allow 1250 m3day-1 to be used for well recharge.
+
+There are many facets of this option that need to be considered in more depth and are beyond the scope of this particular study. Economic analysis, reticulation construction and any water treatment costs would need to be taken into account. However as an option for reducing the potential of seawater intrusion, artificial recharge of vulnerable aquifers is a logical approach for further investigation.
+
+7.4. Household storage tanks
+The winter low water demand period could be utilised alternatively by installing household storage tanks. Due to the low demand in winter, extra water could be pumped in addition to the town's required demand. This excess water could be used to fill individual household tanks during the winter which could be utilised during summer high abstraction periods. Average household daily water usage is 352lday-1 (Eco solutions, 2004). A tank size of 10,000l would last just over 28 days or 4 weeks. A 4 week buffer over the summer peak period would reduce abstraction volumes, decreasing drawdowns and lower the threat of seawater intrusion.
+
+The aim of this option is to smooth out the seasonal water demand. Currently summer demand far outweighs winter demand. The large increase in summer water abstraction results in increased drawdown levels. If some of this demand can be shifted to the low abstraction periods (winter months), drawdowns would be reduced during the summer period, which would decrease the probability of seawater intrusion.
+
+125
+
+CHAPTER SEVEN: MANAGEMENT OPTIONS
+
+7.5. Household rainfall tanks as a source of non-potable water.
+Individual household rainfall tanks could assist in decreasing groundwater demand in Whangamata. On average Whangamata receives a relatively high 2 metres of rainfall per year. If this rainfall could be utilized then less water would need to be extracted from the town's aquifers.
+
+Several areas outside the traditional rural setting are adopting household rainfall tanks as a source of water. In Canberra and South Australia it is currently required for new houses to install rainfall tanks. In New South Wales, rebates and government assistance are given to households installing water saving devices such as rainfall tanks (Australian environmental heritage, 2002). New Zealand is in no way a drought stricken area, however there are examples where rainfall tanks are encouraged in areas with a town supply already available. Waitakere City Council is promoting the use of rainfall tanks to reduce water charges. The initiative is designed to decrease peak stormwater flow, with an added benefit to the user of supplying household non-potable water (Eco water solutions, 2004).
+
+In Whangamata it could be possible to use rainfall storage tank, primarily for nonpotable water use. The toilet, laundry and gardening account for 65% of an average household's water needs (Eco water solutions, 2004). A tank around 10,000l can be used for such a purpose. The main advantage of using the water solely for non-potable supply is that it does not need treating which reduces cost. The house would still be connected to the town supply to provide the homes potable water.
+
+Figure 7.1 shows the hypothetical water volume of a 10,000l tank using 229l per day (65% of 352l). There are only 3 occasions where the tank runs dry, totaling 15 days in 10 years. The tank here would be a viable option for a non-potable water supply.
+
+126
+
+CHAPTER SEVEN: MANAGEMENT OPTIONS
+
+12000
+
+10000
+
+Tank water volume (litres)
+
+8000
+
+6000
+
+4000
+
+2000
+
+0 Dec-1994 Dec-1996 Dec-1998 Dec-2000 Dec-2002 Dec-2004 Dec-2006 Dec-1995 Dec-1997 Dec-1999 Dec-2001 Dec-2003 Dec-2005
+
+Date
+
+Figure 7. 1 Hypothetical water volume of a 10,000l rainfall collection tank releasing 229 litres daily from 1996-2005
+
+7.6. Summer abstraction from an unconfined sand aquifer "?"
+A potential area of exploitation could be the unconfined sand aquifer. Located in the town centre, the 3.2km2 aquifer holds considerable potential for large, brief abstraction during high demand periods. The aquifer could be used primarily between December ­ January to add additional water to the town supply. This abstraction would decrease the volume of water needed from other bores, reducing drawdown and seawater intrusion potential The only currently consented bore in the aquifer has an upper limit of 75m3day-1. However the bore is used for irrigation of a sports field and does not abstract a large amount of water. A flow test was conducted in 2005 by URS. An average flow rate of 2-3lsec-1 was calculated which is small in terms of Whangamata abstraction rates. The flow test conducted on the 16th of November 2005 was restricted by the abstraction rate which could not be altered. The bore reached drawdown equilibrium within 3-5 minutes after lowering by 3m. The duration of the pumping test was also restricted, as such the bore could only pump for 6 hours. Full recovery was attained 3-5 minutes after pumping ceased. 127
+
+CHAPTER SEVEN: MANAGEMENT OPTIONS
+
+The flow test does not give a good indication of the sand aquifers full potential. With an area of 3.2km2 and varying depth between 6 ­ 12m there is the potential to abstract larger amounts of water for short periods of time. This could potentially buffer the required water volumes over peak periods to reduce abstraction pressure on bores.
+
+7.7. Summary
+Alternative water management options are possible at Whangamata. Smoothing the seasonal use of the aquifers could significantly reduce the threat of seawater intrusion by reducing peak drawdowns. Winter recharge of seawater-vulnerable bores would aid water level recovery during this low demand period. Additional water could also be abstracted during winter months to fill individual household storage tanks. These tanks would provide household water over the high demand period.
+
+Instead of smoothing out the seasonal water abstraction trend, demand could be reduced through additional water outside of the confined aquifers. Individual household rainfall tanks could be used to supply non-potable water, year round. Alternatively the town unconfined sand aquifer could be exploited to provide additional water to the confined aquifers. The sand aquifer would primarily be used during high demand periods to reduce major abstractions. This would possibly result in decreasing summer peak drawdowns) and lowering the probability of seawater intrusion.
+
+All of these options could be feasible solutions to the water demand at Whangamata. Additional information is needed about the options in order to determine whether the current town water supply management could be modified to reduce drawdowns without to much additional cost. Economic and feasibility analysis would need to be undertaken. However from a hydrological perspective, the options should result in lower probability of seawater intrusion than the current mode of supply.
+
+128
+
+CHAPTER EIGHT: CONCLUSIONS
+
+CHAPTER EIGHT
+
+Conclusions
+8.1. Introduction
+Whangamata bores have shown a decline in water levels over the past five years. Increased pumping volumes have caused greater drawdowns and long term decline in several Whangamata bores.
+
+Electrical conductivity is showing an increasing trend in major production bores at Moana Point (figure 5.1). One bore has already been closed due to the increasing EC while two others face the same result if current trends continue. The increasing EC trends are conjectured to be a result of increased pumping causing greater drawdowns. Most notably, in the two bores showing a rising EC trend, (Waireka Place Bore 3 and State Highway 25 Bore 1) increased pumping during winter months has not allowed winter water level recoveries to the same extent seen in previous years. The lack of recovery could be an important factor in the rising EC trends. This would also help to explain the mode by which EC is increasing, with a consistent linear increase year round. If high demand periods (summer months) were the sole cause of increasing EC larger EC elevations would be expected during the peak demand period.
+
+8.2. Model results summary
+Whangamata bore water levels were predicted using multiple linear regression and artificial neural networks. The regression approach proved more successful, modeling both seasonal bore water level variation and long term trends with a greater accuracy than the neural network approach. Due to the poor time resolution of available data the validated model was compared to a 5 point moving mean of observed values. This allowed a clearer comparison of the models ability to predict seasonal variation and long term trends as apposed to matching individual drawdown points.
+
+The comparison with moving means of observed data yielded the fit measure as between 0.6 and 0.75 in validation. This shows the models have a reasonable ability to predict seasonal-scale bore water level change. Point water level values were not 129
+
+CHAPTER EIGHT: CONCLUSIONS
+
+matched particularly well and these deviations are incorporated as error envelopes for point level forecasts.
+
+Simulating seasonal bore water level variation and long term trends was undertaken for bores experiencing decreasing water levels. Suitable abstraction volumes were identified that result in no annual net loss of water level. Simulated water volumes were decreased during winter low demand months at Waireka Place and State Highway 25 wellfields to allow water level recovery. A scenario involving a 25% increase in water demand for all bores was also modelled. This simulation was used to predict a realistic increase in demand based on population growth rates. Bore water drawdowns increased significantly in several bores as a result of the increased pumping.
+
+8.3. Wellfield monitoring recommendations
+· Long term monitoring of electrical conductivity and bore water levels is required. Prior to this study, data had not been analyzed for long term trends Because the bores where not exceeding any consented limits, increasing EC levels and decreasing bore water levels had not been picked up. Simple time series plots provide a good visual aid to an aquifers status. · Summer monitoring is required of water levels in the piezometers surrounding Beverly Hills to ensure they do not drop below sea level. They are well placed sentinel wells and should be utilized. · A pumping test at State Highway 25 Bore 1 is recommended. The bore does not appear to be operating in a long term sustainable manner and a flow test would help to quantify a sustainable abstraction rate. · When recording water levels it would be helpful to note, whether the bore is pumping at that time. Alternatively, water measurements could be measured in a more systematic manner i.e. after a set time of bore water level recovery post pumping.
+
+130
+
+CHAPTER EIGHT: CONCLUSIONS
+
+8.4. Future Development Investigations
+·
+
+A detailed investigation as to the cause of rising conductivity at Waireka Place and State highway 25 wellfields would be useful. Clarification is needed, possibly using isotope ratios to differentiate between sea water intrusion and geothermal alteration.
+
+·
+
+Following the water conductivity investigations, if the results conclude seawater intrusion, sentinel wells migth be drilled in appropriate coastal localities and monitored to detect water conductivity elevations.
+
+· ·
+
+An economic analysis as of alternative water management options discussed in chapter 7 would help to determine the feasibility of each option. An environmental and social impact investigation into the affects of each alternative management option discussed in chapter 7 would be a useful addition.
+
+131
+
+References
+Adams, C.J., Graham, I.J., Seward, D. and Skinner, D.N.B., 1994. Geochronoligical and geochemical evolution of late Cenozoic volcanism in the Coromandel Peninsula, New Zealand. New Zealand Journal of Geology and Geophysics, 37: 359-379. Alp, M. and Cigizoglu, H.K., 2007. Suspended sediment load simulation by two artificial neural network methods using hydrometeorological data. Environmental Modelling & Software, 22(1): 2-13. Ambast, S.K., Tyagi, N.K. and Raul, S.K., 2006. Management of declining groundwater in the Trans Indo-Gangetic Plain (India): Some options. Agricultural Water Management, 82(3): 279-296. Baker, S., 2004. Peak population study, 2003-2004 prepared by Thames Coromandel District Council. Batayneh, A.T., 2006. Use of electrical resistivity methods for detecting subsurface fresh and saline water and delineating their interfacial configuration: a case study of the eastern Dead Sea coastal aquifers, Jordan. Hydrogeology Journal, 14(7): 12771283. Bouwer, H., 2000. Integrated water management: emerging issues and challenges. Agricultural Water Management, 45(3): 217-228. Briggs, R.M. and Fulton, B.W.J., 1990. Volcanism, structure and petrology of the Whritoa-Whangamata coastal section, Coromandel Volcanic zone, New Zealand: facies model evidence for the Tunaiti caldera. New Zealand Journal of Geology and Geophysics, 33: 623-633. Capaccioni, B., Didero, M., Paletta, C. and Didero, L., 2005. Saline intrusion and refreshening in a multilayer coastal aquifer in the Catania Plain (Sicily, Southern Italy): dynamics of degradation processes according to the hydrochemical characteristics of groundwaters. Journal of Hydrology, 307(1-4): 1-16. Chaves, P., Tsukatani, T. and Kojiri, T., 2004. Operation of storage reservoir for water quality by using optimization and artificial intelligence techniques. Mathematics and Computers in Simulation, 67(4-5): 419-432.
+
+132
+
+Chen, H.Q. and Kim, A.S., 2006. Prediction of permeate flux decline in crossflow membrane filtration of colloidal suspension: a radial basis function neural network approach. Desalination, 192(1-3): 415-428. Cigizoglu, H.K. and Alp, M., 2006. Generalized regression neural network in modelling river sediment yield. Advances in Engineering Software, 37(2): 63-68. Cigizoglu, H.K., 2004. Estimation and forecasting of daily suspended sediment data by multi-layer perceptrons. Advances in Water Resources, 27(2): 185-195. Cigizoglu, H.K., 2005. Generalized regression neural network in monthly flow forecasting. Civil Engineering and Environmental Systems, 22(2): 71-84. Coppola, E.A. et al., 2007. Multiobjective analysis of a public wellfield using artificial neural networks. Ground Water, 45(1): 53-61. Daliakopoulos, I.N., Coulibaly, P. and Tsanis, I.K., 2005. Groundwater level forecasting using artificial neural networks. Journal of Hydrology, 309(1-4): 229-240. Demirel, Z., 2004. The history and evaluation of saltwater intrusion into a coastal aquifer in Mersin, Turkey. Journal of Environmental Management, 70(3): 275-282. Department of Environmental Heritage, 1999. Rainwater tanks, their selection, use and Maintanence, South Australia. Don, N.C., Araki, H., Yamanishi, H. and Koga, K., 2005. Simulation of groundwater flow and environmental effects resulting from pumping. Environmental Geology, 47(3): 361-374. D'Ozouville, N., Violette, S., Gassama, N., Dia, A. and Jendrzejewski, N., 2006. Origin and modelling of water salinization in a coastal aquifer of the Bay of Bengal: The Kaluvelly watershed, Tamil Nadu, India. Bulletin De La Societe Geologique De France, 177(6): 333-345. Eco water Solutions, 2004. Storm water solutions for residential Sites, Prepared for Waitakere City Council. Ergil, M.E., 2000. The salination problem of the Guzelyurt aquifer, Cyprus. Water Research, 34(4): 1201-1214. Gardner, M.W. and Dorling, S.R., 1998. Artificial neural networks (the multilayer perceptron) - A review of applications in the atmospheric sciences. Atmospheric Environment, 32(14-15): 2627-2636.
+
+133
+
+Giustolisi, O. and Simeone, V., 2006. Optimal design of artificial neural networks by a multiobjective strategy: groundwater level predictions. Hydrological Sciences Journal-Journal Des Sciences Hydrologiques, 51(3): 502-523. Hani, A., Lallahem, S., Mania, J. and Djabri, L., 2006. On the use of finite-difference and neural-network models to evaluate the impact of underground water overexploitation. Hydrological Processes, 20(20): 4381-4390. Huang, W.R., Xu, B. and Chan-Hilton, A., 2004. Forecasting flows in Apalachicola River using neural networks. Hydrological Processes, 18(13): 2545-2564. Kallioras, A., Pliakas, F. and Diamantis, I., 2006. Conceptual model of a coastal aquifer system in northern Greece and assessment of saline vulnerability due to seawater intrusion conditions. Environmental Geology, 51(3): 349-361. Karahan, H. and Ayvaz, M.T., 2006. Forecasting aquifer parameters using artificial neural networks. Journal of Porous Media, 9(5): 429-444. Karro, E., Marandi, A. and Vaikmae, R., 2004. The origin of increased salinity in the Cambrian-Vendian aquifer system on the Kopli Peninsula, northern Estonia. Hydrogeology Journal, 12(4): 424-435. Kim, Y. et al., 2003. Hydrogeochemical and isotopic evidence of groundwater salinization in a coastal aquifer: a case study in Jeju volcanic island, Korea. Journal of Hydrology, 270(3-4): 282-294. Legates, D.R. and McCabe, G.J., 1999. Evaluating the use of "goodness-of-fit" measures in hydrologic and hydroclimatic model validation. Water Resources Research, 35(1): 233-241. Maier, H.R. and Dandy, G.C., 2000. Neural networks for the prediction and forecasting of water resources variables: a review of modelling issues and applications. Environmental Modelling & Software, 15(1): 101-124. Marks, R., Clark, R., Rooke, E. and Berzins, A., 2006. Meadows, South Australia: development through integration of local water resources. Desalination, 188(1-3): 149-161. Masciopinto, C., 2006. Simulation of coastal groundwater remediation: the case of Nardo fractured aquifer in Southern Italy. Environmental Modelling & Software, 21(1): 85-97.
+
+134
+
+McCulloch, W.S. and Pitts, W., 1943. A logical calculus of the ideas imminent in nervous activity. Bulletin and Mathematical Biophysics, 5: 115-133. Mishra, A.K. and Desai, V.R., 2006. Drought forecasting using feed-forward recursive neural network. Ecological Modelling, 198(1-2): 127-138. Moradkhani, H., Hsu, K., Gupta, H.V. and Sorooshian, S., 2004. Improved streamflow forecasting using self-organizing radial basis function artificial neural networks. Journal of Hydrology, 295(1-4): 246-262. Nayak, P.C., Rao, Y.R.S. and Sudheer, K.P., 2006. Groundwater level forecasting in a shallow aquifer using artificial neural network approach. Water Resources Management, 20(1): 77-90. Nour, M.H., Smith, D.W., El-Din, M.G. and Prepas, E.E., 2006. Neural networks modelling of streamflow, phosphorus, and suspended solids: application to the Canadian Boreal forest. Water Science and Technology, 53(10): 91-99. Parida, B.P., Moalafhi, D.B. and Kenabatho, P.K., 2006. Forecasting runoff coefficients using ANN for water resources management: The case of Notwane catchment in Eastern Botswana. Physics and Chemistry of the Earth, 31(15-16): 928-934. Park, S.-C. et al., 2005. Regional hydrochemical study on salinization of coastal aquifers, western coastal area of South Korea. Journal of Hydrology, 313(3-4): 182-194. Pattle Delamore Partners, 1995. Whangamata Wellfields Hyrdogeological Assesments of 1994/95 Peak Season Monitoring Data. prepared for Thames Coromandel District Council A12602. Pereira, A.J. and dos Santos, O.C., 2006. Modeling a densely urbanized watershed with an artificial neural network, weather radar and telemetric data. Journal of Hydrology, 317(1-2): 31-48. Petalas, C. and Lambrakis, N., 2006. Simulation of intense salinization phenomena in coastal aquifers--the case of the coastal aquifers of Thrace. Journal of Hydrology, 324(1-4): 51-64. Phien-wej, N., Giao, P.H. and Nutalaya, P., 1998. Field experiment of artificial recharge through a well with reference to land subsidence control. Engineering Geology, 50(1-2): 187-201.
+
+135
+
+Rao, S.V.N., Kumar, S., Shekhar, S. and Chakraborty, D., 2006. Optimal pumping from skimming wells. Journal of Hydrologic Engineering, 11(5): 464-471. Rekker, J. and Greig, D., 2001. Beverly Hills wellfield extraction capability assessment. Montgomery Watson. Riad, S., Mania, J., Bouchaou, L. and Najjar, Y., 2004a. Predicting catchment flow in a semi-arid region via an artificial neural network technique. Hydrological Processes, 18(13): 2387-2393. Riad, S., Mania, J., Bouchaou, L. and Najjar, Y., 2004b. Rainfall-runoff model using an artificial neural network approach. Mathematical and Computer Modelling, 40(78): 839-846. Rumelhart, D.E., Hinton, G.E. and Williams, R.J., 1986. Learning internal representatoins by backpropagating errors. Nature, 323: 533-536. Rumelhart, D.E., Hinton, G.E. and Williams, R.J., 1986. Learning internal representatoins by backpropagating errors. Nature, 323: 533-536. Shao, Q.X. and Campbell, N.A., 2002. Modelling trends in groundwater levels by segmented regression with constraints. Australian & New Zealand Journal of Statistics, 44(2): 129-141. Sheng, Z., 2005. An aquifer storage and recovery system with reclaimed wastewater to preserve native groundwater resources in El Paso, Texas. Journal of Environmental Management, 75(4): 367-377. Simpson, C. and Fraser, I., 2005. Whangamata Groundwater Management Plan Draft report, URS. prepared for Thames Coromandel District Coucil. R001. Simpson, C., 2006. Wentworth Valley, Whangamata, Groundwater Abstraction Sustainability report, URS. prepared for Thames Coromandel District Council R001D. Skinner, D.N.B., 1986. Neogene Volcanism of the Hauraki Volcanic Region. Royal society of New Zealand bulletin, 23: 21-47. Tapias, J.C. et al., 2006. Using electrical imaging for assessing suitability of reclaimed water recharge at Begur, Spain. Desalination, 188(1-3): 69-77. Tayfur, G. and Guldal, V., 2006. Artificial neural networks for estimating daily total suspended sediment in natural streams. Nordic Hydrology, 37(1): 69-79.
+
+136
+
+Trabelsi, R., Zairi, M., Smida, H. and Ben Dhia, H., 2005. Salinization of coastal aquifers: case of the North Sfax Sahel aquifer, Tunisia. Comptes Rendus Geoscience, 337(5): 515-524. Uddameri, V., 2007. Using statistical and artificial neural network models to forecast potentiometric levels at a deep well in South Texas. Environmental Geology, 51(6): 885-895. URS, 2006. Assesments of effects Additional Groundwater Take Wentworth Valley, Whangamata, prepared for Thames Coromandel District Council R005. Voudouris, K.S., 2006. Groundwater Balance and Safe Yield of the coastal aquifer system in NEastern Korinthia, Greece. Applied Geography, 26(3-4): 291-311. Wilson, S.R., Ingham, M. and McConchie, J.A., 2006. The applicability of earth resistivity methods for saline interface definition. Journal of Hydrology, 316(1-4): 301-312. www.stats.govt.nz/census/, 23 December 2006 Census 2006. Yan, S.Q. and Minsker, B., 2006. Optimal groundwater remediation design using an Adaptive Neural Network Genetic Algorithm. Water Resources Research, 42(5). Zhou, X., Chen, M. and Liang, C., 2003. Optimal schemes of groundwater exploitation for prevention of seawater intrusion in the Leizhou Peninsula in southern China. Environmental Geology, 43(8): 978-985.
+
+137
+
+Appendix 1 ­ Bore logs
+
+BH-1 bore log
+
+BH-2 Bore log
+
+BH-3 Bore log
+
+WP-3 Bore log
+
+SH-1 Bore log
+
+Manuka Place Bore log
+
+Insha Alah Bore log
+
+WV-7 Bore log
+
+

@@ -1,0 +1,546 @@
+Body Image Attitudes amongst Maori and Pakeha Females
+
+A thesis submitted in partial fulfilment of the requirements for the degree of Masters of Social Sciences in Psychology at the University of Waikato
+
+by
+
+Robert E. Ngamanu
+
+Te Whare Wananga o Waikato The University of Waikato 2006
+
+ii Abstract Research has shown that body image plays a principle role in predicting the occurrence and extent of eating disordered symptomatology. The term `body image' has multiple definitions but is most commonly used to refer to self-perceptions of body weight and shape. Evidence shows that Western socio-cultural beliefs encourage females to strive for an extremely thin, unrealistically small figure. The difficulties obtaining this "thin-ideal" have lead to the development of body image dissatisfaction (BID). Because the thin-ideal is a Western construct, BID was thought to effect only Western, White women, however, research shows that body image concerns and consequently eating pathology are appearing in non-Western, ethnic minority groups where they were once unknown. This has been attributed to increasing contact between ethnic minority groups and Western cultural mores. This would suggest that the degree of attachment a minority individual feels towards their ethnic identity is likely to moderate the development of BID and thus eating concerns. This thesis compared levels of body image dissatisfaction amongst ethnic groups in New Zealand, focussing particularly on Maori and Pakeha. No differences were found to exist amongst these groups with regards to body image dissatisfaction and eating pathology regardless of ethnic attachment. The information found has consequences for clinicians working with clients of Maori extraction and those researching body image dissatisfaction in New Zealand.
+
+iii Acknowledgements The only reason anyone decides to write a thesis is for the pleasure of acknowledgements. I wrote mine before I wrote my introduction. I would like to thank the women who completed my questionnaire. I appreciate the time, effort and interest you demonstrated in this work. I would also like to acknowledge the kindness, patience and enthusiasm of my supervisors, Nicola Starkey and Mary Foster. Thank you for being friendly, approachable and never growling me even when I deserved to be growled. Thank you to my parents, Evelyn and Matt who have loved and encouraged me. Any success I enjoy can be attributed to you. To my grandmother, Tirahaere Walker, for always opening her heart and home (and fridge). Thank you to Aunties Angela, Kara and Rachel for taking care of me. I am fortunate to know such great women. Thank you to Anna and Justin for your friendship. And to Yvonne, Vance, Lizzie, Brian, Marion and Wi, thank you for understanding why I am not (yet) working. Thank you to my son, Adam Justin, for blessing your mother and I with your brief visit. Most importantly, thank you to my wife Tina. Thank you for always trying to be interested even when you weren't, for letting me use the excuse of "my thesis" for getting out of household chores, putting up with my surly silences when things were not going well and pushing me when I wanted to quit. This thesis is as much yours as it is mine.
+
+iv Table of Contents Abstract.................................................................................... Acknowledgements...................................................................... Table of Contents........................................................................ List of Tables.............................................................................. List of Figures............................................................................ List of Appendices....................................................................... Introduction............................................................................... Definitions of Body Image............................................................... Body Image Dissatisfaction Phraseology.............................................. Relationship between Poor Body Image and Body Dysmorphia, Anorexia Nervosa and Bulimia Nervosa........................................................... Causes of Poor Body Image............................................................. Body Image Ideals in Non-Western Countries........................................ New Zealand and Body Image.......................................................... Maori and Body Image................................................................... Research Goals............................................................................ Method..................................................................................... Sample...................................................................................... Procedure................................................................................... Assessment Measures..................................................................... Data Analysis.............................................................................. Results...................................................................................... Discussion................................................................................. Summary of Results....................................................................... Body Image Dissatisfaction and Ethnic Group....................................... Attachment to Ethnic Group............................................................. Eating Pathology and Ethnic Group.................................................... Implication of the Present Study......................................................... Limitations of the Present Study......................................................... Future Research........................................................................... References.................................................................................. Appendixes................................................................................. ii iii iv v vi vii 1 2 4 5 6 9 16 17 17 19 19 19 20 25 26 40 40 40 42 43 44 45 46 48 62
+
+v List of Tables Table 1. Table 2. Table 3. Table 4. Table 5. Table 6. Table 7. Age of Participant...................................................... Ethnicity of Participant................................................ Body Mass Index Status across Ethnic Group..................... Average Figure Rating Scale Scores across Ethnic Group....... Frequency of Body Image Difference Scores across Ethnicity... Pearson Product-Moment Correlations for the Figure Rating Scale and Body Mass Index across Ethnic Group.................. Pearson Product-Moment Correlations for the Multigroup Ethnic Identity Measure and Figure Rating Scale Scores across Ethnic Group............................................................ The Average Eating Attitude Test Scores of the Three Ethnic Groups According to Strength of Ethnic Attachment as Measured by the Multigroup Ethnic Identity Measure............ 32 32 33 33 34 34
+
+35
+
+Table 8.
+
+35
+
+vi List of Figures Figure 1. Figure 2. Figure 3. Figure 4. Figure 5. Figure 6. Figure 7. Figure 8. Maori Figure Rating Scale Current scores as a function of Body Mass Index....................................................... Figure Rating Scale Current scores of those who identify as both Maori and Pakeha as a function of Body Mass Index....... Pakeha Figure Rating Scale Current scores as a function of Body Mass Index....................................................... Maori Figure Rating Scale Difference scores as a function of Body Mass Index....................................................... Figure Rating Scale Difference scores of those who identify as both Maori and Pakeha as a function of Body Mass Index....... Pakeha Figure Rating Scale Difference scores as a function of Body Mass Index....................................................... Group Figure Rating scale Current scores as a function of Body Mass Index....................................................... Group Figure Rating Scale Difference scores as a function of Body Mass Index....................................................... 36 36 37 37 38 38 39 39
+
+vii
+
+List of Appendixes Appendix A Appendix B Appendix C Appendix D Appendix E Appendix F Appendix G Appendix H Poster to Recruit Participants......................................... Information Sheet.................................................................... Consent Forms.......................................................... Demographic Questionnaire.......................................... The Multigroup Ethnic Identity Measure.......................... The Original Figure Rating Scale.................................... Ethnically Neutral Figure Rating Scale.............................. The Eating Attitudes Test-26......................................... 62 63 64 66 67 69 70 71
+
+Introduction It is generally believed that the socio-cultural drive for thinness and the subsequent evils of body image disturbance and eating pathology are modern phenomena with origins in the `Twiggy' generation of the 1960's (Teen Education Center for Health, 1996; Nasser, 1997; Turangi-Josephs, 1998). Yet Nasser (1997) reminds us that the "cult of thinness has historically evolved" (p.2). In the 19th Century, both William Gull in Britain and Charles Lasègue in France described a distinct state of self-starvation likely to be caused by a host of emotional factors (Cash, 2004; Nasser, 1997; Thompson, 1990). Implicit in their description is the presence of concern over weight and a desire to be thin. At this time, new aesthetic values which emphasised a `thin tubercular look...melancholic, delicate and frail' (Nasser, 1997, p.2) replaced the fuller, sensuous figures idealised by Reuben and Renoir (Nasser, 1997; Turangi-Josephs, 1998). Thinness was considered a means of resolving woman's inner conflict, torn between a desire to conform to old traditional stereotypes of womanhood and new values relating to what ought to be (Nasser, 1997; Turangi Josephs, 1998; Wolf, 1990). Thin was `in'. Lasègue (19th Century) commented on the importance of body image disturbance to abnormal eating behaviour. He noted his patients persistent assertion she was "neither changed nor thinner" (Thompson, 1990, P.2) even when confronted with the fact that her food intake could not support a young infant. Yet, the relevance of body image to a full understanding of the complete spectrum of eating disordered behaviour was not clearly delineated until 1962 when Hilda Bruch postulated a developmental model of anorexia nervosa (AN) (Thompson, 1990). Bruch recognised the functional role of body image disturbance in the development and maintenance of AN and was initially taken aback by the seeming lack of concern of patients toward
+
+2 their emaciated appearance (Thompson, 1990). She noted that the cardinal pathognomic feature of AN was not the emaciation "but rather the distortion of body image associated with it...and the vigour and stubbornness with which the gruesome appearance is defended as normal and right" (cited in Thompson, 1990, p.3) and recognised that patients "might gain weight for many reasons but without a corresponding, corrective change in the body image the improvement is apt to be only a temporary remission" (cited in Thompson, 1990, p. 3). Thus distorted self-images of one's body can be seen to play a pivotal role in the development and treatment of eating pathology.
+
+Definitions of Body Image The term `body image' has been used by a variety of researchers to designate diverse phenomena with few or no common characteristics (Thompson, 1995). Nearly a century ago, recognition of `body image' or `body schema' began with clinical attempts to understand neuropathological forms of body experience such as phantom limb syndrome `autopagnosia' `hemiasomatognosia' and `anosognosia' (Cash, 2004). Seymour Fisher devoted much of his career to studying body image from a psychoanalytic perspective, prolifically publishing books and scientific papers on the "body boundary" construct (Thompson, 1990; Cash, 2004). Franklin Shontz was critical of the psychodynamic viewpoint and sought to integrate theory and data from several areas of experimental psychology regarding body experience and multidimensional and applied scientific finding to understanding and helping persons with physical disabilities (Cash, 2004).
+
+3 Of late `body image' has become synonymous with self-perceptions of body weight and body shape (Cash, 2004). Yet definitions which focus on physical appearance also vary considerably, from the more general description of "the picture of our own body which we form in our mind" (Ogden, 2003, p.84) through to Cash, Morrow, Hrabosky and Perry's (1997) explanation that body image involves "self perceptions and attitudes regarding ones physical appearance with respect to general weight and shape or a specific aspect or feature" (p. 1081). However, the essential feature of a definition of body image based on physical appearance is an evaluation of one's size, weight or any other physical aspect which determines appearance (Cash & Fleming, 2002). Thompson (1990) divides the definition of body image related to physical appearance into three components: (1) A perceptual component, which may also be referred to as size perception accuracy. This relates to the similarity between an individuals perception of their appearance and indicators such as weight, height and Body Mass Index. (2) A subjective component which deals with facets such as satisfaction, concern, cognitive evaluation and anxiety. Therefore, the degree of anxiety a person may experience because of a large body size, excessive body fat, a big nose and so forth depends upon the importance they place upon these physical evaluations. (3) A behavioural component which focuses on avoidance of situations that cause the individual to experience physical appearance related discomfort. Thus, an individual who has evaluated their appearance negatively may avoid public situations and the risk of comparisons.
+
+4 Body Image Disturbance (BID) is said to arise when over-all appearance or a specific aspect of appearance is negatively evaluated which causes distress and the avoidance of situations which might aggravate this distress (Cash & Fleming, 2002, Thompson, 1990).
+
+Body Image Dissatisfaction Phraseology Literature which examines low-levels of body image satisfaction tends to use terms such as `negative body image', `poor body image', `body image dissatisfaction', and `body image disturbance' interchangeably and thus there appears to be little qualitative difference between labels (Thompson, 1995). For the purposes of this thesis I have chosen to use the term body image disturbance (BID). Body Dysmorphic Disorder (BDD) is related to BID and both are characterised by a preoccupation with an aspect of one's appearance which causes significant distress. However, BDD differs significantly as it is a specific clinical syndrome consisting of extreme body image disparagement. The Diagnostic and Statistical Manual, 4th Edition (American Psychological Association, 1994) identifies three criteria which lead to a diagnosis of BDD. These include: A. Preoccupation with an imagined defect in appearance. If a slight physical anomaly is present, the person's concern is markedly excessive. B. The preoccupation causes clinically significant distress or impairment in social, occupational, or other important areas of functioning. C. The preoccupation is not better accounted for by another mental disorder (e.g., dissatisfaction with body shape and size in Anorexia Nervosa).
+
+5 Several psychometric measures exists which examine body image dissatisfaction. Body Mass Index (BMI) is also commonly used in the study of BDI (Thompson, 1995) to provide information about body fat. BMI has been shown to be accurate in the assessment of adiposity across ethnic group (Gallagher et al. 1996).
+
+Relationship between Poor Body Image and Body Dysmorphia, Bulimia Nervosa and Anorexia Nervosa Prior research on eating disorders has demonstrated that one's ideal body image serves as a crucial variable that contributes to the development and maintenance of eating disorders (Perez et al., 2001; Thompson, 1990). Indeed Cash and Pruzinsky (2002) and Levin and Piran (2004) have suggested that Body Image Disturbance and eating disordered behaviour exist as two ends of a continuum. Among the diagnostic criteria for AN outlined in the fourth edition of the Diagnostic and Statistical Manual of Mental Disorders-Text Revised (DSM-IV-TR, American Psychiatric Association, 1994) are "an intense fear of gaining weight or becoming fat, even though underweight" (p. 544) and "disturbance in the way in which one's body weight or shape is experienced, undue influence of body weight or shape on selfevaluation, or denial of the seriousness of current low body weight" (p. 545). The criteria for BN similarly include the necessary condition that "self-evaluation is unduly influenced by body shape and weight" (p.550). There is also evidence that Body Image Disturbance not only predicts the severity of problematic eating patterns, but BID is nearly certainly a precursor of disordered eating (Cash & Deagle, 1996; Jacobi, Hayward, de Zwaan, Kraemer & Agras, 2004; Levine & Piran, 2004). Thus amelioration of a dysfunctional body image is necessary for effective treatment and its persistence following otherwise successful therapy is a reliable predictor of relapse
+
+6 (Cash & Deagle, 1996; Jacobi, Hayward, de Zwaan, Kraemer & Agras, 2004; Levine & Piran, 2004).
+
+Causes of Body Image Disturbance Multiple variables are believed to contribute to body image dissatisfaction. Thompson and Spana (as cited in Thompson, 1990) proposed a relationship between neuropsychological function and BID. They suggest that because size overestimation is a largely visuospatial ability, dysfunctions in this area may contribute to negative body image perceptions. Other researchers have suggested that developmental variables such as puberty may play an important role in the development of BID, noting that many females have reported reduced levels of body image satisfaction once menstruation has commenced (Smolak, 2004; Thompson, 1990; Tiggeman, 2005). However, the most supported explanation for the prevalence of body image disturbance is the socio-cultural model (Bilukha & Utermohlen, 2002). This model maintains that current societal standards for beauty inordinately emphasize the desirability of thinness (Thompson, 1990). In many ways this ideal has been fostered by the media who have promoted the view that thinness is synonymous with beauty (Dittmar & Howard, 2004; Lavin & Cash, 2000). Women and girls are bombarded with messages from the media, parents, and peers that the ideal body is one that is almost impossibly thin. That is, in advertisements of products ranging from make-up to beer, the image of the "successful and attractive" woman is she who looks most like the dangerously thin models commonly featured in such magazines as Seventeen, Vogue, and Cosmopolitan (Thompson and Stice, 2001).
+
+7 Not only do Western socio-cultural beliefs and practices promote an excessively thin appearance as appropriate and desirable for women, research indicates that our society negatively values the opposite of thinness, that is, obesity (Lester, 2004; Littlewood, 2004; Klaczynski, Goold & Murdy, 2004). This may be explained by a belief system, pervasive in modern societies that accomplishments and failures be they academic, economic, or relational, are outcomes of personal motivations (or the lack thereof) to be successful (Simmons and Rosenberg, 1971; Simmons, Rosenberg & Rosenberg, 1973). Although some variation in this and related beliefs can be found within most cultures, at least in the United States, Caucasian females from a variety of social, economic, and educational backgrounds generally perceive individual achievements to be far more determined by effort and ability than by environmental forces such as parental support and economic background (Klaczynski & Reese, 1991). This emphasis on individualism has implications for the social lives of overweight and obese children and adults (Dittmar & Howard, 2004; Turangi-Joseph, 1998). It suggests that these individuals will view their peers' weight and, indeed, their own weight as outcomes of personal efforts and failures to achieve the `thin-ideal' (Dittmar & Howard, 2004; Klaczynski, Goold, and Mudry, 1998; Turangi-Josephs, 1998). Those who fail to cultivate a "body for success" (Klaczynski, Goold, and Mudry, 1998, p. 309) will therefore be perceived as weak-willed and lacking the skills and motivations needed not only to triumph over their bodies but also for success in other domains as well as possessing other characteristics (not necessarily immediately evident) that are generally undesirable (Quinn and Crocker, 1999). The more individuals are believed to deviate from our culture's body ideals, the more likely they are to be perceived, by themselves and their peers, as personal failures, and the lower their physical and social
+
+8 attractiveness (Dittmar & Howard, 2004; Klaczynski, Goold, and Mudry, 2004; Thompson and Stice, 2001). Western society promotes the belief that `fat is bad' and `thin is good' and in this way encourages women to strive for the thin ideal and be distressed by fat (Striegel-Moore, Silberstein and Rodin, 1986). From cradle to grave, females are indoctrinated with the message that being successful is being pretty which at this point in time means being thin (Thompson, 1990). Thanks to scientific advances and modern technology contemporary society is able to go to extraordinary lengths to achieve the perfect figure. The ideal body now appear to be an achievable goal for all those who are willing to work hard, exercise more and eat less (Wilfrey Rodin as cited by Turangi-Josephs, 1998). Hence a slim physique is socially acceptable and preferable and it is the individual's responsibility to alter his/her appearance in order to conform to the `perfect' body-shape. The unattainable standard advocated by society inevitably increases body dissatisfaction for many women. The socially constructed significance of attractiveness and desirability becomes an integral component in the development of positive body image (Wardle & Watters, 2003). Whilst the emphasis placed upon appearance and the stereotypes associated with physical attractiveness will be enhanced for individuals considered to be attractive there will be negative consequences for those subsequently challenged and deemed unattractive (Dion, Pak & Dion), leading to a heightened concern with body weight which will subsequently influence body image (Wardle & Watters, 2003). Because the `thin ideal' is particularly aimed at Western women, the field of body image and eating disorders has been dominated by research which examines females to the near exclusion of males (Cafri et al., 2005; Yang et al., 2005).
+
+9 Although researchers have periodically focused on males (Anderson, 1990; Cafri et al., 2005; Yang et al., 2005, Yesalis & Bahrke, 2002), it is only in the past 10 years that a good deal of attention has been redirected at body image disturbance and related behavioral dysfunctions of boys and men (Cafri & Thompson, 2004). Importantly, research suggests that body change behaviors designed to enhance muscularity, whether for aesthetic or athletic reasons, have deleterious physical and psychological consequences (Yesalis & Bahrke, 2002).
+
+Body Image Ideals in Non-Western Cultures The large body of literature concerning body image has derived itself primarily from a Western perspective and thus body dissatisfaction has predominantly been seen as a problem limited to Caucasian females. Research comparing ethnic minority women to White counterparts has often shown that the behaviours associated with body dissatisfaction such as dieting, purging and so forth are more common amongst White females (Ogden, 2003). Studies involving indigenous groups outside the Western periphery have only recently come to the forefront and researchers have began exploring the presence of body image disturbance and eating disorder symptomatology among non-Western cultural groups. Many non-Western cultures associate `fatness' with positive attributes such as wealth, social prestige, economic prowess and sexual attractiveness whereas thinness carries negative connotations (Nasser, 1997, Turangi-Josephs, 1998). The absence of a "thin-ideal" is believed to protect non-Western ethnic groups from the development of body image dissatisfaction (BID) and the eating concerns to which it leads (Nasser, 1997, Turangi-Josephs, 1998). These findings are indicative of the cultural relativity of body shape preference and the divergent aesthetic values placed upon thinness and
+
+10 overweight. Because of their relative absence outside of industrialised and developed countries eating disorders have been coined Western "culture bound" syndromes (Nasser, 1997). Anorexia Nervosa (AN) is less frequently reported in non-Western countries and in less affluent countries and immigrants to industrialised countries have a higher probability of developing and eating disorder in comparison with their peers in their community of origin (Miller et al, 2000) However there is a mounting body of research which suggests that the growing concern with thinness extends beyond Western boundaries and is becoming increasingly prevalent among nonWestern cultures (Li, Hu, Ma, Wu & Ma, 2005; Luo, Parish & Laumann, 2005' McArthur, Holbert & Pena, 2005). It has been suggested that abnormal eating attitudes and body image distortions associated with anorexic and bulimic behaviours may be a universal phenomenon that transcends cultural boundaries contrary to the earlier notion that they were restricted to Western countries (Cash & Pruzinsky, 2002). Others suggest inadequate screening instruments, inappropriate for use in nonWestern societies, are the primary reason the occurrence (or absence) of problem eating behaviour has not been quantified (Altabe, 1998; Ardila, 1995). These tools may not take into account that the abnormal eating attitudes and behaviours in one society may indeed be common, acceptable or even encouraged in another. Yet a more likely explanation for the sudden appearance of BID and eating disordered symptomatology amongst indigenous groups is the increased exposure to Western ideals regarding physical attractiveness. Bilukha and Utermolen (2002) note that increased access to American media sources which advocate the thin ideal by promoting diets, exercise and self-restraint around food, is coupled with an increase in BID in former Soviet countries such as the Ukraine. Shortly after the introduction of television to Fiji, researchers noted an increase in BID amongst native Fijian women
+
+11 (Becker, 2004). When China became more open to the West, mass media and commercials diffused new ideals of sexual attractiveness (Luo, Parish & Laumann, 2005). Sex and sexual beauty went from taboo subjects to central features of public culture (Luo, Parish & Laumann, 2005). At the same time the prevalence of body image dissatisfaction and eating disorders increased (Luo, Parish & Laumann, 2005). From this we can assume that those individuals from ethnic minority groups who selfidentify less with their ethnic group's traditional perceptions of physical attractiveness and more with Western perceptions of beauty are now at greater risk of developing body image disturbance and eating pathology than those who are strongly attached to the traditional socio-cultural beliefs of their ethnic group (Arugette, Nickleberry & Yates, 2004; Landrine & Klonoff, 1994; Lester, 2004; Littlewood, 2004; Molloy & Herzberger, 1998). Findings from different countries have supported the notion that culturally driven standards of beauty will affect an individuals self-perceptions of their physical attractiveness and determine the degree of effort he or she will make to bring their appearance in line with this standard (Littlewood, 2004; Nasser, 1997). Therefore, when traditional concepts of beauty are abandoned for the Western preoccupation with the thin-ideal, previously unseen behaviours such as dieting and purging are observed. Swami and Tovee (2005) compared body image preferences amongst groups of women living in Malaysia and Britain. 5 groups reflected a gradient of socioeconomic development from industrialised (Britain and Kuala Lumpur), semiindustrialised (Kota Kinabalu) and rural (Kota Kinabalu outskirts). Researchers found that body image preference differed more according to socio-economic group as opposed to culture. Participants from industrialised centres showed the highest
+
+12 rates of BID and eating disordered behaviour and those living in rural areas the lowest. However, the authors do acknowledge that those in industrialised centres receive greater exposure to Western social values than their rural cousins, therefore it is impossible to discount culture entirely. Eating disorders in Hong Kong, Taiwan and China were believed to be rare to non-existent (Lee & Lee, 1996). Explanations for this have included "a cultural tolerance of fatness, the traditional role of women, atypical clinical manifestations, a genetic tendency towards slimness and a lack of culturally sensitive diagnostic criteria and research instruments" (Lee, Ho & Hsu, 1993 as cited in Turangi-Josephs, 1998). Nevertheless recent surveys reveal that Western patterns of body dissatisfaction have indeed traversed ethnic boundaries and have generally obscured traditional Chinese conceptions of beauty. Luo, Parish & Laumann (2005) found women's weight loss desires begin at modest BMI levels and are more pronounced among youth, people of urban origin, and the well-educated. Women also have stronger body image concerns if they are single, taller or larger than their partner, or if their relationship with their partner is poor. Moreover, women who perceive themselves as unattractive and who want to lose weight report more psychological distress. These findings suggest that China has joined the worldwide diffusion of the thin ideal, with negative consequences for women. In the Middle East, a cross-cultural study of different Jewish and Arab subcultures in Israel, revealed that most groups of adolescent schoolgirls showed body and eating-related attitudes comparable to those found in the United States of America (Safir, Flaisher-Kellner & Rosenmann, 2005). Of the five Arab sub-cultures studied, in four (Muslim, Christian, Druze, Bedouin), attitudes resembled American data. The one exception was girls of Circassian descent. This was attributed to the comparative
+
+13 isolation and conservative nature of Circassian society which inhibits the development of Western standards of physical beauty. The attitude of Jewish-Israeli adolescent towards food resembled the attitudes of those affected by an eating disorder when they reside in affluent, cultural-ethnic settings that are more Americanized. Katzman et al. (2004) noted that on the Caribbean Island of Curacao eating disorders were found only amongst the White minority or those of mixed ancestry. No evidence of eating pathology could be found amongst the Islands Black majority. The White Curacao Islanders described standards of beauty typical of Western, industrialized nations particularly the United States of America. Those of mixed raced aspired to the "White, mobile elite" and wished to "distance themselves from the Black majority" (p.463), where the typical body size preferred was significantly larger than that preferred by the White minority. The impact of Western socio-cultural values can be seen in Fiji where American films and television shows have influenced the body type preferences of this formerly isolated island nation. Research before the advent of television noted that Fijians preferred "robust body shapes, reflecting the importance placed on generous feeding and voracious eating" (Reynolds, 1999 cited in Safir, FlaisherKellner & Rosenmann, 2005, p.369). Becker (2004) has shown that the introduction of television to Fijian society in 1995 is correlated with an increase in scores on tests indicating risk for disordered eating. In 1998, 74% of the girls reported feeling 'too big or fat' at least sometimes. Those who watched TV at least three nights per week were 50% more likely to see themselves as too fat and 30% more likely to diet, although the more frequent TV watchers were not more overweight. "And 62% of Fijian high school girls in 1998 reported dieting in the past month, a comparable or
+
+14 even higher proportion than reported in American samples" (Reynolds, 1999 Safir, Flaisher-Kellner & Rosenmann, 2005, p.369). In African nations such as Uganda and Nigeria where large-framed, heavy women are considered the ideal, females are less likely to engage in disordered eating behaviour and have higher levels of body image satisfaction than Western women (Balogun, Okonofua & Balogun, 1992; Safir, Flaisher-Kellner & Rosenmann, 2005). In contrast, in South Africa, where body image disturbance and eating disorders in have typically been viewed as the "exclusive domain" of Caucasian South Africans, body image dissatisfaction (BID), bulimia nervosa (BN) and anorexia nervosa (AN) have been shown to be as common amongst Black adolescent females as similarly aged Caucasian females (Le Grange et al. 1998). It would be easy to attribute the appearance of body image dissatisfaction and eating disordered behaviour in all parts of the globe to the apparently pervasive belief that "one can never be too thin" (Duchess of Windsor as cited in Nasser, 1997). Or, one might be tempted to assume that the underlying, subjective experience of eating disorders and poor body image has Western roots. However, in certain area's, "Westernisation" has not lead to a corollary increase in BID, nor can the motivations underpinning disordered eating be assumed to be the same (Andersson-Fye, 2004; Pike & Borovoy, 2004). Andersson-Fye (2004) noted the increased tendency of young women in Belize to imitate American standards of beauty and "experiment with their appearance through carefully dressing, styling their hair, applying makeup and...practicing the latest catwalk moves learned from local beauty pageants or US media" (p.561). Yet, despite this preoccupation with "Americanized" (AnderssonFye, 2004, p.562) standards of beauty there was little evidence of clinically relevant eating disorders or a decrease in satisfaction with appearance. Similarly, Hispanic-
+
+15 American females have been able to avoid body image dissatisfaction and are reportedly more satisfied with their physical appearance than White Americans and prefer a body size larger than African and Asian Americans (Barry & Grilo, 2002). In Japan, the rise of eating disorders and BID have been attributed to "increasing industrialization, urbanization, and the fraying of traditional family forms following World War II" (Pike & Borovoy, 2005, p.493) yet Japanese culture itself has played a significant role in exacerbating body weight concerns (Pike & Borovoy, 2005). Traditional, Japanese standards of beauty advocate a thinner, smaller figure than is popular amongst Western cultures (Pike & Borovoy, 2005). Self-starvation, as practiced by Japanese women is believed to represent an attempt to achieve selfdetermination when confronted with ambivalent cultural demands, with minimal significance attributable to weight and shape concerns (Pike & Borovoy, 2005). The significant cultural issues in Japan which result in a potentially conflicting and ambiguous set of messages for women coming of age and the data regarding other Asian populations converge to pose the question of the importance of weight and shape concerns in the etiology of eating disorders in Japan. . In Fiji, Becker (2004) noted that a slim figure was not necessarily considered more attractive but rather maintaining a lower weight and eating less demonstrated that an individual was not lazy. Thus eating disordered behaviour was an instrumental means of reshaping body and identity in order to enhance social and economic opportunities (Becker, 2004). With the spread of Western culture, eating disorders and body image dissatisfaction are becoming increasingly common throughout the world. There is abundant evidence suggesting a relationship between increased contact with Western socio-cultural mores, BID and eating disorder symptomatology. The absence of the
+
+16 thin-ideal from the socio-cultural beliefs of non-Western ethnic minority groups may be a contributing factor for the lack of BID and strong attachment to this group may protect from body image dissatisfaction. However, all facets of this relationship have yet to be explained when one considers the absence of BID and so forth in countries such as Belize where Americanization has not lead to poor body image.
+
+New Zealand and Body Image The prevalence of eating disorders amongst Caucasian (Pakeha) females in New Zealand is comparable to other Western countries at 0.3% for AN and 2.6% for BN (Fear, Bulik & Sullivan, 1996). A lack of research means the extent of body image disturbance in New Zealand society is unknown (Miller & Halberstadt, 2004). In 1996, only thirteen percent of a high school aged sample had a BMI score that was above the recommended health range for adolescents yet 71%, indicating a preference for a body size significantly thinner than their current figure (Fear, Bulik & Sullivan, 1996) and showing that the majority of adolescent females in New Zealand are dissatisfied with their body shape and weight and desire to be thinner (Fear, Bulik & Sullivan, 1996). Little has changed in the decade since Body Image was last examined in New Zealand. Miller and Haberstadt (2004) found that females aged from 17 to 30 are more likely to have internalized socio-cultural ideals of physical attractiveness than males and prefer a significantly smaller sized figure than their present body size. Body image research conducted in New Zealand has included Maori participants as is demonstrated by Fear et al's. (1996) study of eating pathology where 16% of participants were Maori and Miller and Halberstadts (2004) research where Maori made up seven percent of participants. However, these small numbers make it
+
+17 difficult to explore ethnic comparisons and emphasize the need for more comprehensive investigations examinations of Maori and body image.
+
+Maori and Body Image Little research has been conducted which examined body image attitudes and associated eating disordered symptomatology among Maori (Turangi-Josephs, 1998). Maori have traditionally been more "tolerant of obesity" (Tapsell & Flett, 2004), than Pakeha, preferring a full body shape (Durie, 1994) and may be exempt from body weight concerns. However, because so little research has been conducted involving the incidence of BID and associated eating psychopathology amongst Maori, it is impossible to make any conclusive statements. It is supposed that Maori females conform to research findings which suggest that ethnic minority females are less susceptible to BID and therefore eating pathology. New Zealand society favours the cultural values of the West and Maori traditional moors have been marginalized, so, it is not entirely inconceivable that Maori females consider Pakeha norms of thinness ideal as opposed to traditional ideals of physical attractiveness. This is in spite of the fact that, on average, Polynesian females tend to have larger body frames than Pakeha women (Durie, 1994; Fear, Bulik & Sullivan, 1996). The thin ideal advocated by Western society is therefore even more unrealistic for Maori women and increases the risk of BID and eating pathology (Fear, Bulik & Sullivan, 1996). This emphasizes the need for more information relating to Maori.
+
+Research Goals This thesis has three areas of focus. Firstly, females belonging to ethnic minority groups are generally believed to demonstrate higher levels of body
+
+18 satisfaction than their Western counterparts. Is this true of Maori women when compared to Pakeha females? Secondly, research has shown that the degree to which ethnic minority females were attached to their ethnic group effected body image perceptions, for example; African-American women who self-identified as Black and were strongly attached to Black culture were less likely to have negative body image perceptions (Molloy & Herzberger, 1998). This project will attempt to identify the degree of ethnic attachment amongst Maori and Pakeha participants and assess its relationship to body satisfaction. Finally, body image literature suggests that ethnic minority women who are weakly attached to their ethnic group, and Western, White women are likely more susceptible to the development of eating pathology than ethnic minority women who are strongly attached to their ethnic group (Arugette, Nickleberry & Yates, 2004; Landrine & Klonoff, 1994; Lester, 2004; Littlewood, 2004; Molloy & Herzberger, 1998). Therefore this study seeks to determine if Maori women strongly attached to their ethnicity are less likely to develop disordered patterns of eating than Maori who are not strongly attached to their ethnic group and Pakeha.
+
+19 Method
+
+Sample Participants were 100 females aged between 18 and 50+ years. Fifty-seven participants were enrolled at the University of Waikato and of these, 15 were first year psychology students. These students received 1% course credit for their participation in this research whilst all other participants received a $5 voucher from a local retailer. University students were recruited via posters (Appendix A) placed on notice boards around campus. The 43 participants who were not students at the University of Waikato were recruited from amongst community organisations, friends and family members.
+
+Procedure Ethical approval to conduct research with human participants was sought from the University of Waikato Psychology Department Ethical Review Committee. This required a description of the research, an explanation of how data would be gathered and how results would be reported. A questionnaire was developed which incorporated a demographic survey and three psychometric measures (described below). The questionnaire also included an information sheet (Appendix B) and forms (Appendix C) which all participants were required to sign, indicating their consent for data to be analysed and presented as part of this thesis. The demographic survey asked participants questions about their age, level of education, height and weight (see Appendix D). University students completed the questionnaire in a research room. Weighing scales and a tape measure were provided for those participants who did not know their height and weight. This information was required in order to calculate Body Mass Index (BMI). Because of
+
+20 the sensitive nature of this information the researcher offered to leave the room and wait outside whilst the participants were completing the questionnaire, however the majority of participants (56 from the student sample) said this was unnecessary. When working with community organisations, the researcher explained the purpose and process of the questionnaire to a group. Participants were then asked to complete the questionnaire without discussion amongst themselves, any questions being addressed to the researcher. Scales and tape measures were kept in a separate room allowing participants to gather this information in private. Participants were given the option of recording their weight and height in either metric or imperial measures. When these data were entered into the SPSS tables imperial measures were converted to metric measurements. On-line conversion tables were used from http://www.onlineconversion.com/. In general, to convert from feet into centimetres multiply by 30.48 to convert from pounds into kilograms divide by 2.21 and to convert from stones into kilograms multiply by 6.35. The questionnaire took between six and ten minutes to complete.
+
+Assessment Measures Several scales were used to measure body image dissatisfaction, eating pathology, and ethnic attachment. The selection of these measures was guided by relevant literature and they are described below.
+
+21 Body Mass Index. Body Mass Index is a measure of body fat based on height and weight. BMI is calculated by dividing the participant's weight (in kilograms) by their squared height (in metres) (Ogden, 1996). A BMI score between 18.5 and 24.9 is believed to be within a normal range. Individuals who score below 18.5 are classified as underweight and those who score between 25 and 29 are classified as overweight. A score of 30 or higher is considered an indication of obesity (Gallagher et al., 2005). The World Health Organisation (WHO) has suggested alternative ranges for different ethnic groups (Deurenberg-Yap, Schmidt, van Staveren, Deurenberg, 2004), for example it is suggested that a normal score for those of Asian extraction should be between 18.5 and 22.9, while an underweight score would fall below 18.5, an overweight score between 23.0 and 27.4 while an obese score would be 27.5 and higher (Deurenberg-Yap, Schmidt, van Staveren & Deurenberg, 2000). Yet Gallagher et al. (1996) maintain that ethnicity adapted scales are unnecessary and, whilst BMI may be gender dependent, it still provides an accurate indication of body fat across ethnic group.
+
+The Multigroup Ethnic Identity Measure. The Multigroup Ethnic Identity Measure (MEIM) (Appendix E) detects the degree to which an individual identifies with their ethnic group (Phinney, 1992; Ponterotto, Gretchen, Utsey, Stracuzzi, & Saya, 2003). Phinney (1992) recognises that each ethnic group has its own history, traditions and values but the concept of group identity, or a sense of belonging to one's own group is "common to all human beings" (p. 158). Thus general aspects of ethnic identity can be investigated by focussing on components which are common to all groups (Phinney, 1992). The
+
+22 MEIM is one of the few, if not only measure of ethnic attachment which can be used by more than one ethnic group and thus allow for direct comparison. The MEIM consists of 14 items assessing three aspects of ethnic identity: positive ethnic attitudes and sense of belonging (five items); ethnic identity achievement, including both exploration and resolution of identity issues (seven items) and ethnic behaviours or practices (two items) (Phinney, 1992). Items are rated on a 4-point forced-choice Likert scale from strongly agree to strongly disagree. Scores are derived by reversing negatively worded items, summing across items and obtaining the mean. Scores range from 4 (indicating strong ethnic attachment) to 1 (indicating low ethnic attachment). Also included in the questionnaire are six items assessing other-group orientation. Although attitudes and orientation toward other groups are conceptually distinct from ethnic identity, they may interact with it as an aspect of one's social identity in the larger society (Phinney, 1992). These items are also included to provide contrast items to balance the ethnic identity items. Reliability coefficients were calculated based on ethnically diverse college samples (Phinney, 1992). Overall reliability of the 14-item Ethnic Identity Scale was .90. For the 5 item Affirmation/Belonging subscale, reliability was .86. For the 70 item Ethnic Identity Achievement subscale, reliability was.80. No co-efficient was given for the third subscale as reliability cannot be calculated with only 2 items. The separate 6 item scale for Other-Group orientation showed lower reliability than the Ethnic Identity Scale (.74).
+
+23 Figure Rating Scale. A literature review showed that the Figure Rating Scale (FRS) (Appendix F). (Stunkard, Sorenson & Schulsinger, 1983) was the most popular tool for measuring body image disturbance (Thompson & Altabe, 1990). The subject is presented with nine male and nine female schematic figures that range from underweight to overweight. Subjects are asked to rate the figures based on the following instructional protocol: (a) current size and (b) ideal size. The difference between the ratings is a discrepancy index and is considered to represent the individual's level of dissatisfaction with their appearance (Ogden, 2003; Williamson et al., 1995). Testretest reliabilities show a correlation co-efficient of .89 for the "current size" rating and .71 for the "ideal size" rating. The figures used in this study were adapted slightly rendering figures ethnically neutral. This was achieved by removing the figures hair (Appendix G).
+
+Eating Attitudes Test-26. Research showed the Eating Attitudes Tests (both the 40 question and 26 question versions) were particularly useful across ethnic groups and ages, was easily accessible and also easy to administer (Alvarez-Rayon et al., 2004; Nunes, Camey, Olinto, Mari, 2005; Sancho, Asorey, Arija, Canals, 2005;Yoshikatsu, 2003). The original Eating Attitudes Test (EAT) is a 40-item self-report measure designed to evaluate a range of attitudes and behaviours associated with anorexia nervosa (AN) and bulimia nervosa (BN) (Williamson, Anderson, Jackman, & Jackson, 1995). It has high internal consistency with a reliability co-efficient of .94 (Williamson et al., 1995). Each item is scored on a 6-point forced choice Likert scale (Williamson et al.,
+
+24 1995). Items are scored 3 points for extreme eating disordered responses, 2 points for adjacent alternative and 1 point for the next alternative and no points for any of the three remaining alternatives (Williamson et al., 1995). Scoring is not a matter of simply summing items; certain items are weighted differently, however high total scores are indicative of symptoms but not necessarily the diagnosis of AN or BN (Williamson et al., 1995). The EAT has seven factors: food preoccupation, body image for thinness, vomiting and laxative abuse, dieting, slow eating, clandestine eating and perceived social pressure to gain weight (Williamson et al., 1995). Individuals with AN show elevations on all subscales, while those affected by BN show elevations on bulimia specific subscales (Kronenberger & Meyer, 2001). The EAT can be useful for providing a multi-factorial view of eating beliefs and behaviours. Factor analysis of the EAT yielded a 26-item (Appendix H) measure which was highly correlated with total scores on the original EAT (r = .98) (Williamson et al., 1995). Three factors were extracted from the EAT-26 to account for 40.2% of the variance in the original correlation matrix (Williamson et al., 1995). These factors were dieting, bulimia and food preoccupation, and oral control (Williamson et al., 1995). All 26 items were found to be moderately correlated with the total score (r >.44) (Williamson et al., 1995). The EAT-26 is probably the most widely used standardized measure of symptoms and concerns characteristic of eating disorders (Garner, Olmsted, Bohr, & Garfinkel, 1982). Many studies have been conducted using the EAT-26 as a screening tool and are based on the assumption that early identification of an eating disorder can lead to earlier treatment thereby reducing serious physical and psychological complications or even death (Garner et al., 1982). Most surveys of adolescents or young adult women using the EAT-26 indicate that about 15% score at or above 20. Of those who score at 20 or above on the EAT-26,
+
+25 interviews have shown that a high proportion have clinical significant eating disorders or "partial syndromes" characterized by some but not all of the symptoms required to meet the full diagnostic criteria. Interviews of those who score below 20 on the EAT26 show that the test produces very few false negatives (i.e. those with low EAT-26 scores who are diagnosed with an eating disorder or serious eating concerns on being interviewed) (Williamson et al., 1995). The EAT-26 alone does not yield a specific diagnosis of an eating disorder. Neither the EAT-26, nor any other screening instrument, has been established as highly efficient as the sole means for identifying eating disorders (Williamson et al., 1995). However, studies have shown that the EAT-26 can be an efficient screening instrument as part of a two-stage screening process in which those who score at or above a cut-off score of 20 are interviewed in a diagnostic interview (Williamson et al., 1995).
+
+Data Analysis Demographic information, individual item responses and over-all scores for each of the three psychometric measures were entered into the SPSS-12 programme for analysis. After reviewing relevant BID and eating pathology literature alpha () was set at .05. Effect size was measured using partial eta squared (p2) and the following conventions: small (0.01), medium (0.06), and large (0.14) (Evans, Wei & Spyridakis, 2004).
+
+26 Results
+
+Demographic Data
+
+The demographic data show that the100 female participants covered all available age categories. Table 1 shows that the largest group of participants were aged between 21 and 25 with 55% under 35-years-old and 9% over 50-years-old. This is unsurprising given that the majority of participants were under-graduate students at the University of Waikato. Because there were 100 participants the tables present figures as percentages. Participants were asked to self-identify as Maori, Mostly Maori/Part Pakeha, Both Maori and Pakeha or Pakeha (Table 2). Thirty-four percent of participants identified as Pakeha and 27% as Maori. Because of the small numbers in the "Mostly Maori/ Park Pakeha" (11) and "Mostly Pakeha/Part Maori" (7) these were combined with other groups. Thus the participants who self-identified as "Mostly Maori/Part Pakeha" were incorporated into the "Maori" group (38), and those who self-identified as "Mostly Pakeha/Part Maori" were included in the Pakeha group, reducing the number of ethnic groups from five to three. Once combined with the "Mostly Pakeha/Part Maori" group those who self-identified as Pakeha remained the largest group with 41 participants. Participants were asked to include their height and weight which was used to calculate Body Mass Index (BMI). This is an indication of body fat and is calculated by dividing the participant's weight in kilograms by their squared height in metres. A BMI score between 18.5 and 24.9 is believed to be within a normal range. Individuals who score below 18.5 are classified as overweight and those who score between 25
+
+27 and 29 are classified as overweight. A score of 30 or higher is considered an indication of obesity. Scores ranged from 18.19 through to 41.97 (M = 27.69). Maori had the highest average BMI score (M = 29.57, SD = 5.32) followed by those who identified themselves as both Maori and Pakeha (M = 27.82, SD = 6.22). Pakeha had the lowest BMI score (M = 25.87, SD = 5.47) however the averages of all three groups were in the "overweight" range. The one-way ANOVA conducted to compare BMI across the data from the three ethnic groups was significant [F (2, 97) = 4.334, p < .016, p2= .082] . A Scheffé test revealed a significant difference at the .05 level between the Maori and Pakeha groups. Table 3 shows the number of participants from each ethnic group who fall into the underweight, normal weight, overweight and obese categories. Only one participant was classified as under weight. In keeping with the above data which showed Maori to have the highest BMI score and Pakeha the lowest, the majority of individuals who fell within the "Normal Weight Range" category identified as Pakeha, followed by those who identified as both Maori and Pakeha with only eight Maori having a "normal" BMI score. This trend was reversed in the overweight and obese categories which were composed principally of Maori participants.
+
+Hypotheses This thesis focussed on three hypotheses. Firstly, are Maori women protected from poor body image and show higher levels of satisfaction with their appearance than Pakeha females? Secondly, does degree of ethnic attachment influence body image perception? And finally, are those Maori women who are strongly attached to
+
+28 their ethnic identity protected from the development of eating disordered symptomatology
+
+Hypothesis One: Do Maori women demonstrate higher levels of body image satisfaction than Pakeha women? In order to answer this question the data from the Figure Rating Scales were used. The Figure Rating Scale Difference score (FRSD) is an indication of body image dissatisfaction and is calculated by subtracting an individual's Figure Rating Scale Current score (FRSC) from their Figure Rating Scale Ideal score (FRSI). A participants score can range from one to eight (eight being the most extreme indication of body image dissatisfaction). Table 4 shows that all three ethnic groups had similar mean Figure Rating Scale (FRS) scores. All the participants indicated an ideal figure larger than their current figure indicating a degree of body image dissatisfaction. Table 5 indicates the frequency of body image difference scores across ethnicity. Sixty-nine (31.90% Maori, 43.50% Pakeha) participants chose an ideal figure one to two sizes smaller than their current figure. Thirty participants (53% Maori, 33.3% Pakeha) chose a figure size three to five times smaller than their current size and only one participant chose a figure size six times smaller than their current size. Correlation coefficients for BMI and FRS scores across ethnic group are reproduced in Table 5. All three ethnic groups show similar, strong correlations between FRSC scores and BMI indicating that as the participant's BMI increased there was a corresponding increase in their perception of their current size. There were also significant correlations between FRSD scores and BMI for those who
+
+29 identified as Maori and those who identified as Pakeha suggesting that Body Image Dissatisfaction increased with BMI. These data are plotted in Figures 1-6. Given the similarity of the data, the whole sample was also examined. There was a strong correlation between FRSC scores and BMI (r=.713, n=100) and a moderate correlation between FRSD scores and BMI (r=.565, n=100). These data are plotted in Figures 7 and 8. A one-way ANOVA of the three ethnic groups and the FRSC score showed no significant difference with regards to the way individuals perceive their current body size across ethnic group [F(2, 97) = 1.284, p > .282, p2= .051]. With regards to ethnic group and FRSI scores there was again no significance difference with the participants ideal figure size and their ethnicity [F(2, 97) = 1.734, p > .182, p2= .057]. This is also true of FRSD scores [F(4, 95) = .963, p > .432, p2= .039]. There appears to be a discrepancy as the FRSC average scores, which are shown to be positively correlated to BMI, were not significantly different across ethnic group in spite of Maori and Pakeha having significantly different BMI scores. However, the ANOVA data do clearly show no difference between Maori and Pakeha females with regard to FRSD scores which would suggest that Maori women are not more satisfied with their physical appearance than Pakeha women.
+
+Hypothesis Two: Does degree of ethnic attachment influence body image perception? Ethnic attachment was measured using the Multigroup Ethnic Identity Measure (MEIM). This examines ethnic identity, positive ethnic attitudes and sense of belonging (Phinney, 1992). A score of three and above is an indication of strong attachment to ethnic group while a score below three shows a weak attachment
+
+30 (Phinney, 1992). Cronbach's alpha was calculated as .927. Maori were shown to be the most strongly attached (M = 3.44, SD = .46) followed by those who identified as both Maori and Pakeha (M = 3.30, SD = .62) and then Pakeha (M = 2.60, SD = .64). A one-way ANOVA of the MEIM scores from the three ethnic groups gave a significant difference [F(2,97) = 30.499, p < .00, p2= .386] and the subsequent Scheffé post-hoc (p < .05) showed this existed between the Maori and Pakeha groups. The lowest and highest 30 MEIM scores over the whole sample were identified. Only 2 Maori and 2 individuals who self-identified as both Maori and Pakeha were in the lowest 30 MEIM scores indicating weak attachment to ethnic identity, whereas 26 Pakeha fell into this group. Alternately, the highest 30 MEIM scores were comprised principally of Maori (20) followed by both Maori and Pakeha (9) and Pakeha (1). Correlation coefficients (Table 6) show no significant relationship between FRS scores and MEIM scores across ethnic groups. Thus strong ethnic attachment does not appear to be related body image satisfaction.
+
+Hypothesis Three: Are those Maori women who are strongly attached to their ethnic identity protected from the development of eating disordered symptomatology? The Eating Attitudes Test-26 is a screening tool used in the assessment of disordered eating (Williamson et al., 1995). Cronbach's alpha was calculated as .747. Of the 100 participants, only six were shown to have an EAT-26 score which would suggest the presence of disordered attitudes around food and eating. Two of these participants identified as Maori, one identified as both Maori and Pakeha and three as Pakeha. The remaining 94 participants all had scores falling in the normal eating attitudes range.
+
+31 Each of the three ethnic groups was divided into strongly attached (3) or weakly attached (<3). The EAT scores of the divided ethnic groups were examined to determine if there was a significant difference within and between groups. Table 7, which shows the means (M) and standard deviations (SD) of EAT scores for the three ethnic groups divided in this way, reveals little difference between EAT scores of Maori females regardless of attachment to ethnicity. There appears to be a greater difference in the EAT scores of those who are weakly attached and those who are strongly attached in the Pakeha and both Maori and Pakeha groups. However, a 2 x 3 ANOVA comparing ethnicity and EAT scores [F(2, 94) = .738, p > .481, p2= .015] and MEIM and EAT scores [F(1, 94) = .299, p > .586, p2= .003] showed no main effects for ethnicity or MEIM. Nor was there an interaction effect for ethnicity groups and MEIM across EAT-26 scores [F(2, 94) = .272, p > .763, p2= .006]. Therefore there is no significant difference with regards to EAT-26 scores across ethnic group and ethnic attachment.
+
+32 Table 1. Age of Participant
+
+18-20 18 Table 2.
+
+21-25 20
+
+26-30 16
+
+Age (years) N 31-35 36-40 41-45 11 11 11
+
+46-50 7
+
+51+ 9
+
+TOTAL (N) 100
+
+Ethnicity of Participant
+
+Ethnicity Maori Mostly Maori/ Part Pakeha Both Maori and Pakeha Mostly Pakeha/ Part Maori Pakeha TOTAL
+
+Percent 27 11 21 7 34 100
+
+33 Table 3. Body Mass Index Status across Ethnic Group
+
+Under Ethnicity Maori Both Pakeha TOTAL Table 4. 0 0 1 (2.439) 1
+
+BMI Status n (%) Normal Over 8 (21.053) 9 (42.857) 24 (58.537) 41 15 (39.474) 5 (23.809) 8 (19.512) 28
+
+Obese 15 (39.474) 7 (33.333) 8 (19.512) 30
+
+TOTAL 38 21 41 100
+
+Average Figure Rating Scale Scores across Ethnic Group
+
+Figure Rating Scale Current M(SD) Ethnicity Maori Both Pakeha 6.895 (1.050) 6.286 (0.966) 6.171 (0.782) Ideal M(SD) 4.632 (1.391) 4.667 (1.901) 4.293 (1.377) Difference M(SD) 2.263 (1.155) 1.619 (1.431) 1.878 (1.418)
+
+34 Table 5. The Frequency of Body Image Difference Scores across Ethnicity
+
+FRSD (FRSC-FRSI) Ethnicity Maori Both Pakeha TOTAL 1 10 7 18 35 2 12 10 12 34 3 11 3 7 21 4 4 0 1 5 5 1 1 2 4 6 0 0 1 1 TOTAL 38 21 41 100
+
+Table 6. Pearson Product-Moment Correlations for the Figure Rating Scale Current and Difference Scores Across Body Mass Index across Ethnic Group
+
+BMI FRSC Ethnicity Maori Both Pakeha N 38 21 41 r .71 .71 .70 p-value .00 .00 .00 r .56 .40 .60 FRSD p-value .00 .114 .00
+
+35 Table 7. Pearson Product-Moment Correlations for the Multigroup Ethnic Identity Measure and Figure Rating Scale Scores across Ethnic Group
+
+MEIM FRSC Ethnicity Maori Both Pakeha N 38 21 41 r .175 .244 -.220 p-value .293 .286 .168 r -.026 .362 -.130 FRSI p-value .878 .107 .419 R .234 .080 -.142 FRSD p-value .157 .730 .377
+
+Table 8. The Average Eating Attitude Test Scores of the Three Ethnic Groups According to Strength of Ethnic Attachment as Measured by the Multigroup Ethnic Identity Measure
+
+EAT-26 MEIM <3 Ethnicity Maori Both Pakeha N 2 2 26 M(SD) 5.71 (5.25) 3.71 (3.40) 6.88 (6.57) N 20 9 1 MEIM 3 M(SD) 5.22 (6.61) 6.21 (7.16) 5.83 (6.82)
+
+36
+
+Figure 1. Graph showing Maori Figure Rating Scale Current scores as a function of Body Mass Index
+
+Figure 2. Graph showing Figure Rating Scale scores of those who identify as both Maori and Pakeha as a function of Body Mass Index
+
+37
+
+Figure 3. Graph showing Pakeha Figure Rating Scale Current scores as a function of Body Mass Index
+
+Figure 4. Graph showing Maori Figure Rating Scale Difference scores as a function of Body Mass Index
+
+38
+
+Figure 5. Graph showing Figure Rating Scale Difference scores of those who identify as both Maori and Pakeha as a function of Body Mass Index
+
+Figure 6. Graph showing the Pakeha Figure Rating Scale Difference Scores as a function of Body Mass Index
+
+39
+
+Figure 7. Graph showing group Figure Rating scale Current scores as a function of Body Mass Index
+
+Figure 8. Graph showing Figure Rating Scale Difference scores as a function of Body Mass Index.
+
+40 Discussion This thesis examined the extent of body image dissatisfaction amongst Maori and Pakeha females. There was very little evidence which supported the original hypotheses however, interesting data were obtained which may have implications for clinicians working with Maori clients and future body image research. Because of the lack of information around Maori and body image dissatisfaction this subject is particularly worthy of further study.
+
+Summary of Results Over half the 100 participants were under 35 years old. The greater number identified as Pakeha, followed by those who identified as Maori and those who identified as both Maori and Pakeha. Maori were shown to have the highest average Body Mass Index score and Pakeha the smallest, yet the average BMI scores of all three ethnic group fell into the `overweight' ranges. All women were shown to exhibit a degree of body image dissatisfaction (BID). No difference was found between the three ethnic groups with regards to BID, nor did an individual's degree of ethnic attachment influence body image satisfaction. No difference was found between ethnic groups and different levels of ethnic attachment with regards to eating pathology.
+
+Body Image Dissatisfaction and Ethnic Groups International research suggested that ethnic minority groups were protected from the development of body image dissatisfaction (BID) (Ogden, 2003) which was believed to be due to the absence of the `thin-ideal', advocated by western societies, from their
+
+41 socio-cultural beliefs and practices (Lester, 2004; Littlewood, 2004). In contrast with these findings the present study found no significant difference between those who identified as Maori, those who identified as both Maori and Pakeha and those who identified as Pakeha with regards to BID. However, Maori may indeed be more tolerant of a larger body size when one considers that there is no difference in levels of BID across ethnicity yet Maori have a significantly larger average Body Mass Index (BMI) score than Pakeha. Indeed the effect size conventions described in the Method section show that there is a very large difference between Maori and Pakeha average BMI scores. There also appears to be a discrepancy as all three ethnic groups perceived themselves to be of similar body size. However, as explained above, the average BMI score for Maori was significantly larger than that of Pakeha, and correlations have indicated a positive relationship between BMI and perceived appearance (that is, an increase in BMI saw a corollary increase in perceived body size) therefore Maori may be underestimating their current body size or Pakeha may be overestimating their current body size. All participants demonstrated some degree of body image dissatisfaction. No women indicated an extreme level of body image dissatisfaction by showing a preference for a figure eight sizes smaller than her current size. The ideal figure for the majority of participants was only one or two figures smaller than their current perceived size. Of this group, the largest number were those who identified as Pakeha followed by Maori. Turangi-Josephs (1998) suggests that the appearance of BID amongst Maori may be due to the prevalence of Western concepts of beauty. As traditional concepts of beauty are marginalised, Maori are more likely to identify with the thin-ideal. As
+
+42 in the present study, Maori have been found to maintain, on average, heavier body weights than Pakeha (Russell & Wilson cited in Fear, Bulik & Sullivan 1996). Thus the pursuit of the thin-ideal, despite possessing a larger body frame, likely increases the risk of BID (Fear, Bulik & Sullivan, 1996; Turangi-Josephs, 1998).
+
+Attachment to Ethnic Group The absence of the thin-ideal from the socio-cultural beliefs of ethnic minority groups suggests that the strength of attachment to the ethnic group will have some bearing on the development of body image dissatisfaction and thus eating pathology (Lester, 2004; Littlewood, 2004). Therefore those who are strongly attached to their ethnic group are more likely to be satisfied by their physical appearance and less likely to develop BID. African-American females with high scores on scales which measure attachment to African American culture have been shown to be more accepting of a larger Body Mass Index score and body size than their WhiteAmerican counterparts (Landrine & Klonoff, 1994; Molloy & Herzberger, 1998). This is attributed to African-American ethnic group socio-cultural beliefs and practices which place value on a large body size (Abrams, Allen & Gray, 1993; Molloy & Herzberger, 1998; Pierre & Mahalik, 2005) Other research has shown body shape and weight concerns are markedly absent from certain ethnic groups, such as those who ethnically identify as Japanese, in spite of cultural standards of beauty which encourage a slender figure (Pike & Borovoy. 2005). Durie (1994) says that Maori have traditionally preferred a body size larger than that considered attractive by Western standards. Thus it can be assumed that
+
+43 those who identify as Maori and demonstrate strong attachment to the socio-cultural beliefs and practices of their ethnic group will be more accepting of a larger figure and less likely to develop BID than Pakeha and those Maori who do not demonstrate strong attachment with the socio-cultural beliefs and practices of their ethnic group. This could have consequences for the delivery of treatment to Maori clients. If strong ethnic attachment does protect from BID and thus eating pathology then interventions with Maori clients might include socio-cultural components of the Maori ethnic group, that is, Maori Tikanga. ANOVA, Post-hoc and effect size conventions show that there is an extremely large difference between these two ethnic groups with regards to ethnic attachment. Yet there was no significant difference in levels of body image dissatisfaction across the three ethnic groups regardless of attachment to ethnic group.
+
+Eating Pathology and Ethnic Group Evidence suggests that body image disturbance not only predicts the severity of problematic eating patterns but is nearly certainly a precursor of disordered eating (Cash & Deagle, 1996; Jacobi, Hayward, de Zwaan, Kraemer & Agras, 2004; Levine & Piran, 2004; Striegel-Moore, Silberstein, French, & Rodin, 1986). Thus, those who experience BID may not necessarily develop eating disordered symptomatology while all those who experience eating disordered symptomatology are highly likely to also experience low levels of body image dissatisfaction. To receive a diagnosis of Anorexia Nervosa (AN) an individual must experience "an intense fear of gaining weight or becoming fat, even though underweight" (American Psychiatric Association, 1994, p.544). To receive a diagnosis of Bulimia Nervosa (BN) self-evaluation must be "unduly influenced by
+
+44 body shape and weight" (American Psychiatric Association, 1994, p.550). Ethnic attachment is believed to mediate the development of eating pathology inasmuch as it protects from body image dissatisfaction (Nasser, 1997, Turangi-Josephs, 1998). However, results from this study have already shown that levels of BID were similar across ethnic groups regardless of ethnic attachment, thus it is not surprising that all three ethnic groups had similar mean scores on the EAT-26 regardless of ethnic attachment and all effect sizes were very small. This indicates that ethnic group and ethnic attachment, either individually or combined have no effect on the development of eating pathology.
+
+Implications of the Present Study This study has demonstrated that Maori may identify more strongly with western standards of attractiveness than previously expected. The larger body size of Maori (Fear, Bulik and Sullivan, 1996) and the traditional preference for a larger figure (Durie, 1997) may have lead to the presumption that body image dissatisfaction is not an area of concern for this group, however the present research has shown this to be untrue and that this is a topic worthy of further research. It is known that poor body image is a predictor of eating pathology and the amelioration of a dysfunctional body image is necessary for the effective treatment of eating disorders (Cash & Deagle, 1996; Jacobi, Hayward, de Zwaan, Kraemer & Agras, 2004; Levine & Piran, 2004). With no intervention to reduce levels of BID the future could see a sharp increase in the incidence of eating disordered symptomatology amongst Maori. This underlines the importance of the development of culturally sensitive and appropriate scales for measuring eating pathology amongst Maori.
+
+45 While ethnic attachment was not a protective factor in the present research, other studies have shown its importance (Gordon-Larsen, Harris,Ward & Popking, 2003; Humphry & Ricciardelli, 2003; Rosenthal & Feldman, 1992). This may impact upon the way a clinician chooses to work with a client of Maori extraction. The clinician should certainly avoid the presumption that Maori are safe from BID and eating disordered symptomatology.
+
+Limitations of the Present Study Caution should be used when interpreting and applying the findings of this study. For convenience, the size of the sample was small and composed principally of university students hence results may not truly reflect body image as it exists in the wider New Zealand community and so be of little value when attempting to understand body image dissatisfaction in this country. The number of those identifying themselves as Maori and those identifying themselves as Pakeha was similar, but those who identified as both Maori and Pakeha were comparatively few and results may not be an accurate representation of body image amongst this group. Further limitations arise when one considers that there was no New Zealand normative data for the psychometric measures used. The Multigroup Ethnic Identity Measure (MEIM) allowed for comparisons across multiple ethnic groups. Yet, this is at the expense of the individual's perception of their ethnic group, for example, the experience and understanding of being Maori may differ significantly from person to person. Also, the use of the MEIM amongst those who consider themselves to be both Maori and Pakeha is problematic. It was uncertain whether members of this group were describing their attachment to the Maori ethnic group, the Pakeha ethnic
+
+46 group or a personal construct which comprises features of the two or be unique to the individual participant. When using the Figure Rating Scale one assumes that a score of `one' shows a moderate level of body image dissatisfaction, a score of `two' a slightly more serious level of BID and so forth but no information is provided which clearly explains the difference between levels. For example, information may be included which describes the ways in which individuals may present at each level of dissatisfaction. Also, the FRS provides information on dysfunctional appraisal of body size but does not incorporate feature specific dissatisfactions. Future research might include a second scale which measures feature specific facets of body image dissatisfaction. Similarly, it is recommended that the EAT-26 be used in conjunction with other psychometric measures and a clinical interview when assessing disordered eating pathology (Williamson et al., 1995). While Body Mass Index has been shown to provide information on body fat across ethnic group, consistencies arise when comparing different age groups (Gallagher et al. 2005). Older individuals often have a higher percentage body fat than younger individuals with similar Body Mass Index scores (Gallagher et al. 2005). There is no information which indicates the point at which comparison between age cohorts is confounded however given the range of participants' ages it is possible that analyses using BMI are not true representations of the body fat.
+
+Future Research This thesis has shown that body image dissatisfaction is not limited to Pakeha females as previous research has indicated (Arugette, Nickleberry & Yates, 2004; Humphry & Ricciardelli, 2003; Ogden, 2003) but may now be common amongst
+
+47 Maori females. Future research might examine the rise, influence and extent of Western standards of beauty in New Zealand, the role of acculturation and the increasing tendency amongst Maori women to identify with Western standards of attractiveness (Halbert-Crowe, 1998, Turangi-Josephs, 1998). With Maori living in a society where their traditional standards of attractiveness have been marginalised the appearance of body image dissatisfaction and eating pathology is unsurprising. Future research might attempt to determine the prevalence of body image dissatisfaction amongst all females in New Zealand and specifically Maori. Future research might also address the concerns raised regarding the scales used in this study. For example, because of the association between BID and eating pathology a study could attempt to determine whether those with a diagnosis of a specific eating disorder such as anorexia nervosa (AN) respond to the Figure Rating Scale in an idiosyncratic manner. There is an increasing interest in the area of males and body image (Anderson, 1990; Cafri et al., 2005; Yang et al., 2005, Yesalis & Bahrke, 2002;Thompson, Heinberg, Altabe, & Tantleff-Dunn, 1999). One to two percent of Western males are believed to experience dissatisfaction with their appearance to such a degree that a diagnosis of Body Dysmorphic Disorder is given (Yang, Gray & Pope Jr, 2005). Cafri et al. (2003) stipulate that Western socio-cultural values for men, at this point in time, emphasize "a lean, muscular appearance...for aesthetic or athletic reasons" (p. 215) and the pursuit of this `muscular ideal' has detrimental physical and psychological consequences. Some research has been conducted which examines traditional Maori concepts of female beauty (August, 2204; Halbert-Crowe, 1998). Future studies may consider traditional Maori concepts of male attractiveness and the influence of Western Ideals.
+
+48
+
+Reference List Abrams, K. K., Allen, L., & Gray, J. J. (1993). Disordered eating attitudes and behaviors, psychological adjustment and ethnic identity: A comparison of Black and White female college students. International Journal of Eating Disorders, 14(1), 49-57.
+
+Altabe, M. (1998). Ethnicity and body-image: Quantitative and qualitative analysis. International Journal of Eating Disorders, 23, 153-159.
+
+Alvarez-Rayon, G., Mancilla-Diz, J.M., Vazques-Arevalo, R., Unikel-Santonicini, C., Caballero-Romo, A. & Mercado-Corono, D. (2004). Validity of the Eating Attitudes Test: A study of Mexican eating disorder patients. Eating and Weight Disorders, 9(4), 243-248
+
+American Psychiatric Association (2000) Diagnostic and Statistical Manual of Mental Disorders (4th ed.). Washington DC, American Psychiatric Association
+
+Anderson, A.E. (1990) Diagnosis and treatment of males with eating disorders. In A.E. Anderson (Ed.), Males with Eating Disorders, (pp. 133-162) New York: Brunner-Mazel
+
+Anderson-Fye, E.P. (2004). A `coca-cola' shape: Cultural changes in body image and eating disorders in San Andres, Belize. Culture, Medicine and Psychiatry, 28, 561-595
+
+49
+
+Ardila, A. (1995). Directions of research in cross-cultural neuropsychology. Journal of Clinical and Experimental Psychology, 17(2), 143-150
+
+Aruguete, M. S., Nickleberry, L. D., & Yates, A. (2004). Acculturation, body image, and eating attitudes among Black and White college students. American Journal of Psychology, 6(3), 393-402.
+
+Ball, K., & Kenardy, J. (2002). Body weight, body image, and eating behaviours; Relationships with ethnicity and acculturation in a community sample of young Australian women. Eating Behaviours, 3(3), 205-216.
+
+Balogun, J.A., Okonofua, F.E. & Balogun, A.O. (1992). An appraisal of body image among Nigerian university students. Perceptual and Motor Skills, 75, 832834
+
+Barry, D.T. & Grilo, C.M. (2002). Eating and body image disturbances in adolescent psychiatric inpatients: Gender and ethnicity patterns. International Journal of Eating Disorders, 32, 335-343
+
+Becker, A.E. (2004). Television, disordered eating and young women in Fiji: Negotiating body image and identity during rapid social change. Culture, Medicine and Psychiatry, 28, 533-559
+
+50 Bilukha, O.O. & Utermohlen, V. (2002). Internalization of western standards of appearance, body dissatisfaction and dieting in urban education Ukrainian females. European Eating Disorders Review, 10, 120-137
+
+Cafri, G. & Thompson, J.K. (2004). Measuring male body image: A review of the current methodology. Psychology of Men and Masculinity, 5, 18-29
+
+Cafri, G., Thompson, J.K., Ricciardelli, L., McCabe, M., Smolak, L. & Yesalis, C. (2005). Pursuit of the muscular ideal: Physical and psychological consequences and putative risk factors. Clinical Psychology Review, 25(2), 125-139
+
+Cash, T.F. (2004). Body image: Past, present and future. Body Image, 1, 1-5
+
+Cash, T.F. & Deagle, E.A. (1997). The nature and extent of body-image disturbances in anorexia nervosa and bulimia nervosa: A meta-analysis. International Journal of Eating Disorders, 22, 107-125.
+
+Cash, T. F., & Fleming, E. C. (2002). The impact of body image experience: Development of the Body Image Quality of Life Inventory. International Journal of Eating Disorders, 31, 455-460.
+
+Cash, T. F., & Pruzinsky, T. (Eds.). (2002). Body image: A handbook of theory, research, and clinical practice. New York: Guilford Press.
+
+51
+
+Cash, T. F., Morrow, J. A., Hrabosky, J. I., & Perry, A. A. (2004). How has bodyimage changed? A cross-sectional investigation of college women and men from 1983 to 2001. Journal of Consulting and Clinical Psychology, 72(6), 1081-1089.
+
+Deurenberg-Yap, M., Schmidt, G., van Staveren, W.A. & Deurenberg, P. The paradox of low body mass index and high body fat percentage among Chinese, Malays and Indians in Singapore. International Journal of Obesity Related Metabolic Disorders, 24(8), 1011-1017
+
+Dion, K.K, Pak, A.W. & Dion, K.L. (1990). Stereotyping physical attractiveness: Sociocultural perspectives. Journal of Cross-Cultural Psychology, 21, 158179
+
+Dittmar, H. & Howard, S. (2004). Professional hazards? The impact of models' body size on advertising effectiveness and women's body-focussed anxiety in professions that do and do not emphasize the cultural ideal of thinness. British Journal of Social Psychology, 43, 477-497
+
+Durie, M. (1994). Whaiora: Maori health development. Auckland: Oxford University Press
+
+Evans, M.B., Wei, C. & Spyridakis, J.H. (2004). Using statistical power analysis to tune-up a research experiment: A case study. Retrieved July 6, 2006, from
+
+52
+http://www.uwtc.washington.edu/research/pubs/jspyridakis/Power_analysis_IEEE_Pr ocedings_2004.pdf.
+
+Fear, J. L., Bulik, C. M., & Sullivan, P. F. (1996). The prevalence of disordered eating behaviours and attitudes in adolescent girls. The New Zealand Journal of Psychology, 25(1), 7-12.
+
+Freedman, R. K., Carter, M. M., Sbrocco, T., & Gray, J. J. (2004). Ethnic difference in preferences for female weight and waist-to-hip ratio: A comparison of African-American and White American college samples and community samples. Eating Behaviours, 5, 191-198.
+
+Gallagher, D., Visser, M., Sepulveda, D., Pierson, R.N., Harris, T. & Heymsfield, S. B. (1996). How useful is Body Mass Index for comparison of body fatness across age, sex and ethnic groups? American Journal of Epidemiology, 143(3), 228-239
+
+Garner, D.M. & Garfinkel, P.E. (1979). The Eating Attitudes Test: An index of symptoms of anorexia nervosa. Psychological Medicine, 9(2), 273-279
+
+Garner, D. M., Olmsted, M. P., Bohr, Y., & Garfinkel, P. E. (1982). The Eating Attitudes Test: Psychometric features and clinical correlates. Retrieved July 28, 2005 from http://www.edreferral.com/assessment.htm.
+
+Gluck, M. E., & Geliebter, A. (2002). Racial and ethnic differences in body image and eating behaviors. Eating Behaviours, 3(2), 143-151.
+
+53
+
+Gordon-Larsen, P., Mullan-Harris, K., Ward, D. S., & Popkin, B. M. (2003). Acculturation and overweight-related behaviors among Hispanic immigrants to the US: The National Longitudinal Study of Adolescent Health. Social Science and Medicine, 57(11), 2023-2034.
+
+Holder, M.D. & Keates, J. (2006). Size of drawings influences body size estimates by women with and without eating concerns. Body Image, 31(1), 77-86
+
+Humphry, T. A., & Ricciardelli, L. A. (2004). The development of eating pathology in Chinese-Australian women: Acculturation versus culture clash. International Journal of Eating Disorders, 35, 579-588.
+
+Katzman, M.A., Hermans, K.M., Van-Hoeken, D. & Hoek, H.W. (2004). Not your typical, island women: Anorexia nervosa is reported only in subcultures in Curacao. Culture, Medicine and Psychiatry, 28, 463-492
+
+Klaczynski, P.A. & Reese, H.W. (1991). Educational trajectory and "action orientation": Grade and track differences. Journal of Youth and Adolescence, 20(4), 441-462
+
+Klaczynski, P.A., Goold, K.W. & Mudry, J.J. (2004). Culture, obesity, stereotypes, self-esteem and the "thin ideal": A social identity perspective. Journal of Youth and Adolescence, 33(4), 307-317
+
+54 Kronenberger, W. G., & Meyer, R. G. (2001). The Child Clinicians' Handbook (2 ed.). Needham Heights, MA: Allyn and Bacon.
+
+Landrine, H. & Klonoff, E.A. (1994). The African American Acculturation Scale: Development, reliability and validity. Journal of Black Psychology, 20(2), 104-127
+
+Lavin, M.A. & Cash, T.F. (2001). Effects of exposure to information about appearance stereotyping and discrimination on women's body images. International Journal of Eating Disorders, 29, 51-58
+
+Lee, A.M. & Lee, S. (1996). Disordered eating and its psychological correlates among Chinese adolescent females in Hong Kong. International Journal of Eating Disorders, 20, 177-183
+
+LeGrange, D., Louw, J., Breen, A. & Katzman, M.A. (2004). The meaning of `selfstarvation' in impoverished black adolescents in South Africa. Culture, Medicine and Psychiatry, 28, 439-461
+
+Lester, R. (2004). Eating disorders and the problem of "culture" in acculturation. Culture, Medicine & Psychiatry, 28, 607-615
+
+Levine, M.P. & Piran, N. (2004). The role of body image in the prevention of eating disorders. Body Image, 1, 57-70
+
+55 Li, Y., Hu, X., Ma, W., Wu, J. & Ma, G. (2005). Body image perceptions among Chinese children and adolescents. Body Image, 2, 91-103.
+
+Littlewood, R. (2004). Globalization, culture, body image and eating disorders. Culture, Medicine and Psychiatry, 28, 597-602
+
+Luo, Y., Parish, W.L. & Laumann, E.O. (2005). A population-based study of body image concerns among urban Chinese adults. Body Image, 2, 333-345
+
+Mc Arthur, L.H., Holber, D. & Pena, M. (2005). An exploration of the attitudinal and perceptual dimensions of body image among male and female adolescents from six Latin-American cities. Adolescence, 40(160), 801-816
+
+Miller, K.J., Gleaves, D.H., Hirsch, T.G. Green, B.A., Snow, A.C. & Corbett, C.C. (2000). Comparisons of body image dimensions by race/ethnicity and gender in a university population. International Journal of Eating Disorders, 27, 310-316
+
+Miller, E. & Halberstadt, J. (2005). Media consumption, body image and thin ideals in New Zealand men and women. New Zealand Journal of Psychology, 34(3), 189-195
+
+Molloy, B.L. & Herzberger, S.D. (1998). Body image and self-esteem: A comparison of African-American and Caucasian women. Sex Roles, 38(7), 631-643
+
+56 Nakai, Y. (2003). Validity of Eating Attitudes Test (EAT). Clinical Psychiatry, 31(2), 161-165
+
+Nasser, M. (1997). Culture and weight conciousness. London: Routledge
+
+Nunes, M.A., Camey, S., Olinto, M.T. & Mari, J.J. (2005). The validity and 4-year test-retest reliability of the Brazilian version of the Eating Attitudes Test-26. Brazilian Journal of Medical and Biological Research, 38(11), 1655-1662
+
+Odgen, J. (1996). Health Psychology-A Textbook. Trowbridge, Great Britain: Redwood Books
+
+Ogden, J. (2003). The Psychology of Eating: From Healthy to Disordered Behavior. Malden, MA: Blackwell Publishing.
+
+Perez, M., Voelz, Z.R., Pettit, J.W. & Joiner Jnr, T.E. (2002). The role of acculturative stress and body dissatisfaction in predicting bulimic symptomatology across ethnic group. International Journal of Eating Disorders, 31, 442-454
+
+Phinney, J.S. (1992). The multi-group ethnic identity measure: A new scale for use with diverse groups. Journal of Adolescent Research 7(2), 156-176
+
+57 Pierre, M.R. & Mahalik, J.R. (2005). Examining African self-consciousness and Black racial identity as predictors of Black men's psychological well-being. Cultural Diversity and Ethnic Minority Psychology, 11(1), 28-40
+
+Pike, K.M. & Borovoy, A. (2004). The rise of eating disorders in Japan: Issues of culture and limitations of the model of "westernization". Culture, Medicine and Psychiatry, 28, 493-531
+
+Ponterotto, J.G., Gretchen, D., Utsey, S.O., Stracuzzi, T. & Saya Jr, R. (2003). The Multigroup Ethnic Identity Measure (MEIM): Psychometric review and further validity testing. Education and Psychological Measurement, 63(3), 502-515
+
+Quinn, D.M. & Crocker, J. (1999). When ideology hurts: Effects of feeling fat and the Protestant ethic on the psychological well-being of women. Journal of Personality and Social Psychology, 77(2), 402-414
+
+Sancho, C., Asorey, O., Arija, V. & Canals, J. (2005). Psychometric characteristics of the children's Eating Attitudes Test in a Spanish sample. European Eating Disorders Review, 13(5), 338-343
+
+Safir, M.P., Flaisher-Kellner, S. & Rosenmann, A. (2005). When gender differences surpass cultural difference in personal satisfaction with body shape in Israeli college students. Sex Roles: A Journal of Research, 52(6), 369-379
+
+58 Schwartz, M.B., Vartanian, L.R., Nosek, B.A. & Brownell, K.D. (2006). The influence of one's own body weight on implicit and explicit anti-fat bias. The North American Association for the Study of Obesity, 14, 440-447
+
+Simmons, R.G., Rosenberg, F. & Rosenberg, M. (1973). Disturbances in self-image at adolescence. American Sociological Review, 38(5), 553-568
+
+Simmons, R.G. & Rosenberg, M. (1971). Functions of children's perceptions of the stratification system. American Sociological Review, 36(2), 235-249
+
+Smolak, L. (2004). Body image in children and adolescents: Where do we go from here? Body Image, 1, 15-28
+
+Striefel-Moore, R.H., Silberstein, L.R., & Rodin, J. (1986). Toward an understanding of risk factors for bulimia. American Psychologist, 41, 246-263
+
+Stunkard, A.J., Sorenson, T. & Schulsinger, F. (1983). Use of the Danish adoption register for the study of obesity and thinness. In S.S. Kety (Ed.), Genetics of Neurobiology and Psychiatric Disorders (pp. 115-120). New York: Raven Press
+
+Swami, V. & Tove'e, M.J. (2005). Female physical attractiveness in Britain and Malaysia: A cross-cultural study. Body Image, 2, 115-128
+
+59 Tassell, N. & Flett, R. (2005). Stages of change for fruit and vegetable intake and dietary fat modification in Maori women: Some relationships with body attitudes and eating behaviours. New Zealand Journal of Psychology, 34(1), 28-35
+
+Teen Education Center for Health (1996). Eating Disorders: A taste of history. Retrieved March 23, 2006 from http://library.thinkquest.org/3354/Resource_Center/Virtual_Library/Eating_Di sorders/eating.htm
+
+Tiggemann, M. (2005). Body dissatisfaction and adolescent self-esteem: Prospective findings. Body Image, 2, 129-135
+
+Thomas, D.R. & Nikora, L.W. (1996). Maori, Pakeha and New Zealander: Ethnic and national identity among New Zealand students. Journal of Inter-cultural Studies 17(1), 29-40
+
+Thompson, J.K. & Altabe, M.N. (1990). Psychometric qualities of the figure rating scale. International Journal of Eating Disorders, 10, 615-619
+
+Thompson, J.K. & Stice, E. (2001). Thin-ideal internalization: Mounting evidence for a new risk factor for body image disturbance and eating pathology. Current Directions in Psychological Science, 10(5), 181-183
+
+60 Thompson, J.K. (1995). Assessment of body image. In D.B. Allison (Ed.), Handbook of Assessment Methods for Eating Behaviors and Weight-Related Problems (pp.119-148). California: Sage Publications
+
+Thompson, J. K. (1990). Body Image Disturbance: Assessment and Treatment. New York: Permagon Press.
+
+Turangi-Joseph, A. (1998). Tyranny of appearance: Body image, dieting and eating attitudes among Maori and Pakeha students. Unpublished master's thesis, University of Waikato, Hamilton, New Zealand.
+
+Wang, Z., Byrne, N. M., Kenardy, J. A., & Hills, A. P. (2005). Influences of ethnicity and socioeconomic status on the body dissatisfaction and eating behaviour of Australian children and adolescents. Eating Behaviours, 6(1), 23-33.
+
+Wardle, J. & Watters, R. (2004). Sociocultural influences on attitudes to weight and eating: Results of a natural experiment. International Journal of Eating Disorders, 35, 589-596
+
+Williamson, D. A., Anderson, D. A., Jackman, L. P., & Jackson, S. R. (1995). Assessment of eating disordered thoughts, feelings and behaviours. In D. B. Allison (Ed.), Handbook of Assessment Methods for Eating Behaviors and Weight-Related Problems-Measures, Theory and Research (pp. 347-386). London: Sage Publications Inc.
+
+61 Wolf, N. (1990). The Beauty Myth. London: Vintage
+
+Yang, J.C., Gray, P. & Pope Jr, H.G. (2005). Male body image in Taiwan versus the west. Yanggang Shigi meets the Adonis complex. The American Journal of Psychiatry, 162(2), 263-269
+
+Yesalis, C.E. & Bahrke, M.S. (2002). Anabolic-androgenic steroids and related substances. Current Sports Medicine Reports, 1, 246-252
+
+62 Appendix A: Poster to Recruit Participants
+
+!!!!!!!!!!PARTICIPANTS NEEDED!!!!!!!!!!
+Hi, my name is Rob Ngamanu and I am looking for Maori and European (Pakeha) women, aged 18 years or over to help me with my Masters thesis. I am comparing the body image perceptions and eating behaviours of these two groups. Participants will be asked to complete a questionnaire which examines cultural attachment, body image perceptions and eating behaviour. If you are interested please contact me via email on: ren2@waikato.ac.nz indicating your preferred time, day and place. The questionnaire should take approximately 30 minutes to complete. If you are enrolled in Psych 102 or 103 you can earn 1-2% course credit. Other participants will receive a $5 Warehouse voucher in recognition of your time. If you have any questions, please feel free to contact me at the above e-mail address. My supervisors are Mary Foster and Nicola Starkey If you do choose to participate and later change your mind you may withdraw at any time. Information that you provide will be strictly confidential and will be destroyed once my Thesis is completed.
+
+63 Appendix B: Information Sheet and Demographic Questionnaire
+
+INFORMATION SHEET (Please retain this sheet for your future reference)
+My name is Robert Ngamanu and I would like to begin by thanking you for agreeing to complete this questionnaire. My thesis will compare body image perceptions amongst Maori and Pakeha females and is motivated by a lack of research involving minority females, particularly Maori. The following questions focus on your current eating habits, your thoughts surrounding your body image and your attachment to cultural identity. If at any time you decide you no longer wish to participate in this research please feel free to withdraw. Return this form uncompleted or destroy it if you have already written some answers. The data will only be seen by me as the researcher and will be used to complete my Masters thesis which will be available in due course. The information you provide will be completely confidential and data will be presented in such a manner that no individuals are recognized. If you have any queries regarding this research or you would like to discuss findings please feel free to do so either immediately or at a later date. My contact number is: (07) 853 2625 (evenings) Alternately you may wish to contact my supervisors Dr Mary Foster-Extn 8400 and Dr Nicola Starkey-Extn 6472 (University of Waikato- 07 838 4466) If by any chance the following questions raise some concerns for you regarding your own eating behaviour you could contact your local GP or: The Psychology Centre (Hamilton) - (07) 834 1520 Student Counselling Services (University of Waikato) - (07) 838 4201 Once again, your participation in this research is greatly appreciated. Robert Ngamanu E-mail: ren2@waikato.ac.nz
+
+64 Appendix C: Consent Forms University of Waikato Psychology Department
+
+CONSENT FORM
+PARTICIPANT'S COPY Research Project: Perceptions of Body Image amongst Maori and Pakeha Females Name of Researcher: Robert Ngamanu___________________________________ Name of Supervisor (if applicable): Mary Foster and Nicola Starkey____________ I have received an information sheet about this research project or the researcher has explained the study to me. I have had the chance to ask any questions and discuss my participation with other people. Any questions have been answered to my satisfaction. I agree to participate in this research project and I understand that I may withdraw at any time. If I have any concerns about this project, I may contact the convenor of the Research and Ethics Committee. Participant's Name: ____________________________________________________ Signature: ____________________________________________________________ Date:________________________________________________________________
+
+65
+
+University of Waikato Psychology Department
+
+CONSENT FORM
+RESEARCHER'S COPY Research Project: Perceptions of Body Image amongst Maori and Pakeha Females___ Name of Researcher: Robert Ngamanu______________________________________ Name of Supervisor (if applicable): Mary Foster and Nicola Starkey______________ I have received an information sheet about this research project or the researcher has explained the study to me. I have had the chance to ask any questions and discuss my participation with other people. Any questions have been answered to my satisfaction. I agree to participate in this research project and I understand that I may withdraw at any time. If I have any concerns about this project, I may contact the convenor of the Research and Ethics Committee. Participant's Name: ____________________________________________________ Signature:____________________________________________________________ Date:________________________________________________________________
+
+66 Appendix D: Demographic Questionnaire BACKGROUND INFORMATION Age:
+Please circle [18-20] [36-40] [21-25] [40-45] [26-30] [46-50] [31-35] [50+]
+
+Level of Education:
+Please circle highest qualification Primary School Graduate/Postgraduate Degree High School Technical College or Polytechnic Some Tertiary Bachelors Degree
+
+Height:
+Ft ____________ Inches ____________
+
+OR
+Meters ____________ Centimetres ____________
+
+Weight:
+Stones ____________ Pounds ____________
+
+OR
+Kilograms ____________ Grams ____________
+
+67 Appendix E: The Multi-group Ethnic Identity Measure Ethnicity:
+These questions are about your ethnicity or your ethnic group and how you feel about it or react to it. In terms of ethnic group I consider myself to be (Please tick or cross the most appropriate box): Maori Mostly Maori/ Part Pakeha Both Maori and Pakeha Mostly Pakeha/ Part Maori Pakeha Use the numbers given below to indicate how much you agree or disagree with each statement (Please tick or cross the most appropriate box) 1. Strongly Disagree 2. Somewhat Disagree 3. Somewhat Agree 4. Strongly Agree
+
+1
+1. 2. 3. 4. 5. 6. 7. 8. 9. I have spent time trying to find out more about my own ethnic group, such as its history, traditions and customs I am active in organizations or social groups that include mostly members of my own ethnic group I have a clear sense of my ethnic background and what it means for me I like meeting and getting to know people from ethnic groups other than my own I think a lot about how my life will be affected by my ethnic group membership I am happy that I am a member of the group that I belong to I sometimes feel it would be better if different ethnic groups didn't mix together I am not very clear about the role of ethnicity in my life I often spend time with people from ethnic groups other than my own
+
+2
+
+3
+
+4
+
+1
+
+2
+
+3
+
+4
+
+68
+10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. I really have not spent much time trying to learn more about the practices and history of my ethnic group I have a strong sense of belonging to my own ethnic group I understand pretty well what my ethnic group membership means to me, in terms of how to relate to my own group and other groups In order to learn more about my ethnic background I have often talked to other people about my ethnic group I have a lot of pride in my ethnic group and its accomplishments I don't try to become friends with people of other ethnic groups I participate in the practices of my own group such as special food, music or customs I am involved in activities with people from other ethnic groups I feel a strong attachment towards my own ethnic group I enjoy being around people from ethnic groups other than my own I feel good about my ethnic background
+
+69 Appendix F: The Original Figure Rating Scale
+
+70 Appendix G: Ethnically Neutral Figure Rating Scale
+
+Please examine the diagram below and answer the question which follows.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+71 Appendix H: The Eating Attitudes Test-26
+
+Eating Attitudes Test (EAT-26)
+Please answer all questions by circling the most appropriate response:
+
+Always Usually Often Sometimes Rarely Never
+1. I am terrified about being overweight. 2. I avoid eating when I am hungry 3. I find myself preoccupied with food 4. I have gone on eating binges when I feel that I may not be able to stop. 5. I cut my food into small pieces. 6. I am aware of the calorie content of foods that I eat. 7. I particularly avoid food with high carbohydrate content (i.e. bread, rice, potatoes, etc). 8. I feel that others would prefer I ate more. 9. I vomit after I have eaten. 10. I feel extremely guilty after eating. 11. I am preoccupied with a desire to be thinner. 12. I think about burning calories when I exercise. 13. Other people think that I am too thin. 14. I am preoccupied with the thought of having fat on my body. A A A A U U U U O O O O S S S S R R R R N N N N
+
+A A A
+
+U U U
+
+O O O
+
+S S S
+
+R R R
+
+N N N
+
+A A A A A A A
+
+U U U U U U U
+
+O O O O O O O
+
+S S S S S S S
+
+R R R R R R R
+
+N N N N N N N
+
+72
+
+Always Usually Often Sometimes Rarely Never
+15. I take longer than others to eat my meals. 16. I avoid foods with sugar in them. 17. I eat diet foods 18. I feel that food controls my life. 19. I display self-control around food. 20. I feel that others pressure me to eat. 21. I give too much time and thought to food. 22. I feel uncomfortable after eating sweets. 23. I engage in dieting behaviour. 24. I like my stomach to be empty 25. I enjoy trying new rich foods. 26. I have the impulse to vomit after meals. A A A A A A A A A A A A U U U U U U U U U U U U O O O O O O O O O O O O S S S S S S S S S S S S R R R R R R R R R R R R N N N N N N N N N N N N
+
+

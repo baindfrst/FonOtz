@@ -1,0 +1,1 @@
+A query algebra for xml p2p databases This paper describes a query algebra for queries over XML p2p databases that provides explicit mechanisms for modeling data dissemination , replication constraints , and for capturing the transient nature of data and replicas .

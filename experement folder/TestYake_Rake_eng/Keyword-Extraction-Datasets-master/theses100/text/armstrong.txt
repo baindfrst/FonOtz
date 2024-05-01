@@ -1,0 +1,1865 @@
+Hamilton-Jacobi Theory and Superintegrable Systems
+A thesis submitted in partial fulfilment of the requirements for the Degree of Master of Science at the University of Waikato by
+
+Craig Armstrong
+
+University of Waikato 2007
+
+Abstract
+Hamilton-Jacobi theory provides a powerful method for extracting the equations of motion out of some given systems in classical mechanics. On occasion it allows some systems to be solved by the method of separation of variables. If a system with n degrees of freedom has 2n - 1 constants of the motion that are polynomial in the momenta, then that system is called superintegrable. Such a system can usually be solved in multiple coordinate systems if the constants of the motion are quadratic in the momenta. All superintegrable two dimensional Hamiltonians of the form H = p2 + p2 + V (x, y), with constants x y that are quadratic in the momenta were classified by Kalnins et al [5], and the coordinate systems in which they separate were found. We discuss Hamilton-Jacobi theory and its development from a classical viewpoint, as well as superintegrability. We then proceed to use the theory to find equations of motion for some of the superintegrable Hamiltonians from Kalnins et al [5]. We also discuss some of the properties of the Poisson algebra of those systems, and examine the orbits.
+
+Acknowledgements
+I wish to thank my supervisor, Prof. Ernie Kalnins, for his help and guidance through all stages of this thesis. I would also like to thank the staff of the University of Waikato Mathematics Department for their assistance. My appreciation goes out to Dr. Ian Hawthorn for sharing his knowledge during the final stages of the thesis and Dr. Stephen Joe for his computing expertise. I am grateful to the University of Waikato for providing both a Masters Research Scholarship and the Sir Edmund Hillary Scholarship. Special thanks go to my parents, Bill and Estelle, and my brother, Dean, for their unwavering support and belief in me.
+
+Contents
+1 Introduction 1.1 Hamilton-Jacobi Theory . . . . . . . . . . . . . . . . . . . . . 1.2 Superintegrability . . . . . . . . . . . . . . . . . . . . . . . . . 1.3 Thesis Outline . . . . . . . . . . . . . . . . . . . . . . . . . . . 2 Classical Mechanics 2.1 2.2 2.3 2.4 Newton's Laws . . Work and Energy . Conservative Forces Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1 1 3 4 6 7 8 9 10 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11 12 13 13 15 16 17 17 18 19 20 22 23 24 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 25 25 27 28
+
+3 Lagrangian Mechanics 3.1 3.2 3.3 3.4 Generalized Coordinates . Transformation Equations Generalized Force . . . . . Lagrange's Equations . . .
+
+3.5 Generalized Momenta . . . . . . . . . . . . . . . . . . . . . . . 3.6 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4 Hamiltonian Mechanics 4.1 The Hamiltonian . . . . . . . . . . . . . . . . . . . . . . . . . 4.2 Conservative Systems . . . . . . . . . . . . . . . . . . . . . . . 4.3 4.4 4.5 4.6 Hamilton's Equations . Euler's Equations . . . Hamilton's Principle of Summary . . . . . . . . . . . . . . . . . . . . . . . Least Action . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5 Hamilton-Jacobi Theory 5.1 5.2 5.3 5.4 Cyclic Coordinates . . . . . . . . . . . Canonical Transformations . . . . . . . The Hamilton-Jacobi Equation . . . . Solving the Hamilton-Jacobi Equation
+
+5.5 Time Independent Hamiltonians . . . . . . . . . . . . . . . . .
+
+v 5.6 The Poisson Bracket Formulation . . . . . . . . . . . . . . . . 5.6.1 Constants of the Motion . . . . . . . . . . . . . . . . . 5.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6 Superintegrability 6.1 Integrable Systems . . . . . . . . . . . . . 6.2 Superintegrable Systems . . . . . . . . . . 6.3 Two Dimensional Superintegrable Systems 6.3.1 Poisson Bracket Algebra . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28 29 32 33 33 33 34 35 35 36 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36 42 42 42 44 46 46 50 51 51 52 57 57 58 58 63 63 64 65 67 68 71 72 72 78 79 79
+
+6.4 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7 Example 1: H = p2 + p2 +  x y 7.1 Constants of the Motion 7.2 Poisson Bracket Algebra 7.3 Orbit Equations . . . . . 7.3.1 Polar Coordinates
+ x2 +y 2
+
+. . . .
+
+. . . .
+
+. . . .
+
+7.3.2 Parabolic Coordinates . . . . . . . . . . . . . . . . . . 7.4 Finding the Relationship between the Constants . . . . . . . . 7.5 1D Poisson Bracket Algebra Realisation . . . . . . . . . . . . 7.6 Studying 7.6.1 E 7.6.2 E 7.6.3 E the Orbits >0 . . . <0 . . . =0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+7.6.4 c = 0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+ 8 Example 2: H = p2 + p2 + x2 x y 8.1 Constants of the Motion . . . . . . . . . . . . . . . . . . . . . 8.2 Poisson Bracket Algebra . . . . . . . . . . . . . . . . . . . . .
+
+8.3 Orbit Equations . . . . . . . . . . . . 8.3.1 Cartesian Coordinates . . . . 8.3.2 Polar Coordinates . . . . . . . 8.4 Finding the Relationship between the
+
+. . . . . . . . . . . . . . . . . . Constants . . . . . . . . . . . . . . . .
+
+. . . . . . . .
+
+. . . . . . . .
+
+. . . . . . . .
+
+. . . . . . . .
+
+. . . . . . . .
+
+. . . . . . . .
+
+. . . . . . . .
+
+. . . . . . . .
+
+8.5 1D Poisson Bracket Algebra Realisation 8.6 Studying the Orbits . . . . . . . . . . . . 8.6.1 E = c2 . . . . . . . . . . . . . . . 8.6.2 E = c2 . . . . . . . . . . . . . . .
+
+8.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9 Example 3: H = p2 + p2 +  2 (x2 + y 2 ) x y 9.1 Constants of the Motion . . . . . . . . . . . . . . . . . . . . .
+
+vi 9.2 Poisson Bracket Algebra . . . . . . . . . . . . . . . . . . . . . 9.3 Orbit Equations . . . . . . . . . . . . . . . . . . . . . . . . . . 9.3.1 Cartesian Coordinates . . . . . . . . . . . . . . . . . . 9.3.2 Polar Coordinates . . . . . . . . . . . . . . . . . . . . . 9.4 Finding the Relationship between the Constants . . . . . . . . 9.5 1D Poisson Bracket Algebra Realisation . . . . . . . . . . . . 9.6 Studying the Orbits . . . . . . . . . . . . . . . . . . . . . . . . 9.6.1  = 0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9.7 Summary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 Discussion 85 85 85 87 89 90 93 95 98 99
+
+A Coordinate Systems 101 A.1 Polar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 101 A.2 Parabolic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102 A.3 Other A.3.1 A.3.2 A.3.3 Coordinate Systems Light Cone . . . . Hyperbolic . . . . . Elliptic . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103 103 103 103 104
+
+B Jacobi's Identity
+
+List of Figures
+1.1 A bead hoop system . . . . . . . . . . . . . . . . . . . . . . . 3.1 The space-time curve of a particle with two degrees of freedom 4.1 The change in action of a system . . . . . . . . . . . . . . . . 7.1 The hyperbolic orbit for H = p2 + p2 +  x y
+ x2 +y 2  x2 +y 2  x2 +y 2
+
+2 12 21
+
+with changing r 53 with changing c with changing E 53 54 54 55 55 56 56 74 74 75 75 76 76 77 77
+
+7.2 The hyperbolic orbit for H = p2 + p2 +  x y 7.3 The hyperbolic orbit for H = p2 + p2 +  x y 7.4 The elliptic orbit for H = p2 + p2 +  y x 7.5 The elliptic orbit for H = p2 + p2 +  y x 7.6 The elliptic orbit for H = p2 + p2 +  y x
+
+ x2 +y 2  x2 +y 2  x2 +y 2
+
+with changing r with changing c . . with changing E . with changing r with changing c
+
+7.7 The parabolic orbit for H = p2 + p2 +  y x 7.8 The parabolic orbit for H = p2 + p2 +  x y 8.1 The elliptic orbit for H = p2 + p2 + x y 8.2 The elliptic orbit for H = p2 + p2 + y x 8.3 The elliptic orbit for H = p2 + p2 + y x
+ x2  x2  x2
+
+ x2 +y 2  x2 +y 2
+
+with changing xy . . . with changing c . . . . with changing E . . . .
+ x2  x2  x2
+
+8.4 The hyperbolic orbit for H = p2 + p2 + y x 8.5 The hyperbolic orbit for H = p2 + p2 + y x 8.6 The hyperbolic orbit for H = p2 + p2 + x y 8.7 The parabolic orbit for H = p2 + p2 + x y 8.8 The parabolic orbit for H = p2 + p2 + x y
+
+with changing xy . with changing c . . with changing E . .
+
+ x2  x2
+
+with changing r . . with changing c . . .
+
+9.1 The elliptic orbit for H = p2 + p2 +  2 (x2 + y 2 ) with changing r 96 y x 9.2 The elliptic orbit for H = p2 + p2 +  2 (x2 + y 2 ) with changing  96 y x
+
+viii 9.3 The elliptic orbit for H = p2 + p2 +  2 (x2 + y 2 ) with changing E 97 x y 9.4 The circular orbit for H = p2 + p2 +  2 (x2 + y 2 ) . . . . . . . . x y 97
+
+Chapter 1 Introduction
+Hamilton-Jacobi theory is a powerful and advanced form of classical mechanics. It can be used to find the equations of motion for some systems, by solving a first order non-linear partial differential equation. It also can provide a means of approximation to quantum mechanics, for example through the Eikonal approximation, where the Hamilton-Jacobi equation is converted to a nonlinear variant of the quantum mechanical Schr¨dinger equation. o If a particular system is superintegrable and has constants of the motion which are quadratic in the momenta, then it can be solved by separation of variables in at least one coordinate system, and usually more. The aim of this thesis is to describe Hamilton-Jacobi theory from first principles in a classical framework, to explain superintegrability, and to demonstrate Hamilton-Jacobi theory applied to some two-dimensional superintegrable systems.
+
+1.1
+
+Hamilton-Jacobi Theory
+
+Hamilton-Jacobi theory arises from classical mechanics, which was created by the great English scientist Sir Isaac Newton and published in his 1687 work "Philosophiae Naturalis Principia Mathematica", or "Mathematical Principles of Natural Philosophy". The three laws of motion which were proposed within it, known as Newton's Laws, allowed the paths of motion for many different systems to be calculated, and provided the first real mathematical description
+
+2 of forces and their effects on objects. In 1788, the Franco-Italian mathematician, Joseph Louis Lagrange, reformulated classical mechanics by considering that the path of an object could be determined by finding the path on which the integral of a quantity, known as the Lagrangian, would be minimised. This produced second-order differential equations which could be solved for certain systems. In classical mechanics the Lagrangian of a particle is the difference between the kinetic and the potential energies. This formulation, known as Lagrangian mechanics, simplifies many problems, as there is often no need to calculate all the forces on the object throughout its motion. For example, consider a bead on a hoop (Figure 1.1).
+
+
+R t1 g
+1 2
+
+(2,t 2) v t2
+
+(1,t1)
+
+t
+
+Figure 1.1: The system of a bead on a hoop under the influence of gravity. R is the action of the hoop on the bead, v is the bead's velocity, and g is gravity. The bead travels from the position 1 at time t1 to the position 2 at time t2 . Two different possible paths are shown in the graph on the right.
+
+In classical mechanics we would have to consider the forces on the bead at all times, i.e. gravity and the action of the bead on the hoop, which would result in a set of equations to be solved to find the equations of motion. In Lagrangian mechanics we simply have to look at the possible paths the bead can take between the two points, 1 at time t1 and 2 at time t2 , calculate the kinetic and potential energies, and find the path that minimises the integral of the Lagrangian.
+
+3 The Irish mathematician, Sir William Rowan Hamilton, used Lagrangian mechanics to create another useful description of classical mechanics, called Hamiltonian mechanics. In 1833 he replaced the generalized velocities found in Lagrange's formulation with generalised momenta. This produces 2n firstorder differential equations, which could be more easily solved than the secondorder equations of Lagrange, and it centres around a quantity known as the Hamiltonian. In classical mechanics the Hamiltonian is the sum of the kinetic and potential energies of a particle. However, in some cases there is no real advantage in solving a problem using Hamiltonian mechanics instead of Lagrangian mechanics. What Hamiltonian mechanics does provide is a platform for advanced results within mechanics, by treating the coordinates and momenta as independent variables. This allows for more freedom in selecting which physical quantities can be labelled "coordinates" or "momenta". Carl Gustav Jacob Jacobi, a prominent German mathematician, created Hamilton-Jacobi theory in his 1866 work "Vorlesungenber Dynamik", or "Lectures on Dynamics". The central equation in the theory, the Hamilton-Jacobi equation, is another reformulation of classical mechanics and comes from the Hamiltonian formulation, hence the `Hamilton' in `Hamilton-Jacobi'. Jacobi created it by considering how certain special transformations, known as canonical transformations, could be applied to the system in such a way that Hamilton's equations become trivial to solve.
+
+1.2
+
+Superintegrability
+
+A constant of the motion for a classical mechanical system is a quantity that is constant in time or throughout the motion of the system. These constants could be, for example, the momentum in a particular direction, the angular momentum or the Hamiltonian of the system. In particular, a system with n degrees of freedom is said to be superintegrable if it has 2n - 1 constants of the motion that are polynomial in the momenta [5, 9]. It should be noted
+
+4 that all systems have at least 2n - 1 constants of the motion, but those which have constants polynomial in the momenta have properties that make them better to work with. A superintegrable system can be easier to solve, and can often be solved in more than one coordinate system. An example of this is the Kepler problem in two dimensions, with its Hamiltonian given by [1, 4] H = p2 + p2 + x y  x2 + y 2 .
+
+This can be solved in more than one coordinate system using Hamilton-Jacobi theory and separation of variables. It is because of this flexibility that we study this system, as well as some other two-dimensional superintegrable systems with similar properties.
+
+1.3
+
+Thesis Outline
+
+Chapters 2 through 5 are concerned with the formulation of Hamilton-Jacobi Theory. Chapter 2 covers classical mechanics, which Chapter 3 extends with Lagrangian mechanics. This follows on to Hamiltonian mechanics in Chapter 4 and finally Hamilton-Jacobi theory is described in Chapter 5. In Chapter 6 we discuss superintegrability and in Chapters 7, 8 and 9 we look at some examples of two dimensional superintegrable Hamiltonians which can be solved in multiple coordinate systems. We solve them in some of those coordinate systems and look at their constants of the motion, as well as some other properties of the systems. We also examine their orbits. Chapter 10 contains our discussion. Maple was used for some of the more lengthy calculations, as well as for the graphs of motion for the systems. Illustrations were done in Xfig. Some of the harder integrals were found on EqWorld [8]. The previous section (1.1) relies somewhat on what can be found on classical mechanics and associated topics on Wikipedia [10]. Chapters 2 through 5 rely on what can be found in Goldstein [4] and, to a lesser extent, Evans [3]. Chapter 6 uses Perelomov's book [7] for the section on integrable systems. The examples in Chapters 7
+
+5 through 9 come from the paper by Kalnins et al [5].
+
+Chapter 2 Classical Mechanics
+Classical mechanics is a way of describing the general motion of bodies, either along a path or rotating around the centre of mass, or a combination of these motions. To do this it considers point-like particles, with large bodies being made up of many individual point-like particles. This is a good approximation for most situations which we see in everyday life, as the equations of motion for the object can be found by considering the motion of each one of its constituent parts. Classical mechanics does not describe the motion of very small atomicsized particles or of objects with velocities approaching the speed of light. Quantum mechanics and relativity respectively deal with these cases. The mass of a particle in classical mechanics does not change in time, and is therefore a constant. It is represented as m. To find the path of motion of a point-like particle we need a way to represent the particle's position. This position is found with respect to an arbitrary point in space, called the origin. The position is defined as the vector from the origin to the particle, and is usually denoted r. The position of the particle can change in time, and so the vector r is a function of time, or r = r(t). The velocity of the particle is defined as the rate of change of position with time. This is given by the derivative of the position with respect to time, and
+
+7 is denoted v. v= dr = r.  dt (2.1)
+
+The dot in the last term represents differentiation with respect to time. The acceleration of the particle is defined as the rate of change of velocity with time. This is given by the derivative of the velocity with respect to time, and is denoted a. a= d2 r dv = 2 = ¨. r dt dt (2.2)
+
+The two dots refer to double differentiation with respect to time. The linear momentum of the particle is defined as the mass of the particle multiplied by the velocity, and is denoted p. p = mv = m dr . dt (2.3)
+
+The law of conservation of momentum states that the momentum of a system must remain constant, unless it is acted on by an external force. It must be noted that these laws only hold for inertial frames of reference. This means that the laws only hold when the origin is not under any acceleration. Usually the origin is chosen to be a stationary point, but even if it is moving at a constant velocity then the laws still hold. Only when it is accelerated do the laws break down.
+
+2.1
+
+Newton's Laws
+
+In 1687 Sir Isaac Newton gave three laws of motion which describe the relationships between the motion of an object and the forces acting on it. Force is a vector and it commonly represents a push or a pull on an object. It is denoted by F. Newton's First Law: An object at rest will remain at rest unless acted upon by an external and unbalanced force. An object in motion will remain in motion unless acted upon by an external and unbalanced force.
+
+8 Also known as the law of inertia, this law basically states that the change in velocity of an object is due to forces applied to it. Newton's Second Law: The rate of change of momentum of a body is proportional to the resultant force acting on the body and is in the same direction. This law implies that if more force is applied to an object, then the rate of change of momentum with time will be higher. Using SI units, the constant of proportionality in that relation is unity, and so the relation is written F= dv dp =m = ma. dt dt (2.4)
+
+Newton's Third Law: All forces occur in pairs, and these two forces are equal in magnitude and opposite in direction. This law states that if a force is applied to an object, then the object will exert an equal force in the opposite direction.
+
+2.2
+
+Work and Energy
+
+The work done W by the force F on a particle going from some point a to some point b is defined as
+b
+
+Wab =
+a
+
+F · dr,
+
+(2.5)
+
+where dr points along the path. From Newton's Second Law (2.4), equation (2.1) and using dv v2 ·v = , dt 2 we then have Wab = dv · v dt dt a m b d 2 (v ) dt, = 2 a dt m
+b
+
+and therefore Wab = m 2 2 (vb - va ). 2
+
+9 The kinetic energy T of the particle is defined as T = m 2 p2 v = 2 2m (2.6)
+
+and we see that the work done is just the change in kinetic energy, or Wab = Tb - Ta . The potential energy of a system is the energy released due to some physical property of the object. In classical mechanics, the potential energy usually refers to the energy which could become kinetic energy due to the object's position in a force field. It is denoted as V . The law of conservation of energy states that if all the forces acting on a system are conservative, then the total energy, being the sum of the kinetic and potential energies, must remain constant in time.
+
+2.3
+
+Conservative Forces
+
+A conservative force is one in which the work done in moving a particle around a closed circuit is zero. Examples of conservative forces are gravity or the electromagnetic force, while friction is a non-conservative force. If a force is conservative, we can write it as the negative gradient of a scalar function. It is only a function of position, and in that case we obtain F = - V (r). We call V (r) the potential of the system and it represents the potential energy of the system. From equation (2.5) we then obtain
+b
+
+W =- and therefore
+
+a
+
+V · dr,
+
+Wab = Va - Vb , or dW = -dV. (2.7)
+
+10
+
+2.4
+
+Summary
+
+Classical mechanics provides a method for calculating the paths of motion for point-like objects. Specifically, Newton's Second Law allows the rate of change of momentum to be calculated if the forces on the object are known. It creates a set of second-order ordinary differential equations and they can then be integrated to find the paths of motion. Central to this method, however, is the knowledge of all the forces exerted on the object. Calculation of the paths can sometimes be difficult.
+
+Chapter 3 Lagrangian Mechanics
+Lagrangian mechanics looks to generalize Newton's Second Law to any coordinate system. This can greatly simplify the calculations as it can produce less complicated equations than the standard classical mechanics approach.
+
+3.1
+
+Generalized Coordinates
+
+The generalized coordinates of a system of particles are given by q1 (t), q2 (t), . . . , qn (t). These coordinates are used to describe the position of the particles at a certain time t. Formulating the equations of motion in terms of these generalized coordinates makes it easier to solve problems in any arbitrary coordinate system. The n coordinates each correspond to one particular degree of freedom for a particular particle. For example, a particle's position in a two-dimensional space at a certain time can be characterized by just two generalized coordinates. We could use cartesian (x, y) or polar (r, ) coordinates, and indeed there are many different possible coordinate systems. A certain choice of coordinates for a system, however, can make the equations of motion much easier to derive. For instance, polar coordinates are suited to circular or elliptic motion, whereas cartesian coordinates are more suited to motion in a straight line. As time evolves the particle would trace out a curve in the space. Time
+
+12
+q2
+
+( q1(t2) , q 2(t2) )
+
+( q1(t1) , q 2(t1) ) q1
+
+Figure 3.1: The space-time curve of a particle with two degrees of freedom. The particle starts at time t1 and ends at time t2 .
+
+can therefore be considered as a parameter of this curve, and the position of the particles at a certain time t0 would be given by (q1 (t0 ), q2 (t0 ), . . . , qn (t0 )). Figure 3.1 shows the path of a particle in two dimensions.
+
+3.2
+
+Transformation Equations
+
+In a specific (x1 , x2 , . . . , xn ) coordinate system the positions of the particles would be given by the transformation equations x1 = x1 (q1 (t), q2 (t), . . . , qn (t), t), x2 = x2 (q1 (t), q2 (t), . . . , qn (t), t), . . . = . . . xn = xn (q1 (t), q2 (t), . . . , qn (t), t), or in vector form r = r(q1 (t), q2 (t), . . . , qn (t), t). For example, a particle which has two degrees of freedom could be described as having the position in cartesian coordinates given by x = x(q1 (t), q2 (t), t), y = y(q1 (t), q2 (t), t),
+
+13 or in vector form r = (x(q1 (t), q2 (t), t), y(q1 (t), q2 (t), t)), = r(q1 (t), q2 (t), t).
+
+3.3
+
+Generalized Force
+
+Newton's Second Law (2.4) is formulated in terms of a certain set of coordinates (often cartesian). Suppose then that we wished to know the component of the force in the direction of our generalized coordinates. We define the generalized force Qi associated with the generalized coordinate qi as Qi = F · r qi (3.1)
+
+which is simply the component of the force in the direction of the i'th generalized coordinate.
+
+3.4
+
+Lagrange's Equations
+
+We now rewrite Newton's Second Law in terms of the generalized force. We have from (2.4) that F=m and so Qi = F · But we note that d dt dr r · dt qi d2 r dt2 d2 r = dt2 = dr d r r + · qi dt dt qi dr  r dr + · · qi dt qi dt · r d2 r r =m 2 · . qi dt qi d2 r dt2
+
+,
+
+and therefore we can see that Qi = m d d2 r r = · 2 dt qi dt m dr r · dt qi -m dr  · dt qi dr dt . (3.2)
+
+14 From equation (2.6) we note that the kinetic energy T is 1 m dr dr T = mv 2 = · . 2 2 dt dt Then dr  T =m · qi dt qi and  dr  r dr r T =m · =m · .  qi  dt  qi  dt qi Substituting equations (3.3) and (3.4) into equation (3.2) finally gives Qi = Now from equation (3.1), Qi = F · r . qi d dt T  qi  - T . qi (3.5) (3.4) dr dt (3.3)
+
+For a conservative system, we had from equations (2.5) and (2.7), dV = -dW = -F · dr, and so Qi = - V . qi (3.6)
+
+Equating equations (3.5) and (3.6), and rearranging, gives d dt or d dt T  qi  - (T - V ) = 0. qi T  qi  - V T + = 0, qi qi
+
+Now if the potential V is not dependent on the generalized velocities (qi ), we  can see that the equation d dt (T - V )  qi  - (T - V ) = 0, qi
+
+would also hold. The function defined as L(qi , qi , t) = T - V  (3.7)
+
+15 is called the Lagrangian and the corresponding equations d dt L  qi  - L =0 qi (3.8)
+
+are called Lagrange's equations. We can see that the Lagrangian is the difference between the kinetic and potential energies for a conservative system.
+
+3.5
+
+Generalized Momenta
+
+We can find the generalized momenta in the same way that we did for the generalized force. We define the generalized momenta pi associated with the generalized coordinate qi as pi = p · r , qi (3.9)
+
+which is simply the component of the momentum in the direction of the i'th generalized coordinate. pi is said to be conjugate to qi . We then have pi = mv · r , qi dr r = m · , dt qi
+
+but from equation (3.4) we had m and so we obtain pi = T .  qi  dr r T · = , dt qi  qi 
+
+If the potential energy does not depend on the generalized velocities then we can write pi = or pi = L .  qi  (3.10) (T + V ) ,  qi 
+
+Lagrange's equations (3.8) then become pi -  L = 0. qi (3.11)
+
+16
+
+3.6
+
+Summary
+
+Lagrangian mechanics reduces the second-order ordinary differential equations of classical mechanics to simpler forms because it allows the use of different coordinate systems which could exploit the symmetry of the system. However the Lagrangian, as defined in equation (3.7), has as variables the generalized velocities (qi ), which is not always useful. 
+
+Chapter 4 Hamiltonian Mechanics
+In this chapter we look to replace the generalized velocity qi in the Lagrangian  with the generalized momenta pi , and we come up with a new formulation of mechanics. We also study the formulation using a variational principle.
+
+4.1
+
+The Hamiltonian
+
+From (3.7) we had that the Lagrangian was L = L(qi , qi , t),  i.e. a function in terms of the generalized coordinates, velocities and time. We now want to replace the generalized velocities qi with the generalized momenta  pi , and so we look for a function H such that H = H(qi , pi , t), from which the equations of the motion are determined. To find such a function we look at equation (3.10). It can be written L = pi .  qi  If we integrate with respect to qi we obtain  L = pi qi + F (qi , pi , t), 
+
+18 and we notice that F is in terms of the required variables. We call the quantity H = -F the Hamiltonian, and so the Hamiltonian of the system H is defined as H(qi , pi , t) = pi qi - L,  (4.1)
+
+where the repeated suffix i denotes summation from i = 1 to n. The Hamiltonian is a function of the generalized momenta pi , generalized coordinates qi and time t. We can see that it is not a function of qi as if we differentiate the  right-hand side with respect to qi we get  pi - which equals zero by equation (3.10). If we are given a Lagrangian for a system and wish to find the Hamiltonian, we must eliminate any qi 's from the function. This is done by using equations  (3.11) and (3.10). L ,  qi 
+
+4.2
+
+Conservative Systems
+
+In a conservative system we saw that the Lagrangian was written as L = T -V (3.7). In this case the Hamiltonian becomes H = pi qi - T + V,  =
+
+L dqi - T + V,  qi dt  T dqi - T + V, =  qi dt 
+
+as V has no qi dependence. From equation (3.4) we saw that we could write  dr r T =m · ,  qi  dt qi which gives H = m dr dt dr = m dt r dqi - T + V, qi dt dr · - T + V, dt ·
+
+19 and since T = by equation (2.6), we have H = 2T - T + V = T + V. So we can see that for a conservative system where the potential does not depend on the generalized velocities, the Hamiltonian is exactly the kinetic energy plus the potential energy of the system, i.e. the total energy of the system. m dr dr · 2 dt dt
+
+4.3
+
+Hamilton's Equations
+
+The Hamiltonian (4.1) is given by H(pi , qi , t) = pi qi - L(qi , qi , t).   Taking the differential of this equation we obtain dH = pi dqi + qi dpi -   L L L dqi - dqi -  dt, qi  qi  t
+
+and using equations (3.11) and (3.10), we can write dH = pi dqi + qi dpi - pi dqi - pi dqi -     = qi dpi - pi dqi -   L dt. t L dt, t
+
+As the Hamiltonian is a function of pi , qi and t we have dH = H H H dpi + dqi + dt. pi qi t
+
+Comparing the two equations gives the relation L H =- , t t and the relations qi =  H pi (4.2)
+
+20 and pi = -  H . qi (4.3)
+
+These last two equations are called Hamilton's equations, and they are a set of 2n first order equations of motion for the system. In a system where the Hamiltonian does not contain t explicitly, the differential of the Hamiltonian becomes dH = qi dpi - pi dqi ,   and therefore dH = qi pi - pi qi = 0,     dt and we can see that the Hamiltonian, which for conservative functions represents the total energy, is constant in time. That constant is often called E, giving H = E. (4.4)
+
+4.4
+
+Euler's Equations
+
+In many physical situations we are concerned with finding the path between two points, a and b, with which an integral of the form
+t2
+
+I=
+t1
+
+(q1 (t), q2 (t), . . . , qn (t), q1 (t), q2 (t), . . . , qn (t), t) dt,   
+
+takes an extreme value. Time t1 corresponds to the time when the system is at point a and time t2 corresponds to the time when the system is at point b. For example, we could be looking for the path between two points on which a particle travels by the shortest distance. Consider the above integral for a particle with only one degree of freedom. It is then
+t2
+
+I=
+t1
+
+(q, q, t) dt. 
+
+Suppose the curve that minimised this integral was given by q = Q(t).
+
+21
+q b
+
+a
+
+G
+
+t
+
+Figure 4.1: The change in action of a system. This shows two possible paths of a particle with one degree of freedom.
+
+A neighbouring curve through a and b could be given by q = Q(t) + G(t) where  is a small constant and G(a) = G(b) = 0 (See Figure 4.1). The integral I for this curve would be
+t2
+
+I() =
+t1
+
+  (Q + G, Q +  G, t) dt.
+
+We know that this is an extremum for  = 0. The necessary condition for finding the extreme values of I is dI d and so we obtain dI d
+t2
+
+=0
+=0
+
+=
+=0 t1 t2
+
+=
+t1 t2
+
+ q   q  + , q   q      G+ G , q q 
+b t2
+
+= =
+
+  G dt + G - q a  t1 q t2  d  G - q dt  q  t1
+
+G
+t1
+
+d dt
+
+ q 
+
+dt,
+
+dt = 0,
+
+using integration by parts and the fact that G(a) = G(b) = 0. Since G could be many different functions we obtain d  - q dt  q  = 0.
+
+22 This can easily be extended to systems with many degrees of freedom, and then we obtain the n equations d dt   qi  -  = 0, qi i = 1, 2, . . . , n. (4.5)
+
+These equations are called Euler's equations, and they are often straightforward to solve.
+
+4.5
+
+Hamilton's Principle of Least Action
+
+From equation (3.8) we notice that the Lagrangian L(qi , qi , t) = T - V satisfies  Euler's equations. This implies that, for a system where the potential has no dependence on either qi or t, it will move between times t1 and t2 in such a  way that the value of the integral
+t2
+
+I=
+t1
+
+L(qi , qi , t) dt 
+
+is an extreme (or stationary) value. Hamilton's Principle is a general principle stating the above. A conservative system with a Lagrangian L will move from times t1 to t2 in such a way that the action integral
+t2
+
+I=
+t1
+
+L(qi , qi , t) dt 
+
+has an extreme (or stationary) value. That value is often a minimum, so this principle is often refered to as Hamilton's Principle of Least Action. Hamilton's Principle can be stated in another form. Saying that the value is stationary is equivalent to saying that the variation in the line integral I is zero, or
+t2
+
+I = 
+t1
+
+L(qi , qi , t) dt = 0. 
+
+(4.6)
+
+Substituting equation (4.1) into (4.6) gives
+t2
+
+
+t1
+
+(pi qi - H(qi , pi , t)) dt = 0. 
+
+The quantity pi qi - H(qi , pi , t) must satisfy Euler's equations (4.5), but we see  that it has 2n degrees of freedom, the n pi 's and the n qi 's. Therefore the 2n
+
+23 Euler equations are d dt and d dt These give d dt and d dt which finally give pi -  and qi -  (H(qi , pi , t)) = 0. pi H(qi , pi , t) = 0, qi H(qi , pi , t)  pi  - qi +  (H(qi , pi , t)) = 0, pi pi - H(qi , pi , t)  qi  - H(qi , pi , t) = 0, qi (pi qi - H(qi , pi , t))   pi  - (pi qi - H(qi , pi , t))  = 0. pi (pi qi - H(qi , pi , t))   qi  - (pi qi - H(qi , pi , t))  = 0, qi
+
+These are exactly Hamilton's equations, (4.2) and (4.3), derived from a variational principle.
+
+4.6
+
+Summary
+
+Hamilton's equations are often easier to solve than Lagrange's equations, as they are first-order as opposed to second-order. What Hamiltonian mechanics does offer is a deeper insight into mechanics. As it presents both coordinates and momenta as independent variables, it allows for more freedom in the choice of which physical quantities can be labeled "coordinates" and "momenta" in a system, and therefore allows for a more abstract formulation of mechanics.
+
+Chapter 5 Hamilton-Jacobi Theory
+In this chapter we look to use so called canonical transformations from a set of canonical coordinates and momenta qi and pi to a new set Qi and Pi with the aim of converting the Hamiltonian into a form which makes Hamilton's equations easy to solve. The general method leads to the Hamilton-Jacobi equation, which can sometimes be solved using the method of separation of variables.
+
+5.1
+
+Cyclic Coordinates
+
+Sometimes one of the generalized coordinates does not appear explicitly in the Lagrangian, and therefore it is also not in the Hamiltonian, by equation (4.1). These coordinates are called cyclic coordinates and, as they do not appear we then have L H = = 0, qi qi and therefore, by Lagrange's equations (3.11), we have pi = 0,  or that pi is a constant if the corresponding qi is cyclic. This result also follows from Hamilton's equations (4.3). If we look at the other set of Hamilton's equations (4.2), we see that if the generalized momenta does not appear explicitly in the Hamiltonian then the corresponding generalized coordinate is
+
+25 constant. The momenta is then also a cyclic coordinate.
+
+5.2
+
+Canonical Transformations
+
+A certain choice of coordinates can make the equations of motion easier to derive. For example, it is more natural to describe the motion of a bead on a hoop using polar coordinates centred at the origin rather than cartesian coordinates. We now consider a transformation from the 'old' canonical variables qi and pi to a new set. The 'new' position and momentum coordinates will be denoted Qi and Pi respectively, and the invertible transformation equations are given by Qi = Qi (q1 . . . qn , p1 . . . pn , t), Pi = Pi (q1 . . . qn , p1 . . . pn , t), in analogy with section 3.2. Specifically, however, we want Qi and Pi to obey Hamilton's equations for a new Hamiltonian associated with these new coordinates, as that would simplify calculations. We call such transformations canonical transformations, with the Qi and Pi being called canonical coordinates. Therefore they satisfy the transformed Hamilton's equations H  Qi = , Pi H  Pi = - . Qi (5.1)
+
+The new Hamiltonian H = H(Qi , Pi , t) is given by  H = P i Qi - L  where L = L(Qi , Qi , t) is the Lagrangian of the new coordinates.
+
+5.3
+
+The Hamilton-Jacobi Equation
+
+Consider if the transformed Hamiltonian was identically zero (H = 0). Then by the transformed Hamilton's equations (5.1) we would have that Qi and Pi are both constants, i.e. they are cyclic coordinates. From the transformation equations we could then find pi and qi and would therefore know the motion of
+
+26 the system. We need to find a way of transforming to these new coordinates. Consider Hamilton's Principle (4.6) in the form
+t2
+
+
+t1
+
+L(qi , qi , t) dt = 0. 
+
+This must also be simultaneously true for the new Lagrangian, i.e.
+t2
+
+
+t1
+
+ L(Qi , Qi , t) dt = 0.
+
+Therefore there is a relationship between the old and new Lagrangians of the form L=L+ dS , dt (5.2)
+
+where S is called the generating function of the transformation. Therefore we have dS = L - L, dt  = pi qi - Pi Qi + H - H,  or dS = pi dqi - Pi dQi + (H - H) dt. (5.3)
+
+ From equation (5.2), as L = L(qi , qi , t) and L = L(Qi , Qi , t), we have dS/dt is  a function of qi , Qi , qi , Qi and t. Therefore we obtain   dS = S S S  S S dqi + dqi +  dQi + dQ i + dt.  qi  qi  Qi t  Qi (5.4)
+
+ Comparing the coefficients of dqi and dQi in equations (5.3) and (5.4) we  obtain S S = 0 and = 0,   qi   Qi which show that S is not a function of the generalized velocities, i.e. S = S(qi , Qi , t). Comparing the other coefficients gives pi = S , qi S , Qi (5.5) (5.6)
+
+Pi = -
+
+27 and H-H = S . t (5.7)
+
+From equation (5.7) we see that, if the transformed Hamiltonian is zero, we must have H(qi , pi , t) + or H(qi , S S , t) + = 0, qi t (5.8) S = 0, t
+
+using equation (5.5). Equation (5.8) is known as the Hamilton-Jacobi equation.
+
+5.4
+
+Solving the Hamilton-Jacobi Equation
+
+As the transformed Hamiltonian is zero then the Qi 's and the Pi 's are cyclic coordinates, and therefore they are all constants. We can write Qi =  i , and therefore S = S(q1 , . . . , qn , 1 , . . . , n , t). We also have that the Pi 's are all constants, i.e. Pi = -i , and then equation (5.6) becomes i = S(q1 , . . . , qn , 1 , . . . , n , t) . i (5.10) i = 1, . . . , n, (5.9) i = 1, . . . , n,
+
+These equations can then be solved for the qi 's, giving qi = qi (1 , . . . , n , 1 , . . . , n , t), which are exactly the n equations of motion of the system. We can then use equation (5.5) to find the generalized momenta, and so have completely solved the system. So we can see that solving the Hamilton-Jacobi equation also leads to the equations of motion of the system.
+
+28
+
+5.5
+
+Time Independent Hamiltonians
+
+If the Hamiltonian does not contain time explicitly, we can separate out the time dependence as follows. We try a solution to the Hamilton-Jacobi equation of the form S = S1 (q1 , . . . , qn ) + T (t). The Hamilton-Jacobi equation then becomes H(qi , S T )=- , qi t
+
+and as the left hand side is a function of the qi 's only and the right hand side is a function of t only then both sides must be equal to a constant, which we will call E. On integration, the right hand side then gives T (t) = -Et, and so S becomes S = S1 (q1 , . . . , qn ) - Et. Therefore we can write S = S(q1 , . . . , qn , 1 , . . . , n-1 , E, t), taking E = n . The Hamilton-Jacobi equation becomes H(qi , S ) = E. qi (5.13) (5.12) (5.11)
+
+The fact that we have called the constant E comes from equation (4.4), where we saw that if the Hamiltonian does not contain time explicitly then it could be interpreted as being equal to the total energy of the system. The HamiltonJacobi equation for systems can sometimes be solved using seperation of variables, and we will examine some of those systems in Chapters 7, 8 and 9.
+
+5.6
+
+The Poisson Bracket Formulation
+
+Suppose we looked for the total time derivative of some function u = u(qi , pi , t). We have u u u du = qi +  pi +  , dt qi pi t
+
+29 but by Hamilton's equations (equations (4.2) and (4.3) this becomes u H u H u du = - + . dt qi pi pi qi t By defining the Poisson bracket of two functions of the generalized variables and time as {a(qi , pi , t), b(qi , pi , t)} = a b a b - , qi pi pi qi (5.14)
+
+then we can write the time derivative of u as u du = {u, H} + . dt t (5.15)
+
+5.6.1
+
+Constants of the Motion
+
+We have some properties which the Poisson bracket satisfies. Obviously we have {a, a} = 0, {a, b} = -{b, a}. If u and v are constants and c is another function of the generalized variables, then {ua + vb, c} = {ua, c} + {vb, c}, = u{a, c} + v{b, c}. We also have {ab, c} = ab c ab c - , qi pi pi qi b c b c a c a c = a -a +b -b , qi pi pi qi qi pi pi qi
+
+= a{b, c} + b{a, c}. Harder to prove is Jacobi's identity (see appendix B), which is {a, {b, c}} + {b, {c, a}} + {c, {a, b}} = 0. If a function u is a constant of the motion then du = 0. dt (5.16)
+
+30 Therefore equation (5.15) becomes {u, H} = - Since {u, H} = -{H, u} we have {H, u} = u . t (5.17) u . t
+
+We now have a condition for constants of the motion of the system. If a constant of the motion does not involve time explicitly, then equation (5.17) reduces to {H, u} = 0. (5.18)
+
+We can see how this works for some choices of u. If we take u = H then equation (5.17) becomes {H, H} = - H . t
+
+The left hand side of this equation is zero, so the Hamiltonian is a constant of the motion if it has no explicit dependence on t. This was also seen in equation (4.4), where the time independent Hamiltonian was found to be the constant total energy. Now if we take u = pk , pk being some particular momenta with conjugate coordinate qk . Then {H, pk } = H pk H pk - , qi pi pi qi H i,k , = qi H = , qk
+
+and we see that pk is a constant of the motion if and only if the Hamiltonian does not involve qk explicitly (H is cyclic in qk ). So momentum is conserved if it is conjugate to a cyclic coordinate. This is what we saw in section (5.1). Also consider the Poisson bracket of two coordinates conjugate to each other. We would have {qk , pk } = 1.
+
+31 If two cordinates have the property that their Poisson bracket is unity, then they are conjugate to each other. Under a canonical transformation the Poisson bracket is invariant [4] and so we have that a Poisson bracket in terms of the conjugate variables qi , pi is equal to the Poisson bracket in terms of other canonically transformed conjugate variables Qi , Pi , i.e. {A, B}qi ,pi = {A, B}Qi ,Pi . Now suppose that we have two functions u and v which are constants of the motion. Then {H, u} = and {H, v} = v . t u , t
+
+Substituting a = H, b = u and c = v into Jacobi's identity gives {H, {u, v}} + {u, {v, H}} + {v, {H, u}} = 0, or 0 = {H, {u, v}} + {u, - = {H, {u, v}} - = {H, {u, v}} + = {H, {u, v}} + = {H, {u, v}} - and so we obtain {H, {u, v}} =  {u, v}. t v u } + {v, }, t t u  2 v u  2 v v  2 u v  2 u + + - , qi t pi pi t qi qi t pi pi t qi v u  v u - , t qi pi pi qi  {v, u}, t  {u, v}, t
+
+In other words the Poisson bracket of two constants of the motion is also a constant of the motion.
+
+32
+
+5.7
+
+Summary
+
+By using canonical transformations we have shown that a Hamiltonian system can be transformed into a simple system and solved. This involves the solution of a first-order, non-linear partial differential equation, the Hamilton-Jacobi equation (5.8).
+
+Chapter 6 Superintegrability
+6.1 Integrable Systems
+
+If, for a particular system, the Poisson bracket of two of the constants of the motion is zero, then those constants are said to be in involution. If a system with n degrees of freedom has n functionally independent constants of the motion which are all in involution, then that system is completely integrable [7]. This means that the equations of motion for the system can in theory be determined, although it might not always be possible in practice, i.e. an integrable system might be solvable using the method of separation of variables and reduced to integrals, but it does not have to be. A description of how to solve a completely integrable system using action-angle variables can be found in section 10-5 of Goldstein [4].
+
+6.2
+
+Superintegrable Systems
+
+Sometimes for integrable systems there can be found more than n constants of the motion, and these extra constants can simplify the calculation of the equations of motion in a system. In fact it was proven in Eisenhart [2] that there can only be at most n constants which are in involution. A system with n degrees of freedom is said to be superintegrable if it has 2n - 1 functionally independent constants of the motion, not all in involution, which are polynomial
+
+34 in the momenta [5, 9].
+
+6.3
+
+Two Dimensional Superintegrable Systems
+
+The systems which we use to display Hamilton-Jacobi theory come from the work of Kalnins et al [5]. The examples are of two-dimensional superintegrable systems, which have a Hamiltonian of the form H = p2 + p2 + V (x, y). x y (6.1)
+
+Superintegrability for a two-dimensional system requires there to be two extra functionally independent constants of the motion, as well as the Hamiltonian [3, 9]. In the paper [5] all of the two dimensional classical superintegrable systems which specifically have constants of the motion that are first or second order in the momenta are classified. They list which coordinate systems can be used to solve the system by separation of variables. These superintegrable systems can all be solved in more than one coordinate system. For our examples we find all constants of the motion which are first or second order in the momenta, and have no explicit t dependence. Our condition for these to be constants of the motion (from equation (5.18)) is {H, A} = 0, where A is the constant of the motion. We initally look for constants of the form Ai = a(x, y)px + b(x, y)py + c(x, y), i.e. constants which are first order in the momenta. Then we look for constants in the form Ai = a(x, y)p2 + b(x, y)p2 + c(x, y)px py + d(x, y), x y i.e. constants which are second order in the momenta. For our examples we actually find three extra constants of the motion. We can find a functional relation between them, however, so that the system is indeed superintegrable.
+
+35
+
+6.3.1
+
+Poisson Bracket Algebra
+
+Once we have found the three constants of the motion, we find a Poisson bracket algebra between them by taking the Poisson bracket of them with each other. We then find a functional relation between them.
+
+6.4
+
+Summary
+
+Completely integrable systems are solvable in theory, though it can be difficult to do in practice. Superintegrable systems with constants of the motion that are quadratic in the momenta can be solved by separation of variables in at least one coordinate system, and usually more.
+
+Chapter 7 Example 1: H = p2 + p2 +   y x 2
+x +y 2
+
+For the Hamiltonians given in the next three chapters, we are going to find constants of the motion which are either first- or second-order in the momenta and find a Poisson bracket algebra for those constants. We will then proceed to solve the systems using Hamilton-Jacobi theory in two different coordinate systems, find a relation between the constants in those coordinate systems and show that we can find a Poisson bracket algebra in terms of those constants which mirrors the original algebra. We will also discuss the orbits for those systems. In this chapter we consider H = p 2 + p2 + x y  x2 + y 2 .
+
+This is the well known Kepler problem [1, 4] of planetary motion in Hamiltonian form. We will be solving the system in both polar and parabolic coordinates.
+
+7.1
+
+Constants of the Motion
+
+Firstly we look for constants of the motion for this system. As these constants have no explicit t dependence, then our condition for these to be constants of the motion is {H, A} = 0.
+
+37 We initally look for constants of the form Ai = a(x, y)px + b(x, y)py + c(x, y), i.e. constants which are first order in the momenta. When we calculate {H, A} = 0 we obtain the equation xa + yb + (x2 + y 2 ) 2 (2ax p2 + 2px py bx + 2px py ay + 2px cx + 2p2 by + 2py cy ) = 0. x y When we look at the coefficients of the momentum terms we find that ax = by = cx = cy = 0, or that a = a(y), b = b(x) and c is constant. The other relations are xa + yb = 0, and ay + bx = 0. When we rearrange the first equation we obtain b=- or therefore a bx = - . y Substituting this into the second equation gives the differential equation ay - This has the solution a = -my, where m is a constant. Solving for b we obtain b = my, which gives Ai = -mypx + mxpy + c. We can see that c is trivial, as we can always add or subtract a constant to the constants of the motion, and we can normalise so that m = 1 to give A1 = xpy - ypx . 1 a = 0. y xa , y
+3
+
+38 We note that this is the angular momentum, and it is therefore conserved for this system. We can see that there can be no other first order constants of the motion which are not trivial. Now we are looking for constants in the form Ai = a(x, y)p2 + b(x, y)p2 + c(x, y)px py + d(x, y), x y i.e. constants which are second order in the momenta. When we calculate {H, A} = 0 we obtain the equation -2xapx - xcpy - 2ybpy - ycpx - 2(x2 + y 2 ) 2 (ax p3 + bx px p2 x y +cx p2 py + dx px + ay p2 py + by p3 + cy px p2 + dy py ) = 0. x x y y When we consider the coefficients of the p3 and p3 terms we find that ax = 0 x y and that by = 0. Therefore we must have a = a(y), and b = b(x). The equation simplifies to -2xapx - xcpy - 2ybpy - ycpx - 2(x2 + y 2 ) 2 (bx px p2 y +cx p2 py + dx px + ay p2 py + cy px p2 + dy py ) = 0. x x y When we consider the coefficients of the px , py , px p2 and p2 py terms we obtain x y four equations: px  -2ax - cy - 2(x2 + y 2 ) 2 dx = 0, py  -cx - 2by - 2(x2 + y 2 ) 2 dy = 0, px p2  bx + cy = 0, y p2 py  ay + cx = 0. x If we take the last two equations then we obtain ay = -cx and bx = -cy .
+3 3 3 3
+
+39 Using the fact that cxy = cyx we obtain ayy = bxx , and as the left hand side of this equation is a function of y only and the right hand side is a function of x only then both sides must be equal to a constant, which we will call m. We can integrate those equations twice to obtain a and b as a(y) = my 2 + ny + o, 2 mx2 b(x) = + px + q, 2
+
+where n, o, p and q are constants of integration. Returning to the equations ay = -cx we find that cx = -my - n and so c(x, y) = -mxy - nx - py + r, where r is a constant of integration. If we now take the first two equations which we obtained from considering the coefficients of px and py we obtain dx = - 2ax + cy 2(x2 + y 2) 2
+3
+
+and
+
+bx = -cy ,
+
+and
+
+cy = -mx - p,
+
+and
+
+dy = -
+
+2by + cx 2(x2 + y 2 ) 2
+3
+
+.
+
+Substituting a, b and c into these equations and using the fact that dxy = dyx , gives nx3 - 2y 2 xn - 2pyx2 + y 3 p + rx2 - 2y 2 r - 6xyo = -2px2 y + y 3 p + nx3 - 2y 2 xn - 2rx2 + y 2 r - 6xyq, which when simplified is r(x2 - y 2 ) = 2xy(o - q).
+
+40 As o, q and r are constants then we must have that r = 0 and that o = q. The constants a, b and c simplify to a(y) = my 2 + ny + o, 2 mx2 b(x) = + px + o, 2
+
+c(x, y) = -mxy - nx - py. Substituting these into dx = - gives dx = (-nxy - 2ox + py 2 ) 2(x2 + y 2 ) 2
+3
+
+2ax + cy 2(x2 + y 2 )
+3 2
+
+and
+
+dy = -
+
+2by + cx 2(x2 + y 2 ) 2
+3
+
+,
+
+and
+
+dy = -
+
+(pxy + 2oy - nx2 ) 2(x2 + y 2 ) 2
+3
+
+.
+
+We can find that d(x, y) = o (x2 + y 2 )
+1 2
+
++
+
+(px + ny) 2(x2 + y 2 ) 2
+1
+
++ s.
+
+We see that the constant of integration s is trivial. Therefore all second-order constants of the motion have the form Ai = a(y)p2 + b(x)p2 + c(x, y)px py + d(x, y), x y where a(y) = my 2 + ny + o, 2 mx2 b(x) = + px + o, 2 o (px + ny)
+1
+
+c(x, y) = -mxy - nx - py, d(x, y) = (x2 + y 2 )
+1 2
+
++
+
+2(x2 + y 2 ) 2
+
+,
+
+where m, n, o and p are constants. We can get different independent constants by setting m, n, o and p to different values. For example, if we let m = 2 and let n, o and p be zero we obtain a(y) = y 2 , b(x) = x2 , c(x, y) = -2xy, d(x, y) = 0,
+
+41 and we have Ai = y 2 p2 + x2 p2 - 2xypx py , x y which we note is just A2 . 1 If we let n = -1 and let m, o and p be zero we obtain a(y) = -y, b(x) = 0, c(x, y) = x, d(x, y) = - and we have A2 = xpx py - yp2 - x y 2(x2 + y 2 ) 2
+1
+
+y 2(x2 + y 2 ) 2
+1
+
+,
+
+.
+
+If we let o = 1 and let m, n and p be zero we obtain a(y) = 1, b(x) = 1, c(x, y) = 0, d(x, y) = and we have Ai = p 2 + p 2 + x y which is just our original Hamiltonian. If we let p = 1 and let m, n and o be zero we obtain a(y) = 0, b(x) = x, c(x, y) = -y, d(x, y) = and we have A3 = xp2 - ypx py + y x 2(x2 + y 2 ) 2
+1
+
+ (x2 + y2) 2  (x2
+1
+
+,
+
++ y2) 2
+
+1
+
+,
+
+x + y 2) 2
+1
+
+2(x2
+
+,
+
+.
+
+42
+
+7.2
+
+Poisson Bracket Algebra
+
+The constants of the motion H = p2 + p2 + x y A1 = xpy - ypx , A2 = xpx py - yp2 - x A3 = xp2 - ypx py + y  x2 + y2 ,
+
+y 2(x2 + y 2 ) 2 x 2(x2 + y 2 ) 2
+1 1
+
+, ,
+
+form a basis for all first- or second-order constants of the motion. Their Poisson bracket algebra can be calculated using the Poisson bracket defined by {M, N } = as {A1 , A2 } = ypx py - xp2 - y {A1 , A3 } = xpx py - yp2 - x x 2(x2 + y 2 ) 2 y 2(x2 + y 2 ) 2
+1 1
+
+M N M N M N M N - + - , x px px x y py py y
+
+= -A3 , = A2 ,  + y2 ) = A1 H.
+
+{A2 , A3 } = (xpy - ypx )(p2 + p2 + x y
+
+x2
+
+We also notice that there is a functional relation between the constants of the form A2 + A 2 - A 2 H - 2 3 1 2 = 0. 4
+
+7.3
+
+Orbit Equations
+
+To proceed we solve the Hamilton-Jacobi equation using separation of variables in both polar and parabolic coordinates. According to Kalnins et al [5] this example can also be solved using hyperbolic and elliptic coordinates (see appendix A.3).
+
+7.3.1
+
+Polar Coordinates
+
+The Hamiltonian is converted to the form (see appendix A.1) H = p2 + r 1 2  p + . r2  r
+
+43 We look for a generating function in the additive separable form S = R(r) + () - Et, and so the Hamilton-Jacobi equation becomes R r or r2 R r
+2 2
+
+1 + 2 r
+
+ 
+
+2
+
++
+
+ = E, r
+2
+
+- Er 2 + r = -
+
+ 
+
+.
+
+As the left hand side is a function of r only and the right hand side is a function of  only, we can write that both sides are equal to the same constant which we will call -c2 for convenience, and we can write the two equations r2 R r
+2
+
+- Er 2 + r = -c2 ,  
+2
+
+= c2 .
+
+Solving these equations for R(r) and () gives R(r) = () = Therefore we have found S to be S := 1 2 Er - r - c2 dr + c - Et. r 1 2 Er - r - c2 dr, r c d = c.
+
+The equations of motion are given by r = r S = -c c 1 S = = E 2 dr  + , r Er 2 - r - c2 r dr  - t. Er 2 - r - c2
+
+We can integrate the first equation by using the integral dx 1 sin-1 = 2 + nx + o -o x mx  Then we have  - r = sin-1 -r - 2c2  r 2 + 4Ec2 , nx + 2o  x n2 - 4mo .
+
+44 and taking the sine of this equation gives -r - 2c2 sin( - r ) =  . r 2 + 4Ec2 By rearranging, we see that the orbit equation can be written as  2 + 4Ec2 r sin( - r ) = -r - 2c2 . (7.1)
+
+7.3.2
+
+Parabolic Coordinates
+
+The Hamiltonian is converted to the form (see appendix A.2) H= 1 2 1 p2 + 2 p2 + 2 .   2 + 2  + 2  + 2
+
+We look for a generating function of the form S = () + () - Et, and so the Hamilton-Jacobi equation becomes 1 2 + 2  or  
+2
+
+ 
+
+2
+
++
+
+1 2 + 2 
+
+   
+
+2
+
++
+
+2
+
+2 = E, + 2
+
+2
+
+- E +  = -
+
+2
+
++ E 2 - .
+
+As the left hand side is a function of  only and the right hand side is a function of  only, we can write that both sides are equal to the same constant which we will call - for convenience, and we can write the two equations    
+2
+
+- E 2 +  = -,
+2
+
+- E 2 +  = .
+
+Solving these equations for () and () gives () = () = Therefore we have found S to be S := E 2 - ( + ) d + E 2 +  -  d - Et. E 2 - ( + ) d, E 2 +  -  d.
+
+45 The equations of motion are given by  =  = 1 S =-  2 1 S = E 2 d 1 + E 2 - ( + ) 2  2 d 1 + 2 - ( + ) 2 E , E 2 +  -   2 d - t. E 2 +  -  d
+
+We can integrate the first equation by using the integral  dx x . = sinh-1 2 a +a
+
+x2
+
+That puts the equation in the form  1  E -1  = -  sinh 2 E -( + ) We can rearrange this to get  2 E = - sinh-1   E
+
+1 +  sinh-1 2 E
+
+  E  -
+
+.
+
+-( + )
+
++ sinh
+
+-1
+
+  E  -
+
+,
+
+and taking the hyperbolic cosine of both sides gives  cosh(2 E ) = 2E +1 -( - ) 2E E . +1-  -  2 - 2
+
+We rearrange this equation to be  E cosh(2 E ) +  =  2 - 2 and then square both sides, giving   E 22E 2 cosh2 (2 E ) + 2 cosh(2 E )  , + 2  2 - 2  - 2 2E 2E 22E 2 - + + 1. = 2  - 2  +   -  This can be simplified to the form   2E E 2E sinh2 (2 E ) + 2 cosh(2 E )  + - = 0,  2 - 2  +   -  and so the orbit equation can be written as    (2 - 2 ) sinh2 (2 E ) + 2 - 2 2 cosh(2 E )E +( - ) 2 E - ( + ) 2 E = 0. 2E +1 -( - ) 2E + 1, -
+
+(7.2)
+
+46
+
+7.4
+
+Finding the Relationship between the Constants
+
+1 Using the relations x = r cos  = 2 ( 2 -  2 ), y = r sin  = , we can write the
+
+parabolic orbit equation (7.2) in terms of the r and  coordinates    (2 - 2 ) sinh2 (2 E ) + 2 - 2 2 cosh(2 E )Er sin  +2Er( cos  - ) = 0. The polar orbit equation (7.1) can be written as  2 + 4Ec2 r(sin() cos(r ) - cos() sin(r )) + r + 2c2 = 0. Comparing these two equations we see that the parabolic orbit equation plus a constant times the polar orbit equation must be zero, i.e.    (2 - 2 ) sinh2 (2 E ) + 2 - 2 2 cosh(2 E )Er sin  + 2Er( cos  - )  +J 2 + 4Ec2 r(sin() cos(r ) - cos() sin(r )) + r + 2c2 = 0. When we examine the constant terms we obtain  (2 - 2 ) sinh2 (2 E ) J =- . 2c2  If we now compare the coefficients of the r terms we can solve for sinh 2 (2 E ) and we obtain  4Ec2 . sinh2 (2 E ) = - 2  - 2 we obtain =  2 + 4Ec2 sin r . (7.4) (7.3)
+
+Finally we look at the coefficients of the r cos  terms, and using equation (7.3)
+
+7.5
+
+1D Poisson Bracket Algebra Realisation
+
+If we take H = E, A1 = c,
+
+47 then by using a Poisson bracket defined with respect to c and its conjugate variable r {f, g} = f g f g - , c r r c (7.5)
+
+it is possible to obtain a realisation of the Poisson bracket algebra which depends on only one generalized coordinate and its canonical momenta. This can be seen as follows. In making a canonical transformation from q1 , q2 , p1 and p2 to Q1 , Q2 , P1 and P2 the Poisson bracket relations remain unchanged. In particular if we use the canonical transformation implied by Hamilton-Jacobi theory H = Q2 we find that if A is a constant of the motion, 0 = {H, A}qi ,pi = {E, A}Qi ,Pi = A , P2
+
+or that A only depends on Q1 , Q2 and P1 . As a consequence the Poisson bracket relations occuring in the Poisson bracket algebra can use the reduced bracket {f, g} = f g f g - . Q1 P1 P1 Q1
+
+If we choose Q2 = E and take P1 = r and Q1 = c we get our example. The original algebra is {A1 , A2 } = -A3 , {A1 , A3 } = A2 , {A2 , A3 } = A1 H. The equation {A1 , A2 } = -A3 , implies that A2 = -A3 . r The equation {A1 , A3 } = A2 , implies that A3 = A2 . r
+
+48 Combining these two equations gives  2 A3 = -A3 , 2 r which has solution given by A3 = A(c) cos(r + g(c)). Therefore A2 is given by A2 = -A(c) sin(r + g(c)). The left hand side of the equation {A2 , A3 } = A1 H, is then {A2 , A3 } = (-A (c) sin(r + g(c)) - A(c)g (c) cos(r + g(c)))(-A(c) sin(r + g(c))), -(-A(c) cos(r + g(c)))(A (c) cos(r + g(c)) - A(c)g (c) sin(r + g(c))), = A(c)A (c) sin2 (r + g(c)) + A(c)A (c) cos2 (r + g(c)), = A(c)A (c). So now we have A(c)A (c) = Ec, which can be written d dc This can be integrated to give A(c)2 Ec2 + k = , 2 2 where k is a constant of integration, and can be rearranged for A(c), giving A(c) =  Ec2 + k. A(c)2 2 = Ec.
+
+When we put the constants into the functional relation A2 + A 2 - A 2 H - 2 3 1 2 = 0, 4
+
+49 we find that k = 2 /4. We have now found that the constants H = E, A1 = c, A2 = - A3 = Ec2 + Ec2 + 2 sin(r + g(c)), 4
+
+2 cos(r + g(c)), 4
+
+satisfy the original Poisson algebra. The function g(c) is present due to the arbitrary nature of having a variable conjugate to c. From section (5.6.1) we had that the requirement for two variables to be conjugate to each other is {a, b} = 1. So while we can see that c and r, are conjugate to each other, likewise would c and r + g(c). If we look back to section (7.4), we notice that  as given in equation (7.4) is related to A2 , as we expected. Indeed we see that if we set g(c) = 0 then we get H = E, A1 = c, A2 = - A3 =  =- 2 Ec2 + Ec2 + 2 sin(r ), 4
+
+2 cos(r ). 4
+
+This is a one dimensional representation of the original Poisson bracket algebra, and we notice that the relations between the constants can mirror the original algebra. What we have shown is that if we use a Poisson bracket in terms of the polar constants (c, r ) we can find from the Poisson algebra one of the parabolic constants () in terms of the polar constants and the energy (E). We can mimic the process by using a Poisson bracket in the parabolic coordinates to find one of the polar constants in terms of , r and E.
+
+50
+
+7.6
+
+Studying the Orbits
+
+We will use the polar orbit equation and will classify for what values of the constants the orbit is elliptical, parabolic or hyperbolic, or where the equation breaks down. We will assume the constants are real. The polar orbit equation is (from equation (7.1)):  2 + 4Ec2 r sin( - r ) = -r - 2c2 . We can see that the orbit is rotated by an angle -r . So we introduce the variable  =  - r . Then we have a new set of cartesian axes given by x y = r cos  , = r sin  ,
+
+r = x 2 + y 2, and the polar orbit equation can be written in cartesian form as  2 + 4Ec2 y = - We rearrange this to read  2 + 4Ec2 y + 2c2 = - x 2 + y 2, x 2 + y 2 - 2c2 .
+
+and then square both sides to obtain  (2 + 4Ec2 )y 2 + 4c2 2 + 4Ec2 y + 4c4 = 2 (x 2 + y 2 ). We collect the x and y terms and obtain  -2 x 2 + 4Ec2 y 2 + 4c2 2 + 4Ec2 y + 4c4 = 0. (7.6)
+
+If both E and c2 are not equal to zero, we can divide equation (7.6) through by 4Ec2 to give 2 2 x +y2+ - 4Ec2  c2 2 + 4Ec2 y + = 0. E E
+
+Completing the square on the y terms gives  2 2 2 + 4Ec2 - x + y + 4Ec2 2E
+
+2
+
+=
+
+2 , 4E 2
+
+51 and we can write this in the standard form  2 + 4Ec2 E 2 4E 2 - 2x + 2 y + c  2E
+
+2
+
+= 1.
+
+We use x = x cos r + y sin r and y = y cos r - x sin r to write  E 4E 2 2 + 4Ec2 - 2 (x cos r + y sin r )2 + 2 y cos r - x sin r + c  2E There are two possible cases here, either E < 0 or E > 0.
+
+2
+
+= 1.
+
+7.6.1
+
+E>0
+
+If E > 0 then the sign of the first term is opposite to the sign of the second term and the orbit is hyperbolic. In our new set of axes it would be centered around the point x = 0, y =-  2 + 4Ec2 , 2E
+
+and the turning points would have positions   2 + 4Ec2 x = 0, y = - ± . 2E 2E In our original set of axes, the orbit would be centred around   2 + 4Ec2 2 + 4Ec2 cos(r ), y = sin(r ), x=- 2E 2E and the turning points would have positions     2 + 4Ec2 2 + 4Ec2 x= + cos(r ), y = - + 2E 2E 2E 2E and x=  2 + 4Ec2  - 2E 2E cos(r ), y = -  2 + 4Ec2  - 2E 2E sin(r ).
+
+sin(r ),
+
+A graph of this for some given constants is shown in Figures 7.1, 7.2 and 7.3.
+
+7.6.2
+
+E<0
+
+If E < 0 then the sign of the first term is positive and the orbit is elliptic. For an orbit with real x and y values we must also have |E|   2 /4c2 . In our original cartesian set of axes, the orbit would be centred around   2 + 4Ec2 2 + 4Ec2 cos(r ), y = sin(r ). x=- 2E 2E
+
+52 The length of the semi-minor x axis would be  2c  , -E and the semi-major y axis would have length   . -E A graph of this for some given constants is shown in Figures 7.4, 7.5 and 7.6.
+
+7.6.3
+
+E=0
+
+If E = 0 then from equation (7.6) we have  -2 x 2 + 4c2 2 y + 4c4 = 0. We can rearrange this to obtain  2 c2 y = 2x - , 4c  and use x = x cos r + y sin r and y = y cos r - x sin r to write y cos r - x sin r  c2 2 = 2 (x cos r + y sin r ) - . 4c 
+
+This is an equation of a parabola which intercepts the y axis at c2 /. This parabola is just rotated by r in the original cartesian set of axes. A graph of this for some given constants is shown in Figures 7.7 and 7.8.
+
+53
+
+4 y 2 0 -2 -4 0 2 x 4
+
+-4
+
+-2
+
+beta = 0 beta = pi/2 beta = pi beta = pi*3/2
+
+Figure 7.1: The hyperbolic orbit for H = p2 + p2 +  x y  = 1 and r = 0, /2, , 3/2.
+4 -10 y -5 2 0 -2 -4 -6 c=1 c=2 c=3 c=4 0 x 5 10
+
+ x2 +y 2
+
+with changing r .
+
+The graph corresponds to the values of the constants being E = 1, c = 1,
+
+Figure 7.2: The hyperbolic orbit for H = p2 + p2 +  y x
+
+ x2 +y 2
+
+with changing c.
+
+The graph corresponds to the values of the constants being E = 1,  = 1, r = 0 and c = 1, 2, 3, 4.
+
+54
+
+-6 -4 -2 0 y 0 -2 -4 -6 -8
+
+2
+
+x 2 4 6
+
+E = 1/4 E = 1/2 E=1 E = 3/2
+
+Figure 7.3: The hyperbolic orbit for H = p2 + p2 +  y x
+
+ x2 +y 2
+
+with changing E.
+
+The graph corresponds to the values of the constants being c = 1,  = 1, r = 0 and E = 1/4, 1/2, 1, 3/2.
+
+1.5 y 1 0.5 0 -1.5 -1-0.5 0 0.5 1 1.5 -0.5 x -1 -1.5
+
+beta = 0 beta = pi/2 beta = pi beta = pi*3/2
+
+Figure 7.4: The elliptic orbit for H = p2 + p2 +  x y
+
+ x2 +y 2
+
+with changing r .
+
+The graph corresponds to the values of the constants being E = -1, c = 1/2,  = 2 and r = 0, /2, , 3/2.
+
+55
+
+2 y 1.5 1 0.5 0 -0.2 -0.1 0 0.1 0.2 c = 1/10 c = 1/8 c = 1/6 c = 1/4
+
+Figure 7.5: The elliptic orbit for H = p2 + p2 +  x y and c = 1/2, 1, 3/2, 2.
+
+ x2 +y 2
+
+with changing c. The
+
+graph corresponds to the values of the constants being E = -1,  = 1, r = 0
+
+8 y6 4 2 0 -1 -0.5 0 0.5 E = -1/4 E = -1/2 E = -1 E = -3/2 1
+
+Figure 7.6: The elliptic orbit for H = p2 + p2 +  x y and E = -1/4, -1/2, -1, -3/2.
+
+ x2 +y 2
+
+with changing E. The
+
+graph corresponds to the values of the constants being c = 1,  = 1, r = 0
+
+56
+
+10 y
+
+5 0
+
+-10
+
+-5 -5
+
+0
+
+5 x
+
+10
+
+-10 beta = 0 beta = pi/2 beta = pi beta = pi*3/2
+
+Figure 7.7: The parabolic orbit for H = p2 + p2 +  x y
+
+ x2 +y 2
+
+with changing r .
+
+The graph corresponds to the values of the constants being c = 1,  = 1 and r = 0, /2, , 3/2.
+10 8 y 6 4 2 0 -15 -10 -5 -2 -4 c = 1/2 c=1 c = 3/2 c=2 0 5 x 10 15
+
+Figure 7.8: The parabolic orbit for H = p2 + p2 +  x y
+
+ x2 +y 2
+
+with changing c.
+
+The graph corresponds to the values of the constants being  = 1, r = 0 and c = 1/2, 1, 3/2, 2.
+
+57
+
+7.6.4
+
+c=0
+
+If c = 0 then from the polar orbit equation (7.1)  2 + 4Ec2 r sin( - r ) = -r - 2c2 , we obtain r sin( - r ) = -r, or r(sin( - r ) + 1) = 0. As r = 0 would be a trivial solution, this equations implies that  is constant. This would correspond to a particle travelling in a straight line into or away from the origin.
+
+7.7
+
+Summary
+
+We found the constants of the motion for this system (section 7.2), and solved it in polar and parabolic coordinates. We then found a relationship between the constants and showed that they could be found as a special case of the original Poisson bracket algebra. Finally we examined the orbits and sketched them for certain values of the constants.
+
+Chapter 8
+ Example 2: H = p2 + p2 + x2 y x
+In this chapter we consider H = p 2 + p2 + x y  . x2
+
+We will be solving the system in both cartesian and polar coordinates.
+
+8.1
+
+Constants of the Motion
+
+Firstly we look for constants of the motion for this system. As these constants have no explicit t dependence then our condition for these to be constants of the motion is {H, A} = 0. We initally look for constants of the form Ai = a(x, y)px + b(x, y)py + c(x, y), i.e. constants which are first order in the momenta. When we calculate {H, A} = 0 we obtain the equation a + x3 ax p2 + x3 bx px py + x3 cx px + x3 ay px py + x3 by p2 + x3 cy py = 0. x y When we look at the coefficients of px and py we find that a = bx = by = cx = cy = 0, or that a = 0 and that b and c are constants. This gives Ai = bpy + c.
+
+59 For A to be a constant we must have that py is a constant. We can see that c is trivial and we can normalise so that b = 1 to give A1 = p y . This also follows from the fact that H does not depend explicitly on y. Therefore the conjugate momenta is a constant of the motion. We can see that there can be no other first order constants of the motion which are not trivial. Now we are looking for constants in the form Ai = a(x, y)p2 + b(x, y)p2 + c(x, y)px py + d(x, y), x y i.e. constants which are second order in the momenta. When we calculate {H, A} = 0 we obtain the equation 2apx + cpy + x3 ax p3 + x3 bx px p2 + x3 cx p2 py + x3 dx px x y x +x3 ay p2 py + x3 by p3 + x3 cy px p2 + x3 dy py = 0. x y y When we consider the coefficients of the p3 and p3 terms we find that ax = 0 y x and that by = 0. Therefore we must have a = a(y), and b = b(x). The equation simplifies to 2apx +cpy +x3 bx px p2 +x3 cx p2 py +x3 dx px +x3 ay p2 py +x3 cy px p2 +x3 dy py = 0. y x x y When we consider the coefficients of the px , py , px p2 and p2 py terms we obtain x y four equations: px  2a + x3 dx = 0, py  c + x3 dy = 0, px p2  x3 bx + x3 cy = 0, y p2 py  x3 ay + x3 cx = 0. x
+
+60 If we take the last two equations then we obtain ay = -cx and bx = -cy .
+
+Using the fact that cxy = cyx we derive ayy = bxx , and as the left hand side of this equation is a function of y only and the right hand side is a function of x only then both sides must be equal to a constant, which we will call m. We can integrate those equations twice to obtain a and b as a(y) = my 2 + ny + o, 2 mx2 b(x) = + px + q, 2
+
+where n, o, p and q are constants of integration. Returning to the equations ay = -cx we find that cx = -my - n and so c(x, y) = -mxy - nx - py + r, where r is a constant of integration. If we now take the first two equations which we derived from considering the coefficients of px and py we obtain dx = - 2a x3 and dy = - c . x3 and cy = -mx - p, and bx = -cy ,
+
+Using the fact that dxy = dyx we obtain -x3 cx + 3x2 c 2ay . - 3 = x x6 Substituting a and c in this equation and rearranging gives -2x3 (my + n) = -x3 (-my - n) + 3x2 (-mxy - nx - py + r),
+
+61 which when expanded and simplified gives py = r, and as p and r are constants then we must have p = r = 0. The constants a, b and c simplify to a(y) = my 2 + ny + o, 2 mx2 b(x) = + q, 2
+
+c(x, y) = -mxy - nx. Substituting these in dx = - gives 2( my + ny + o) 2 dx = - x3 and so we can find d(x, y) = my 2 ny o + 2 + 2 + s. 2x2 x x
+2
+
+2a x3
+
+and
+
+dy = -
+
+c . x3
+
+and
+
+dy = -
+
+(-mxy - nx) . x3
+
+We see that the constant of integration s is trivial. Therefore all second order constants of the motion have the form Ai = a(y)p2 + b(x)p2 + c(x, y)px py + d(x, y), x y where my 2 + ny + o, a(y) = 2 mx2 + q, b(x) = 2 c(x, y) = -mxy - nx, d(x, y) = my 2 ny o + 2 + 2, 2x2 x x
+
+where m, n, o and q are constants. We can obtain different independent constants by setting m, n, o and q to different values. For example, if we let
+
+62 m = 2 and let n, o and q be zero we get a(y) = y 2 , b(x) = x2 , c(x, y) = -2xy, d(x, y) = and we obtain A2 = y 2 p2 + x2 p2 - 2xypx py + x y If we let n = 1 and let m, o and q be zero we get a(y) = y, b(x) = 0, c(x, y) = -x, d(x, y) = and we obtain A3 = yp2 - xpx py + x y . x2 y 2 . x2 y 2 , x2
+
+y , x2
+
+If we let q = 1 and let m, n and o be zero we get a(y) = 0, b(x) = 1, c(x, y) = 0, d(x, y) = 0, and we obtain Ai = p 2 = A 2 . y 1 If we let o = 1 and let m, n and q be zero we get a(y) = 1, b(x) = 0, c(x, y) = 0, d(x, y) =  , x2
+
+63 and we obtain Ai = p 2 + x  = H - A2 . 1 x2
+
+8.2
+
+Poisson Bracket Algebra
+
+The constants of the motion H = p2 + p2 + x y A1 = p y , A2 = y 2 p2 + x2 p2 - 2xypx py + x y A3 = yp2 - xpx py + x y , x2 y 2 , x2  , x2
+
+form a basis for all first- or second-order constants of the motion. Their Poisson bracket algebra can be calculated using the Poisson bracket defined by {M, N } = as {A1 , A2 } = 2xpx py - 2yp2 - x {A1 , A3 } = -p2 - x 2y = -2A3 , x2 y 2 + ) = -2A1 (A2 + ). x2 M N M N M N M N - + - , x px px x y py py y
+
+ = A2 - H, 1 2 x
+
+{A2 , A3 } = -2py (y 2 p2 + x2 p2 - 2xypx py + x y
+
+We also notice that there is a functional relation between the constants of the form A2 - A3 (H - A2 ) + A2 = 0. 2 1 1
+
+8.3
+
+Orbit Equations
+
+To proceed we solve the Hamiltonian in both cartesian and polar coordinates. According to Kalnins et al [5] this example can also be solved using parabolic and elliptic coordinates (see appendix A.3).
+
+64
+
+8.3.1
+
+Cartesian Coordinates
+
+The Hamilton-Jacobi equation is of the form p2 + p 2 + x y  = E. x2
+
+Using separation of variables we look for a generating function of the form S = X(x) + Y (y) - Et, where px = S , x py = S . y
+
+The Hamilton-Jacobi equation can then be written X x or X x
+2 2
+
++
+
+Y y
+
+2
+
++
+
+ = E, x2
+2
+
+ + 2 -E =- x
+
+Y y
+
+.
+
+As the left hand side is a function of x only and the right hand side is a function of y only we can write that both sides are equal to the same constant which we will call -c2 , and we can write the two equations X x
+2
+
++ -
+
+ - E = -c2 , x2 Y y
+2
+
+= -c2 .
+
+Solving these equations for X(x) and Y (y) gives X(x) = Y (y) = Therefore we have found S to be S = =  dx + c dy - Et, x2  E - c2 - 2 dx + cy - Et. x E - c2 - E - c2 - c dy.  dx, x2
+
+65 The equations of motion are given by xy = xy S = -c c 1 S = = E 2 dx -c (E - c2 )x2 -  + y, +y = 2 -  E - c2 E-c x2 dx 1 (E - c2 )x2 -  - t. -t=  2(E - c2 ) E - c 2 - x2
+
+Rearranging and squaring the first equation gives the orbit equation (E - c2 )2 (xy - y)2 = (E - c2 )x2 - . c2
+
+8.3.2
+
+Polar Coordinates
+
+The Hamiltonian is converted to the form (see appendix A.1) H = p2 + r  1 2 p + 2 , r2 r cos2 
+
+and then we look for a generating function of the form S = R(r) + () - Et, and so the Hamilton-Jacobi equation becomes R r or r2 R r
+2 2
+
+1 + 2 r
+
+ 
+
+2
+
++
+
+r2
+
+ = E, cos2 
+2
+
+- Er 2 = -
+
+ 
+
+-
+
+ . cos2 
+
+As the left hand side is a function of r only and the right hand side is a function of  only we can write that both sides are equal to the same constant which we will call - for convenience, and we can write the two equations r
+2
+
+R r  
+2
+
+2
+
+- Er 2 = -, +  = . cos2 
+
+Solving these equations for R(r) and () gives R(r) = () =  dr, r2  - d. cos2  E-
+
+66 Therefore we have found S to be S= E-  dr + r2 -  d - Et. cos2 
+
+The equations of motion are given by r = r 1 S =-  2 1 S = = E 2 dr 1 + r Er 2 -  2 dr - t. E - r 2   cos  d ,  cos2  - 
+
+We can integrate the first equation by firstly using the substitution u = sin . That puts the equation in the form r = - 1 2 dr 1 + r Er 2 -  2   du .  -  - u2
+
+We rearrange this to obtain r = - 1 2 dr 1 +  r Er 2 -  2   du
+- 
+
+, u2
+
+-
+
+then we use the integral  dx 1 = -  cos-1 -c + bx + c bx + 2c  , |x| b2 - 4ac
+
+x
+
+ax2
+
+in the first term and the integral  dx x = sin-1 , 2 a -x   sin   -
+
+a2
+
+in the second term so that we obtain  1 1 -   r =  cos-1 +  sin-1 2  r E 2  Rearranging this gives  2 r = cos-1  -   r E + sin-1
+
+.
+
+  sin   -
+
+,
+
+and taking the sine of both sides gives  sin(2 r ) = -  sin  r E( - )   sin   -
+2
+
++
+
+1-
+
+1-
+
+ -   r E
+
+2
+
+.
+
+67 We rearrange this to obtain  sin(2 r ) +  sin  r E( - ) = 1-  sin2  - 1-  , Er 2
+
+and then square both sides to obtain    sin2   2 sin2   sin  sin(2 r ) 2 sin2  sin2 (2 r )+2 = 1- - 2+ 2 . + 2 r E( - )  -  Er r E( - ) r E( - ) When we simplify and multiply through by Er 2 ( - ) we obtain   Er 2 ( - ) sin2 (2 r ) + 2 E( - )r sin  sin(2 r ) = Er 2 ( - ) - Er 2 sin2  - ( - ), and using sin2  = 1 - cos2  we can write   Er 2 ( - ) sin2 (2 r ) + 2 E( - )r sin  sin(2 r ) = Er 2 ( -  cos2 ) - ( - ), and so the orbit equation can be written as   Er 2 ( - ) sin2 (2 r ) + 2 E( - )r sin  sin(2 r ) +( - ) - Er 2 ( -  cos2 ) = 0.
+
+8.4
+
+Finding the Relationship between the Constants
+
+Using the relations x = r cos , y = r sin , we can write the polar orbit equation in terms of the x and y coordinates   E(x2 + y 2 )( - ) sin2 (2 r ) + 2 E( - )y sin(2 r ) +( - ) - E(x2 + y 2 ) + Ex2 = 0. The cartesian orbit equation is (E - c2 )2 (xy - y)2 - (E - c2 )x2 -  = 0. c2
+
+68 Comparing these two equations we see that the polar orbit equation plus a constant times the cartesian orbit equation must be zero, i.e.   E(x2 + y 2 )( - ) sin2 (2 r ) + 2 E( - )y sin(2 r ) + ( - ) -E(x2 + y 2 ) + Ex2 + J (E - c2 )2 (xy - y)2 - (E - c2 )x2 -  c2 = 0.
+
+When we examine the coefficient of x2 we obtain  E(( - )(sin2 (2 r )) J= . E - c2 If we now compare the coefficients of the y 2 terms we can solve this for  sin2 (2 r ) to obtain  c2 - E + E . sin2 (2 r ) = E( - ) If we compare the constant terms we can solve for xy to obtain   E( - )( sin2 (2 r ) - 2 sin2 (2 r ) - 2)   , E( sin2 (2 r ) -  sin2 (2 r ) - )  c2 - E + E - 2c2 . = c2 - E (8.1)
+
+xy =
+
+and then use equation (8.1) to obtain xy
+
+We can solve this for  to obtain
+2  =  - xy (E - c2 ) -
+
+c2 . E - c2
+
+(8.2)
+
+8.5
+
+1D Poisson Bracket Algebra Realisation
+
+If we take H = E, A1 = p y = c then by using the Poisson bracket defined by {f, g} := f g f g - c xy xy c (8.3)
+
+69 we can find constants A2 and A3 which satisfy the original Poisson bracket algebra. The original algebra is {A1 , A2 } = -2A3 , {A1 , A3 } = A2 - H, 1 {A2 , A3 } = -2A1 (A2 + ). The equation {A1 , A3 } = A2 - H, 1 implies that A3 = c2 - E. xy This gives A3 in the form A3 = -(E - c2 )xy + f (c). The equation {A1 , A2 } = -2A3 , implies that A2 = 2(E - c2 )xy - 2f (c). xy This gives A2 in the form
+2 A2 = (E - c2 )xy - 2f (c)xy + g(c).
+
+The equation {A2 , A3 } = -2A1 (A2 + ) implies that A2 A3 A2 A3 2 - = -2c(E - c2 )xy + 4cf (c)xy - 2cg(c) - 2c. c xy xy c
+
+70 The left hand side is   2 (E - c2 )xy - 2f (c)xy + g(c) -(E - c2 )xy + f (c) c xy   2 - (E - c2 )xy - 2f (c)xy + g(c) -(E - c2 )xy + f (c) xy c
+2 = (-2cxy - 2f xy + g )(-(E - c2 )) - (2(E - c2 )xy - 2f )(2cxy + f ) 2 2 = 2cxy (E - c2 ) + 2f xy (E - c2 ) - g (E - c2 ) - 4cxy (E - c2 )
+
+-2f xy (E - c2 ) + 4cf xy + 2f f
+2 = -2c(E - c2 )xy - g (E - c2 ) + 4cf xy + 2f f ,
+
+and so we obtain -g (E - c2 ) + 2f f = -2cg - 2c. We rearrange this to read g (E - c2 ) - 2cg = 2f f + 2c, and then we can write d (E - c2 )g = 2f f + 2c. dc When we integrate this we obtain (E - c2 )g = f 2 + c2  + k, where k is a constant, and so we find g(c) to be g(c) = This gives A2 in the form
+2 A2 = (E - c2 )xy - 2f (c)xy +
+
+f 2 + c2  + k . E - c2
+
+f (c)2 + c2  + k . E - c2
+
+When we put the constants into the functional relation A2 - A3 (H - A2 ) + A2 = 0, 2 1 1
+
+71 we get that k = 0. We have now found that the constants H = E, A1 = py = c, A2 = (E - c
+2 2 )xy
+
+A3 = -(E - c2 )xy + f (c), satisfy the original Poisson bracket algebra.
+
+f (c)2 + c2  , - 2f (c)xy + E - c2
+
+If we look back to section (8.4), we notice that  as given in equation (8.2) is related to A2 , as we expected. Indeed we see that if we set f (c) = 0 then we get H = E, A1 = py = c,
+2 A2 =  -  = (E - c2 )xy +
+
+A3 = -(E - c2 )xy .
+
+c2  , E - c2
+
+This is a one dimensional representation of the original Poisson bracket algebra, and we notice that the relations between the constants can mirror the original algebra. What we have shown is that if we use a Poisson bracket in terms of the cartesian constants (c, xy ) we can find from the Poisson algebra one of the polar constants () in terms of the cartesian constants and the energy (E). We should be able to mimic the process by using a Poisson bracket in the polar coordinates to find one of the cartesian constants in terms of , r and E.
+
+8.6
+
+Studying the Orbits
+
+We will use the cartesian orbit equation and will classify for what values of the constants the orbit is elliptical, parabolic or hyperbolic, or where the equation breaks down. We will assume the constants are real. There are two cases, either E = c2 or E = c2 .
+
+72
+
+8.6.1
+
+E = c2
+
+The cartesian orbit equation is (E - c2 )2 (xy - y)2 = (E - c2 )x2 - , c2 which is only valid if E = c2 . The orbit equation can be rearranged to read E - c2 2 (E - c2 )2 (xy - y)2 x - = 1.  c2 There are two possibilities, either E < c2 or E > c2 . If E < c2 then the sign of the (xy - y)2 term and the x2 term would both be positive as long as  was negative. If  was positive then there would be no orbits with real values of x and y. If  was negative, the orbit would describe an ellipse. It would have the centre at coordinates (0, xy ), and would intercept the y axis (having the maximum and minimum y values at those points) at  -c2 + xy . y=± E - c2 The maximum and minimum x values for the ellipse are at positions x=±  , E - c2 y = xy .
+
+A graph of this for some given constants is shown in Figures 8.1, 8.2 and 8.3. If E > c2 then the sign of the (xy - y)2 term would be the opposite of the x2 term, and the orbit would describe an hyperbola. It would be centered around the point (0, xy ), and the turning points would have positions x=±  , E - c2 y = xy .
+
+A graph of this for some given constants is shown in Figures 8.4, 8.5 and 8.6.
+
+8.6.2
+
+E = c2
+
+If E = c2 then from section (8.3) the orbit equation is xy = -c dx  + y, - x2
+
+c = - x dx + y,  c = -  x2 + y, 2 
+
+73 and the equation of motion is a parabola that can be written c y =  x2 + xy .  This parabola has its turning point at coordinates (0, xy ). A graph of this for some given constants is shown in Figures 8.7 and 8.8.
+
+74
+
+5 y4 3 2 1 0 -0.6-0.4-0.2 0 0.2 0.4 0.6 x beta = 0 beta = pi/2 beta = pi beta = pi*3/2
+ Figure 8.1: The elliptic orbit for H = p2 + p2 + x2 with changing xy . The x y graph corresponds to the values of the constants being E = 1, c = 2,  = -1 and xy = 0, /2, , 3/2.
+
+0.6 y 0.4 0.2 0 -0.4-0.2 0 0.2 0.4 -0.2 x -0.4 -0.6 c=2 c=3 c=4 c=5
+ Figure 8.2: The elliptic orbit for H = p2 + p2 + x2 with changing c. The graph x y corresponds to the values of the constants being E = 1,  = -1, xy = 0 and c = 2, 3, 4, 5.
+
+75
+
+0.8 y 0.4 0 -0.6 -0.2 0 0.20.4 0.6 -0.4 -0.4 -0.8 E=0 E = 1/2 E=1 E = 3/2
+ Figure 8.3: The elliptic orbit for H = p2 + p2 + x2 with changing E. The graph x y
+
+x
+
+corresponds to the values of the constants being c = 2,  = -1, xy = 0 and E = 0, 1/2, 1, 3/2.
+10 y 5 0 -5 -10 beta = 0 beta = pi/2 beta = pi beta = pi*3/2
+ Figure 8.4: The hyperbolic orbit for H = p2 + p2 + x2 with changing xy . The y x
+
+-10
+
+-5
+
+0
+
+5 x
+
+10
+
+graph corresponds to the values of the constants being E = 2, c = 1,  = 1 and xy = 0, /2, , 3/2.
+
+76
+
+4 y 2 0 -2 -4 0 2 x 4
+
+-4
+
+-2
+
+c = 1/3 c = 2/3 c=1 c = 4/3
+ Figure 8.5: The hyperbolic orbit for H = p2 + p2 + x2 with changing c. The x y graph corresponds to the values of the constants being E = 2,  = 1, xy = 0
+
+and c = 1/3, 2/3, 1, 4/3.
+
+1.5 y 1 0.5 -2 -1 0 -0.5 -1 -1.5 0 1 x 2
+
+E=2 E=3 E=4 E=5
+ Figure 8.6: The hyperbolic orbit for H = p2 + p2 + x2 with changing E. The y x graph corresponds to the values of the constants being c = 1,  = 1, xy = 0
+
+and E = 2, 3, 4, 5.
+
+77
+
+8 y6 4 2 0 -2 -1 0 1 2 beta = 0 beta = pi/2 beta = pi beta = pi*3/2
+
+Figure 8.7: The parabolic orbit for H = p2 + p2 + x y
+
+ x2
+
+with changing r . The
+
+graph corresponds to the values of the constants being c = 1,  = 1 and xy = 0, /2, , 3/2.
+4 y3 2 1 0 -2 -1 0 1 c=1 c=2 c=3 c=4
+ Figure 8.8: The parabolic orbit for H = p2 + p2 + x2 with changing c. The x y graph corresponds to the values of the constants being  = 1, xy = 0 and c = 1, 2, 3, 4.
+
+2
+
+78
+
+8.7
+
+Summary
+
+We found the constants of the motion for this system (section 8.2), and solved it in cartesian and polar coordinates. We found a relationship between the constants and showed that they could be found as a special case of the original Poisson bracket algebra. Finally we examined the orbits and sketched them for certain values of the constants.
+
+Chapter 9 Example 3: H = p2 + p2 +  2(x2 + y 2) x y
+In this chapter we consider H = p2 + p2 +  2 (x2 + y 2 ). x y This is the harmonic oscillator [4, 6] in Hamiltonian form. We will be solving the system in both cartesian and polar coordinates.
+
+9.1
+
+Constants of the Motion
+
+Firstly we look for constants of the motion for this system. As these constants have no explicit t dependence then our condition for these to be constants of the motion is {H, A} = 0. We initally look for constants of the form Ai = a(x, y)px + b(x, y)py + c(x, y), i.e. constants which are first order in the momenta. When we calculate {H, A} = 0 we get the equation 2 2 xa - 2ax p2 - 2bx px py - 2cx px + 2 2 yb - 2ay px py - 2by p2 - 2cy py = 0. x y
+
+80 When we look at the coefficients of px , py , p2 and p2 we get that ax = by = x y cx = cy = 0, or that a = a(y), b = b(x) and that c is constant. This gives Ai = a(y)px + b(x)py + c. The coefficients of the px py terms give ay = -bx , and of the remaining terms give a=- yb . x
+
+If we differentiate the second equation with respect to y we obtain b ay = - , x and therefore bx = or 1 bx - b = 0. x This has the solution b = mx, and therefore a = -my which gives Ai = -mypx + mxpy + c. We can see that c is trivial, as we can always add or subtract a constant to the constants of the motion, and we can normalise so that m = 1 to give A1 = xpy - ypx . We note that this is the angular momentum, and therefore it is conserved for this system. We can see that there can be no other first order constants of the motion which are not trivial. Now we are looking for constants in the form Ai = a(x, y)p2 + b(x, y)p2 + c(x, y)px py + d(x, y), x y b , x
+
+81 i.e. constants which are second order in the momenta. When we calculate {H, A} = 0 we obtain the equation 4 2 xapx + 2 2 xcpy - 2ax p3 - 2bx px p2 - 2cx p2 py - 2dx px x y x +4 2 ybpy + 2 2 ycpx - 2ay p2 py - 2by p3 - 2cy px p2 - 2dy py = 0. x y y When we consider the coefficients of the p3 and p3 terms we obtain ax = 0 and x y by = 0. Therefore we must have a = a(y), and b = b(x). The equation simplifies to 4 2 xapx + 2 2 xcpy - 2bx px p2 - 2cx p2 py - 2dx px + 4 2 ybpy y x +2 2 ycpx - 2ay p2 py - 2cy px p2 - 2dy py = 0. x y When we consider the coefficients of the px , py , px p2 and p2 py terms we obtain x y four equations: px  4 2 xa - 2dx + 2 2 yc = 0, py  2 2 xc + 4 2 yb - 2dy = 0, px p2  -2bx - 2cy = 0, y p2 py  -2cx - 2ay = 0. x If we take the last two equations then we obtain ay = -cx and bx = -cy .
+
+Using the fact that cxy = cyx we obtain ayy = bxx , and as the left hand side of this equation is a function of y only and the right hand side is a function of x only then both sides must be equal to a constant,
+
+82 which we will call m. We can integrate those equations twice to get a and b as a(y) = my 2 + ny + o, 2 mx2 + px + q, b(x) = 2
+
+where n, o, p and q are constants of integration. Returning to the equations ay = -cx we obtain cx = -my - n and so c(x, y) = -mxy - nx - py + r, where r is a constant of integration. If we now take the first two equations which we derived from considering the coefficients of px and py we obtain dx = 2 2 xa +  2 yc and dy =  2 xc + 2 2 yb. and cy = -mx - p, and bx = -cy ,
+
+Using the fact that dxy = dyx we obtain 2 2 xay +  2 c +  2 ycy =  2 c +  2 xcx + 2 2 ybx . This is simplified to give 2xay + ycy = xcx + 2ybx . Substituting a, b and c in this equation gives 2x(my + n) + y(-mx - p) = x(-my - n) + 2y(mx + p), which when expanded and simplified gives xn = yp. As p and n are constants then p = n = 0. The constants a, b and c simplify to a(y) = my 2 + o, 2 mx2 b(x) = + q, 2
+
+c(x, y) = -mxy + r.
+
+83 Substituting these in dx = 2 2 xa +  2 yc gives dx = 2 2 x( or dx = 2 2 ox +  2 ry We can then find d(x, y) =  2 rxy +  2 ox2 +  2 qy 2 + s. We see that the constant of integration s is trivial. Therefore all second order constants of the motion have the form Ai = a(y)p2 + b(x)p2 + c(x, y)px py + d(x, y), x y where a(y) = my 2 + o, 2 mx2 + q, b(x) = 2 and dy = 2 2 qy +  2 rx. my 2 +o)+ 2 y(-mxy+r) 2 and dy =  2 x(-mxy+r)+2 2 y( mx2 +q), 2 and dy =  2 xc + 2 2 yb,
+
+c(x, y) = -mxy + r, d(x, y) =  2 rxy +  2 ox2 +  2 qy 2 , where m, o, q and r are constants. We can obtain different independent constants of the motion by setting m, o, q and r to different values. For example, if we let m = 2 and let o, q and r be zero we get a(y) = y 2 , b(x) = x2 , c(x, y) = -2xy, d(x, y) = 0, and we obtain Ai = y 2 p2 + x2 p2 - 2xypx py = A2 . x y 1
+
+84 If we let r = 1 and let m, o and q be zero we get a(y) = 0, b(x) = 0, c(x, y) = 1, d(x, y) =  2 xy, and we obtain A2 = px py +  2 xy. If we let o = 1 and let m, q and r be zero we get a(y) = 1, b(x) = 0, c(x, y) = 0, d(x, y) =  2 x2 , and we obtain A 3 = p 2 +  2 x2 . x If we let q = 1 and let m, o and r be zero we get a(y) = 0, b(x) = 1, c(x, y) = 0, d(x, y) =  2 y 2 , and we obtain Ai = p 2 +  2 y 2 = H - A 3 . y
+
+85
+
+9.2
+
+Poisson Bracket Algebra
+
+The constants of the motion H = p2 + p2 +  2 (x2 + y 2 ), x y A1 = xpy - ypx , A2 = px py +  2 xy, A 3 = p 2 +  2 x2 , x form a basis for all first- or second-order constants of the motion. Their Poisson bracket algebra can be calculated using the Poisson bracket defined by {M, N } = as {A1 , A2 } = p2 - p2 +  2 y 2 -  2 x2 = H - 2A3 , x x {A1 , A3 } = 2px py + 2 2 xy = 2A2 , {A2 , A3 } = 2 2 ypx - 2 2 xpy = -2 2 A1 . We also notice that there is a functional relation between the constants of the form A2 - A3 (H - A3 ) +  2 A2 = 0. 2 1 M N M N M N M N - - + , x px px x y py py y
+
+9.3
+
+Orbit Equations
+
+To proceed we solve the Hamiltonian in both cartesian and polar coordinates. According to Kalnins et al [5] this example can also be solved using light cone, hyperbolic and elliptic coordinates (see appendix A.3).
+
+9.3.1
+
+Cartesian Coordinates
+
+The Hamilton-Jacobi equation is of the form p2 + p2 +  2 (x2 + y 2 ) = E. y x
+
+86 Using separation of variables we look for a generating function of the form S = X(x) + Y (y) - Et, where px = S , x py = S . y
+
+The Hamilton-Jacobi equation can then be written X x or X x
+2 2
+
++
+
+Y y
+
+2
+
++  2 (x2 + y 2 ) = E,
+
++  2 x2 = E -
+
+Y y
+
+2
+
+- 2y2.
+
+As the left hand side is a function of x only and the right hand side is a function of y only we can write that both sides are equal to the same constant which we will call c, and we can write the two equations X x E- Y y
+2
+
++  2 x2 = c,
+2
+
+-  2 y 2 = c.
+
+Solving these equations for X(x) and Y (y) gives X(x) = Y (y) = Therefore we have found S to be S=  c -  2 x2 dx + E - c -  2 y 2 dy - Et.  c -  2 x2 dx E - c -  2 y 2 dy.
+
+The equations of motion are given by xy = xy 1 S = c 2 1 S = = E 2  dx 1 - c -  2 x2 2 dy E - c - 2y2 dx - - x2 dy E - c - 2y2 - t. ,
+
+We can rearrange the first equation so that we obtain 2xy = dy
+E-c 2 c 2
+
+,
+
+- y2
+
+87 and using the integral  we obtain 2xy = sin-1 x  c - sin-1  y E-c . dx x , = sin-1 2 a -x
+
+a2
+
+We take the cosine of both sides of this equation and using the trigonometric identity cos(A - B) = sin(A) sin(B) + cos(A) cos(B) we obtain cos(2xy ) = xy  2 c(E - c) + cos sin-1 x  c cos sin-1  y E-c .
+
+Rearranging and squaring both sides gives cos(2xy ) - xy  2 c(E - c)
+2
+
+= cos2 sin-1
+
+x  c
+
+cos2 sin-1
+
+
+
+y E-c
+
+,
+
+and since cos2 (A) = 1 - sin2 (A) we obtain cos(2xy ) - xy  2 c(E - c)
+2
+
+=
+
+1-
+
+x2  2 c
+
+1-
+
+y 2 2 E-c
+
+.
+
+Expanding and simplifying we obtain cos2 (2xy ) - xy 2 2 cos(2xy ) x2 y 2  4 + c(E - c) c(E - c) 2 2 2 2 x  y  x2 y 2  4 =1- - + , c E - c c(E - c)
+
+and the orbit equation is y 2 2 2 2 cos(2xy ) x2  2 + - xy - sin2 (2xy ) = 0. c E-c c(E - c) (9.1)
+
+9.3.2
+
+Polar Coordinates
+
+The Hamiltonian is converted to the form (see appendix A.1) H = p2 + r 1 2 p +  2 r2 r2 
+
+and then we look for a generating function of the form S = R(r) + () - Et,
+
+88 and so the Hamilton-Jacobi equation becomes R r or r2 R r
+2 2
+
++
+
+1 r2
+
+ 
+
+2
+
++  2 r 2 = E,
+
++  2 r 4 - Er 2 = -
+
+ 
+
+2
+
+.
+
+As the left hand side is a function of r only and the right hand side is a function of  only we can write that both sides are equal to the same constant which we will call -2 , and we can write the two equations r
+2
+
+R r
+
+2
+
++  2 r 4 - Er 2 = -2 ,  
+2
+
+= 2 .
+
+Solving these equations for R(r) and () gives R(r) = () = Therefore we have found S to be S= E -  2 r2 - 2 dr + r2  d - Et. E -  2r2 -  d. 2 dr, r2
+
+The equations of motion are given by r = r = S =-  1 S = E 2 dr r2 E -  2r2 - dr E-  2 r2 -
+2 r2 2 r2
+
++ ,
+
+- t.
+
+We can rearrange the first equation to obtain  - r = dr r2 E -  2 r2 -
+2 r2
+
+,
+
+and making the substitution u = r 2 in the integral we have  - r =  2 du . u - 2 u2 + Eu - 2 
+
+89 Using the integral dx 1 =  sin-1 -c x ax2 + bx + c  we obtain 2 - 2r = sin-1 and therefore the orbit equation is sin(2 - 2r ) = or  22 - Er 2 + r 2 E 2 - 4 2 2 sin(2 - 2r ) = 0. (9.2) Er 2 - 22  r 2 E 2 - 4 2 2 Er 2 - 22  , r 2 E 2 - 4 2 2 , bx + 2c  x b2 - 4ac ,
+
+9.4
+
+Finding the Relationship between the Constants
+
+Using the following trigonometric identities sin(A - B) = sin(A) cos(B) + cos(A) sin(B), sin(2A) = 2 sin(A) cos(A), cos(2A) = sin2 (A) - cos2 (A) we have that sin(2 - 2r ) = 2 sin() cos() cos(2r ) - (sin2 () - cos2 ()) sin(2r ), and therefore we can write the polar orbit equation as  22 - Er 2 + 2 E 2 - 4 2 2 r 2 sin() cos() cos(2r )  - E 2 - 4 2 2 r 2 (sin2 () - cos2 ()) sin(2r ) = 0. Now using the relations x = r cos , y = r sin , we can write the polar orbit equation in terms of the cartesian x and y coordinates  22 - E(x2 + y 2 ) + 2 E 2 - 4 2 2 sin(r ) cos(r )x2   +2 E 2 - 4 2 2 xy - 4 E 2 - 4 2 2 cos2 (r )xy  -2 E 2 - 4 2 2 sin(r ) cos(r )y 2 = 0.
+
+90 The cartesian orbit equation is y 2 2 2 2 cos(2xy ) x2  2 + - xy - sin2 (2xy ) = 0. c E-c c(E - c)
+
+Comparing these two equations we see that the polar orbit equation plus a constant times the cartesian orbit equation must be zero, i.e.  22 - E(x2 + y 2 ) + 2 E 2 - 4 2 2 sin(r ) cos(r )x2   +2 E 2 - 4 2 2 xy - 4 E 2 - 4 2 2 cos2 (r )xy  -2 E 2 - 4 2 2 sin(r ) cos(r )y 2
+
++J(
+
+Taking the coefficient of x2 gives J=
+
+y22 2 2 cos(2xy ) x2  2 - sin2 (2xy )) = 0. + - xy c E -c c(E - c)  c (E - 2 E 2 - 42  2 sin(r ) cos(r )). 2
+
+If we now compare the coefficients of the y 2 and constant terms then we obtain the relation (remembering that c and xy are the cartesian constants and  and r are the polar constants) c= E  2 + E - 42  2 sin(r ) cos(r ). 2 (9.3)
+
+9.5
+
+1D Poisson Bracket Algebra Realisation
+
+If we take H = E, A1 =  then by using the Poisson bracket defined by {f, g} := f g f g -  r r  (9.4)
+
+we can find constants A2 and A3 which satisfy the original Poisson bracket algebra. The original algebra is {A1 , A2 } = H - 2A3 , {A1 , A3 } = 2A2 , {A2 , A3 } = -2 2 A1 .
+
+91 The equation {A1 , A2 } = H - 2A3 , implies that A2 = E - 2A3 . r The equation {A1 , A3 } = 2A2 , implies that A3 = 2A2 . r Combining these equations gives 1  2 A3 = E - 2A3 . 2 2 r This has a solution of the form A3 = f () cos(2r + g()) + which gives A2 in the form A2 = -f () sin(2r + g()). From the equation {A2 , A3 } = -2 2 A1 , we have that the left hand side is {A2 , A3 } = A2 A3 A2 A3 - ,  r r  E , 2
+
+= (-f () sin(2r + g()) - f ()g () cos(2r + g())) (-2f () sin(2r + g())) , - (-2f () cos(2r + g())) (f () cos(2r + g()) - f ()g () sin(2r + g())) , = 2f ()f () sin2 (2r + g()) + 2f 2 ()g () sin(2r + g()) cos(2r + g()), +2f ()f () cos2 (2r + g()) - 2f 2 ()g () sin(2r + g()) cos(2r + g()), = 2f ()f (). The right hand side is -2 2  so equating these gives 2f ()f () = -2 2 .
+
+92 This can be written d f 2 () = -2 2 , d and then integrated to give f 2 () = k -  2 2 , where k is a constant. So we find f () to be f () = This gives A2 and A3 in the form  A2 = - k -  2 2 sin(2r + g()),  E A3 = k -  2 2 cos(2r + g()) + . 2 When we put the constants into the functional relation A2 - A3 (H - A3 ) +  2 A2 = 0, 2 1 we find that k = E 2 /4. We have now found that the constants H = E, A1 = , A2 = - A3 = E2 -  2 2 sin(2r + g()), 4 E2 E -  2 2 cos(2r + g()) + , 4 2  k -  2 2 .
+
+satisfy the original Poisson algebra. If we look back to section (9.4), we notice that c as given in equation (9.3) is closely related to A2 . Indeed we see that if we set g(c) = 0, and use the identity sin(2) = 2 sin() cos() then we get H = E, A1 = , A2 = A3 E2 E -c=- -  2 2 sin(2r ), 2 4 E2 E = -  2 2 cos(2r ) + 4 2
+
+93 This is a one dimensional representation of the original Poisson bracket algebra, and we notice that the relations between the constants can mirror the original algebra. What we have shown this time is that if we use a Poisson bracket in terms of the polar constants (, r ) we can find from the Poisson bracket algebra one of the cartesian constants (c) in terms of the polar constants and the energy (E).
+
+9.6
+
+Studying the Orbits
+
+We will use the polar orbit equation and will classify for what values of the constants the orbit is elliptical, parabolic or hyperbolic, or where the equation breaks down. We will assume the constants are real. The polar orbit equation is (from equation (9.2)):  22 - Er 2 + r 2 E 2 - 4 2 2 sin(2 - 2r ) = 0. We introduce the variable  =  - r . Then we have a new set of cartesian axes given by x y = r cos  , = r sin  ,
+
+r = x 2 + y 2, and, using the trigonometric identity sin(2A) = 2 sin(A) cos(A), the polar orbit equation can be written in cartesian form as  22 - E(x 2 + y 2 )2 + 2 E 2 - 4 2 2 x y = 0. To write this in standard form we must remove the x y term using a rotation of the coordinate axes. We use x y = x cos  + y sin ,   = y cos  - x sin ,  
+
+94 in the equation and then to remove the xy term we need  = /4. The  equation then reads -E(x2 + y 2 ) -    E 2 - 4 2 2 x2 +   E 2 - 4 2 2 y 2 + 22 = 0. 
+
+We can write this in the standard form E+  E 2 - 4 2 2 2 E - x +  22  E 2 - 4 2 2 2 y = 1.  22
+
+If E is negative or zero then there are no orbits with real values of x and y. So for positive E this describes an ellipse, as the sign of both the x and the y   terms is always positive, except in the case where  = 0. We also notice that || must be less than E/2. We solve the rotation equations to find x and y   in terms of x and y as 1 x =  (x cos r + y sin r - y cos r + x sin r ) ,  2 1 y =  (x cos r + y sin r + y cos r - x sin r ) .  2 This ellipse will be centred around the origin, and would be rotated by an angle of r + /2 from the x axis. The length of the semi-minor x axis will  be 2 E+  22 , E 2 - 4 2 2
+
+and the semi-major y axis will have length  2  22 . E 2 - 4 2 2
+
+E-
+
+A graph of this for some given constants is shown in Figures 9.1, 9.2 and 9.3. If || = E/2 then the orbit equation reduces to the equation of a circle, which can be written x2 + y 2 = This circle would have radius  2 . E 22 . E
+
+A graph of this for some given constants is shown in Figures 9.4.
+
+95
+
+9.6.1
+
+=0
+
+The orbit equation we just derived does not hold for  = 0. In this case, from equation (9.2) we have -Er 2 + r 2 E sin(2 - 2r ) = 0, or Er 2 (sin(2 - 2r ) - 1) = 0. As r = 0 would be a trivial solution, this equations implies that  is constant. This would correspond to a particle travelling in a straight line into or away from the origin.
+
+96
+
+1.5 y 1 0.5 0 -1.5 -1 -0.5 0 0.5 1 1.5 -0.5 x -1 -1.5 beta = 0 beta = pi/2 beta = pi beta = pi*3/2
+
+Figure 9.1: The elliptic orbit for H = p2 + p2 +  2 (x2 + y 2 ) with changing r . x y The graph corresponds to the values of the constants being E = 3,  = 1,  = 1 and r = 0, /4, /2, 3/4.
+
+1 y 0.5 0.5 x 1
+
+0 -1 -0.5 0 -0.5 -1
+
+lambda = 1/4 lambda = 1/2 lambda = 3/4 lambda = 1
+
+Figure 9.2: The elliptic orbit for H = p2 + p2 +  2 (x2 + y 2 ) with changing . x y The graph corresponds to the values of the constants being E = 3,  = 1, r = 0 and  = 1/4, 1/2, 3/4, 1.
+
+97
+
+2 y 1 0 -1 -2 E=3 E=5 E=7 E=9
+
+-2
+
+-1
+
+0
+
+1 x
+
+2
+
+Figure 9.3: The elliptic orbit for H = p2 + p2 +  2 (x2 + y 2 ) with changing x y E. The graph corresponds to the values of the constants being  = 1,  = 1, r = 0 and E = 3, 5, 7, 9.
+
+1
+
+y 0.5
+
+0 -1 -0.5 -0.5 0 0.5 x 1
+
+-1
+
+Figure 9.4: The circular orbit for H = p2 + p2 +  2 (x2 + y 2 ). The graph y x corresponds to the values of the constants being E = 2,  = 1,  = 1, and r = 0.
+
+98
+
+9.7
+
+Summary
+
+We found the constants of the motion for this system (section 9.2), and solved it in cartesian and polar coordinates. We then found a relationship between the constants and showed that they could be found as a special case of the original Poisson bracket algebra. Finally we examined the orbits and sketched them for certain values of the constants. We found that while the examples in Chapters 7 and 8 could have hyperbolic, parabolic, elliptic and straight line motion, this Hamiltonian admits only elliptic and straight line motion.
+
+Chapter 10 Discussion
+The aim of this thesis was to describe Hamilton-Jacobi theory from first principles in a classical framework, to explain superintegrability, and to demonstrate Hamilton-Jacobi theory applied to some two dimensional superintegrable systems. The development of Hamilton-Jacobi theory was discussed starting from a classical mechanics framework, moving through Lagrangian and Hamiltonian mechanics, and then the formulation of the theory was given. We then discussed superintegrable systems, and used three of them to display HamiltonJacobi theory. For each superintegrable system we found all constants of the motion which were first or second order in the momenta, and found a Poisson bracket algebra for those constants. We solved the system in two different coordinate systems, and found a relationship between the constants of the solution in one system with the constants in the other. Then when we solved the Poisson bracket algebra to get a one-dimensional representation in terms of one set of conjugate constants, we found that the relationship between the constants was a special case of the one-dimensional algebra solution. This was because we used a canonical transformation from our canonical variables to our canonical constants, we kept H fixed and we used the invariance of the Poisson bracket to create a one-dimensional bracket. Finally we examined the orbits of each system, and sketched them for some given values of the constants.
+
+100 In summary, Hamilton-Jacobi theory is a powerful way to get the equations of motion from some Hamiltonians, using transformations to simplify the problem. Superintegrable systems are often straight forward to solve using this method, and they have other properties that make them worthy of further study.
+
+Appendix A Coordinate Systems
+The examples given in this thesis are solved using cartesian, polar and parabolic coordinates. The examples can also be solved in some other coordinate systems. A short description of the other coordinate systems is given at the end of this appendix.
+
+A.1
+
+Polar
+
+Polar coordinates (r, ) are related to cartesian coordinates in the plane by the relations x = r cos , y = r sin . From this we can obtain the further relations y = tan , x x2 + y 2 = r 2 . To convert a cartesian Hamiltonian to polar form we use the relations  sin    = cos  - , x r r    cos   = sin  + . y r r 
+
+102 So, a cartesian Hamiltonian of the form H(x, y) = p2 + p2 + V (x, y), x y becomes H(r, ) = (cos pr - cos  2 sin  2 p ) + (sin pr + p ) + V (r, ), r r sin  cos  sin2  2 2 2 = cos pr - 2 pr p + 2 p r r cos2  2 sin  cos  pr p + p + V (r, ), + sin2 p2 + 2 r r r2  sin2  2 cos2  2 2 2 = cos pr + 2 p + sin2 p2 + p + V (r, ), r r r2 
+
+and therefore the Hamiltonian can be written as H(r, ) = p2 + r 1 2 p + V (r, ). r2 
+
+A.2
+
+Parabolic
+
+Parabolic coordinates (, ) are related to cartesian coordinates in the plane by the relations x = , y = 1 2 ( -  2 ). 2
+
+From this we can obtain the further relation 1 x2 + y 2 = ( 2 +  2 )2 . 4 To convert a cartesian Hamiltonian to parabolic form we use the relations      = 2 - 2 , 2  2  x  +  +      = 2 + 2 . y  +  2   +  2  So, a cartesian Hamiltonian of the form H(x, y) = p2 + p2 + V (x, y), x y
+
+103 becomes H(, ) = (     p - 2 p  )2 + ( 2 p + 2 p )2 + V (, ), 2 + 2  + 2  + 2  + 2 2  2 = p2 - 2 2 p p + 2 p2 ( 2 +  2 )2  ( +  2 )2 ( +  2 )2  2  2 2 + 2 p +2 2 pp + 2 p2 + V (, ), 2 )2  2 )2   2 )2  ( +  ( +  ( +  2 2 2 2  +  + = p2 + 2 p2 + V (, ), 2 +  2 )2  ( ( +  2 )2 
+
+and therefore the Hamiltonian can be written as H(, ) = 2 1 1 p2 + 2 p2 + V (, ). 2  +  + 2 
+
+A.3
+A.3.1
+
+Other Coordinate Systems
+Light Cone
+
+Light Cone coordinates (z, z ) are related to cartesian coordinates in the plane ¯ by the relations z = x + iy, z = x - iy. ¯
+
+A.3.2
+
+Hyperbolic
+
+Hyperbolic coordinates (r, s) are related to cartesian coordinates in the plane by the relations r 2 + s 2 + r 2 s2 , x = 2rs r 2 + s 2 - r 2 s2 . y = i 2rs
+
+A.3.3
+
+Elliptic
+
+Elliptic coordinates (u, v) are related to cartesian coordinates in the plane by the relations x = y =  (u - 1)(v - 1), -uv.
+
+Appendix B Jacobi's Identity
+Here we prove Jacobi's identity. Jacobi's identity (5.16) is {a, {b, c}} + {b, {c, a}} + {c, {a, b}} = 0, where the Poisson bracket (5.14) is {a(qi , pi , t), b(qi , pi , t)} = a b a b - . qi pi pi qi
+
+Due to the lengthy nature of the calculations we introduce the following notation: a 2a a = aq , = ap , = aqq etc. 2 qi pi qi Then Jacobi's identity becomes 0 = {a, bq cp - bp cq } + {b, cq ap - cp aq } + {c, aq bp - ap bq } = aq (bq cp - bp cq )p - ap (bq cp - bp cq )q + bq (cq ap - cp aq )p - bp (cq ap - cp aq )q +cq (aq bp - ap bq )p - cp (aq bp - ap bq )q = aq (bqp cp + bq cpp - bpp cq - bp cqp ) - ap (bqq cp + bq cqp - bqp cq - bp cqq ) +bq (cqp ap + cq app - cpp aq - cp aqp ) - bp (cqq ap + cq aqp - cqp aq - cp aqq ) +cq (aqp bp + aq bpp - app bq - ap bqp ) - cp (aqq bp + aq bqp - aqp bq - ap bqq ) = 0, and we have our result.
+
+References
+[1] J.M.A.Danby. Fundamentals of Celestial Mechanics. Willmann-Bell, (1988). [2] L.P.Eisenhart. Continuous Groups of Transformations. Dover Publications, (1961). [3] N.W.Evans. Superintegrability in Classical Mechanics. Phys.Rev. A 41, 5666, (1990). [4] H.Goldstein. Classical Mechanics, Second Edition. Addison-Wesley Publishing Company, (1980). [5] E.G.Kalnins, J.M.Kress, G.Pogosyan and W.Miller, Jr. Completeness of Superintegrability in Two Dimensional Constant Curvature Spaces. J.Phys.A: Math Gen. 43, 3592, (2000). [6] L.D.Landau and E.M.Lifshitz. Mechanics. Pergamon Press, (1976). [7] A.M.Perelomov. Integrable Systems of Classical Mechanics and Lie Algebras, Volume 1. Birkh¨user Verlag Basel, (1990). a [8] A.D.Polyanin. EqWorld, The World of Mathematical Equations. http://eqworld.ipmnet.ru/en/auxiliary/aux-integrals.htm (accessed May, 2006). [9] M.F.Ra~ ada. Superintegrable n=2 Systems, Quadratic Constants of Mon tion, and Potentials of Drach. J.Math.Phys. 38, 4165, (1997). [10] Wikipedia contributors. Wikipedia, The Free Encyclopedia. http://en.wikipedia.org/wiki/Main Page (accessed September, 2006).
+
+

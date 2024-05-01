@@ -1,0 +1,1 @@
+Automatically generating metadata for digital photographs with geographic coordinates Given location information on digital photographs , we can automatically generate an abundance of photo-related metadata using off-the-shelf and web-based data sources . These metadata can serve as additional memory cues and filters when browsing a personal or global collection of photos .

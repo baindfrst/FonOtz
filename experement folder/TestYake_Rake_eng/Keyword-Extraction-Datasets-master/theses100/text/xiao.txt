@@ -1,0 +1,1897 @@
+The rheology of gel formed during the California Mastitis Test
+
+By
+
+Stephen Sen Xia
+Thesis submitted as partial fulfillment for the degree of Master of Science and Technology at the Department of Engineering The University of Waikato Hamilton, New Zealand August 2006
+
+Abstract
+One of the most costly diseases in the dairy industry is mastitis, which is an inflammation of the mammary gland. Mastitis influences the quality of milk and therefore reduces financial returns to both the farmer and the processor. Early detection of mastitis typically reduces treatment cost and a significant amount of research has been done in this field. Currently, the three major methods for mastitis detection are: · · The Foss Analysis, which physically counts each cell and is performed off-site. The Whiteside Test, which is based on a direct relationship between the number of the blood cells and the intensity of a gel formed between NaOH and cells. It was developed for on-site mastitis detection, but is no longer used routinely. · The California Mastitis Test (CMT), which can be done on-site, but is only a quantitative indication of the severity of the infection. The California Mastitis Test has previously been adapted to determine the somatic cell count (SCC) in infected milk by correlating viscosity to cell count. Although highly successful, some uncertainty exists regarding the rheology of the gel formed during the test as well as factors that may influence the accuracy of the test. In this thesis, studies were undertaken on the rheology of the gel formed during the California Mastitis Test in order to develop an understanding of the mechanism of gel formation and how various factors influence the rheology of the gel. Basic biochemistry and physico-chemistry of the gel has been reviewed and it was found that the CMT gel is a DNA/histone/surfactant complex, which forms when SDS is introduced into infected milk with elevated somatic cell counts. Based on literature and some initial experimentation it was found that the gel is a time- and sheardependent, non-Newtonian fluid. Since the reliability of the CMT hinges on the correlation between viscosity and SCC, this study investigated specific factors that may influence gelation, these were:
+
+ii
+
+· · · ·
+
+rheology testing conditions, such as time delay prior to viscosity testing, shear rate and temperature surfactant type and concentration milk composition, including fat content, somatic cell count and protein content.
+
+It was found that when using capillary viscometry a linear relationship exists between the relative viscosity of the gel and the SCC. The surfactant concentration determines the slope of this linear relationship and it was found that at least 3% SDS is necessary for accurate results. Using more than 3% SDS resulted in more scatter in the data. It was also found that a linear relationship exists between the maximum apparent viscosity and SCC. Either capillary or Brookfield viscometry can be used, however, Brookfield viscometry was found to be more sensitive at the lower SCC range. It was found that the combination of surfactant concentration and SCC influenced the rheology of the gel. The lower the SCC the more SDS was required for gel formation. It was found that when using 1% SDS the critical SCC was 79 k cell/ml, while using 3% SDS this was lowered to 59 k cell/ml. It was found that above the critical SCC the gel is a non-Newtonian rheopectic fluid. Dependent on shear rate, the gel shows rheodestructive behaviour. With a delay time, the peak viscosity of the gel formed faster with longer delay times. However, more than 30 seconds delay had no additional influence on gel formation. It was found that the shear rate or spindle speed influences both the time to reach the peak viscosity as well as the magnitude of this maximum. Higher shear rates shortened the time to reach the maximum apparent viscosity as well as the maximum viscosity. This is likely due to physical breakdown of the gel which is accelerated due to increased shear. Different surfactants have different effects on raw milk. Both acetic acid and Triton114 were found to be ineffective as CMT reagents. Acetic acid only denatures proteins and the increased viscosity is due to the precipitation of casein. Triton-114 cannot lyse nuclei walls and therefore gel formation was prohibited due to no DNA/histone complexes being released. Mixing SDS with Triton-114 was found to be less effective than SDS alone either due to the nucleus not being lysed, or because
+
+iii
+
+of interaction effects between SDS and Triton-114, reducing the available SDS for gelation. Lastly it was concluded that protein and fat content only contributes to the viscosity of milk by changing the solids content of milk and neither of these affects gelation during the CMT. Also, temperature only has a small influence on the relative viscosity and this influence could be neglected if the CMT is done around room temperature.
+
+iv
+
+Acknowledgements
+I would like to take this opportunity to give my genuine thanks to the following people: · · · Dr Johan Verbeek (Academic Supervisor) for his supervision, help, guidance and support throughout the research project. David Whyte (Work supervisor) for all his effort, time, guidance and mentorship during the whole project. Staff of Sensortec for their help and support during the project. Especially Richard Doohan, who always help me in collecting the unusual milk samples so that I can obtain good experimental results. · · Professor Janis Swan for her introducing this project to me and help me find some valuable literature relating to the project. The Laboratory technicians Brett Nichol, Indar Singh, Lisa Li, Yuanji Zhang and computer technician Brett Loper for preparing the equipment required for the viscosity experiments, and helping me to take quality pictures during the experiments. · · The Librarian Cheryl Ward for her help using Endnote and Takashi Aota for teaching me some advanced computer skills. All the people whose name I cannot remember, but give me kind help in the project. I would also like to express my special thanks to Foundation for Research Science & Technology (New Zealand), which offers the education fellowship and scholarship to me at the right time. Otherwise, my research work may never have eventuated.
+
+v
+
+Contents
+Abstract ......................................................................................................................... ii Acknowledgements........................................................................................................v Notation.........................................................................................................................ix List of tables..................................................................................................................xi List of Figures ............................................................................................................ xiii Chapter 1 Chapter 2 2.1 2.2 2.2.1 2.2.2 2.2.3 2.3 2.3.1 2.3.2 2.3.3 2.3.4 Chapter 3 3.1 3.2 3.2.1 3.2.2 3.3 3.3.1 3.3.2 3.3.3 3.3.4 Chapter 4 4.1 4.1.1 4.1.2 Introduction................................................................................................1 Rheology ....................................................................................................3 Introduction to Rheology ...........................................................................3 Properties of Fluids ....................................................................................3 Viscosity ................................................................................................3 Newtonian fluids....................................................................................5 Non-Newtonian fluids............................................................................6 Measurement of rheology ........................................................................13 General conditions of viscosity measurements....................................14 Capillary viscometers...........................................................................15 Rotational viscometers.........................................................................17 Practical application and comparison ..................................................20 Milk quality and mastitis .........................................................................22 Introduction..............................................................................................22 Composition of milk ................................................................................24 Normal milk .........................................................................................24 Effects of mastitis on the composition of milk ....................................26 Measurement of mastitis ..........................................................................31 The Whiteside Test ..............................................................................33 The Foss Analysis ................................................................................33 The California Mastitis Test ................................................................34 Conclusion ...........................................................................................34 Characteristics of CMT gel......................................................................35 Somatic cells ............................................................................................35 Different somatic cells in bovine milk.................................................35 The structure of cells............................................................................36
+
+vi
+
+4.2 4.2.1 4.2.2 4.2.3 4.2.4 4.3 4.3.1 4.3.2 4.3.3 Chapter 5 5.1 5.2 5.3 5.3.1 5.3.2 5.3.3 5.4 Chapter 6 6.1 6.1.1 6.1.2 6.1.3 6.2 6.3 6.3.1 6.3.2 6.4 6.4.1 6.4.2 Chapter 7 7.1 7.2 7.2.1 7.2.2
+
+The interaction between surfactant and milk ...........................................42 Structure of surfactant..........................................................................42 Surfactant solutions..............................................................................44 Protein/surfactant interaction ...............................................................48 Effect of surfactants on somatic cells in milk ......................................50 Mechanism of gel formation in the CMT ................................................51 Gel structure.........................................................................................51 Previous theories to explain gel formation ..........................................53 Modern theories to explain gel formation............................................56 Rheology of milk and the CMT gel .........................................................58 Newtonian behaviour of normal milk ......................................................58 Newtonian behaviour of milk/surfactant solutions ..................................60 Non-Newtonian behaviour of the CMT gel .............................................61 Visco-elastic properties........................................................................62 Rheopectic properties...........................................................................63 Rheodestructive properties...................................................................64 Using viscosity to determine SCC in milk...............................................66 Experimental ............................................................................................68 Materials ..................................................................................................68 Reagents...............................................................................................68 Proteins ................................................................................................68 Milk......................................................................................................69 Equipment ................................................................................................70 Methods....................................................................................................72 Brookfield viscometry .........................................................................72 Ubbelohde viscometry .........................................................................72 Experimental plan ....................................................................................73 Scope....................................................................................................73 Experimental design.............................................................................75 Results and discussion .............................................................................79 Rheology ..................................................................................................80 Testing conditions and shear rate.............................................................85 Time delay ...........................................................................................85 Shear rate .............................................................................................89 vii
+
+7.2.3 7.3 7.3.1 7.3.2 7.3.3 7.3.4 7.4 7.4.1 7.4.2 Chapter 8 Chapter 9 9.1 9.2 9.3 Chapter 10
+
+Temperature .........................................................................................91 Surfactant type .........................................................................................92 SDS ......................................................................................................93 Acetic acid ...........................................................................................95 Triton-114 ............................................................................................96 Mixed surfactant ..................................................................................97 Composition of milk ................................................................................98 Fat content............................................................................................98 Protein content .....................................................................................99 Conclusions and recommendations........................................................102 Appendices.............................................................................................104 Appendix one: Experimental procedure of Brookfield viscometer .......104 Appendix two: Experimental procedure of Ubbelohde viscometer.......105 Appendix three: Some information about Brookfield Viscometer ........106 References..........................................................................................107
+
+viii
+
+Notation
+  (i) max i    volume fraction  ( i ) =  fat +  cas +  wp +  l where fat = milk fat, cas = casein, wp = whey proteins and l = lactose the assumed value of  (i) for maximum packing of all dispersed particles the volume fraction of a dispersed component with a particle size at least an order of magnitude greater than the size of the water molecule angle ratio of outer wall radius and inner wall radius shear shear rate viscosity apparent viscosity equilibrium viscosity Bingham viscosity viscosity of the portion of the product consisting of water and low molecular weight substances other than lactose shear stress equilibrium shear stress yield stress of solid cone angle angular velocity length pressure difference area acetic acid adenosine triphosphate outer radius bovine serum albumin critical micellar concentration California Mastitis Test the volume concentration of the component in the product deoxyribonucleic acid deoxyribonuclease I change of time change of distance change of displacement force height 1000 cells/ml effective length of spindle alkylbenzene sulfonate torque RPM
+
+
+
+·
+
+
+
+e B 0  e
+
+a
+
+s
+
+  l P A AA ATP a BSA CMC CMT cv,i DNA DNase I dt dy dz F h k cells/ml l LAS M N
+
+ix
+
+PMN ppm Q R rad/sec Rb Rc RPM r s-1 SCC sec SEM SDS SDS/T T t V v Vi X y z
+
+polymorphonucleus parts per million volumetric flow rate radius radians per second radius of spindle radius of container revolutions per minute inner radius per second somatic cell count second scanning electron microscopy Sodium dodecyl sulphate mixture of SDS and Triton-114 Triton-114 time voluminosity velocity of displacement the voluminosity of component i radius at which shear stress is calculated distance displacement
+
+x
+
+List of tables
+Table 1: Composition changes in milk constituents caused by mastitis infection [17]27 Table 2: Changes of various proteins in milk with mastitic infection [17] .................28 Table 3: Effect of mastitis on the level of anions and cations in milk [17] .................30 Table 4: Summary of mastitis diagnostic tests [17].....................................................32 Table 5: Micellar weights, aggregation numbers and CMC for some surfactants [35] ......................................................................................................................................46 Table 6: Representative values of the viscosity of whole milk and fractions [44] ......58 Table 7: Defined items in Equation 11 ........................................................................59 Table 8: The value of voluminosity of various milk components [44]........................60 Table 9: Reagents and their suppliers ..........................................................................68 Table 10: Proteins and their suppliers..........................................................................68 Table 11: Sample milk and its supplier........................................................................69 Table 12: Experimental plan (1) ..................................................................................77 Table 13: Experimental plan (2) ..................................................................................78 Table 14: Comparison of time delay's effect on the peak viscosity of the gel at different RPM ..............................................................................................................88 Table 15: Apparent viscosity of powder and shop milk at different concentrations SDS, measured by Brookfield viscometry at 12 RPM. ...............................................93 Table 16: Apparent viscosity of milk and different concentrations acetic acid at 12 RPM .............................................................................................................................96 Table 17: Apparent viscosity of milk and different concentrations Triton-114 at 12 RPM. ............................................................................................................................96 Table 18: Relative viscosities of different milk samples with and without SDS, measured by Ubbelohde viscometry............................................................................99 Table 19: Apparent viscosities of different milk samples with and without SDS, measured by Brookfield viscometry at 12 RPM..........................................................99 Table 20: Relative viscosities of powder milk with and without additional protein, measured by Ubbelohde viscometry..........................................................................100 Table 21: Relative viscosities of shop milk with and without additional protein, measured by Ubbelohde viscometry..........................................................................100 Table 22: Relative viscosities of raw milk (158 k cells/ml) with and without additional protein, measured by Ubbelohde viscometry.............................................................101 xi
+
+Table 23: Relative viscosities of raw milk (186 k cells/ml) with and without additional BSA, measured by Ubbelohde viscometry. ...............................................................101
+
+xii
+
+List of Figures
+Figure 1: Shear and viscosity [6] ................................................................................4 Figure 2:  versus  for time-independent fluids [6]....................................................8 Figure 3: Flow of time-dependant fluids [6]..................................................................9 Figure 4: Behaviour of a visco-elastic fluid [6; 13].....................................................11 Figure 5: Simple method to determine the visco-elastic behaviour in fluid by rotating a spindle in the fluid from Tiu and Boger [35] ............................................................12 Figure 6: Flow of yield stress fluids [6].......................................................................13 Figure 7: Types of shear deformation [6]: ...................................................................15 Figure 8: Principle of capillary viscometer [6] ............................................................15 Figure 9: Principle of a coaxial cylinders rotational viscometer [6]............................18 Figure 10: Principle of a typical cone-plate rotational viscometer [6] .......................20 Figure 11: Milk plasma phase and serum phase [14] ..................................................22 Figure 12: Comparison of different component of milk on average [14]....................25 Figure 13: Photographs of cells in bovine milk stained according to the method of Pappenheim [23]: a-b =small lymphocytes; c = large lymphocyte; d-f = band neutrophils; g-i = segmented neutrophils; k = basophil (left) and band (right) neutrophil; l = basophile; m = eosinophil; n-q = macrophages; magnification × 1000fold ...............................................................................................................................36 Figure 14: Electron micrograph of a plasma cell, a type of white blood cell that secretes antibodies [29]................................................................................................37 Figure 15: Phospholipid monomers noncovalently assemble into bilayer structure, which forms the bases of all cellular membranes [29] ................................................38 Figure 16: Diagram of structure of the plasma membrane [30]...................................39 Figure 17: The watery interior of cells is surrounded by the plasma membrane, a twolayered shell of phospholipids [29]..............................................................................39 Figure 18: Structure of a typical nucleus envelope [31] ..............................................40 Figure 19: Chromosome and three types of chromatin forms [29]..............................41 Figure 20: Surfactant architecture-general representation of a surfactant molecule [33] ......................................................................................................................................42 Figure 21: Major surfactant groups [33]......................................................................44 Figure 22: Structures of four common surfactants [29]...............................................44
+·
+
+xiii
+
+Figure 23: Schematic representation of the equilibrium of surfactant between monomeric, monolayer and micellar forms [35] .........................................................45 Figure 24: Temperature-concentration phase diagram of SDS in 0.1 M NaCl/0.05M sodium phosphate buffer, pH7.4 (CMC, critical micellar concentration and CMT, critical micellar temperature) [35] ...............................................................................45 Figure 25: Examples of surfactant aggregates [33] .....................................................47 Figure 26: How tail group share can influence micelle shape [33] .............................48 Figure 27: Diagram of the process that surfactant dissolves membranes [31] ............51 Figure 28: DNA extruded from nucleus envelope of a bacteria E.coli [32] ................53 Figure 29: Stained CMT gel at ~ 10 × magnifications showing non-homogeneous gel formation [5] ................................................................................................................53 Figure 30 The protocols of detergents (i.e.surfactants) dissolve the histones and histone-like proteins thus break chromatin structures and CMT gel structure ............57 Figure 31: The SDS-coated proteins in milk/surfactant solution [29] .........................61 Figure 32: A graph of apparent viscosity of high SCC interacts with SDS versus time, showing the whole process of gel formation and breakdown [10] ..............................62 Figure 33: The Weissenberg effect of the CMT gel climbing a glass stirring rod rotated at approximately 100 RPM [5] ........................................................................63 Figure 34: Change in apparent viscosity of CMT gel over time for various SCC: 2 million cells/ml (); 1.3 million cells/ml (); 1.1 million cells/ml (); 0.7 million cells/ml (); homogenized and standardized milk () [5] ........................................66 Figure 35: Brookfield viscometer (Model DV-II) .......................................................70 Figure 36: Ubbelohde viscometer (Model No. 1B M423)...........................................71 Figure 37: Apparent viscosity of raw milk (3,884 k cells/ml) measured by Brookfield viscometry at 0.3 RPM and 1% SDS, indicating the whole process of the CMT gel formation and breakdown. ...........................................................................................79 Figure 38: Apparent viscosity of milk with 1% SDS at different SCC at 12 RPM, showing the viscosity of the gel is time-dependant. ....................................................81 Figure 39: Apparent viscosity of milk with 1% SDS with various SCC, measured at 12 RPM. Results indicate that a critical SCC is necessary for gel formation..............82 Figure 40: Relative viscosity versus SCC of raw milk at different surfactant concentrations, measured by Ubbelohde viscometry...................................................82
+
+xiv
+
+Figure 41: Maximum apparent viscosity versus SCC of raw milk at different surfactant concentrations, measured by Brookfield viscometry. .................................83 Figure 42: Visco-elasticity during the interaction between high SCC milk (SCC > 1,000 k cells/ml) and 1% SDS (a) and middle SCC milk (1,000 k cells/ml > SCC > 500 k cells/ml) and 1% SDS (b). .................................................................................84 Figure 43: Relative viscosity versus time delay for low SCC milk, using 3% SDS....86 Figure 44: Relative viscosity versus time delay for milk with SCC between 738 and 2,431 k cells/ml, using 1% SDS...................................................................................86 Figure 45: Apparent viscosity versus time for low SCC milk (79 k cells/ml) for different time delays, using 1% SDS and at a spindle speed of 12 RPM. ...................87 Figure 46: Apparent viscosity versus time for low SCC milk (79 k cells/ml) for different time delays, using 1% SDS and at a spindle speed of 30 RPM. ...................87 Figure 47: Apparent viscosity versus time for low SCC milk (79 k cells/ml) for different time delays, using 1% SDS and at a spindle speed of 60 RPM. ...................88 Figure 48: The effect of time delay and spindle speed on the time to reach peak apparent viscosity.........................................................................................................88 Figure 49: Apparent viscosity versus time for low SCC (110 k cells/ml) milk at different RPM, using 3% SDS. ....................................................................................90 Figure 50: Apparent viscosity versus time for middle range SCC (593 k cells/ml) milk at different RPM, using 3% SDS. ................................................................................90 Figure 51: The effect of spindle speed on the maximum apparent viscosity and time to reach maximum viscosity ............................................................................................91 Figure 52: Relative viscosity of 1% SDS solution versus temperature. ......................92 Figure 53: Relative viscosity of different types of milk at different temperatures, using 1% SDS........................................................................................................................92 Figure 54: Apparent viscosity versus time at different concentrations SDS for low SCC milk (59 k cells/ml) at 12 RPM. ..........................................................................94 Figure 55: Apparent viscosity versus time at different concentrations SDS for middle range SCC (593 k cells/ml) milk at 12 RPM. ..............................................................94 Figure 56: Apparent viscosity versus time at different concentrations SDS for high SCC (2,772 k cells/ml) milk at 12 RPM. .....................................................................95 Figure 57: Apparent viscosity versus time for milk samples containing various levels of somatic cells, using 1% SDS and 2% Triton-114, at 12 RPM ................................97
+
+xv
+
+Figure 58: Apparent viscosity versus time for milk samples containing various levels of somatic cells, using 1% SDS, at 12 RPM................................................................98
+
+xvi
+
+Chapter 1
+
+Introduction
+
+Worldwide, the single most costly disease in the dairy industry is mastitis, which is an inflammation of the mammary gland. Mastitis influences the dairy farmer economically through reduced milk yield, discarded milk, drugs, veterinary expenses, culling, and increased labour cost [4]. The dairy industry operates at very strict quality standards. It is required that any milk sample contains less than a specified somatic cell count. All over the world farmers are therefore forced to ensure a low somatic cell count in their milk products. At present, farmers have no accurate or reliable method to measure somatic cells during production. Therefore, there is a strong market for technology enabling real time somatic cell measurement. Sensortec Ltd has recently developed technology that would enable online measurement of somatic cells. The technology is based around the automation of the California Mastitis Test (CMT) which relies on the changes in the rheology of milk as the somatic cell count (SCC) varies. In the test, anionic surfactant is mixed with milk and a gel is formed due to the interaction of the surfactant with the proteins in the somatic cells. The viscosity of the gel is proportional to the DNA content of the cells therefore SCC of the milk [5]. There are mainly two types of fluid systems: Newtonian fluid systems and NonNewtonian fluid systems. Newtonian fluids possess a constant viscosity at a given temperature, while for Non-Newtonian fluids the apparent viscosity depends on shear rate. An understanding of the rehological behaviour of the gel is crucial in any sensor that depends on this to determine the SCC. Thus, the objective of this research project is to charaterise the rheological properties of various fluids encountered in the process of detecting somatic cells in milk. Also, this study will investigate specific factors that may influence the correlation between viscosity and SCC, these are: · rheology of milk and milk gel
+
+1
+
+· · ·
+
+testing conditions, such as time delay prior to viscosity testing, shear rate and temperature surfactant type and concentration milk composition, including fat content, somatic cell count and protein content.
+
+2
+
+Chapter 2
+2.1
+
+Rheology
+Introduction to Rheology
+
+Rheology is the science of fluid property characterisation. The study of rheology is the study of the deformation of material resulting from the application of a force [7]. According to Doublier and Lefebvre [6], a fluid can be defined as "a material which, when submitted to external forces, will undergo within the timescale of the experiment a deformation which will not be recovered upon removing the stress". There are two main types of fluids: Newtonian and non-Newtonian fluids. Newtonian fluids possess a constant viscosity at a constant temperature, while for non-Newtonian fluids the apparent viscosity depends on shear rate [8; 9]. In the food industry, a common characteristic of most food fluid systems is their multi-phasic nature (e.g. liquid and solid phase). The flow properties of such systems are quite complicated and besides the Newtonian or non-Newtonian character, a clear distinction must be made between time-independent and timedependant flow [6].
+
+2.2
+2.2.1
+
+Properties of Fluids
+Viscosity
+
+The fluid property that has the most dramatic influence on flow characteristics is viscosity. Viscosity is the fluid property that describes the magnitude of the resistance to flow due to shear forces within a fluid [9]. When subjected to stress, a fluid will continuously deform, that is, it will flow. Different fluids exhibit different degrees of resistance to the applied stress. A more quantitative understanding of these viscous forces is developed in the following parts.
+
+3
+
+Consider a viscous, isotropic and incompressible fluid at a given temperature. Within the liquid, consider two parallel plates with area A and at a small distance dz between each other (Figure 1). When a constant force, F, is applied to the top plate, it will slide relatively to the other along the direction of F, the linear displacement being dy, during the time dt, while the bottom plate is stationary. This can apply to simple shear deformation in streamline flow too. The structure of the flowing fluid is taken as lamellar or a stacking of infinitely thin adjacent layers gliding over each other in a stratified manner without mixing between the individual layers [6; 8; 9].
+
+Figure 1: Shear and viscosity [6]
+
+By definition, the applied shear stress , which can be expressed by  = and the resulting shear strain is  ( z , t ) =
+
+F , A
+
+dy ( z , t ) . Shear rate is expressed as dz
+
+the time-derivative of strain  =
+
+·
+
+d . When steady-state flow is established, dt
+4
+
+the linear relative velocity of displacement, V ( z , t ) of the two plates
+
+becomes dependent on z alone, since
+
+dy is constant. Therefore, dt
+
+ dy   dy  d  d  dv( z ) dz dt  =  =  = dt dz dz
+·
+
+(1)
+
+In this equation,  is in fact a velocity gradient in the material.
+
+·
+
+Viscosity is defined as the ratio of shear stress to shear rate: =
+
+ 
+·
+
+and is in
+
+general, a function of temperature, shear rate and time. Flow behaviours for which, at a known temperature,  is a function of  only, are timeindependent and the relationship between stress  and the strain rate  is sufficient to characterise the fluid's rheology. For time-dependant fluids, one has to study both  (  ) and  (t) relations.
+· · ·
+
+When a fluid is submitted to a shear rate above a given value of  , the stream layers loose their individuality and increases the onset of the turbulent region of flow. Turbulent flow involves no other intrinsic property of the fluid, but because of the mixing motions superimposed to the mean direction of flow, there is an extra dissipation of energy through viscous friction.
+·
+
+·
+
+Strictly speaking, the above expressions for  and  are valid only for shear with planar symmetry (simple shear). However, they generally provide very good approximation for other shear geometries, and will be used later [6].
+
+2.2.2
+
+Newtonian fluids
+
+For an incompressible Newtonian fluid in laminar flow, the resulting shear stress is equal to the product of the shear rate and viscosity of the fluid. At a given temperature, the shear rate may be expressed as the velocity gradient in the direction perpendicular to that of the shear force [6-9]:
+
+5
+
+=
+
+F  dv( z )  =  - A  dz  
+·
+
+(2)
+
+As illustrated in Figure 2b, a plot of  against  provides a straight line passing through the origin, the slope of which is viscosity  :  =   . At a fixed temperature, one value of viscosity is sufficient to characterise the rheology of such fluids. Simple liquids (such as water), solutions of low molecular weight compounds, dilute dispersions and dilute polymer solutions show Newtonian behaviour, at least at relatively low stress or shear rate. In such fluids, no structural effects are shown at the time and stress scales of the experiment.
+·
+
+2.2.3
+
+Non- Newtonian fluids
+
+For non-Newtonian fluids, shear stress versus shear rate is non-linear. The apparent viscosity (shear stress divided by shear rate), is not constant at a given temperature and is dependent on flow conditions such as flow geometry, time and shear rate. Such materials may be grouped into the following general classes [6; 8]: · · · Those whose properties are independent of time under shear, called `time-independent fluids'. Those whose properties are dependent upon duration of shear, called `time-dependant fluids'. Those which exhibit a yield stress, which is the force that needs to be overcome before flow can occur, called `plastic or viscoplastic fluids'.
+
+6
+
+I.
+
+Time-independent behaviour
+
+For a time-independent fluid, viscosity is independent of the time during which solicitation (  or ) is applied (Figure 2a), but depends on the rate of solicitation. More concentrated dispersions or polymer solutions are typically nonNewtonian, where viscosity is not constant and flow behaviour must be characterised by measurements of  over a large range of shear rates. Time-independent non-Newtonian fluids are further classified on the grounds of the shape of the non-linear shear vs strain rate function (Figure 2c) [8]. These are: · shear-thinning or Pseudoplastic fluids, where  is a decrease
+· ·
+
+function of  versus  , · shear-thicking or Dilatant fluids, where  is an increase function
+·
+
+of  versus  .
+
+Non-Newtonian flow properties are usually ascribed to the existence of interactions between particles or polymer chains adequately strong and long ­lasted. Van der Waals and electrostatic interactions in dispersions or entanglements between chains in polymer solutions are examples of such interactions. In other instances, they are due to the alignment of rigid and very asymmetric macromolecules or particles in the movement of flow. At a fixed shear rate or stress, a quasiinstantaneous equilibrium between the breakdown of "structure" or orientation and their build-up is approached. An increase in shear rate turns this equilibrium to less "structure" or more orientation (shearthinning) or to more structure (shear-thickening). On the other hand, a drop in shear rate acts the other way around [6].
+
+7
+
+a. Principle
+
+b. Newtonian (Linear)
+
+c. Non-Newtonian
+
+1. Shear thinning 2. Shear thickening Figure 2:
+·
+
+
+
+versus  for time-independent fluids [6]
+
+II.
+
+Time-dependant behaviour
+·
+
+When the earlier described equilibrium is not instantaneously achieved, the flow behaviour tends to be time­dependent. After a change in  (or ), it takes time before  or  approaches equilibrium (Figure 3a).
+
+8
+
+Figure 3: Flow of time-dependant fluids [6]
+
+Time-dependant non-Newtonian fluids are further classified as: · · · thixotropic fluids rheopectic fluids visco-elastic fluids
+
+a) Thixotropic fluids, which experience a decrease in viscosity with time while subjected to constant shearing [10]. If the process of solicitation is reversible, which means leaving the liquid undisturbed for an appropriate time, the same viscosity vs time curve is obtained after a second solicitation identical to the 9
+
+former, the flow behaviour is called thixotropic ( drops with the duration of shear) or anti-thixotropic ( elevates). In these cases, the rate constant of the formation and breakdown of interactions among particles are then of the same order of magnitude. However, in several cases, the process is merely partially reversible and the rate constants for structure breakdown (thixotropy) or structure build-up (anti-thixotropy) are not at the same level. Anti-thixotropy is rarely seen while thixotropy is rather typical of concentrated flocculated or aggregated dispersed systems and is related to the progressive breakdown of aggregates with time under shear [6]. b) Rheopectic fluids, which increase in apparent viscosity very rapidly upon being rhythmically shaken or tapped [11]. In a rheopectic fluid the structure builds up by shear and breaks down while the material is at rest. Examples of these fluids are bentonite sols, protein solutions, coal water slurries, vanadium pentoxide sols and gypsum suspensions in water. This phenomenon has been observed under constant shear rate [6; 8]. c) Visco-elastic fluids, which have both elastic properties typically found in solids and viscous properties found in liquids [7]. Visco-elastic fluids are time-dependant and under non-steady flow conditions demonstrates transient effects which can bear qualitative resemblance to thixotropy. For example, as illustrated in Figure 4, at the beginning of shear flow, the difference compared to thixotropic behaviour (Figure 3a) appears when the flow is suddenly stopped. The stress relaxes
+
+10
+
+progressively (Figure 4) rather than droping to zero immediately. Many fluids of interest (such as polymer melts and solutions) display visco-elastic behaviour. One of the most easily seen experiments is so-called "soup bowl effect". If a fluid in a dish is made to rotate by ways of stirring with a spoon, on removing the energy source of the spoon, the inertial circulation will die out as a result of the action of viscous forces. For a viscoelastic fluid, the liquid would be observed to slow to a stop and later to unwind a bit. This type of behaviour is closely related to the tendency for a gel structure to form in the fluid. Such a factor of rigidity makes simple shear unlikely to occur (the shearing forces tending to act as couple to make rotation of fluid elements and pure slip). Also, such initial rotation causes a stress perpendicular to the direction of shear [8]. Another unusual phenomenon commonly ascribed to visco-elastic fluids is the effect of the fluid climbing up a spinning rod, which is also called the Weissenberg effect. As shown in Figure 5, by rotating a spindle in a fluid, a visco-elastic fluid would climb up the spinning rod [10; 12].
+
+Figure 4: Behaviour of a visco-elastic fluid [6; 13]
+
+11
+
+Fluid at rest
+
+Inelastic Fluid in Couette Flow
+
+Visco-elastic Fluid in Couette Flow
+
+Figure 5: Simple method to determine the visco-elastic behaviour in fluid by rotating a spindle in the fluid from Tiu and Boger [35]
+
+III. Plastic or viscoplastic fluids
+
+Plastic or viscoplastic fluids are fluids that only flow after a certain yield stress,  s , is reached. The equilibrium -  flow curves do not pass through the origin for these fluids but, intersects the stress axis at  =  s > 0 (  s refers to the yield stress).This corresponds to an asymptotic behaviour of viscosity (   when   0) [6]. If submitted to stresses  <  s , the fluid behaves as an elastic or viscoelastic solid: the solicitation leads to a finite strain. If  >  s , it possesses a yield stress and a non-linear flow curve and is called a `yield-pseudoplastic' fluid (Figure 6a) [6; 8]. The simplest case is that of a Bingham fluid. This kind of ideal liquid demonstrates linear behaviour above the yield stress  s and flows as a Newtonian liquid charaterised by a constant Bingham viscosity B (Figure 6b) and a specific yield stress [8]. "Viscoplastic flow" is often associated with (partial) thixotropic shear thinning behaviour (Figure 6c) [6]. Other examples of viscoplastic fluids include emulsions, blood and drilling mud [8].
+· ·
+
+12
+
+Yield Stress:  n -1 <  s   n Figure 6: Flow of yield stress fluids [6]
+
+2.3
+
+Measurement of rheology
+
+Rheology is the science that deals with deformation and flow of fluids. Viscosity is a term used to describe the resistance of these deformations to flow. The measurement of the rheology of Newtonian fluid is not difficult. However, for some non-Newtonian fluid, such as concentrated suspensions, particular foodstuff, rheological measurement is complicated by non-linear, dispersive, dissipative and thixotropic behaviours [8]. Among non-Newtonian fluids, even the simple description of a shear rate versus shear stress relationship could be difficult as the shear rate can only be determined directly if it keeps constant. Devices with a narrow shearing gap, such as coaxial cylinders, capillary and cone-and-plate viscometers offer good
+
+13
+
+estimation to this need. These systems are seldomly used in the characterisation of non-Newtonian fluids, such as suspensions whose aggregate constituents prevent the use of narrow gaps. In the following paragraphs, the fundamental features of viscometry are presented.
+
+2.3.1
+
+General conditions of viscosity measurements
+
+Viscometry is the application of a shear rate or shear stress to a fluid and measuring the flow under steady state conditions. Non-Newtonian characterisation requires that shear strain, , and shear stress, , can be altered and measured over a large range. Viscometers could be grouped into "basic" instruments, which permit the estimation of stress and shear rate, and semi-empirical and empirical instruments which do not allow these determinations. In the following paragraphs, "basic" instruments are discussed. To measure viscosity by using "basic" instruments, the following conditions should be met [6]: i. ii. iii. The fluid is incompressible, isotropic and can be considered as homogeneous in the range of the measuring instrument's dimensions. The flow must be streamlined. This provides a practical upper limit for shear rates for a given material and measuring instrument. The system must be isothermal during measuring process. Viscosity leads to heat dissipation within the material, and also varies sharply with temperature. Efficient temperature control must be insured, especially for highly viscous fluids or measurements at high shear rates. iv. The measuring instrument allows no slippage of the fluid on its surfaces (the layer of the liquid touching the instrument surfaces must move at the same velocity). Generally, "basic" instruments belong to one of the following major types [6]: · · Capillary viscometers, which measures liquid flow through capillary tubes (Figure 7c). Rotational viscometers, which measures rotational shear in coaxial cylinders or cone-and-plate geometries (Figure 7b). 14
+
+Figure 7: Types of shear deformation [6]: (A) Simple shear; (B) rotational; (C) telescopic; (D) twisting shear
+
+2.3.2
+
+Capillary viscometers
+
+A fluid is allowed to flow through a cylindrical tube with diameter, 2a, relatively small compared to its length, l, under a pressure difference, P, (Figure 8).
+
+Figure 8: Principle of capillary viscometer [6]
+
+Both shear stress and shear rate varies in the fluid with the distance r, from the axis. Shear stress is zero at the middle of the capillary tube and reaches a maximum at the wall. Independent of the fluid, stress is provided by the relation  a = rP aP , and reaches the value  a = at the wall. The mode l l
+
+of change of shear rate relies on the velocity distribution, which is in turn determined by the flow behaviour of the fluid. In case of Newtonian fluids,
+
+15
+
+the velocity distribution is parabolic and the shear rate can be calculated by Poiseuille equation:
+·
+
+ (t) =
+
+4Qr  a4
+·
+
+(3)
+
+In the equation, Q is the volumetric flow rate;  is zero at the centre of the tube and take the value  a =
+·
+
+4Q at the wall.  a3
+
+In case of non-Newtonian fluids, the above expression for multiplied by a calibration factor (3+b)/4, with:     d log 4Q3     a      b=   aP    d log     2l   
+
+ a must be
+
+·
+
+(4)
+
+The quantity b is obtained as the slope of a log-log plot of  a = versus  a =
+
+·
+
+4Q  a3
+
+· aP , for the case of non-Newtonian behaviour,  a is called l
+
+the apparent or uncorrected shear rate. Capillary viscometers are usually unsuitable for time-dependant flow since there is no control over the duration of shear, the determination of the volumetric flow rate implying lapses of time that is up to the fluid. Due to stress changes radially, which even can be zero at the centre, their application is not advisable for yield stress fluids (e.g. emulsions and margarines). In spite of such limitations, capillary viscometers has many advantages [6; 8]: · · · · simplicity, relatively low cost ability to provide very accurate measurements on Newtonian or quasiNewtonian fluids with either extremely low or high viscosities ability to work in tough environments, at high temperatures
+16
+
+One of the most popular tube viscometers is the glass capillary, used where the pressure difference is provided by the weight of the column of the liquid over the exit of the capillary. This force is small and changes during measurement, and therefore the application of these instruments is bound to low-viscosity Newtonian fluids. For high viscosities and non-Newtonian fluids, instruments operating under external pressure to provide control of the stress or of the apparent shear rate, should be used.
+
+2.3.3
+
+Rotational viscometers
+
+An immersed body that is rotated in a fluid experiences a viscous drag or retarding torque which is a function of the viscosity of the liquid and of the speed of rotation. If the geometry of the instrument is appropriate, the shear stress and shear rate at a given position in the liquid can be determined from measurement of the torque, angular speed and knowledge of the geometry [6].
+1) Coaxial cylinders rotational viscometers
+
+Two coaxial cylinders constitute the most widely used measuring device (Figure 9). One of the cylinders is remained fast, the other is rotated at a constant angular velocity, . The fluid is therefore sheared in the gap between the walls of the two cylinders. Dragging torque is measured on either of the cylinders. Generally, it is the inner cylinder which is rotated and where the torque is measured. On several devices, the motor drives the outer cylinder and torque is measured on the inner one, a simpler solution from the mechanical point of view, but temperature control is more difficult.
+
+17
+
+Figure 9: Principle of a coaxial cylinders rotational viscometer [6]
+
+The stress changes across the gap and can be determined knowing the torque M:
+
+ (r ) =
+
+M 2 r 2 h
+
+(5)
+
+Stress is a maximum at the inner wall (r =R1) and a minimum at the outer wall (r = R2). However, when compared to capillary viscosmetry, stress never becomes zero and its variation is usually very small because the gap between the cylinders is generally small (values of  =
+R2 normally close to 1.05). R1
+
+The angular velocity changes from zero at the steady wall to  at the wall of the rotating cylinder (no-slip condition), but in a way which relies on the rheology of the flow. Different procedures have been suggested to allow approximate solutions of this problem.
+
+18
+
+When  =
+
+R2 is very small, one can assume a fixed stress in the R1
+( 1 +  2 ) . The shear rate is then also close to 2
+
+gap and use,  m =
+
+constant and provided by:
+
+1 =
+
+·
+
+(R (R
+
+2 1 2 1
+
+2 + R2 )  2 + R2 )
+
+(6)
+
+This approximation is generally used by the manufacturers providing the stress and shear rate at the different velocities of the instrument. The above relation is generally accepted as a good approximation if  < 1.05, and is often used up to  =1.15. However, due to manufacturing and centring problems, gaps with  <1.05 are rarely used. For accurate work with highly shear-thinning liquids, the KreigerElrod approximation is often used when (m ln  ) < 0.2 and for a rotating inner cylinder:
+
+1 =
+1 =
+·
+
+M 2 r 2 h
+W1 (1 + m ln  ) ln  d (ln w1 ) d (ln  1 )
+
+(7)
+
+With m =
+
+2) Cone-plate rotational viscometers
+
+In cone-plate viscometers (Figure 10), when the cone angle, , is less than 5°, the stress and shear rate can be regarded as constant across the gap: 3M 2 r 3
+
+=  =
+·
+
+(8) (9)
+
+ 
+
+19
+
+This feature makes the cone-plate geometry specially useful, for the study of yield-stress and time-dependant fluids since in each direction of the gap, the sample has the same mechanical history [6].
+
+Figure 10: Principle of a typical cone-plate rotational viscometer [6]
+
+2.3.4
+
+Practical application and comparison
+
+Rotational viscometers can be shear rate controlled or shear stress controlled instruments (such as Brookfield viscometers). Rotational rheometers generally allow a wide range of shear rates and stresses to be used by changing the angular velocity or torque of the motor. As stress and shear rates are considered to be nearly uniform in the gap, coaxial cylinders and cone-plated devices are to be preferred to capillary viscometers, except in some special occasions (for measurements of high viscosities, the study of time-independent liquids and on-line measurements) [6; 9]. When using narrow-gap coaxial cylinders with a shear rate controlled device, operators should keep an eye on possible slippage of the material on the surfaces of the measuring system. In some cases, using measuring devices with roughened surfaces is advisable. Rotational rheometers also allow recording the decay or build-up of stress after a sudden change in shear rate. This is often the only solution to study time-dependant behaviour. However, high quality instruments and minimization or correction of inertial effects are required if time-dependant effects are relatively small or short-lasted [6; 9].
+
+20
+
+When properly operated, rotational rheometers are useful for studying any flow behaviour over a wide range of viscosities and shear rates. However, their application for on-line measurements raises difficulties. Some rotational rheometers are adapted for on-line measurements, but operate under narrow experimental conditions [6]. In summary, capillary viscometers are not very suitable for time-dependant materials because there is no control over the duration of shear, as we mentioned above. However, they are simple, cheap, accurate and can be used at high shear rates and temperatures [6; 8]. Therefore, capillary viscometers are to be preferred to other viscometers for on-line measurements.
+
+21
+
+Chapter 3
+3.1
+
+Milk quality and mastitis
+Introduction
+
+According to Hurley [14], milk is an emulsion of fat globules and a suspension of casein micelles, which are composed of casein, calcium and phosphorous. These are all suspended in an aqueous phase that contains solubilised lactose, whey proteins and some minerals and salts (Figure 11). Leukocytes typically form part of the suspended phase.
+
+Figure 11: Milk plasma phase and serum phase [14]
+
+Milk quality plays an important role in milk production. Milk SCC is routinely used to evaluate udder health and milk quality [15]. Milk is produced in the mammary gland of a cow and is known as the udder. The udder includes a teat, a duct system and lobes of secretory tissue. Most of the components in milk are produced in the secretory tissue. The following factors have critical impact on milk quality [10]:
+· · · ·
+
+bacterial infection (mastitis) cows health stage of lactation and season level of nutrition
+
+22
+
+One of the most significant among all the factors above is bacterial infection. The single most costly disease of the dairy industry in the most of the world is mastitis, which is an inflammation of the mammary gland. Inflammation is characterized by redness, swelling, heat and pain in the tissue. Mastitis affects the dairy farmer financially through [4]:
+· · · · ·
+
+decreased milk yield discarded milk, due to antibiotic contamination drugs and veterinary expenses culling increased labour
+
+The American National Mastitis Council evaluated the annual cost per cow in the USA to be $185, and the total annual cost of mastitis to be nearly $2 billion. Blosser (1979) and Jasper et al. (1982) reported that the main cost of mastitis, which accounts for 65­70% of all expenses, is reduction in milk yield [4]. Relying on the severity and duration of symptoms, mastitis may be classified as subclinical, clinical, or chronic. Clinical mastitis gives visual signs and can become subacute or acute. In subacute mastitis, milk can be discoloured, watery and have flakes or clots and the udder could be swollen. Acute mastitis is a sudden onset and is characterised by a red and swollen udder and abnormalities in the milk. Systemic signs of acute mastitis are fever, lack of appetite, impaired rumen function, dehydration, and weakness [4]. Subclinical mastitis causes no obvious abnormalities in the milk or udder and can only be found by laboratory analysis for characteristic signs of inflammation such as an increased somatic cell count (SCC) in the milk. Among chronic mastitis, subclinical signs are persistent, but clinical flare-ups sometimes occur that can last from hours to months. Somatic cells include epithelial and white blood cells, which consist of polymorphonucleus neutrophils, macrophages, and lymphocytes. Somatic cell
+
+23
+
+count in milk from a healthy udder is normally less than 100 k cell/ml, containing 0­7% epithelial cells and 30­74% macrophages. According to the American National Mastitis Council, a bovine quarter is regarded as having subclinical mastitis if SCC  200 k cell/ml and bacteria are separated in the absence of clinical changes. In a microbial infection, the cell count is elevated, with neutrophils accounting for 95% of the cell population [4]. In New Zealand, any cow that produces milk with a SCC more than 200 k cell/ml is considered to have subclinical mastitis [10]. Federal regulations in the USA require milk to contain less than 750 k cell/ml. Somatic cell count is now accepted as a standard assessment of raw milk quality by dairy industries around the world. Therefore, SCC is applied to predict economical losses to dairy producers because of mastitis and the suitability of milk for human food and for the manufacturing of dairy products [4]. During a biological infection, the bacteria themselves start a metabolic effect followed with an immune system response. This activates immune system response with "Leucocyte" infusion into the gland thereby elevating the number of somatic cells. If the infection worsens, it leads to an influx of extracellular fluid. This raises sodium, potassium and chloride concentrations, measured by conductivity. Early detection will provide the farmers the opportunity to deal with mastitis without using drugs and antibiotics, thus decreasing treatment cost [10].
+
+3.2
+3.2.1
+
+Composition of milk
+Normal milk
+
+Normally, milk is composed of water, fat, protein, hydrocarbons (lactose), minerals and vitamins, as well as somatic cells. Figure 12 shows more detail regarding the general composition of milk [14].
+
+24
+
+Fat, 4.60%
+
+Protein, 3.60%
+
+Lactose, 5.00%
+
+Ash, 0.70%
+
+Water, 86.00%
+
+Figure 12: Comparison of different component of milk on average [14]
+
+· Major components o Fat
+Normally the average fat is 4.6% and ranges between 3.5% and 5.5%. Milk fat is lowest in the fore-milk and gradually rises up in percentage as the milk is removed. The last milk out of the gland is highest in milk fat content [14; 16].
+
+o Major milk proteins
+The major milk proteins are caseins and whey proteins. The caseins are composed of several similar proteins in the form of a granular structure called casein micelles. Generally the casein micelles are maintained as a colloidal suspension in milk. If the structure is disturbed, the micelles may come apart and the casein form the gelatious material called the curd. When casein has been removed, all other proteins left in the milk are whey proteins, which are mainly -lactoglobulin and -lactalbumin. The caseins, -lactoglobulin and -lactalbumin are synthesized in the mammary epithelial cells and are only produced by the mammary gland [14; 16].
+
+25
+
+o Enzymes and other milk proteins
+Besides the caseins and whey proteins, there are other proteins in milk. They are immunoglobulins, serum albumin and enzymes. Immunoglobulins and serum albumins are absorbed from blood. An exception to this is that a limited amount of immunoglobulins is synthesized by lymphocytes, which reside in the mammary tissue. These latter cells contribute to the local immunity of the mammary gland [14].
+
+o Hydrocarbons (lactose)
+Lactose is the main hydrocarbon in the milk of most cow species. Lactose is a disaccharide composed of the monosaccharide, D-glucose and D-galactose. Hydrocarbons other than lactose are found in milk, but at low concentrations. Low concentrations of free glucose (about 0.2mM) and free galactose (about 0.2mM) are found in cow milk [14; 16].
+
+o Minerals
+The major minerals found in milk are calcium and phosphorous. They are both mainly associated with the casein micelle structure. Milk also contains other minerals found in the body of the animal, which produces milk [14; 16].
+
+·
+
+Somatic cells
+Milk always contains leukocyte cells (i.e. somatic cells), but generally bovine milk from healthy glands has a low somatic cell count. Milk from individual quarters of healthy animals contains low levels ( 50-200 k cells/ml) of somatic cells, including lymphocytes, neutrophils and epithelial cells in the approximate ratio 1:1.5:14 [4; 15; 16].
+
+3.2.2
+
+Effects of mastitis on the composition of milk
+
+Usually, changes in milk composition are associated with mastitis and an elevated SCC. The following are some of the effects of mastitis on milk composition [10]: 26
+
+· · · ·
+
+reduction in casein concentration reduction in the ratio of casein : whey protein increase in pH breakdown of milk-fat
+
+Colonization of the bovine mammary gland by bacteria result in a series of events that lead to the main alterations in the composition of the milk secreted from the tissue cells [16]. Firstly, pathogenic bacteria increase, then the number of somatic cells increase. Associated with this, milk yield falls as a result of impaired synthetic ability of the secretory tissue, as well as major changes in the composition of the produced milk. Some of these compositional changes (e.g. somatic cell level and certain enzyme levels), are more pronounced and have been used as a basis for designing rapid diagnostic tests for udder infection [17]. Table 1, Table 2 and Table 3 provide a summary of the effect of mastitis on milk composition:
+Table 1: Composition changes in milk constituents caused by mastitis infection [17]
+
+Constituent Fat, % Protein, % Lactose, % Somatic cells, k cells/ml
+
+Normal milk
+
+Mastitic milk
+
+3.45 3.61 4.85 20-1000
+
+3.2 3.56 4.4 100-5000
+
+· Major components o Milk fats
+In general, total milk fat drops as a result of udder infection, but only by a small amount (e.g. 3.2%) [17]. However, the fat percentage in mastitic milk distinctly increases while the amount of milk synthesized decreases. Therefore, any pathological or physiological variation leading to reduced milk production would tend to improve the fat percentage but not the total fat [16]. Nonetheless, as most of the alterations that occur in the level and composition of milk fat as a result of mastitis are comparably small, 27
+
+and in most circumstances do not occur until the infection becomes severe, the value of these variables in diagnosing infection is therefore negligible [14; 16; 17].
+
+o Milk proteins
+Total milk protein does not change much with raising SCC. However, it have been reported that the proteins largely synthesized in the mammary gland (-casein, -caseins, ß-lactoglobulin and lactalbumin) decrease while other proteins, originating from the blood (BSA and IgGs), increase dramatically (Table 2). There is a close balance between these, resulting in the total protein content being constant [14; 16].
+Table 2: Changes of various proteins in milk with mastitic infection [17]
+
+Protein Total casein, mg/ml Total whey protein, mg/ml Total immunoglobulin, mg/ml Proteose-peptone, mg/ml Lactoferrin, mg/ml MFGM protein, mg/100g fat
+
+Normal milk
+
+Mastitic milk
+
+27.9 8.2-8.7 0.25-1.33 1.82 0.1-0.2 513.7
+
+22.5 13.1-19.8 2.45-8.8 9.24 6.2 408.8
+
+Mastitis also leads to an alteration in the balance between micellar and soluble casein. Sharma and Singh [17; 18] found that micellar casein represents about 95% of the total casein in healthy milk, but mastitic milk has micellar casein levels only 46% of total casein. Changes in pH, Calcium ions and other dialyzable components were seen not to be adequate to explain the different ratios between soluble and micellar casein in normal milk compared to infected milk [16; 17; 19]. Other minor milk proteins such as serum albumin, 2-macroglobulin, IgG and proteose-peptone have also been shown to incease in infected
+
+28
+
+milk. The 2-macroglobulin is of blood serum origin while the proteose-peptone fraction might be increased because of increased breakdown of -casein and -casein by leucocyte protease as proposed by Anderson & Andrew [14; 16].
+
+o Enzymic changes
+Enzymic variations have been used to diagnose disease states in humans for a long time. The present status of clinical enzymology in veterinary medicine was reported by Freedland & Kramer (1970), who concluded that little information was available concerning the alterations in enzyme levels in blood or biological fluids for many common animal diseases, of which bovine mastitis is known to be a crucial one [16-18; 20-22].
+
+o Lactose
+The lactose content of milk from infected glands is typically lowered. The impaired lactose production is likely related to varied osmotic equilibrium caused by mastitis. Sodium chloride enters milk from the blood as a result of changed permeability and increases the osmotic pressure of milk. The osmotic pressure of milk is brought into equilibrium with blood by a decreasing in the secretion of lactose. The detailed mechanism of this is not yet known [16].
+
+o Anions and cations
+The major anions and cations which appear in milk, known to be linked to secretory disorders in the mammary gland are Na+, K+ and Cl¯ (Table 3). The normal level of Na+ & K+ is determined by active pumping systems on the basal and lateral membranes of the secretory cell [17]. According to Schalm et al. [16], sodium chloride goes into milk from the blood as a result of varied permeability and increases the osmotic pressure of milk, thus the chloride level of mastitic milk is elevated apparently, and sodium raises along with chloride. Other than chloride and sodium, milk with mastitis has been found to have decreased levels of Ca, Pi and K.
+
+29
+
+Table 3: Effect of mastitis on the level of anions and cations in milk [17]
+
+Component Na, mg/100ml K, mg/100ml Cl, mg/100ml Total Ca, mg/100ml Total Mg, mg/100ml Pi, mg/100ml Conductivity, mM NaCl pH
+
+Normal milk
+
+Mastitic milk
+
+43.6-57 172.5 75-130 129.8-136 12.1-18 26-38.1 <53 6.65
+
+60.3-104.6 157.3 111-198 49-124.3 6-12.8 6.4-32.8 >56.5 6.9-7.0
+
+· Somatic cells
+Although healthy milk contains some somatic cells, milk from diseased quarters has elevated somatic cell count ranging between 200- and 5000- k cells/ml. According to Kitchen [17], SCC values can also be affected by other factors such as:
+o stage of lactation o number of previous lactations o stress caused by poor farm management o nutritional problems o climatic conditions o other illnesses such as ephemeral fever
+
+Generally, stress presents to be factor only when superimposed upon an animal already having secretory disorders. The distinct increase in total somatic cell values in milks from infected animals is accompanied by a variation in the relative amounts of lymphocytes, neutrophils and epithelial cells in around ratio 1:10:10 [14-17; 23].
+
+30
+
+3.3
+
+Measurement of mastitis
+
+Generally speaking, mastitis detection in dairy cows will presumably occur at three different levels in milk industry. Firstly, the farmer or veterinarian will check animals at the farm for clinical and sub-clinical infections. Secondly, there would be more large scale testing of composite and bulk milk samples by government and private laboratories. Thirdly, dairy factories will check milk supplies so as to channel milk into the most suitable producing process. The particular type of test chosen by each of these different groups would rely on several factors such as simplicity, rapidity, expense, sample throughput, and sensitivity. A summary of presently acceptable mastitis diagnostic tests is displayed in Table 4. The area of large-scale detection of mastitis tends to be maturely built-up, with most laboratories opting for some form of somatic cell count technique [2; 17; 24; 25]. In general, there are various changes in the composition of milk with mastitis, some of these compositional changes can be used to detect mastitis. The most important compositional change that can be used to detect mastitis online is SCC. Since mastitis is characterised by increased numbers of somatic cells in the cow's milk, it is possible to detect mastitis by measuring SCC through several indirect methods. Three of the more commonly used methods are:
+· · ·
+
+the Whiteside Test [1-3] the Foss Analysis (Foss Electric, Hillerod, Denmark) [4] the California Mastitis Test [1; 2; 5]
+
+31
+
+Table 4: Summary of mastitis diagnostic tests [17]
+
+Composition change caused by
+
+Tests and methodology
+
+Disease-combating response Somatic cell counting of animal
+
+· · · · · ·
+
+Direct microscope Particle size analysis Fluorescent staining of cell nuclei Indirectly by viscosity tests Chemical DNA determination Cellular determination metabolite (ATP)
+
+Reduced synthetic ability of Lactose determination mammary gland
+
+· ·
+
+Colorimetric Infrared Immuno-diffusion Immuno-electrophoresis Flame photometry (Na+, K+) Conductivity measurements Catalase N-acetyl--D-glucosaminidase
+
+Tissue damage and blood Bovine serum albumin test capillary permeability
+
+· · · · · ·
+
+Na, K, Cl
+
+Enzymes
+
+It has been shown that the California Mastitis Test and the Whiteside Test were useful in diagnosing subclinical mastitis in meat-producing flocks (e.g. cows and ewes) [1]. However, the two more commonly used methods to measure SCC are the California Mastitis Test and The Foss Analysis [4]. Each of these tests has different advantages, which will be discussed in subsequent paragraphs.
+
+32
+
+3.3.1
+
+The Whiteside Test
+
+The relationship between the cell content of milk and the Whiteside Test results has been the subject of many investigations. Opinion on the Whiteside Test's suitability for estimation of milk cell content varies, and the test is no longer commonly used [1; 20]. In this test, NaOH is introduced to milk to form a transparent viscid gel with a direct relationship between the number of the blood cells and the intensity of the gel [26]. The underlying mechanism of Whiteside Test is not fully understood but, it has been proposed that gel formation is due to: i) The formation of sodium salts between NaOH and the nucleic acids of the white blood cells. This produces a gelatinous mass to which serum solids and fat globules can adsorb, which in turns forms a precipitate, characteristic of the Whiteside Test [16]. ii) adsorption of fibrin onto the white blood cells [27]. iii) clot formation due to the interaction between sodium with calcium ions and the cell albumen [2].
+
+3.3.2
+
+The Foss Analysis
+
+The Foss Analysis is an automated flow cytometer that counts individual cells in a sample. The deoxyribonucleic acid (DNA) of each cell is marked with ethidium bromide and when excited, emits light at 590 nm. Each dyed cell gives an electric pulse, which is counted and recorded automatically. The Foss Analysis 5000 can measure up to 500 samples an hour and has a repeatability of 4% when monitored at 500 k cell/ml [4]. In general, the Foss Analysis can provide an accurate and quick somatic cell count for mastitis detection. Unfortunately, it is very expensive and is not popular in online milking systems.
+
+33
+
+3.3.3
+
+The California Mastitis Test
+
+Schalm and Noorlander [27] have developed the California Mastitis Test (CMT) for monitoring mastitis. The test involves the addition of an anionic surfactant to milk that results in gel formation. Gel formation is caused by the interaction between the surfactant and DNA and its associated proteins [10]. The thickness of the gel is often scored as negative, trace, 1, 2, or 3. The thicker the gel, the higher the score and the higher probability that the cow has mastitis [28]. The CMT was originally designed for use with milk samples taken directly from the cow's quarters. Quarters showing strong interactions were considered to be infected. The apparent success of the CMT with individual cow's milk resulted in the test being used for bulk herd milk testing [28]. As a whole, the California Mastitis Test has the following advantages: i) simple ii) accurate iii) cheap iv) quick v) easy to control Therefore, it is more desirable to choose CMT rather than other tests for online mastitis detection.
+
+3.3.4
+
+Conclusion
+
+In conclusion, previous work into the development of an online mastitis measurement device utilized an adaptation of the California Mastitis Test [5]. Although highly successful, some uncertainty existed regarding the rheological properties of the gel formed during the interaction and to what extent this influenced the device. In subsequent chapters, a more in depth discussion into the CMT is presented in light of cell biology and protein chemistry, as well as a more in depth analysis into rheology of fluids. 34
+
+Chapter 4
+4.1
+
+Characteristics of CMT gel
+Somatic cells
+
+Mastitis is characterised by increased numbers of somatic cells in the cow's milk. Somatic cells are body cells such as white blood cells (i.e. leucocytes), which occur normally in milk in low numbers, but increase when mastitis is present. The CMT is associated with the interaction between DNA released from the nuclei of the leucocytes and a surfactant [20; 22]. This interaction causes a rapid increase in the viscosity of the milk [28]. Therefore, it is possible to detect mastitis by measuring SCC through measuring the viscosity of the gel formed.
+
+4.1.1
+
+Different somatic cells in bovine milk
+
+The SCC in milk is used as an indicator of udder health status. Elevated SCC is generally considered as an indication of mastitis. In addition, the magnitude of various somatic cell counts might be a useful tool in research because each cell type has its own specific function in the immune response [23]. Figure 13 shows different white blood cells, which include polymorphonucleus (PMN) neutrophils, macrophages, and lymphocytes. All those different leucocyte cells can interact with ionic surfactants (such as SDS) to form a gel. However, if most of these leucocytes die, a gel cannot be formed [22]. It is also known that the time until cell death for each type is different, e.g. neutrophils die first. Scruggs & Ross [22] demonstrated that holding of milk at 5°C results in graduated death of the leucocytes, which is accompanied by a decrease in the viscosity of the gel formed with surfactant. Thus, if bulk milk were held for several days before testing, the CMT score would not be expected to represent the total leucocyte count accurately [22].
+
+35
+
+Figure 13: Photographs of cells in bovine milk stained according to the method of Pappenheim [23]: a-b =small lymphocytes; c = large lymphocyte; d-f = band neutrophils; g-i = segmented neutrophils; k = basophil (left) and band (right) neutrophil; l = basophile; m = eosinophil; n-q = macrophages; magnification × 1000fold
+
+4.1.2
+
+The structure of cells
+
+Bovine somatic cells are eukaryotic cells, which unlike prokaryotic cells comprise a defined membrane-bound nucleus and extensive internal membranes that enclose other compartments or organelles (Figure 14). The region of the cell lying between the plasma membrane and the nucleus is the cytoplasm, including the cytosol (aqueous phase) and the organelles. Figure 14 is electron micrograph of a plasma cell, a type of white blood cell that secretes antibodies.
+
+36
+
+The defining characteristic of a eukaryotic cell is the segregation of cellular DNA within a defined nucleus which is bound by a double membrane. The outer nucleus membrane is continuous with the rough endoplasmic reticulum, a place for assembling proteins. Golgi vesicles process and modify proteins, mitochondria generate energy, iysosomes digest cell materials to recycle them, peroxisomes process molecules using oxygen and secretory vesicles carry cell materials to the surface to deliver them [29].
+
+Figure 14: Electron micrograph of a plasma cell, a type of white blood cell that secretes antibodies [29]
+
+37
+
+I. The cell membrane
+
+In essence, any cell is simply a compartment with a watery interior that is isolated from the outer environment by a surface membrane (the plasma membrane) that avoids the free flow of molecules in and out of cells. In addition, bovine somatic cells are eukaryotic cells, which have wide internal membranes that further subdivide the cell into various compartments, the organelles. The plasma membrane and other cellular membranes are composed primarily of two layers of phospholipid molecules (Figure 15, Figure 16, and Figure 17). These phospholipid bipartite molecules have a hydrophilic end and a hydrophobic end. The two-phospholipid layers of a membrane are oriented with all the hydrophilic ends directed toward the inner and outer surfaces and the hydrophobic ends buried within the interior. Smaller quantities of other lipids, such as cholesterol and many kinds of proteins are involved into the phospholipid framework [29].
+
+Figure 15: Phospholipid monomers noncovalently assemble into bilayer structure, which forms the bases of all cellular membranes [29]
+
+38
+
+Figure 16: Diagram of structure of the plasma membrane [30]
+
+Figure 17: The watery interior of cells is surrounded by the plasma membrane, a two-layered shell of phospholipids [29]
+
+II. The nuclei of cells
+
+The nucleus of a cell is shown in Figure 18. Nearly all the DNA in a eukaryotic cell is sequestered in the nucleus, which occupies approximate 10% of the cell volume. This compartment is delimited by a nucleus envelope made by two concentric lipid bilayer membranes that are punctured at intervals, called nucleus pores. The nucleus envelope is directly related to the extensive membranes of the endoplasmic reticulum. It is mechanically supported by two networks of intermediate filaments: one is nucleus lamina, which forms a thin sheet like meshwork inside the nucleus that is beneath the inner nucleus membrane; the other surrounds the outer nucleus membrane and is less systematically organized.
+
+39
+
+Figure 18: Structure of a typical nucleus envelope [31]
+
+III. The chromosome and DNA of cells
+
+DNA occurs in alternative forms in different cells. The single chromosome of prokaryotic cells is typically a circular DNA molecule. Proteins are associated with prokaryotic DNA but, unlike eukaryotic chromosomes, prokaryotic chromosomes are not uniformly organized into regular nucleoprotein arrays. The DNA molecules of eukaryotic cells, each of which defines a chromosome, are linear and richly covered with proteins. A class of arginine-and lysine-rich basic proteins named histones interact ionically with the anionic phosphate groups in the DNA backbone to form nucleosomes, in which the DNA double helix is wound around a protein "core" made up of pairs of four different histone polypeptides (Figure 19). Chromosomes also comprise a varying mixture of other proteins, so-called non-histone chromosomal proteins [32].
+
+40
+
+Figure 19: Chromosome and three types of chromatin forms [29]
+
+41
+
+4.2
+4.2.1
+
+The interaction between surfactant and milk
+Structure of surfactant
+
+The term surfactant is a contraction of the term surface active agent, because a characteristic of surfactants is the tendency to adsorb or concentrate at interfaces between bulk phases.
+
+Surfactants are distinguished by their amphiphilic structure. Each surfactant molecule is composed of two fundamental parts: a water-soluble (hydrophilic) head group and an oil-soluble (hydrophobic) tail group (Figure 20).
+
+Figure 20: Surfactant architecture-general representation of a surfactant molecule [33]
+
+While the tail group is usually a hydrocarbon chain, the head group can be charged or uncharged. The basic surfactant structure is illustrated by sodium dodecyl sulphate in Figure 20. The anionic sulphate is the head group, the linear dodecyl chain is the tail group, and sodium is the counter ion (ion of opposite charge to the head group). Based on the hydrophilic and 42
+
+hydrophobic regions of surfactant molecules, they are often referred to as amphiphiles or amphipaths.
+
+Based on their head groups, surfactants are typically classified into five main classes, as demonstrated in Figure 21. Anionic surfactants are the biggest volume of surfactants produced, with the linear alkylbenzene sulfonate (LAS) shown in Figure 21. SDS in Figure 22 is another commercially produced anionic surfactant, and it has been broadly used for the CMT [5; 10; 34]. Cationic surfactants, like those based on quaternary ammonium, have a positively charged head group. Non-ionic surfactants typically own a polymeric group or an uncharged hydrophilic group like poly (ethylene oxide) as the head group (see Figure 21 and Figure 22). Zwitterionic surfactants have both positive and negative charges on the head group. Amphoteric surfactants have a head group with a pH-dependent charge. The amineoxide displayed in Figure 21 is zwitterionic at high pH, but becomes cationic as protonation occurs at low pH. Because amphoteric surfactants are generally zwitterionic at certain pH, and zwitterionic surfactants are often amphoteric, in practice, the terms zwitterionic and amphoteric are used as synonyms, and the term ampholytic is used to describe both surfactant types [33].
+
+43
+
+Figure 21: Major surfactant groups [33]
+
+Figure 22: Structures of four common surfactants [29]
+
+4.2.2
+
+Surfactant solutions
+
+When a small amount of soluble surfactant is introduced to water, part of it is dissolved as monomers and part forms a monolayer at the air/water interphase. When the monomer concentration reaches a critical level, the
+
+44
+
+surfactant begins to associate to form micelles (Figure 23). Micelles are defined as thermodynamically stable colloidal aggregates, spontaneously formed by surfactants above a certain concentration range (the critical micellar concentration, CMC) at temperatures above the critical micellar temperature [35].
+
+Figure 23: Schematic representation of the equilibrium of surfactant between monomeric, monolayer and micellar forms [35]
+
+Figure 24: Temperature-concentration phase diagram of SDS in 0.1 M NaCl/0.05M sodium phosphate buffer, pH7.4 (CMC, critical micellar concentration and CMT, critical micellar temperature) [35]
+
+The influence of temperature on micelle formation and the meaning of the critical micellar temperature might best be known from the temperature versus concentration phase diagram of SDS in Figure 24. At low temperatures the surfactant forms insoluble crystals where the hydrocarbon regions as well as the polar groups are ordered. The monomer concentration 45
+
+in equilibrium with the crystal phase is below the CMC. The equilibrium monomer concentration elevates with temperature, approaching the CMC at the critical micellar temperature, the lowest temperature at which micelles can form. The critical micellar temperature is observed as a sudden clearing of the cloudy crystalline suspension. The Krafft point is the temperature at which clearing happens in solutions where the concentration of surfactant is at the CMC. For most surfactants the critical micellar temperature and the Krafft point are synonymous. The CMC and aggregation number of some surfactants are shown in Table 5. The critical micellar temperature is very sensitive to impurities. This explains the range of values (10-23°C) published for SDS. The critical micellar temperatures of non-ionic surfactants are below 0°C [35].
+Table 5: Micellar weights, aggregation numbers and CMC for some surfactants [35]
+
+Surfactant
+
+Aggregation number
+
+Micellar weight (g/mol)
+
+CMC (mM)
+
+Conditions
+
+SDS
+
+62 126
+
+288 288 642
+
+8.2 0.52 0.240
+
+H2O 0.5(mol/ml) NaCl H2O
+
+Triton X-100
+
+140
+
+Shown in Figure 25 are several of the many aggregates formed by surfactants. For these systems, unaggregated surfactant (monomer) is in equilibrium with the aggregate. If an aqueous solution of surfactant is in connecting with air, the surfactant molecules adsorb at the air-water interface as a monolayer, with the head groups submerged in the water and the tails sticking in the air phase. If the aqueous solution forms an interface with a hydrophilic solid (e.g., cotton fabric or a clay), under particular conditions, bilayered aggregates, known as an admicelles, will form on the surface. In such case, the head groups of the first layer of surfactant can have attractive interactions with the solid surface (e.g. electrostatic attraction or hydrogen bonding), and the second surfactant layer has head groups exposed to the water. In admicelles, the tail groups interact to produce a hydrophobic interior [33]. 46
+
+Figure 25: Examples of surfactant aggregates [33]
+
+The surfactant can also form aggregates in solution, such as micelles and vesicles. The spherical or cylindrical micelles illustrated in Figure 25 have a core of interacting tail groups, covered by the head groups exposed to water, a configuration in with the surfactant molecules can be in desirable environments. In contrast, if the surfactant is dissolved in an organic solvent, reverse or inverse micelles can occur, where the tail group is at the micelle surface exposed to the solvent, and the head groups are exposed to a droplet of water at the reverse micelle core. Vesicles have frames similar to cell membranes, and in solution, the phospholipids of the cell membrane spontaneously form vesicles. Surfactants can form other aggregated structures, only a few of which are demonstrated in Figure 25. In each case, the basic driving force for self-assembly is for every surfactant molecule's dissimilar parts to be in an ideal environment; for aqueous solutions, this means that tail group should prevent contact with water. A typical spherical micelle in aqueous solution contains an average number of surfactant molecules, or aggregation number, of 40-100. The diameter of a spherical or cylindrical micelle is about 4-6nm for typical surfactants. The shape of the micelle relies on surfactant molecular structure, solution ionic strength, temperature, and the presence of organic solutes in solution. For instance, micellar structures often turn from spherical to cylindrical to planar 47
+
+to reverse micelles as the tail group length falls, branching of the tail group elevates, diameter of the head group decreases, ionic strength of solution increases (for ionic surfactants) or surfactant concentration increases. This can be understood in terms of how the surfactant molecules best fit together to form aggregates. For a big head group and small diameter tail group, each surfactant can be approximated as a cone, which best fits together as a sphere in water. When the tail group becomes more branched, the molecules can invert to form reverse micelles, with the head group surrounding a droplet of water in the reverse micelle interior. This transition in aggregate type is displayed in Figure 26. The shape of the micelle can affect important physical properties. For example, cylindrical micelles (especially when they become long or thread-like) can substantially raise solution viscosity, even at a pretty low surfactant concentration, a phenomenon commonly used in shampoos [33].
+
+Figure 26: How tail group share can influence micelle shape [33]
+
+4.2.3
+
+Protein/surfactant interaction
+
+Bovine milk mainly consists of water, fat, protein, hydrocarbon (lactose), minerals and vitamins and somatic cells [14]. When a surfactant is introduced into milk without somatic cells, the major factor that could change the viscosity of the milk/surfactant solution is the interaction between the surfactant and proteins in milk [19].
+
+48
+
+In a study done by Lefebvre Cases et al. [36], it was observed that casein micelles could aggregate in the presence of SDS to form a gel. The most important effect of SDS on casein micelles seemed to be a micellar casein dissociation whose extent increased with the SDS concentration. This conclusion was supported by the work of Cheeseman [37] and Jeffcoat [36] who found that SDS interacts with isolated casein and causes the dissociation of the high-molecular weight casein aggregates. Results obtained for 21mM SDS indicated that milk gel formation can be correlated to the extent of micellar casein dissociation. Under these conditions is not only all the -casein dissociated from the micelles, but also a great part of the micellar  and -casein. On the contrary, at lower and higher SDS concentrations, the amount of casein dissociated from the micelles was, respectively less or higher, but no gel could be produced. Consequently, it was concluded that SDS-induced milk gel formation requires a defined level of micellar casein dissociation [36]. According to the amphiphilic structure of the SDS molecular, three hypotheses can be proposed as to how SDS interacts with casein micelles [36]: i. The SDS molecule interacts with casein micelles with its anionic part resulting in an increase in the micellar hydrophobicity. SEM observations indicate that casein micelles interaction elevated with SDS concentration leading progressively to aggregates and fused casein particles. At higher SDS concentration (28mM), casein micelles seemed to fragment into small units or new casein particles. According to Cheeseman (1968) [15], anionic surfactants are competing with casein molecules for the sites in the interior of a micelle, and in doing so caused dissociation of the aggregates. ii. SDS molecule binds to a casein micelle with its hydrophobic part leading to an increase in the micellar negative charge. Results of Pearce [36] have shown that addition of SDS to milk leads to less interaction of casein micelles due to an increase in electrostatic repulsions. 49
+
+iii.
+
+Both the above mentioned interactions are involved. The SDS concentration used by Pearce was less than that used in Lefebvre Cases's study which could lead to the conclusion that two kinds of interactions could be involved depending on the SDS concentration [36].
+
+4.2.4
+
+Effect of surfactants on somatic cells in milk
+
+The effect of surfactants on somatic cells firstly focuses on the lysis of cell membranes by surfactants. According to Helenius and Simons [35], lysis by surfactants has been studied mainly using erythrocytes, as the process can be measured quantitatively by tracing the release of haemoglobin. Despite intensive research in this field the exact molecular mechanism of lysis is not yet clarified. However, the lytic process can be divided into five stages: (1) (2) (3) (4) (5) the surfactant monomers adsorb to the membrane penetrate into the membrane the surfactants induce a change in molecular organization which leads to an alteration in permeability and in the osmotic equilibrium which results in the leakage of haemoglobin
+
+Stages 2, 3 or 4 are rate limiting. It is widely believed that lysis results from an interaction between surfactant and lipids of the membrane. Haydon and Taylor [35] have suggested that surfactants may act as `wedges' that destroy the natural orientation of the lipid bilayer. Generally, cell membranes are composed of lipids and proteins rich in hydrophobic residues. When surfactant is introduced to a suspension of phospholipid liposomes, part of it interacts with the bilayer lipids and part of it remains free in solution. Weak non-ionic surfactants (e.g. Triton) will lyse some membranes but leave the nucleus envelope intact. The reason is, in part, due to their distinct protein/lipid composition. In contrast, SDS is a strong ionic surfactant that solubilises firstly the plasma membrane (Figure 27), and then lyses the nucleus envelope [38].
+
+50
+
+Figure 27: Diagram of the process that surfactant dissolves membranes [31]
+
+After the strong ionic surfactant (e.g. SDS) solubilise the plasma membrane and lyse the nucleus envelope, it will disrupt all chromatin structures, transforming the compacted DNA into extended protein-free DNA molecules [38].
+
+4.3
+
+Mechanism of gel formation in the CMT
+
+There are different mechanisms of gel formation proposed before, some of them conflicting. In the next section, an overview is given on the different theories, highlighting differences as well as similarities.
+
+4.3.1
+
+Gel structure
+
+According to Whyte's report [5], the length of DNA molecule could be at least 1 m per bovine cell. Thus the surface area of DNA is extremely large (Figure 28). This means that large DNA molecules, such as nucleus DNA, have an extremely high friction drag in solution. In physical terms, this
+
+51
+
+feature of DNA is reflected by its high viscosity in solution. The same DNA packaged in the nucleus (Figure 18 and Figure 28) has little influence on the viscosity of the solution because the relative surface area of the nucleus is much, much smaller. Figure 29 shows the random and chaotic distribution of
+
+DNA/protein/surfactant strands. Even at low magnification, it is clear that the gel is non-homogeneous and has a distinct strand-like structure. This supports the theory that the interaction between surfactant and somatic cells in milk forms a gel [5]. When Milne [39] investigated the formation of the CMT gel under a microscope at an unstated magnification, cells were clearly visible on the plates. At low concentrations of surfactant, the cell membranes demonstrated alteration, which meant that the surfactant disrupted somatic cell membranes. At a concentration of 4% and 1:1 surfactant to milk ratio, he observed that: "nucleus material is apparently re-located to form fibrillar links to adjacent nuclei" and, at high cell counts, "complex knots" are formed between nuclei. Milne's work demonstrated that for dimensions comparable to a cell diameter, the gel was non-homogeneous. Whyte et al., [5] confirmed that this non-homogeneity is continued at a bulk level in the CMT gel. Nageswararao & Derbyshire [22] also investigated the CMT gel under 500×magnification. Their samples were described as an irregularly arranged fibrillar network, a description that matches Whyte's finding.
+
+52
+
+Figure 28: DNA extruded from nucleus envelope of a bacteria E.coli [32]
+
+Figure 29: Stained CMT gel at ~ 10 × magnifications showing non-homogeneous gel formation [5]
+
+4.3.2
+
+Previous theories to explain gel formation
+
+It is widely accepted that with enough somatic cells (e.g. when SCC > 100 k cells/ml) in milk, cells can interact with surfactant to form a gel, which might change the milk/surfactant solution from a Newtonian fluid to nonNewtonian fluid (depending on the amount of somatic cells). The following is some old theories that are related to the mechanism of gel formation presented over the last century:
+
+53
+
+Milne [39] pointed out that the CMT was first described by Schalm and Noorlander in 1957, however, the mechanism of this interaction have not been clearly demonstrated. There is common agreement that DNA from cell nuclei contribute to the viscous interaction, but there is also a disagreement about the role that protein play in the CMT. Basically most theories can be categorised as either disregarding the effect of protein or not.
+
+i) Protein has little or no effect on gel formation Jaartsveld in 1961 proposed that DNA of the somatic cell nuclei is responsible for the viscous interaction during the CMT [39]. In 1962, Carrol and Schalm [20] found that nucleated cells produced a typical CMT interaction when added to normal milk whereas non-nucleated cells did not. These workers also reported that the formation of gel in the CMT was prevented by treatment of the milk with DNase I, but not by treatment with RNA and trypsin, which was used as evidence to prove that DNA of the cell nuclei is responsible for the interaction. Dounce and Monty [40] demonstrated that a small amount of DNase I can cleave most of the DNA released from somatic cells. This caused extensive depolymerisation of DNA therefore destroying the gel-forming power of the nuclei. This proved that DNA from cell nuclei is responsible for the viscous interaction. [22]. The study of Milne in 1977 [39] was to provide visual evidence for the role of DNA in the CMT interaction. The photomicrographs demonstrated different stages in the development of a fibrillar mesh. Milne also pointed out that the role of protein in the CMT interaction can be ignored under bulk milk testing conditions and that the observation of Nageswararao and Derbyshire [22] that casein caused an increase in viscosity, cannot be confirmed.
+
+54
+
+ii) Protein contributes to gel formation In 1956, Bernstein believed that intermolecular bonds, in which proteins were the primary participants, determined gel structure of DNA/protein gels [22]. Christ [41] contended that proteins reacted with the surfactant, becoming precipitated, denatured or bound into a protein/surfactant complex. Dedie and Kielwein in 1960 considered milk protein to play some role in the interaction and this was confirmed by Nageswararao and Derbyshire [22], who found soluble casein increased the viscosity of the gel in the CMT interaction [39]. Nageswararao and Derbyshire reported that gel formation was caused by the interaction of surfactant combining with DNA and associated proteins. They concluded that the native polymer of DNA and a protein of the DNA-protein complex of nuclei are necessary for gel formation in the CMT. They postulated the mechanism of gel formation by milk containing leucocytes with surfactant to consist of the liberation of DNA/protein complexes from the leucocyte nuclei by the surfactant, followed by spontaneous gel formation by the DNA/protein complexes [22]. In most of the literature presented above, it was found that the viscosity of the gel is best measured under low shear [22; 42; 43]. In 1965, Blackburn claimed that the viscosity is the result of the binding effect through the milkreagent mixture of the fibrillar extensions apparently emanating from cell nuclei. Experience with smear preparation demonstrated that excessive vigour in mixing the milk and reagent caused destruction of these fibres, an observation that indicates the need for an instrument with low shear [22]. In studies by Whittlestone et al., [43] as well as Milne et al. [39] , it was shown that the rolling ball viscometer is a suitable instrument to characterise the rheology of the gel formed during the CMT. They found that rolling ball
+
+55
+
+viscometer has sufficient accuracy to detect small changes in viscosity during the interaction [39; 43]. To this extent, Richardson, G. H et al., pointed out that low shear viscometry can be used to correlate viscosity with SCC in infected milk [42]. With the advancement of biochemistry and development of modern analysis techniques, the mechanism of the gel formation has been further clarified, as described as below.
+
+4.3.3
+
+Modern theories to explain gel formation
+
+In general, the CMT is associated with the release of DNA from the nuclei of leucocytes in abnormal milk [22]. According to the latest findings [5; 10; 34], gel formation and the breakdown process is broken down into the following steps: 1. Break down of the cell wall. 2. Break down of nuclei's wall. 3. Chromosome unwinds to expose DNA-binding histone. Gel formation occurs due to a fibrous network between cells containing DNA. 4. SDS denatures the histones, which bind DNA, breaking down the fibrillar structure of the gel. It is well known that SDS is a strong anionic surfactant that solubilises the cells plasma membrane as well as its nucleus envelope, SDS therefore first lyse the somatic cells membrane (step 1) then the nuclei membranes (step 2) [38]. This interaction alters the cell's permeability and hence the cell's osmotic equilibrium. The cell then absorbs water and burst, allowing leakage of the cellular contents [5]. As a result, the large DNA molecule, which has an exceedingly large surface area, will not be packaged in the limited nucleus (Figure 28). Consequently, the very long and thin DNA molecules are expanded (step 3) to form a gel, elevating the viscosity of the milk/DNA/SDS complex [10]. Finally, the surfactant interacts with histones (step 4) in the DNA/histone complex and dissolves them (Figure 30), which causes the break down the fibrillar structure. Therefore, this causes the 56
+
+viscosity of the gel to decline distinctly, and the Non-Newtonian fluid behaviour of CMT gel would disappear [5; 10; 34].
+
+Protein molecule
+
++ 
+
+Figure 30 The protocols of detergents (i.e. surfactants) dissolve the histones and histone-like proteins thus break chromatin structures and CMT gel structure.
+
+In summary, it can be seen that gel formation is a complex process and multiple factors can influence the process. In order to relate the viscosity of the gel to the SCC, an understanding of the rheology of milk as well as the CMT gel is necessary.
+
+57
+
+Chapter 5
+
+Rheology of milk and the CMT gel
+
+The viscosity of milk can be measured by using a diversity of viscometers, the appropriate device (capillary, rolling ball, rotational viscometer) being chosen depending upon the range of viscosity to be measured. Normally, milk exhibits Newtonian behaviour. Non-Newtonian behaviour in raw milks and creams is seen under conditions that favour cold agglutination of fat globules (temperature < 40°C) and low shear rates. Shear thinning is commonly observed under these conditions [44]. In addition, non-Newtonian behaviour has also been observed when surfactants interact with somatic cells present in milk obtained from cows with mastitis [5; 10; 34].
+
+5.1
+
+Newtonian behaviour of normal milk
+
+Fresh skimmed milk and whole milk is for most practical purposes Newtonian liquids under the following conditions [44]:
+· · ·
+
+fat content < 40% (w/w), temperature > 40°C (milk fat completely molten, no cold agglutination of fat globules), moderate shear rates
+
+Under these conditions, representative values of the viscosity of whole milk and fractions derived from it are listed in Table 6 [44].
+Table 6: Representative values of the viscosity of whole milk and fractions [44]
+
+Item Water 5% lactose solution Rennet Whey Skim milk Whole milk
+
+Viscosity (m Pa ·s)
+
+1.005 1.150 1.250 1.790 2.127
+
+Rheological behaviour is completely characterized by a temperature-dependent viscosity, which is defined by Newton's law of viscosity:
+
+58
+
+ =   (Pa)
+·
+
+·
+
+(10)
+
+In this equation,  is the shear stress (Pa),  is the shear rate (s-1) and  is the viscosity (Pa ·s). Please see section 2.2 in Chapter 2 for more details. The viscosity of whole milk, skim milk and some milk concentrates, for conditions under which Newtonian behaviour occurs, can be predicted at a given temperature by Eiler's semi-empirical equation:
+  1.25 (i )   =  0 1 +  1 -  (i ) /  max   
+2
+
+(11)
+
+Introduced terms present in Equation 11 are defined in Table 7 [44]:
+Table 7: Defined items in Equation 11
+
+Term  0
+
+Description Units Viscosity of milk product Pa ·s Viscosity of the portion of the product consisting of water Pa ·s and low molecular weight substances other than lactose.
+
+i
+
+The volume fraction of a dispersed component with a particle size at least an order of magnitude greater than the size of the water molecule.
+i
+
+N/A
+
+ ( )  ( ) = 
+i
+
++  cas +  wp +  l where fat = milk fat, cas = casein, wp = whey proteins and l = lactose,
+fat
+
+N/A
+
+ max
+
+The assumed value of  (i) for maximum packing of all dispersed particles (0.9 for liquid products).  max may be somewhat higher than 0.9 for evaporated milk and somewhat lower for high-fat cream.
+
+N/A
+
+The volume fraction of an individual component is given by:
+
+ i = Vi cv ,i
+
+(12)
+
+In this equation, Vi is the voluminosity of component i (m3/kg of dry component) and cv,i is the volume concentration of the component in the product (kg/m3 of product). Walstra and Jenness [44] reported typical values of voluminosity (V),
+
+59
+
+listed in Table 8. Voluminosity and volume fraction refers to hydrodynamic volume and thus account for particle shape as well as water of hydration.
+Table 8: The value of voluminosity of various milk components [44]
+
+Components Fat globules Casein Whey proteins Lactose
+
+The value of voluminosity
+
+~1.11×10-3 m3/kg of lipid in fat globules ~3.9×10-3 m3/kg of dry casein ~1.5×10-3 m3/kg of dry protein ~1.0×10-3 m3/kg of lactose
+
+When  ( i )  0 , Equation 11 reduces to the well-known Einstein equation for the viscosity of a very dilute solution of hard spheres:
+
+ =  0 (1 + 2.5)
+
+(13)
+
+While Einstein's equation assumes no particle-particle interaction, Eiler's equation accounts for the presence of the dispersed phase as well as hydrodynamic interaction between particles during flow. The viscosity of Newtonian milk products depends on several factors besides those mentioned above. These include composition, concentration, temperature, thermal history and processing history. Viscosity increases with percentage total solids (w/w) but, for a given total solid percentage, is inversely proportional to percentage fat because of the lower voluminosity of fat compared with casein. When (i) exceeds 0.6 (which corresponds to
+
+  10 ), viscosity increases 0
+
+steeply with (i) and rheological behaviour becomes Non-Newtonian [44].
+
+5.2
+
+Newtonian solutions
+
+behaviour
+
+of
+
+milk/surfactant
+
+Figure 30 (in chapter 4) as well as Figure 31 shows the state of proteins in a milk/surfactant solution. Figure 31 illustrates that protein shows interaction with 60
+
+SDS as well as being denatured by SDS [32]. However, the protein/SDS complex only increases to a limited extent and do not contribute to the nonNewtonian fluid behaviour found in CMT gel. As a result, milk/surfactant solutions not containing somatic cells only exhibit Newtonian fluid behaviour.
+
+Figure 31: The SDS-coated proteins in milk/surfactant solution [29]
+
+5.3
+
+Non-Newtonian behaviour of the CMT gel
+
+When there are enough somatic cells (e.g. when SCC > 1000 k cells/ml) in milk, cells can interact with surfactant to form a gel, which might change the milk/surfactant solution from a Newtonian fluid to a Non-Newtonian fluid. For instance, when an ionic surfactant (e.g. SDS) is introduced to milk with a high somatic cell count, it forms a gel displaying a complex time- and sheardependent rheology. Figure 32 demonstrates a typical apparent viscosity versus time graph for high SCC milk at a constant shear rate, using Brookfield viscometry [10].
+
+61
+
+Gel formation Peak viscosity
+
+90
+Apparent viscosity (cps)
+
+Breakdown of gel
+
+70 50 30 10 0 -10
+Time (min)
+
+5
+
+10
+
+15
+
+20
+
+25
+
+-30
+
+Figure 32: A graph of apparent viscosity of high SCC interacts with SDS versus time, showing the whole process of gel formation and breakdown [10]
+
+Walmsley et al., [34] reported that high SCC-milk/surfactant solution demonstrated a non-Newtonian behaviour and observed a peak viscosity within two minutes, when using Brookfield viscometry. Whyte et al., [5] confirmed that CMT gel exhibits non-Newtonian behaviour and more specifically, the nonNewtonian behaviour was shown to be visco-elastic, rheopectic as well as rheodestructive.
+
+5.3.1
+
+Visco-elastic properties
+
+Visco-elastic fluids have both elastic properties typically found in solids and viscous properties found in liquids. Visco-elastic properties are found in fluids with long polymer chains that become entangled or cross-linked, such as a polymer melts and some polymer solutions. One simple test for viscoelasticity is the "Weissenberg effect", which occurs when a rod is rotated in a visco-elastic fluid. In this test, the fluid will climb up a rotating shaft instead of forming a vortex because visco-elastic fluids not only transmit shear forces like a Newtonian fluid but also transmit tensile forces through
+
+62
+
+the fluid [45]. This allows the fluid under certain conditions to show elastic characteristic of a solid material. Figure 33 illustrates the Weissenberg effect as observed in an adaptation of the CMT. Visco-elasticity has been unwittingly described in the original California Mastitis Test, where the procedure for sensing the properties of the gel is described by visually assessing the viscosity of the gel. A CMT score of 2 is assigned if the fluid mixture is swirled it tends to move toward the centre, leaving the bottom of the cup. To assign a score of 3 the swirling action of the test operator has to induce a distinct central peak [27]. Although not mentioned as such in the test description, this behaviour is characteristic of a visco-elastic fluid [5].
+
+Figure 33: The Weissenberg effect of the CMT gel climbing a glass stirring rod rotated at approximately 100 RPM [5]
+
+5.3.2
+
+Rheopectic properties
+
+Rheopectic fluids increase their viscosity over time with application of a constant shear force. In Figure 32, the time-dependant viscosity of the gel is illustrated. Helenius & Simons (1975) [35] proposed that surfactant molecules lyse cells by the absorption of individual surfactant molecules into the fat around the cell. This interaction changes the molecules into the bilipid layer of cell wall. This changes the molecular organization of the cell wall which, in turn, alters the cell's permeability and hence the cell's osmotic equilibrium. The cells absorb water and burst allowing leakage of the cellular contents. The property of the cells that form the gel would then
+
+63
+
+take a finite time to react with the surfactant [35]. Whyte et al., [5] suggested that the rheopectic nature of the gel is caused by the time taken for the cells to break open, release the DNA and for the DNA-surfactant binding to occur.
+
+Fell et al., [46] studied the effect of milk/surfactant mixing time on gel formation using a roll-tube mixer for 20, 40 and 60s. Increased mixing time resulted in increased viscosity of CMT gel, a result which confirms the rheopectic nature of CMT gel. However, they did not test mixing times longer than 60s. The results from Whyte et al., [5] showed that maximum gel formation occurred between 60s and 150s, improper mixing may have been a significant source of error in the earlier results obtained with the rolling ball viscometer.
+
+5.3.3
+
+Rheodestructive properties
+
+In addition to the time-dependant formation of CMT gel, the gel also shows a time-dependant breakdown. If the time-dependant loss of viscosity is nonreversible, the fluid is considered to have rheodestructive properties. As shown in Figure 32, continued shearing of the gel mixture leads to an irreversible decrease in the viscosity. It was proposed by Whyte et al., (2004) that the breakdown of the CMT gel may involve three mechanisms: enzymic, chemical and physical shearing [5].
+
+Enzymic
+
+According to Singh and Marshall [18], DNase I can stop gel formation. They measured the time taken for the gel to disappear from milk samples scored CMT 0 to 3 by using various concentrations of DNase. Gel reduction occurred within 1 minute at 24 ppm, within 1.3 minutes at 12 ppm, within 5 minutes at 2.4 ppm and at 0 ppm, the gel was reduced to a "trace" score within 5 minutes. Smith and Schultze also supported that the breakdown of the gel is due to enzymic involvement
+
+64
+
+[47]. Whyte et al., suspected but were unable to conclude whether DNase I is a crucial factor in gel breakdown [5].
+
+Chemical
+
+Sodium dodecyl sulphate (SDS) is known as a strong protein denaturing surfactant [32], and the gel is the mixture of DNA, proteins and surfactant [5; 41]. After the gel formation, the surplus SDS in the milk/surfactant mixture will disassociate the proteins (which are mainly composed of histone and histone-like protein) from DNA and the speed at which this occurs is strongly dependent on pH [21]. Consequently, SDS denatures the histone and histone-like protein, thus break the structure of the gel. As a result, the viscosity of the gel falls greatly, the gel disappeared in the end.
+
+Physical shearing
+
+Previously, it has been shown that prolonged shearing of CMT gel leads to a decrease in viscosity [39; 43]. However, breakdown may only occur above a critical shear rate [48; 49]. Hermans [50] showed that the viscosity of DNA solutions is permanently reduced when sheared even below 0.1 Pa. In work done by Walmsley et al., (Figure 34) CMT gel was sheared at 1.5 Pa and it was concluded that shear was likely the cause of gel breakdown [5; 34]. However, the thought that physical shearing is the cause of breakdown of the gel was challenged by Carre(1970) [51], who found that once maximum gel had formed, the gel naturally broke down over 10-20 minutes without any applied stress.
+
+65
+
+Figure 34: Change in apparent viscosity of CMT gel over time for various SCC: 2 million cells/ml (); 1.3 million cells/ml (); 1.1 million cells/ml (); 0.7 million cells/ml (); homogenized and standardized milk () [5]
+
+5.4
+
+Using viscosity to determine SCC in milk
+
+As discussed earlier, mastitis is characterised by increased numbers of somatic cells in milk. According to Vangroenweghe et al. [15], SCC is routinely used to evaluate udder health and milk quality. SCC from healthy, non-inflected glands should be lower than 200 k cells/ml, SCC between 200- and 300- k cells /ml are indicative of inflection, and a SCC of more than 300 k cells /ml should be regarded as abnormal milk. It has previously been shown there is a relationship between viscosity and SCC of gel formed during the interaction of surfactant (such as SDS) and infected milk. The interaction is associated with the release of DNA from the nuclei of the leucocytes (i.e. somatic cells) in abnormal milk [20] . The interaction of SDS with released DNA causes a rapid increase in viscosity. This viscosity change is used to estimate SCC in infected milk [28].
+
+66
+
+Kiermeier & Keis [52] found a linear relationship between CMT gel viscosity and SCC in 1964. This finding was confirmed by Whyte et al. [5; 10; 34], who reported that the slope of the apparent viscosity versus time graphs are directly proportional to the SCC. Plots of the change in viscosity of the CMT gel over time are shown in Figure 34, for milk samples with various SCC [5]. According to Liew et al., extremely high SCC should not affect the linear relationship between viscosity and SCC [10]. However, crucial detection zone was found to be between cell 200- to 1 000- k cells/ml. It was found that the accuracy and precision of viscosity measurement in this range was acceptable. Based on previous work done by Sensortec [10], the outputs of the ideal system should be divided into four bands of SCC, which could be indicative of different stages of mastitis:
+
+· · · ·
+
+<200 k cell/ml (non-infected stage) 200- to 500- k cells/ml (early subclinical stage) 500- to 1 000- k cells/ml (subclinical stage) >1 000- k cells/ml (clinical stage)
+
+67
+
+Chapter 6
+6.1
+6.1.1
+
+Experimental
+Materials
+Reagents
+Reagent Grade Supplier
+
+Table 9: Reagents and their suppliers
+
+Sodium dodecyl sulphate (SDS) in forms of Dodecysulfate-Na salts Acetic acid (AA) Triton 114 (T)
+
+95%
+
+Merck Germany
+
+Schuchardt
+
+OHG,
+
+99% 100%
+
+Asia
+
+Pacific
+
+Specialty
+
+Chemicals Ltd, ABN BDH Chemicals Ltd, England
+
+6.1.2
+
+Proteins
+Protein Grade Supplier
+
+Table 10: Proteins and their suppliers
+
+Bovine (BSA)
+
+serum
+
+albumin Fraction V Boehringer Mannheim GmbH, Germany from from Pure Pure Sigma-Aldrich, Inc, USA Sigma Chemical, Co, USA
+
+Spray-dried bovine milk Casein
+
+whey
+
+powder
+
+bovine milk
+
+68
+
+6.1.3
+Milk
+
+Milk
+Composition Protein (per 100ml) Fat (per 100ml) SCC (per ml) Supplier
+
+Table 11: Sample milk and its supplier
+
+Raw milk*
+
+3.39 ~ 4.58 g
+
+2.14 ~ 6.13 g 0.1 g 3.3 g
+
+59 ~ 6,500 k cells 0 cell 0 cell
+
+Dexcel's pasture Anchor in New Zealand
+
+Waikato Hamilton, milk
+
+Powder milk#* Shop milk*
+
+3.4 g 3.1 g
+
+Instant
+
+powder, New Zealand Anchor dark-blue shop milk, New Zealand
+*All milk samples were refrigerated at 4~7 Celsius until use Considering the great influence of prehistory of raw milk (because of cell death), all
+raw milk samples with somatic cells have to be used for experiments within 2 days
+#
+
+Powder milk was reconstituted using distilled water at a volume ratio 1: 4 (milk
+
+powder: water) and refrigerated at 4~7 Celsius until use
+
+69
+
+6.2
+
+Equipment
+
+1. Brookfield Viscometer (Model DV-II) including: LV Spindle 1 and Sample Holder (as shown in Figure 35), equipped with an analogue to digital signal converter for data logging. 2. Ubbelohde Viscometer (Model No. 1B M423) (Figure 36). 3. General lab glassware and equipment.
+
+Figure 35: Brookfield viscometer (Model DV-II)
+
+70
+
+Figure 36: Ubbelohde viscometer (Model No. 1B M423)
+
+In this project a Brookfield viscometer was used, representative of a rotational viscometer to investigate the flow properties of the CMT gel under shear. An Ubbelohde viscometer was also used as a capillary viscometer to investigate the rheological properties of the CMT gel when the shear rate is nearly zero.
+
+71
+
+6.3
+6.3.1
+
+Methods
+Brookfield viscometry
+
+When using Brookfield viscometry, samples are prepared by mixing 300 ml milk with the same volume of surfactant at a given concentration in a 600 ml beaker, the exact procedure for is given in appendix 1. The viscosity measured by Brookfield viscometry is called apparent viscosity  a , which is calculated by using a gross assumption that the nonNewtonian liquid is obeying Newton's law of viscosity:
+
+=
+
+F  dv( z )  =  a - A  dz  
+
+Thus any shear rate may be expressed as the velocity gradient in the direction perpendicular to that of the shear force. The unit of apparent viscosity is centipoise ( 1 centipoise = 10 -3 Pa  s ), the abbreviation of centipoise is cps.
+
+6.3.2
+
+Ubbelohde viscometry
+
+When using Ubbelohde viscometry, 6.5 ml milk is mixed with the same volume of surfactant at a given concentration inside the Ubbelohde tube as shown in Figure 36. Details of the exact procedure followed are given in appendix 2. It must be noted that for each test, it takes 30 seconds for the Ubbelohde viscometer to be set up before the viscosity is measured. In other words, each relative viscosity of milk/surfactant solution obtained by using Ubbleohde viscometer includes a 30 seconds time delay due to the setup time. The viscosity of the gel measured by Ubbelohde viscometry is called relative viscosity, which is the ratio between the measured fluid's viscosity (in forms of efflux time) and the water viscosity (in forms of efflux time) at the same condition (e. g. at room temperature). It is known that the viscosity of water at room temperature is 1 × 10-3 Pa ·s.
+
+72
+
+6.4
+6.4.1
+
+Experimental plan
+Scope
+
+It was shown earlier that the viscosity of the CMT gel is proportional to the SCC. It was decided to eliminate the factors listed below one by one, so that one can well recognize how they can affect the viscosity of the CMT gel.
+
+· SCC effect on viscosity of the gel
+To investigate the effect of SCC on the viscosity of the CMT gel, pasteurised milk (SCC = 0 k cells/ml) as well as raw milk with various SCC were used. The same concentration of surfactant was used in each viscosity test. By comparing the results, the effect of SCC on the viscosity of the gel can be determined.
+
+· Viscometry technique
+To investigate which viscometry technique is more effective for relating SCC to viscosity, the Brookfield viscometer was used to investigate the time-dependant flow behaviour at various shear rates. Shear rate was varied by changing the spindle speed of the viscometer. Ubbelohde viscometry was used in comparison to investigate the viscosity of CMT gel at very low shear rates. Ubbelohde viscometry only measures a single point representing viscosity and is not appropriate for the characterisation of non-Newtonian properties, which means a combination of Brookfield and Ubbelohde viscometry techniques is necessary.
+
+· Time delay
+It was shown earlier that the CMT gel demonstrated time-dependant non-Newtonian behaviour [5; 10]. Therefore, it was decided to investigate the effect of various interaction times on the viscosity of the gel. This would allow one to determine whether gel formation is 73
+
+sensitive to mixing prior to testing.
+
+· Shear rate
+It was shown earlier that the CMT gel demonstrated shear-dependent non-Newtonian fluid behaviour [5; 10]. To investigate how shear rate affects on characterising the rheology of CMT gel, we separately use Brookfield viscometer and Ubbelohde viscometer to measure the viscosity of the CMT gel. The shear rate in the Ubbelohde viscometer can be regarded to be zero whereas the shear rate of Brookfield viscometer can be changed by varying the spindle speed.
+
+· Temperature
+The CMT was performed at different temperatures to estimate the sensitivity of the test to temperature.
+
+· Surfactant type and concentration
+It was previously reported that SDS is a commonly used surfactant in the CMT [5; 22; 51]. SDS is an anionic surfactant with a hydrophilic head group and hydrophobic tail group, (see Figure 20). In order to determine how SDS influences the viscosity of the CMT gel, other chemicals, with similar structure as SDS, were used as a comparison. Based on this, acetic acid and Triton-114 were used in this study. Each of these surfactants was used at the same concentration when compared to SDS under similar conditions. In addition, it was shown earlier that the surfactant concentration also affects the viscosity of the gel [10]. To further investigate this, the concentration of the various surfactants was varied.
+
+· Mixed surfactant
+It was reported that some non-ionic surfactant can lyse plasma membrane of somatic cells but not its nucleus envelope [29; 31]. SDS is a strong anionic surfactant which can lyse both the plasma membrane and the nucleus envelope [38]. It was also known that SDS can denature 74
+
+proteins [38]. To investigate the possible effects of mixed surfactants on the viscosity of the CMT gel, it is decided to mix 2% Triton-114 with 1% SDS. The results can then be used as comparison to the performance of SDS solution alone.
+
+· Milk composition
+It was found in previous studies that there is a linear relationship between SCC and viscosity [6]. However, the milk has complex composition, which include proteins, fat, SCC and hydrocarbons [4]. To investigate how milk composition affects gel formation and possibly the correlation between SCC and viscosity, the relative quantities of the main milk fractions were varied by using different kinds of milk. Raw milk contains proteins, fat and SCC. Deep blue Anchor shop milk contains proteins, fat, but no SCC. Green Anchor non-fat instant milk powder contains proteins, nearly no fat, and no SCC. To investigate the effect of protein content on the viscosity, various proteins had to be added to milk. It is well known that milk contains mainly whey, casein and BSA [14]. BSA, whey, and casein were added separately to different types of milk samples to allow its concentration to be 1% more than its original concentration in the milk samples.
+
+6.4.2
+
+Experimental design
+
+The key target for this project is to develop an understanding of the mechanism of the CMT gel formation, and how various factors influence the rheology of the gel that formed. This can be achieved by monitoring the viscosity of CMT gel's formation and breakdown process. Factors that may influence the rheology of gel, which are investigated are: 1. 2. 3. 4. rheology testing conditions, including time delay, shear rate and temperature, surfactant type as well as concentration of the surfactant, composition of milk, including fat, somatic cells, milk protein content.
+
+75
+
+To investigate the relative importance of these factors, an experimental plan, as shown in Table 12 and Table 13 was followed. The following factors were the major variables:
+
+o rheology and fluid type
+To this extent, milk up to a SCC of 6,321 k cells/ml was used, categorized as: 1. zero SCC pasteurised milk 2. low SCC milk (SCC < 500 k cell/ml ) 3. middle SCC milk (1,000 k cells/ml > SCC > 500 k cells/ml) 4. high SCC milk (SCC > 1,000 k cells/ml)
+o testing conditions
+
+1. time delay to consider time-dependant gel formation prior to viscosity testing. Reagent and milk were mixed and left for a predetermined time to allow gel formation prior to viscosity testing 2. shear rate or spindle speed 3. temperature
+
+o surfactant type with varied concentrations:
+1. SDS solutions at 1%, 3%, 6% w/w 2. acetic acid solutions at 1%, 3%, 6% w/w 3. Triton-114 solution at 1% w/w 4. mixed surfactant (2% Triton-114 and 1% SDS)
+
+o composition of milk
+1. milk type with different concentrations of fat: 1) 2) homogenized and pasteurized (shop milk) homogenized, pasteurized, and reconstituted (milk made from milk powder) 2. milk protein: 1) 2) 3) adding enough Bovine Serum Albumin (BSA) to reach adding enough casein (from bovine milk) to reach 1% adding enough whey protein (from bovine milk) to 1% extra BSA in milk extra casein in milk reach 1% extra whey in milk 76
+
+Table 12: Experimental plan (1)
+Reagent concentration (%) Viscometry technique
+
+Protein addition
+
+Spindle speed
+
+Reagent type
+
+Powder milk Time delay (second)
+0 30 45 60 75 90 0
+
+Shop milk Time delay (second)
+30 45 60 75 90 0 10 15
+
+Farm milk Low SCC Time delay (second)
+20 30 45 60 75 90 150 0
+
+Middle and High SCC Time delay (second)
+30 60 90 150 270
+
+60 RPM
+
+30 RPM
+
+None
+
+12 RPM
+
+0.3 RPM
+
+Ubbelohde viscometer
+
+None
+
+1% BSA
+N/A
+
+1% Whey
+
+1% Casein
+
+SDS AA SDS SDS AA SDS SDS SDS SDS AA T SDS AA SDS/T SDS AA SDS SDS SDS SDS SDS SDS SDS SDS SDS SDS SDS SDS SDS SDS SDS SDS
+
+1 3 6 1 3 6 1
+
+Brookfield viscometer
+
+3 6 1 0 1 3 6 0 1 3 6 0 1 3 6 0 1 3
+
+refer to experiment done
+
+77
+
+Table 13: Experimental plan (2) Temperature (Celsius) 0 20 10 0 refer to experiment done 1 3 0 1 Powder milk Shop milk Low SCC raw milk Water
+
+Concentration of SDS (%) 3 0 1 3 1 3 6
+
+78
+
+Chapter 7
+
+Results and discussion
+
+Figure 37 shows a typical viscosity versus time response obtained for abnormal milk during the CMT. In this test a spindle speed of 0.3 RPM was used and a 1% SDS solution was added to the milk. This graph is representative of most cases where the SCC is above 1000 k cells/ml. The process can be broadly divided into two stages: firstly gel formation, followed by gel breakdown. In Chapter 4, various mechanisms were discussed to explain different steps within each stage. These were:
+
+·
+
+Break down of cell wall (step 1) and nucleus envelope (step 2) and subsequent unwinding of chromosomes. This exposed the DNA bound histones and gelation occurs (step 3). This is collectively referred to as gel formation, as shown in Figure 37.
+
+·
+
+Histones were extracted from the DNA chains by SDS and subsequently the fibrous network was lost (step 4). This is the gel breakdown stage, as shown in Figure 37.
+3000 Step 3 Apparent viscosity (cps) 2500 Step 2 2000 1500 1000 500 Gel formation 0 0 300 600 900 1200 1500 1800 2100 2400 2700 3000 3300 3600 Interaction time (sec) Step 1 Gel breakdown Step 4 Peak viscosity
+
+Figure 37: Apparent viscosity of raw milk (3,884 k cells/ml) measured by Brookfield viscometry at 0.3 RPM and 1% SDS, indicating the whole process of the CMT gel formation and breakdown.
+
+In this study, the mechanism of gel formation was further investigated. Various aspects of the mechanism of gel formation have been discussed in Chapters 2 to 5. Even though the mechanism of gel formation is the main purpose of the investigation, it has to be kept in mind that the CMT was designed to detect mastitis in milk, and
+
+79
+
+only later it was slightly adapted to correlate viscosity to a somatic cell count. Therefore, it is also important to make sure that the method of viscosity measurement is appropriate and accounts for factors that might influence the measurement. Based on Chapters 2 to 5, the most important aspects that could potentially influence the ability to successfully measure a somatic cell count would therefore include:
+
+· · · ·
+
+rheology testing conditions and shear rate surfactant type composition of the milk.
+
+7.1
+
+Rheology
+
+Viscosity measurement techniques were discussed in Chapter 2 and it was found that most literature regarding measuring the viscosity of the gel mentioned low shear devices. To this extent, the rolling ball viscometer proved very popular in earlier studies. In this study the Brookfield and Ubbelohde viscometers were used. The Brookfield viscometer allows for an adjustable spindle speed or shear rate. The viscosity can be monitored over an appropriate time scale and under constant shear rate, allowing for detecting time dependant effects. On the other hand, the Ubbelohde viscometer can be treated as a device with a very low shear rate. Unfortunately, the Ubbelohde viscometer only measures a single point representing viscosity and would not allow non-Newtonian characterisation of the fluid. From the literature discussing the nature of the CMT gel, it was indicated that the gel behaves as either as a Newtonian fluid or as a non-Newtonian fluid, depending on the SCC. It was shown that the viscosity is time dependant as well as visco-elastic, when the fluid is non-Newtonian. To investigate the nonNewtonian behaviour, the Brookfield viscometer was used, for reasons mentioned above. The time dependence of the gel cannot be considered without also considering the SCC in abnormal milk. Therefore the viscosity was always measured at different SCC and compared to healthy milk.
+
+80
+
+Figure 38 and Figure 39 show the apparent viscosity versus time graphs for milk with various SCCs. From these graphs it can be seen that the larger the SCC in raw milk, the higher the peak viscosity of the gel. The results also show that the viscosity of the gel is time-dependant. It reaches a maximum within two minutes of testing for abnormal milk with high SCC, after which it drops due to gel breakdown (Figure 38). If the SCC is less than 100 k cells/ml, the viscosity of the milk/surfactant solution is constant and Newtonian (Figure 39). If the SCC is between 100 k cells/ml and 300 k cells/ml, only a vague peak viscosity is observed. Above 300 k cells/ml, a strong peak is observed and the fluid is clearly a time-dependant non-Newtonian fluid (Figure 39). Not evident from the figures is the effect of shear rate and the surfactant concentration, which will be discussed in the following sections.
+
+Apparent viscosity (cps)
+
+400 350 300 250 200 150 100 50 0 0 30 60 90 120 150 180 210 240 270 300 330 Interaction time (sec) Middle SCC milk (598k cells/ml) High SCC milk (1,650kcells/ml)
+
+Figure 38: Apparent viscosity of milk with 1% SDS at different SCC at 12 RPM, showing the viscosity of the gel is time-dependant.
+
+81
+
+Apparent viscosity (cps)
+
+100 80 60 40 20 0 0 30 60 90 120 150 180 210 240 270 300 330 Interaction time (sec) Low SCC milk (59 k cells/ml) Low SCC milk (110 k cells/ml) Low SCC milk (317 k cells/ml)
+
+Figure 39: Apparent viscosity of milk with 1% SDS with various SCC, measured at 12 RPM. Results indicate that a critical SCC is necessary for gel formation.
+
+In Figure 40 the relative viscosity of various gels measured by Ubellohde viscometers at different SCCs is shown. It can be seen a linear relationship exists between cell count and relative viscosity for cell counts up to 6,300 k cells/ml. It can be seen that this relationship is dependent on the surfactant concentration. Three or more percent SDS is necessary for accurate measurement, but using higher concentrations resulted in great scatters in the data.
+17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 0 500 1000 1500 2000 2500
+
+y = 0.0014x + 3.6863
+
+Relative viscosity
+
+y = 0.001x + 2.9034
+
+1% SDS 3% SDS 6% SDS
+
+y = 0.0002x + 2.0436
+
+3000
+
+3500
+
+4000
+
+4500
+
+5000
+
+5500
+
+6000
+
+SCC range (k cells/ml)
+
+Figure 40: Relative viscosity versus SCC of raw milk at different surfactant concentrations, measured by Ubbelohde viscometry.
+
+6500
+
+82
+
+In Figure 41, it can be seen that maximum apparent viscosity measured by Brookfield viscometry is proportional to SCC. The slope of the linear relationship depends on the surfactant concentration. Compared to Figure 40, Brookfield viscometry has a greater sensitivity to changes in SCC. For 3% SDS the slope of the linear correlation, using Brookfield viscometry is almost two orders of magnitude greater than using Ubbelohde viscometry.
+Maximum apparent viscosity (cps) 800 700 600 500 400 300 200 100 0 0 500 1000 1500 2000 2500 3000 SCC range (k cells/ml) y = 0.1601x + 25.097 1% SDS 3% SDS y = 0.2453x + 20.475
+
+Figure 41: Maximum apparent viscosity versus SCC of raw milk at different surfactant concentrations, measured by Brookfield viscometry.
+
+Despite the linear relationship between SCC and maximum apparent viscosity, different flow characteristics were observed at different SCC. For a SCC of more than 1,000 k cells/ml, visco-elastic flow behaviour was observed at all SDS concentrations. Figure 42 (a) illustrates the Weissenberg effect, typically found in visco-elastic fluids. If the SCC is between 500 and 1,000 k cells/ml, only vague non-Newtonian flow behaviour is observed, as illustrated in Figure 42 (b). In general, no visco-elasticity was observed if the SCC was less than 500 k cells/ml. This could be one of the reasons for greater scatter in the SCC versus apparent viscosity data at high SCC and stronger SDS concentrations.
+
+83
+
+a
+
+b
+
+Figure 42: Visco-elasticity during the interaction between high SCC milk (SCC > 1,000 k cells/ml) and 1% SDS (a) and middle SCC milk (1,000 k cells/ml > SCC > 500 k cells/ml) and 1% SDS (b).
+
+In summary, for an extremely low SCC (SCC < 100 k cells/ml), when SDS was added to milk, the milk/surfactant solution mainly behaved Newtonian despite some gel formation. The Newtonian behaviour of the milk/surfactant solution outweighed the non-Newtonian behaviour of the gel, thus the whole milk/surfactant solution demonstrated Newtonian behaviour. However, for SCC between 100 k cells/ml and 500 k cells/ml, the milk/surfactant solution demonstrated time-dependant, non-Newtonian behaviour. For SCC above 500 k cells/ml, the milk/surfactant complex not only demonstrated a time-dependant behaviour but also visco-elasticity. It was also found that capillary viscometry is a successful technique for correlating SCC with relative viscosity. It does not offer insight into the nonNewtonian behaviour of the gel, but this is often not necessary when only a correlation between SCC and viscosity in sought. Brookfield viscometry, on the other hand, enables a much more comprehensive investigation into time and shear dependent behaviour of the gel. The two techniques lead to the same
+
+84
+
+conclusions regarding the relationship between SCC and viscosity, but it was found that Brookfield viscometry is slightly more sensitive at low SCC.
+
+7.2
+
+Testing conditions and shear rate
+
+To fully understand the impact that the non-Newtonian behaviour of the gel might have on the detection of SCC, one also have to investigate the testing conditions. This was done by measuring the apparent viscosity at different shear rates (spindle speeds). Also, the Ubbelohde viscometer was used as a device with nearly zero shear rate. In addition to investigate whether sufficient time is allowed for the gelation interaction prior to viscosity measurement, various time delays were introduced prior to testing. This involved mixing the surfactant with milk and then leaving it for a specified time to interact. The apparent viscosity versus time was then measured using Brookfield viscometry, or the relative viscosity by means of the Ubbelohde viscometer.
+
+7.2.1
+
+Time delay
+
+Figure 43 demonstrates that for low SCC milk (SCC < 500 k cells/ml), time delay had no significant influence on the relative viscosity and the viscosity was constant over the whole time of testing. The same was found for pasteurised milk. Therefore, the results match well with literature findings stating that normal milk should be Newtonian and therefore not timedependant. Figure 44 shows that when 1% surfactant solution was introduced to different ranges of higher SCC raw milk (SCC > 500 k cells/ml), time delay can influence the relative viscosity of the milk/surfactant solution significantly. For raw milk with higher SCC, the viscosity of the milk/surfactant solution increases with longer time delays. This indicates that the gel formation process is time-dependant and the viscosity measurement technique could potentially influence the correlation between SCC and viscosity. In Figure 45, Figure 46 and Figure 47 the apparent viscosity versus time graphs are shown for various milk samples. The results show that 30 seconds is sufficient to allow gel formation. In these figures, different rotational speeds (shear rate) were also used. The effect of this on
+
+85
+
+the peak viscosity and the time to reach this viscosity is summarised in Figure 48 and Table 14, respectively.
+4.50 4.00 Relative viscosity 3.50 3.00 2.50 2.00 1.50 1.00 0.50 0.00 30 60 Time delay (sec) 90 Low SCC milk (446 k cells/ml) Low SCC milk (158 k cells/ml) Pasteurised milk
+
+Figure 43: Relative viscosity versus time delay for low SCC milk, using 3% SDS.
+
+6.00 5.00 Relative viscosity 4.00 3.00 2.00 1.00 0.00 30 60 90 120 150 Time delay (sec) Middle SCC milk (1000 k cells/ml) High SCC milk (2,431 k cells/ml) Middle SCC milk (738 k cells/ml)
+
+Figure 44: Relative viscosity versus time delay for milk with SCC between 738 and 2,431 k cells/ml, using 1% SDS.
+
+86
+
+25 Apparent viscoaity (cps) 20 15 10 5 0 0 30 60 90 120 150 180 210 240 270 300 330 Interaction time (sec) No delay 30 seconds delay 60 seconds delay
+
+Figure 45: Apparent viscosity versus time for low SCC milk (79 k cells/ml) for different time delays, using 1% SDS and at a spindle speed of 12 RPM.
+
+25 Apparent viscosity (cps) 20 15 10 5 0 0 30 60 90 120 150 180 210 240 270 300 330 Interaction time (sec) No delay 30 seconds delay 60 seconds delay
+
+Figure 46: Apparent viscosity versus time for low SCC milk (79 k cells/ml) for different time delays, using 1% SDS and at a spindle speed of 30 RPM.
+
+87
+
+Apparent viscosity (cps)
+
+25 20 15 10 5 0 0 30 60 90 120 150 180 210 240 270 300 330 Interaction time (sec) No delay 30 seconds delay 60 seconds delay
+
+Figure 47: Apparent viscosity versus time for low SCC milk (79 k cells/ml) for different time delays, using 1% SDS and at a spindle speed of 60 RPM.
+
+Time to peak viscosity (sec)
+
+350 300 250 200 150 100 50 0 0 30 Time delay (sec) 60 12 RPM 30 RPM 60 RPM
+
+Figure 48: The effect of time delay and spindle speed on the time to reach peak apparent viscosity Table 14: Comparison of time delay's effect on the peak viscosity of the gel at different RPM
+
+Spindle speed 12 RPM 30 RPM 60 RPM
+
+No delay
+
+19.5 14.2 13.0
+
+30 seconds 60 seconds delay delay Maximum apparent viscosity (cps) 20.0 19.5
+
+14.8 12.6
+
+14.2 12.7
+
+From Figure 48 and Table 14, it can be seen that time delay shortens the time it takes for the apparent viscosity to reach a maximum, the magnitude
+
+88
+
+of which is independent of the delay time. The decrease in time to peak viscosity was also more than the delay time, showing overall faster measurement times would be possible if a delay time is used. However, the shear rate or spindle speed influences both the time to reach the peak viscosity as well as the magnitude of this maximum and will be discussed further below.
+
+7.2.2
+
+Shear rate
+
+Figure 49 and Figure 50 show that the higher the shear rate, the lower the peak viscosity of the gel and the shorter the time it takes to reach the peak viscosity. From Figure 51, it can be seen that the SCC also influences this observation and the effect of shear rate is more prominent at higher SCCs. Figure 38 shows that for high SCC milk (SCC > 1,000 k cells/ml) and low shear rate (12 RPM), the peak viscosity is reached within 2 minutes. When the shear rate is extremely low and the SCC is extremely high (SCC > 3,000 k cells/ml), the peak viscosity is only reached after about 20 minutes (Figure 37, viscosity measurement was done at 0.3 RPM). In summary, the above findings match well with the earlier report of Liew et
+
+al., and Walmsley et al. [10; 34], which mentioned that peak viscosity and
+viscosity before the peak is proportional to SCC but, is greatly influenced by shear rate. Therefore, to measure the viscosity of the CMT gel accurately, an identical shear rate for each measurement is required. Also, higher shear rates seem to promote gel breakdown, supporting earlier findings that the mechanism of gel breakdown is a physical process.
+
+89
+
+30 Apparent viscosity (cps) 25 20 15 10 5 0 0 30 60 90 120 150 180 210 240 270 300 330 Interaction time (sec)
+
+12 RPM 30 RPM 60 RPM
+
+Figure 49: Apparent viscosity versus time for low SCC (110 k cells/ml) milk at different RPM, using 3% SDS.
+
+100 Apparent viscosity (cps) 90 80 70 60 50 40 30 20 10 0 0 30 60 90 120 150 180 210 240 270 300 330 Interaction time (sec) 12 RPM 30 RPM 60 RPM
+
+Figure 50: Apparent viscosity versus time for middle range SCC (593 k cells/ml) milk at different RPM, using 3% SDS.
+
+90
+
+90 80 70 60 50 40 593 k cell/ml 30 20 110 k cell/ml 10 0 0 10 20 30 RPM 40 50 60 70 593 k cell/ml
+
+300
+
+200
+
+110 k cell/ml
+
+150
+
+100
+
+50
+
+0
+
+Figure 51: The effect of spindle speed on the maximum apparent viscosity and time to reach maximum viscosity
+
+7.2.3
+
+Temperature
+
+Figure 53 indicates that temperature only slightly influence the relative viscosity of the gel. From Figure 52 and Figure 53, it can be seen that the relative viscosity of SDS solutions as well as milk/SDS mixtures are inversely proportional to temperature. Nevertheless, the change of gel's viscosity caused by temperature alone is so small compared with the change of the viscosity caused by gelation.
+
+Time to max apparent viscosity (sec)
+
+Maximum apparent viscosity (cps)
+
+250
+
+91
+
+1.6 1.4 Relative viscosity 1.2 1 0.8 0.6 0.4 0.2 0 0 5 10 15 20 25 Temperature (Celsius)
+
+Figure 52: Relative viscosity of 1% SDS solution versus temperature.
+
+3.50 3.00 Relative viscosity 2.50 2.00 1.50 1.00 0.50 0.00 10 Temperature (Celsius) 20 Shop milk Low SCC milk (47 k cells/ml) Low SCC milk (266 k cells/ml) Powder milk
+
+Figure 53: Relative viscosity of different types of milk at different temperatures, using 1% SDS.
+
+7.3
+
+Surfactant type
+
+The first two steps of gel formation are concerned with the breakdown of cell walls and nuclei envelopes. As discussed in Chapter 4, the cell wall consists of a lipid bi-layer which is disrupted by the action of a strong surfactant. It was previously shown that SDS is very effective in lysing cell walls as well as nuclei envelopes. To understand the effect of SDS, other chemicals with similar structures were studied in addition to SDS.
+
+92
+
+· ·
+
+To further confirm that SDS is so far more effective than other reagents for CMT, SDS with various concentrations were used for comparison. Acetic acid was used for the fact that this molecule has a polar head and a short hydrophobic tail. This is very similar to the amphiphilic nature of SDS. However, SDS is anionic and has a 12 carbon hydrophobic tail.
+
+·
+
+Triton-114 is a non-ionic surfactant with a long hydrophillic hydrocarbon chain as well as a long hydrophilic chain. This surfactant is known to lyse cell membranes, but not the nuclei envelope.
+
+·
+
+A combination of Triton-114 and SDS, in order to observe possible interaction effects between the surfactants.
+
+7.3.1
+
+SDS
+
+It was found that when using SDS as CMT reagent, no matter at what concentration it was introduced into powder milk or shop milk, the viscosity of the solution was constant and no gel formed (Table 15). From Figure 54 it can be seen that when SDS is introduced to milk with a SCC of less than 100 k cells /ml, 1% SDS is not sufficient to cause gelation. When 3% or 6% SDS is used the viscosity of the mixed solution increase distinctly. If the SCC in raw milk is above 500 k cells/ml, Figure 55 and Figure 56 indicate that the apparent viscosity of the CMT gel is proportional to the surfactant solution concentration. It can therefore be concluded that SDS is an effective surfactant in the CMT.
+Table 15: Apparent viscosity of powder and shop milk at different concentrations SDS, measured by Brookfield viscometry at 12 RPM.
+
+SDS addition Adding 1% SDS Adding 3% SDS Adding 6% SDS
+
+Powder milk (cps)
+
+Shop milk (cps)
+
+3.51 ± 0.50 4.51 ± 0.50 5.01 ± 0.50
+
+4.01 ± 0.50 5.01 ± 0.50 6.01 ± 0.50
+
+93
+
+40 Apparent viscosity (cps)
+
+30 1% SDS 20 3% SDS 6% SDS 10
+
+0 0 30 60 90 120 150 180 210 240 270 300 330 Interaction time (sec)
+
+Figure 54: Apparent viscosity versus time at different concentrations SDS for low SCC milk (59 k cells/ml) at 12 RPM.
+
+100 Apparent viscosity (cps) 90 80 70 60 50 40 30 20 10 0 0 30 60 90 120 150 180 210 240 270 300 330 Interaction time (sec) 1% SDS 3% SDS 6% SDS
+
+Figure 55: Apparent viscosity versus time at different concentrations SDS for middle range SCC (593 k cells/ml) milk at 12 RPM.
+
+94
+
+500 450 Apparent viscosity (cps) 400 350 300 250 200 150 100 50 0 0 30 60 90 120 150 Interaction time (sec) 180 1% SDS 3% SDS
+
+Figure 56: Apparent viscosity versus time at different concentrations SDS for high SCC (2,772 k cells/ml) milk at 12 RPM.
+
+To better understand how SDS causes gel formation, other chemicals with similar structures were also tested as potential CMT reagents. Acetic acid has a polar head and a short hydrophobic tail, which is similar to the amphiphilic nature of SDS, except that SDS is anionic and has a 12 carbon hydrophobic tail. The effect of acetic acid on gel formation is discussed below.
+
+7.3.2
+
+Acetic acid
+
+Table 16 indicate that acetic acid can interact with milk proteins to precipitate the proteins at different concentrations, thus changing the viscosity of the mixture. However, the increased viscosity is still almost constant. Acetic acid can be expected to denature proteins and cause precipitation of casein. The change of viscosity is therefore only due to the protein interaction and not to a gel formation mechanism. Although this do not prove that acetic acid did not lyse any membranes, it could be that it denatured all the proteins, even those in the histone bound DNA therefore destroying any gel formation capability.
+
+95
+
+Table 16: Apparent viscosity of milk and different concentrations acetic acid at 12 RPM
+
+Milk type Powder milk Shop milk Low SCC milk (159 k cells/ml) Middle SCC milk
+
+Concentration of Acetic acid 1% 6%
+
+6.01 ± 1.50 cps 34.10 ± 4.50 cps 65.10 ± 3.00 cps 41.40 ± 4.50 cps
+
+11.01 ± 1.50 cps 35.40 ± 5.00 cps Drops from 60.1 cps to 36.1 cps 30.10 ± 3.00 cps
+
+(645 k cells/ml)
+
+In order to confirm whether or not it is the charge of SDS that enables cell and nuclei lysing, Triton-114 was used as a reagent in the CMT. It is a nonionic surfactant with a long hydrophilic hydrocarbon chain as well as a hydrophobic tail.
+
+7.3.3
+
+Triton-114
+
+Results show that when 1% Triton-114 is introduced to high SCC milk, even though the SCC in the sample is more than 2000 k cells/ml, the viscosity of the Triton-milk solution remained constant (Table 17). Knowing that Triton114 does not lyse nuclei wall, the results suggest that DNA wasn't released from the nuclei which prohibited gel formation. Based on this as well as the result from acetic acid addition, it can therefore be confirmed that a strong anionic surfactant is necessary for gel formation.
+Table 17: Apparent viscosity of milk and different concentrations Triton-114 at 12 RPM.
+
+Concentration of Triton-114 (%) 1 3
+
+Low SCC (197 k cells/ml) (cps) milk
+
+High SCC (2,431 k cells/ml) milk (cps)
+
+3.51± 0.50 4.01± 0.50
+
+4.01± 0.50 5.01± 0.50
+
+Lastly, it was decided to use SDS in combination with Triton-114 in order to potentially increase the efficiency of SDS. The hypothesis was that if Triton96
+
+114 is used for cell wall lysing, more SDS would be available for gelation, due to nuclei lysing.
+
+7.3.4
+
+Mixed surfactant
+
+Figure 57 demonstrates that the mixed surfactant is less effective than SDS alone at the same concentration (Figure 58). In the case of milk with a low and middle SCC, there is no gel formed and the viscosity of the milk/surfactant solution is constant. However, high SCC milk formed a gel, but the viscosity was much lower than compared to the case when only SDS is used as surfactant. A much higher SCC is therefore necessary before gelation occurs. SDS must therefore be somehow prevented from forming a gel with the DNA/histone complex within the nucleus, either due to the nucleus not being lysed, or because of interaction effects between SDS and Triton-114, reducing the available SDS.
+50 Apparent viscosity (cps) 40 30 20 10 0 0 60 120 180 240 300 360 High SCC milk(1,650 k cells/ml) Low SCC milk (317k cells/ml) Middle SCC milk (598k cells/ml)
+
+Interaction time (sec)
+
+Figure 57: Apparent viscosity versus time for milk samples containing various levels of somatic cells, using 1% SDS and 2% Triton-114, at 12 RPM
+
+97
+
+400 Apparent viscosity (cps) 350 300 250 200 150 100 50 0 0 60 120 180 240 300 360 Interaction time (sec) Low SCC milk (317k cells/ml) Middle SCC milk (598k cells/ml) High SCC milk (1,650kcells/ml)
+
+Figure 58: Apparent viscosity versus time for milk samples containing various levels of somatic cells, using 1% SDS, at 12 RPM
+
+In addition to the above mentioned effects, the composition of milk may also influence the ability to accurately correlate SCC with viscosity. The major components in milk are:
+
+· · · ·
+
+fat proteins (casein and whey) hydrocarbons (lactose) water.
+
+The relative proportion of these may have some influence on gel formation and is discussed below.
+
+7.4
+
+Composition of milk
+
+It is known that water and hydrocarbons have little effect on gel formation and therefore, this investigation focussed on the effects of protein and fat content on gel formation.
+
+7.4.1
+
+Fat content
+
+Without SDS, both powder milk and shop milk demonstrated a constant viscosity. When 1% SDS was introduced into powder milk or shop milk (Table 18 and Table 19), only a slight increase in viscosity was observed. This viscosity is compared to powder milk and shop milk with the
+
+98
+
+equivalent amount of water added to account for dilution effects when introducing the surfactant solution. The relative viscosity difference between powder milk and shop milk is very small when SDS solution is added. Therefore, when SDS is introduced to milk without somatic cells, the mixed solution shows no gel formation and the viscosity is constant.
+Table 18: Relative viscosities of different milk samples with and without SDS, measured by Ubbelohde viscometry.
+
+Powder milk with low fat ( 0.1 g /100ml) Without With Adding solution SDS, with
+
+Shop milk with fat (3.3 g / 100 ml)
+
+1.38 ± 0.03 1.79 ± 0.03 1.77 ± 0.03
+
+1.46 ± 0.04 1.99 ± 0.02 1.80 ± 0.03
+
+water dilution SDS, 1% without SDS water dilution
+
+Table 19: Apparent viscosities of different milk samples with and without SDS, measured by Brookfield viscometry at 12 RPM.
+
+Powder milk with fat ( 0.1 g /100ml) Without SDS, without water dilution Adding solution 1% SDS
+
+Shop milk with fat (3.3 g / 100 ml)
+
+4.01 ± 0.50 cps 3.51 ± 0.50 cps
+
+4.51 ± 0.50 cps 4.01 ± 0.50 cps
+
+7.4.2
+
+Protein content
+
+Results in Table 20, Table 21, Table 22 and Table 23 indicate that the different types of milk proteins have a very limited influence on the viscosity of the CMT gel. Extra protein does not lead to gel formation, and the proteins' influence on the viscosity of the milk/surfactant solutions is negligible.
+
+99
+
+It was found that the viscosity of raw milk/surfactant solution with 1% BSA added is smaller than the viscosity of the raw milk/surfactant solution without BSA addition (see Table 23). This result matches well with Milne's finding that bovine albumin causes a viscosity decrease when added to somatic cell suspensions.
+Table 20: Relative viscosities of powder milk with and without additional protein, measured by Ubbelohde viscometry.
+
+Powder milk without adding 1% SDS but with water dilution Without extra protein Adding 1% BSA Adding 1% Whey adding
+
+Powder milk with adding 1% SDS
+
+1.49 ± 0.02 1.49 ± 0.02 1.49 ± 0.02
+
+1.77 ± 0.03 1.76 ± 0.03 1.77 ± 0.04
+
+Table 21: Relative viscosities of shop milk with and without additional protein, measured by Ubbelohde viscometry.
+
+Shop milk without adding 1% SDS but with water dilution Without extra protein Adding 1% BSA Adding 1% Whey adding
+
+Shop milk with adding 1% SDS
+
+1.52 ± 0.03 1.52 ± 0.03 1.52 ± 0.03
+
+1.80 ± 0.03 1.78 ± 0.04 1.77 ± 0.06
+
+100
+
+Table 22: Relative viscosities of raw milk (158 k cells/ml) with and without additional protein, measured by Ubbelohde viscometry.
+
+Raw milk without adding 1% SDS but with water dilution Without extra protein Adding 1% casein Adding 1% Whey adding
+
+Raw milk with adding 1% SDS
+
+1.52 ± 0.07 1.52 ± 0.07 1.52 ± 0.07
+
+1.92 ± 0.03 1.83 ± 0.03 1.88 ± 0.03
+
+Table 23: Relative viscosities of raw milk (186 k cells/ml) with and without additional BSA, measured by Ubbelohde viscometry.
+
+Raw milk without adding 1% SDS but with water dilution Without extra protein Adding 1% BSA adding
+
+Raw milk with adding 1% SDS
+
+1.55 ± 0.04 1.55 ± 0.04
+
+1.95 ± 0.03 1.88 ± 0.03
+
+Generally, adding protein caused a slight viscosity increase, most likely caused by the increased solid content (refer to equation 11 in chapter 5). When SDS is added a small decrease in relative viscosity is observed compared to samples without protein addition. This is most likely due to the solution being diluted when the SDS solution is added to the milk. Overall, the protein content of milk does not influence the measurement of somatic cells in abnormal milk.
+
+101
+
+Chapter 8
+
+Conclusions and recommendations
+
+Somatic cells occur normally in milk in low numbers, but increase when mastitis occurs. It is possible to monitor mastitis by measuring SCC through the California Mastitis Test, which is associated with the release of DNA from nuclei of the leucocytes by the action of a surfactant. A change in viscosity is used to indirectly measure the SCC. In our experiments, Brookfield and Ubbelohde viscometry were used to measure the viscosity of the CMT gel. The results showed that the gel is a time- and sheardependent non-Newtonian fluid with visco-elastic, rheopectic and rheodestructive properties. Furthermore, it was concluded that:
+
+·
+
+When using Ubbelohde viscometry, there is a linear relationship between the relative viscosity and SCC for SCC levels up to 6,321 k cells/ml. The surfactant concentration determines the slope of this linear relationship and it was found that at least 3% SDS is necessary for accurate results. Using more than 3% SDS resulted in more scatter in the data. It was also found that a linear relationship exists between the maximum apparent viscosity and SCC when using Brookfield viscometry. It was found that either capillary or Brookfield viscometry can be used, however, Brookfield viscometry generally was found to be more sensitive at lower somatic cell counts.
+
+·
+
+The combination of surfactant concentration and SCC influenced the rheology of the gel. The lower the SCC the more SDS was required for gel formation. It was found that when using 1% SDS the critical SCC was 79 k cell/ml, while using 3% SDS this was lowered to 59 k cell/ml. It was found that above the critical SCC the gel is a non-Newtonian rheopectic fluid. Over time, and also dependent on shear rate, the gel shows rheodestructive behaviour. With a delay time, the peak viscosity of the gel formed faster with longer delay times. It was found that the shear rate or spindle speed influences both the time to reach the peak viscosity as well as the magnitude of this maximum. Higher shear rates shortened the time to reach the maximum apparent viscosity as well as the maximum viscosity. This is
+
+102
+
+likely due to physical breakdown of the gel which is accelerated due to increased shear.When a delay time is introduced, the peak viscosity of the gel forms faster with longer delay times. After 30 seconds delay no additional change was observed.
+
+·
+
+Different surfactants have different effects on raw milk. Both acetic acid and Triton-114 were found to be ineffective as CMT reagents. Acetic acid only denatures proteins and the increased viscosity is due to the precipitation of casein. Triton-114 cannot lyse nuclei walls and therefore gel formation was prohibited due to no DNA/histone complexes being released. Mixing SDS with Triton-114 was found to be less effective than SDS alone either due to the nucleus not being lysed, or because of interaction effects between SDS and Triton-114, reducing the available SDS for gelation.
+
+· ·
+
+Temperature has a limited influence on the viscosity of CMT gel, and this influence could be neglected if the CMT is done around room temperature. The effect of protein and fat content on the rheology of the gel can be neglected.
+
+Based on the literature research and experimental findings, it is recommended that:
+
+· · ·
+
+The theory of the gel formation should be clarified on a cellular level. The exact structure of the gel is currently unknown and needs to be understood in order to fully explain its rheology. Future work on surfactant part should focus on identifying a surfactant with a similar structure than SDS, but with increased efficiency and reduced cost.
+
+103
+
+Chapter 9
+9.1
+
+Appendices
+Appendix one: Experimental procedure of Brookfield viscometer
+
+1. Connect the Brookfield viscometer (Figure 35) with a laptop used as a data recorder 2. The viscometer is switched on 3. The balance of the viscometer is verified by ensuring that the bubble located behind the viscometer is centred. 4. The rotational speed is set to 12 RPM with no spindle attached 5. Switch on the motor with no spindle attached, and press the auto-zero button to allow the viscometer to zero position the electronics and pointer shaft displacement. 6. Motor was then switched off, placing the viscometer in standby mode. 7. Sample is firstly prepared by pouring 300 ml of milk solution into 600 ml beaker. 8. The guard leg is mounted on the viscometer. Desired spindle was attached onto the lower shaft. Attached spindle with care, refer to Brookfield viscometer operating instruction for more instruction. 9. Position the beaker which contains 300 ml sample milk, lower the spindle and insert the spindle into the milk sample until the lowest place without touching the bottom of the beaker, so that later on the fluids level could reach the immersion groove in the spindles shaft, avoid trapping air bubble in this process. 10. Press the SPDL button to enter the spindle number. Press the CPS button after the two digits are entered. 11. Pour out 300 ml reagent according to the need into the beaker which contains 300 ml sample milk (make sure the fluids level could reach the immersion groove in the spindles shaft before switch on the viscometer).
+
+104
+
+12. The motor is switched on to make viscosity measurement. Time is given for the viscometer to stabilize before results are collected. This depends on the rotational speed and the characteristic of the sample. 13. Use stopwatch to control time delay of the interaction if necessary.
+
+9.2
+
+Appendix two: Experimental procedure of Ubbelohde viscometer
+
+1. Attach the Ubbelohde viscometer (Figure 36) to a clamp stand; make sure it is parallel with the clamp stand pole and is upright the board/ground. 2. Introduce around 6.5 ml milk sample through tube L of the viscometer into the low reservoir of the viscometer. 3. Use a pipette to introduce 6.5 ml reagent into the low reservoir of the viscometer, make sure to introduce enough sample to bring the level between lines G and H. (alterably use a water bath to control the temperature when necessary) 4. Place a finger over tube M and then quickly apply suction to tube N until the liquid reaches the centre of bulb D. Remove suction from tube N. Remove finger from tube M, and immediately place it over tube N until the excess sample drops away from the lower end of the capillary into bulb B. Then remove finger and measure the efflux time. 5. Use a stopwatch to measure the efflux time, allow the liquid sample to flow freely down past mark E, measuring the time for the meniscus to pass from mark E to mark F. 6. Then stop the stopwatch right after the fluid falls to pass through mark F. 7. Record the recording time from the stopwatch, and then calculate the relative viscosity of the sample according to the relative viscosity of distilled water in that day. 8. For the time delay experiments, use another stopwatch to control the time delay of the interaction starting from step 3, then repeat steps 4 to 7.
+
+105
+
+9.3
+
+Appendix three: Some information about Brookfield Viscometer
+
+Brookfield Viscometer measures the torque required to rotate the spindle in milk. The spindle is driven by a synchronous motor through a calibrated spring. The resistance to flow is proportional to the spindles speed of rotation and related to spindle size and shape. For non-Newtonian analysis, cylindrical spindle was selected. The following equations apply to the cylindrical spindle: 2Rc2 Rb2 Shear rate (s ):  = 2 2 X ( Rc - Rb2 )
+-1
+·
+
+(14) (15) (16)
+
+Shear stress (dynes/cm2):  = Viscosity (poise):  =
+
+M 2Rb2 l
+
+ 
+·
+
+Where
+
+ = angular velocity of spindle (rad/sec)* Rc = radius of container (cm) Rb = radius of spindle (cm) X = radius at which shear stress is calculated M = torque input by instrument l = effective length of spindle *=( 2 ) N; N=RPM 60 about Brookfield Viscometer could be found at
+
+More
+
+information
+
+www.brookfieldengineering.com.
+
+106
+
+Chapter 10
+
+References
+
+[1] Fthenakis, G. C. (1995), California Mastitis Test and Whiteside Test in diagnosis of subclinical mastitis of dairy ewes, Small Ruminant Research, 16 (3), 271276. [2] Astermark, S. (1969), The relationship between the California Mastitis Test, Whiteside test, Brabant mastitis reaction, catalase test, and direct cell counting of milk, Acta veterinaria scandinavica, 10 (2), 146-167. [3] Whiteside, W. H. (1939), Observations on a new test for the presence of mastitis in milk, Canadian Public Health Journal, 30, 44. [4] Wu, J. Y., Delwiche, M. J., Cullor, J. and Smith, W. (2005), Deoxyribonucleic Acid Sensor for the Detection of Somatic Cells in Bovine Milk, Biosystems Engineering, 90 (2), 143-151. [5] Whyte, D., Walmsley, M., Liew, A., Claycomb, R. and Mein, G. (2005), Chemical and rheological aspects of gel formation in the California Mastitis Test, Journal of Dairy Research, 72 (1), 115-121. [6] Doublier, J. L. and Lefebvre, J. (1989), Flow properties of fluid food materials, in Singh, R. P. and Medina, A. G. (Ed.), "Food properties and computer-aided engineering of food processing systems", Dordrecht [Netherlands], Boston, pp. 245-269. [7] Goodwin, J. W., Hughes, R. W. (2000), Rheology for chemists: an introduction, Royal Society of Chemistry, Cambridge. [8] Chhabra, R. P. and Richardson, J. F. (1999), Non-Newtonian flow in the process industries: fundamentals and engineering applications, ButterworthHeinemann, Oxford. [9] Singh, R. P. and Heldman, D. R. (1993), Introduction to food engineering, Academic Press, San Diego. [10] Liew, A., Whyte, D., Walmsley, M. and Fee, C. (2004), Online somatic cell count measurement for detection of mastitis [unpublished paper], University of Waikato, Hamilton, New Zealand. [11] Streeter (1961), Handbook of Fluid Dynamics, McGraw-Hill, New York. [12] Li, Z. and Cai, G. (1998), Non-Newtonian fluid mechanics, Shiyou University Press, Dongying, China. [13] Kumar, A. and Gupta, R. K. (1998), Fundamentals of polymers, The McGrawHill, Singapore. [14] Hurley, W. L. (n.d.), Milk Composition, viewed on 2005,http://classes.aces.uiuc.edu/AnSci308/milkcomp.html 1st August
+
+107
+
+[15] Vangroenweghe, F., Dosogne, H. and Burvenich, C. (2002), Composition and milk cell characteristics in quarter milk fractions of dairy cows with low cell count, Veterinary Journal, 164 (3), 254-260. [16] Schalm, O. W., Carroll, E. J. and Jain, N. C. (1971), Bovine Mastitis, Lea and Febiger, Philadelphia. [17] Kitchen, B. J. (1981), Review of the progress of dairy science: Bovine mastitis: milk compositional changes and related diagnostic tests, Journal of Dairy Research 48 (1) 167-188. [18] Singh, B. and Marshall, R. T. (1966), Bacterial deoxyribonuclease production and its possible influence on mastitis detection, Journal of Dairy Science, 49 (7) 822-824. [19] Imanishi, A., Momotani, Y. and Isemura, T. (1965), The Interaction of Detergents with proteins: Effect of detergents on conformation of Bacillus subtilis alpha-amylase and Bence-Jones protein, The Journal of Biochemistry, 57 (3), 417-429. [20] Carroll, E. J. and Schalm, O. W. (1962), Effect of Deoxyribonuclease on the California Mastitis Test for Mastitis, Journal of Dairy Science, 45 1094-1097. [21] Dounce, A. L., O'Connell, M. P. and Monty, K. J. (1957), Action of mitochondrial DNase I in destroying the capacity of isolated gel nuclei to form gels, Journal of Biophysical and Biochemical Cytology, 3 649-661. [22] Nageswarao, G. and Derbyshire, J. B. (1969), Studies on the mechanism of gel formation in the California Mastitis Test reaction, Journal of Dairy Research, 36 359-370. [23] Sarikaya, H., Prgomet, C., Pfaffl, M. W. and Bruckmaier (2004), Differentiation of leukocytes in bovine milk, Milchwissenschaft: Milk science international, 59 (11-12), 586-589. [24] Lee, C., Wooding, F. B. P. and Kemp, P. (1980), Identification, properties, and differential counts of cell populations using electron microscopy of dry cows secretions, colostrum and milk from normal cows, Journal of Dairy Research, 47, 39-50. [25] Thompson, D. I. and Postle, D. S. (1964), The Wisconsin mastitis test - An indirect estimation of leucocytes in milk, Journal of Milk Food Technology, 27 271-275. [26] Dunn, H. O., Murphy, J. M. and Garrett, O. F. (1943), Nature of the material in milk responsible for the modified Whiteside Test for mastitis, Journal of Dairy Science, 26, 295-303. [27] Schalm, O. W. and Noorlander, D. O. (1957), Experiments and observations leading to development of the California Mastitis Test, Journal of the American Veterinary Medical Association, 130 199-204.
+
+108
+
+[28] Rammell, C. G. (n.d.), Observations on a Modified California Mastitis Test on Suppliers' Bulk Milk, New Zealand Journal of Dairy Technology, 74-76. [29] Lodish, H. F. (2003), Molecular cell biology, W.H. Freeman and Company, New York. [30] Nicklin, J., Graeme-Cook, K. and Killington, R. A. (2002), Instant notes microbiology, BIOS Scientific, Abingdon, UK. [31] Alberts, B. (2002), Molecular biology of the cell, Garland Science, New York. [32] Garrett, R. and Grisham, C. M. (2005), Biochemistry, Thomson Brooks/Cole, Belmont, Calif. [33] Scamehorn, J. F., Sabatini, D. A. and Harwell, J. H. (2004), Surfactants, Part I; Fundamentals, in Atwood, J. L. and Steed, J. W. (Ed.), "Encyclopedia of supramolecular chemistry", Marcel Dekker, Inc., New York, pp. 1458~1469. [34] Walmsley, M. R., Whyte, D. S., Liew, A. and Claycomb, R. (2004), Rheological properties of the gel formed in the California Mastitis Test (CMT), [unpublished paper], University of Waikato, Hamilton, New Zealand. [35] Helenius, A. and Simons, K. (1975), Solubilization of membranes by detergents, Biochimica et Biophysica Acta, 415 (1) 29-79. [36] Lefebvre-Cases, E., Gastaldi, E. and Tarodo de la Fuente, B. (1998), Influence of chemical agents on interactions in dairy products: Effect of SDS on casein micelles, Colloids and Surfaces B: Biointerfaces, 11 (6), 281-285. [37] Cheeseman, G. C. (1968), A preliminary study by gel filtration and ultra centrifugation of the interaction of bovine milk caseins with detergents, Journal of Dairy Research, 35 439-450. [38] Straus, N., Ringuette, M. and Wong, B. (n.d.), DNA Isolation, viewed on 31st May 2006, http://bio250y.chass.utoronto.ca/pdfs/L1DNAiso1-summer06.pdf [39] Milne, J. and De Lange, H. (1977), Observations on the California Mastitis Test (CMT) reaction, New Zealand Journal of Dairy Science and Technology, 12 44-47. [40] Dounce, A. L. and Monty, K. J. (1955), Factors influencing the ability of isolated cell nuclei to form gels in dilute alkali, Journal of Biophysical and Biochemical Cytology, 1 (2) 155-160. [41] Christ, W. (1962), The reactive capacity of protein with synthetic detergents as a base for understanding of the California mastitis test, Deutsche Tierarztliche Wochenschrift, 69 108-110. [42] Richardson, G. H., Rodney, J. B., Case, R., Ginn, R. E., Kasandjieff, T. and Norton, R. C. (1982), Collaborative evaluation of rolling ball viscometer for measuring somatic cells in abnormal milk, Association of Official Analytical Chemists, 65 (3), 611-615. 109
+
+[43] Whittlestone, W. and Allen, D. (1966), An automatic viscometer for the measurement of the California mastitis reaction, Australian Journal of Dairy Technology, 21 (4) 138-139. [44] Singh, H., McCarthy, O. J. and Lucey, J. A. (1997), Physico-chemical properties of milk, Advanced dairy chemistry, 3 469-518. [45] Tiu, C. and Boger, D. V. (1983), Rheology and non-Newtonian fluid mechanics, Department of Chemical Engineering, Monash University, Melbourne, Australia. [46] Fell, I., Whittlestone, W. and De Langen, H. (1971), Factors affecting the viscosity method for estimating the somatic cell count of cow's milk, Journal of Milk Food Technology 34 82-84. [47] Smith, J. W. and Schultze, W. D. (1966), The cellular content of cow milk, Journal of Milk Food Technology, 29 84-87. [48] Eisenber, H. (1957), Viscosity of dilute solutions of preparations of deoxyribonucleic acid at low and medium rates of shear, Journal of Polymer Science, 25 (110) 257-271. [49] Robins, A. B. (1964), Non-Newtonian behaviour of dilute DNA solutions, Transactions of the Faraday Society, 60 (4997) 1344-1351. [50] Hermans, J. and Hermans, J. J. (1958), The non-Newtonian behaviour of deoxyribonucleic acid solutions, Physical Chemistry, 61, 324-332. [51] Carre, X. (1970), Effect of leucocytes on the viscosity of milk in the sodium lauryl sulphate test for mastitis, Thesis, Ecole Nationale Veterinaire Lyon. [52] Kiermeier, F. and Keis, K. (1964), Semi-quantitative modification of the Schalm test, Milchwissenschaft: Milk Science international, 19 65-69.
+
+110
+
+
